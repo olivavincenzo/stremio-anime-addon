@@ -4,34 +4,51 @@ import json
 import os
 import requests
 import time
-from difflib import SequenceMatcher
+import re
 
 # URL base
 BASE_URL = "https://www.animeworld.ac"
 UPDATED_URL = f"{BASE_URL}/updated"
 
-# Funzione per cercare l'ID su Cinemeta (IMDb ID)
-def search_cinemeta_id(title):
+# --- FUNZIONE PER CERCARE SU KITSU ---
+def search_kitsu_id(title):
     try:
-        # Puliamo il titolo da eventuali scritte come (ITA) o (SUB ITA) per la ricerca
-        clean_title = title.replace("(ITA)", "").replace("(SUB ITA)", "").strip()
+        # Pulizia del titolo per la ricerca
+        # Rimuoviamo (ITA), (SUB ITA), [Uncensored], ecc.
+        clean_title = re.sub(r'\s*\(.*?\)', '', title)
+        clean_title = re.sub(r'\s*\[.*?\]', '', clean_title).strip()
         
-        # API di Cinemeta per cercare serie
-        url = f"https://v3-cinemeta.strem.io/catalog/series/top.json?search={clean_title}"
-        response = requests.get(url, timeout=5)
+        # API di Kitsu
+        url = "https://kitsu.io/api/edge/anime"
+        params = {
+            "filter[text]": clean_title,
+            "page[limit]": 1  # Ci basta il primo risultato
+        }
+        
+        # User agent per non essere bloccati
+        headers = {
+            "Accept": "application/vnd.api+json",
+            "Content-Type": "application/vnd.api+json"
+        }
+        
+        response = requests.get(url, params=params, headers=headers, timeout=5)
         
         if response.status_code == 200:
             data = response.json()
-            metas = data.get('metas', [])
-            
-            if metas:
-                # Restituisce l'ID del primo risultato (il più probabile)
-                # Es. "tt1234567"
-                found_id = metas[0]['id']
-                print(f"   MATCH: {clean_title} -> {found_id}")
-                return found_id, metas[0]['poster']
+            if data['data']:
+                anime = data['data'][0]
+                kitsu_id = anime['id']
+                
+                # Cerchiamo l'immagine poster
+                attributes = anime.get('attributes', {})
+                poster_img = attributes.get('posterImage', {})
+                # Kitsu ha varie dimensioni, prendiamo 'small' o 'medium' o 'original'
+                poster = poster_img.get('small') or poster_img.get('original')
+                
+                print(f"   MATCH KITSU: {clean_title} -> ID: {kitsu_id}")
+                return f"kitsu:{kitsu_id}", poster
     except Exception as e:
-        print(f"   Errore ricerca Cinemeta: {e}")
+        print(f"   Errore ricerca Kitsu per '{title}': {e}")
     
     return None, None
 
@@ -48,8 +65,9 @@ def scrape_anime_updated():
         items = soup.select('.film-list .item')
         
         stremio_metas = []
+        seen_ids = set() # Per evitare duplicati
 
-        print(f"Trovati {len(items)} elementi. Cerco gli ID corretti (può richiedere tempo)...")
+        print(f"Trovati {len(items)} elementi. Cerco gli ID su Kitsu...")
 
         for item in items:
             try:
@@ -61,40 +79,41 @@ def scrape_anime_updated():
                 ep_tag = item.select_one('.ep')
                 episode = ep_tag.get_text(strip=True) if ep_tag else ""
                 
-                # Immagine originale (fallback)
+                # Fallback immagine originale
                 img_tag = item.select_one('img')
                 original_poster = img_tag['src'] if img_tag else ""
 
-                # --- STEP CRUCIALE: TROVARE L'ID COMPATIBILE CON TORRENTIO ---
-                real_id, cinemeta_poster = search_cinemeta_id(title)
+                # --- RICERCA SU KITSU ---
+                kitsu_id, kitsu_poster = search_kitsu_id(title)
 
-                # Se non troviamo l'ID IMDb, saltiamo l'anime (o Torrentio non funzionerebbe comunque)
-                # Oppure potremmo usare un ID finto, ma non avrebbe stream.
-                if not real_id:
-                    print(f"   SKIP: Nessun ID trovato per '{title}'")
+                if not kitsu_id:
+                    print(f"   SKIP: Nessun ID Kitsu trovato per '{title}'")
                     continue
                 
-                # Usiamo il poster di Cinemeta se c'è (è di qualità migliore), altrimenti quello di AW
-                final_poster = cinemeta_poster if cinemeta_poster else original_poster
+                # Evitiamo duplicati (es. se AW mette ep 11 e ep 12 dello stesso anime)
+                if kitsu_id in seen_ids:
+                    continue
+                seen_ids.add(kitsu_id)
+
+                # Usiamo il poster di Kitsu se disponibile, è più "pulito"
+                final_poster = kitsu_poster if kitsu_poster else original_poster
 
                 meta = {
-                    "id": real_id,  # Ora è un ID tipo 'tt12345'
-                    "type": "series",
+                    "id": kitsu_id,       # Esempio: "kitsu:12345"
+                    "type": "series",     # Kitsu gestisce quasi tutto come series o movie
                     "name": title,
                     "poster": final_poster,
                     "description": f"Nuovo episodio: {episode} su AnimeWorld.",
                     "posterShape": "poster",
                 }
                 
-                # Controllo duplicati (a volte AW mette lo stesso anime due volte)
-                if not any(m['id'] == real_id for m in stremio_metas):
-                    stremio_metas.append(meta)
+                stremio_metas.append(meta)
                 
-                # Pausa per non intasare le API
-                time.sleep(0.2) 
+                # Importante: Kitsu ha rate limit, facciamo una piccola pausa
+                time.sleep(0.3)
 
             except Exception as e:
-                print(f"Errore: {e}")
+                print(f"Errore elemento: {e}")
                 continue
 
         return stremio_metas
@@ -105,19 +124,17 @@ def scrape_anime_updated():
 
 def generate_stremio_files(metas):
     # 1. MANIFEST
-    # Nota: Rimuoviamo 'meta' dalle resources perché ora usiamo ID standard (tt...),
-    # quindi Stremio userà i metadati di Cinemeta automaticamente!
     manifest = {
-        "id": "community.animeworld.updated",
-        "version": "1.0.2",
-        "name": "AnimeWorld Novità",
-        "description": "Lista ultimi episodi. Compatibile con Torrentio.",
+        "id": "community.animeworld.kitsu.updated",
+        "version": "1.0.3",
+        "name": "AnimeWorld Novità (Kitsu)",
+        "description": "Ultimi episodi usando metadati Kitsu (compatibile con Torrentio)",
         "resources": ["catalog"], 
-        "types": ["series", "movie"],
+        "types": ["series", "movie", "anime"], # Aggiungiamo 'anime' per sicurezza
         "catalogs": [
             {
                 "type": "series",
-                "id": "animeworld_updated",
+                "id": "animeworld_kitsu_updated",
                 "name": "AnimeWorld Novità",
                 "extra": [{"name": "search", "isRequired": False}]
             }
@@ -134,7 +151,7 @@ def generate_stremio_files(metas):
 
     catalog_data = {"metas": metas}
 
-    with open(f"{output_dir}/animeworld_updated.json", "w", encoding="utf-8") as f:
+    with open(f"{output_dir}/animeworld_kitsu_updated.json", "w", encoding="utf-8") as f:
         json.dump(catalog_data, f, indent=4)
     print(f"✅ Catalogo generato con {len(metas)} anime.")
 

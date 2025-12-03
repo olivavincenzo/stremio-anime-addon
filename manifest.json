@@ -1,19 +1,20 @@
 {
-    "id": "community.animeworld.updated",
-    "version": "1.0.2",
-    "name": "AnimeWorld Novit\u00e0",
-    "description": "Lista ultimi episodi. Compatibile con Torrentio.",
+    "id": "community.animeworld.kitsu.updated",
+    "version": "1.0.3",
+    "name": "AnimeWorld Novit\u00e0 (Kitsu)",
+    "description": "Ultimi episodi usando metadati Kitsu (compatibile con Torrentio)",
     "resources": [
         "catalog"
     ],
     "types": [
         "series",
-        "movie"
+        "movie",
+        "anime"
     ],
     "catalogs": [
         {
             "type": "series",
-            "id": "animeworld_updated",
+            "id": "animeworld_kitsu_updated",
             "name": "AnimeWorld Novit\u00e0",
             "extra": [
                 {
