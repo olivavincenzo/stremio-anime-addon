@@ -1,6 +1,38 @@
 {
     "metas": [
         {
+            "id": "kitsu:47613",
+            "type": "series",
+            "name": "Dragon Raja 2 -The Mourner's Eyes- (JAP)",
+            "poster": "https://media.kitsu.app/anime/47613/poster_image/small-47f9af5998105e203dbda7df378b90ed.jpeg",
+            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:3833",
+            "type": "series",
+            "name": "Let's Play",
+            "poster": "https://media.kitsu.app/anime/poster_images/3833/small.jpg",
+            "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:48546",
+            "type": "series",
+            "name": "The Dark History of the Reincarnated Villainess",
+            "poster": "https://media.kitsu.app/anime/48546/poster_image/small-bed60cd0e789863a6be4cdb1893e1f44.jpeg",
+            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:49145",
+            "type": "series",
+            "name": "Wandance",
+            "poster": "https://media.kitsu.app/anime/49145/poster_image/small-e29be197e05bb6026d31dca8047930e9.jpeg",
+            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
             "id": "kitsu:40580",
             "type": "series",
             "name": "Kakuriyo: Bed and Breakfast for Spirits 2",
@@ -20,7 +52,7 @@
             "id": "kitsu:45320",
             "type": "series",
             "name": "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
-            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45320/poster_image/74dcfcaaa2227936167924a368541c59.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251203%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251203T162227Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=6b10a521440fb12d18b4f8f4abf35738ec40b91970f7a6dc63a89698172d1505",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45320/poster_image/74dcfcaaa2227936167924a368541c59.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251203%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251203T230134Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=f2d615246bcf63b35e592972422f2532df888665c9003f331d8841d3c6932953",
             "description": "Nuovo episodio: Ep 6 su AnimeWorld.",
             "posterShape": "poster"
         },
@@ -52,7 +84,7 @@
             "id": "kitsu:49928",
             "type": "series",
             "name": "Yano-kun's Ordinary Days",
-            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49928/poster_image/253fd8bb9520c7d9eac8429ce4be351f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251203%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251203T162230Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=611aea29819cb8c9b797824e9fd53a96dfa389965b1206ec8bdaabe868ea2c99",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49928/poster_image/253fd8bb9520c7d9eac8429ce4be351f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251203%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251203T230136Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=d67e4964199fad5f477b7c2f3944361c382e4428cee2d38a7773c319fd049dd1",
             "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
             "posterShape": "poster"
         },
@@ -261,38 +293,6 @@
             "type": "series",
             "name": "SI-VIS: The Sound of Heroes",
             "poster": "https://media.kitsu.app/anime/50203/poster_image/small-9a243498522d39a8aaeb3927499386e1.jpeg",
-            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:47161",
-            "type": "series",
-            "name": "To Your Eternity 3 (ITA)",
-            "poster": "https://media.kitsu.app/anime/47161/poster_image/small-e6461dac6e1d4e792bc444af9d84293e.jpeg",
-            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:48939",
-            "type": "series",
-            "name": "Spy x Family 3 (ITA)",
-            "poster": "https://media.kitsu.app/anime/48939/poster_image/small-8ef0f2fdbff8da9e0fd125a322142860.jpeg",
-            "description": "Nuovo episodio: Ep 6 su AnimeWorld.",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:49279",
-            "type": "series",
-            "name": "Boku no Hero Academia: Final Season (ITA)",
-            "poster": "https://media.kitsu.app/anime/49279/poster_image/small-cbfc6d95bc4b27aec0b3d958da23a40b.jpeg",
-            "description": "Nuovo episodio: Ep 6 su AnimeWorld.",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:49861",
-            "type": "series",
-            "name": "Kingdom 6",
-            "poster": "https://media.kitsu.app/anime/49861/poster_image/small-90e97c2ac08fb13623035836b14d43b2.jpeg",
             "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
             "posterShape": "poster"
         }
