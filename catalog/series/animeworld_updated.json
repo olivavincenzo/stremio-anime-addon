@@ -1,11 +1,299 @@
 {
     "metas": [
         {
-            "id": "tt4574334",
+            "id": "kitsu:40580",
             "type": "series",
             "name": "Kakuriyo: Bed and Breakfast for Spirits 2",
-            "poster": "https://images.metahub.space/poster/small/tt4574334/img",
+            "poster": "https://media.kitsu.app/anime/poster_images/40580/small.jpg",
             "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:49607",
+            "type": "series",
+            "name": "Hero Without a Class: Who Even Needs Skills?!",
+            "poster": "https://media.kitsu.app/anime/49607/poster_image/small-535fe76098bdb5ff09979c63bbb71cdf.jpeg",
+            "description": "Nuovo episodio: Ep 11 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:45320",
+            "type": "series",
+            "name": "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45320/poster_image/74dcfcaaa2227936167924a368541c59.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251203%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251203T161108Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=04113dfc7fed1b15ddec1c92c68de33159d02944fad975d0f7a94828ac4329d8",
+            "description": "Nuovo episodio: Ep 6 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:48464",
+            "type": "series",
+            "name": "Himitsu no AiPri: Ring-hen",
+            "poster": "https://media.kitsu.app/anime/48464/poster_image/small-af52d9e4a000224a1100f53612dd3eb3.jpeg",
+            "description": "Nuovo episodio: Ep 34 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:9962",
+            "type": "series",
+            "name": "DanMachi 5 (ITA)",
+            "poster": "https://media.kitsu.app/anime/poster_images/9962/small.jpg",
+            "description": "Nuovo episodio: Ep 6 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:49377",
+            "type": "series",
+            "name": "You and Idol Precure \u266a",
+            "poster": "https://media.kitsu.app/anime/49377/poster_image/small-80bf8f8dfd403dbcee1dc72de6aebd97.jpeg",
+            "description": "Nuovo episodio: Ep 42 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:49928",
+            "type": "series",
+            "name": "Yano-kun's Ordinary Days",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49928/poster_image/253fd8bb9520c7d9eac8429ce4be351f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251203%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251203T161111Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=d5e0fc70f7e617980dc63ce6acef765cc86aa05d3feb9ed4ec512e92bb492858",
+            "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:48924",
+            "type": "series",
+            "name": "Ninja vs. Gokudo (ITA)",
+            "poster": "https://media.kitsu.app/anime/48924/poster_image/small-dfd67e178d59245bccbdb0cfbfc76468.jpeg",
+            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:49122",
+            "type": "series",
+            "name": "Chitose Is in the Ramune Bottle",
+            "poster": "https://media.kitsu.app/anime/49122/poster_image/small-faa59a53b40880faf8f14b0fb1b4948b.jpeg",
+            "description": "Nuovo episodio: Ep 6 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:48190",
+            "type": "series",
+            "name": "Campfire Cooking in Another World with my Absurd Skills 2",
+            "poster": "https://media.kitsu.app/anime/48190/poster_image/small-d5cd06fa90bde84c2c7e0f157e8fc236.jpeg",
+            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:49496",
+            "type": "series",
+            "name": "With You, Our Love Will Make It Through",
+            "poster": "https://media.kitsu.app/anime/49496/poster_image/small-99782f9665f67835ed32bf2d1f0c5536.jpeg",
+            "description": "Nuovo episodio: Ep 8 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:13892",
+            "type": "series",
+            "name": "Anna dai capelli rossi (2025) (ITA)",
+            "poster": "https://media.kitsu.app/anime/poster_images/13892/small.jpg",
+            "description": "Nuovo episodio: Ep 2 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:50006",
+            "type": "series",
+            "name": "Uma Musume: Cinderella Gray Part 2",
+            "poster": "https://media.kitsu.app/anime/50006/poster_image/small-68c6c4c8790e4f803d1e508eff14e499.jpeg",
+            "description": "Nuovo episodio: Ep 7 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:42343",
+            "type": "series",
+            "name": "Hands off: Sawaranaide Kotesashi-kun",
+            "poster": "https://media.kitsu.app/anime/poster_images/42343/small.jpg",
+            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:49567",
+            "type": "series",
+            "name": "My Status as an Assassin Obviously Exceeds the Hero's",
+            "poster": "https://media.kitsu.app/anime/49567/poster_image/small-6c9a9b407eb37c34976878205472d6cd.jpeg",
+            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:47198",
+            "type": "series",
+            "name": "Gintama: Mr. Ginpachi's Zany Class",
+            "poster": "https://media.kitsu.app/anime/47198/poster_image/small-98d93aee02be14a14ca3449c81d5d6b5.jpeg",
+            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:49927",
+            "type": "series",
+            "name": "A Gatherer's Adventure in Isekai",
+            "poster": "https://media.kitsu.app/anime/49927/poster_image/small-bfc69111ca6897b2594bdf5289ac24b9.jpeg",
+            "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:48237",
+            "type": "series",
+            "name": "Plus-sized Misadventures in Love!",
+            "poster": "https://media.kitsu.app/anime/48237/poster_image/small-c8e6e7603e9ab1475879788465ee429f.jpeg",
+            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:43114",
+            "type": "series",
+            "name": "Isekai Quartet 3",
+            "poster": "https://media.kitsu.app/anime/43114/poster_image/small-2029f493439249fb603654b3543d261e.jpeg",
+            "description": "Nuovo episodio: Ep 8 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:48433",
+            "type": "series",
+            "name": "A Mangaka's Weirdly Wonderful Workplace",
+            "poster": "https://media.kitsu.app/anime/48433/poster_image/small-674088c22b836ad9676b723ab851189b.jpeg",
+            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:11890",
+            "type": "series",
+            "name": "Kuroko no Basket 2 (ITA)",
+            "poster": "https://media.kitsu.app/anime/poster_images/11890/small.jpg",
+            "description": "Nuovo episodio: Ep 7 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:46360",
+            "type": "series",
+            "name": "One Punch Man 3 (ITA)",
+            "poster": "https://media.kitsu.app/anime/46360/poster_image/small-216f8ed2678a9ad510adb33434a8758c.jpeg",
+            "description": "Nuovo episodio: Ep 5 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:12",
+            "type": "series",
+            "name": "One Piece",
+            "poster": "https://media.kitsu.app/anime/poster_images/12/small.jpg",
+            "description": "Nuovo episodio: Ep 1151 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:50186",
+            "type": "series",
+            "name": "The Fated Magical Princess: Who Made Me a Princess",
+            "poster": "https://media.kitsu.app/anime/50186/poster_image/small-cc08b42de8eeff076ae266fdcc8957e8.jpeg",
+            "description": "Nuovo episodio: Ep 12 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:48946",
+            "type": "series",
+            "name": "Gachiakuta (ITA)",
+            "poster": "https://media.kitsu.app/anime/48946/poster_image/small-5c66f9ae20e866fd4d3a3dbb4f0527ad.jpeg",
+            "description": "Nuovo episodio: Ep 18 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:48448",
+            "type": "series",
+            "name": "Dad is a Hero, Mom is a Spirit, I'm a Reincarnator",
+            "poster": "https://media.kitsu.app/anime/48448/poster_image/small-026b6e7ce7f49555dcecaca1d58d8709.jpeg",
+            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:50194",
+            "type": "series",
+            "name": "Alma-chan Wants to Be a Family!",
+            "poster": "https://media.kitsu.app/anime/50194/poster_image/small-f2b190b67351586c9aba9126120e88d7.jpeg",
+            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:40804",
+            "type": "series",
+            "name": "Li'l Miss Vampire Can't Suck Right",
+            "poster": "https://media.kitsu.app/anime/poster_images/40804/small.jpg",
+            "description": "Nuovo episodio: Ep 8 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:49120",
+            "type": "series",
+            "name": "Mechanical Marie",
+            "poster": "https://media.kitsu.app/anime/49120/poster_image/small-adb53f5fe5f21bdbe176202add0d2b32.jpeg",
+            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:49700",
+            "type": "series",
+            "name": "Digimon Beatbreak",
+            "poster": "https://media.kitsu.app/anime/49700/poster_image/small-9081595488c42e7fad7a3fac3083ec0f.jpeg",
+            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:48070",
+            "type": "series",
+            "name": "Ao no Orchestra 2",
+            "poster": "https://media.kitsu.app/anime/48070/poster_image/small-2ed4c7e1f059cfe64ac7cb1232bf7db1.jpeg",
+            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:48057",
+            "type": "series",
+            "name": "Xing Chen Bian 6",
+            "poster": "https://media.kitsu.app/anime/48057/poster_image/small-14a7e236dfffc2401b86ef3a38222be7.jpeg",
+            "description": "Nuovo episodio: Ep 18 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:50203",
+            "type": "series",
+            "name": "SI-VIS: The Sound of Heroes",
+            "poster": "https://media.kitsu.app/anime/50203/poster_image/small-9a243498522d39a8aaeb3927499386e1.jpeg",
+            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:47161",
+            "type": "series",
+            "name": "To Your Eternity 3 (ITA)",
+            "poster": "https://media.kitsu.app/anime/47161/poster_image/small-e6461dac6e1d4e792bc444af9d84293e.jpeg",
+            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:48939",
+            "type": "series",
+            "name": "Spy x Family 3 (ITA)",
+            "poster": "https://media.kitsu.app/anime/48939/poster_image/small-8ef0f2fdbff8da9e0fd125a322142860.jpeg",
+            "description": "Nuovo episodio: Ep 6 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:49279",
+            "type": "series",
+            "name": "Boku no Hero Academia: Final Season (ITA)",
+            "poster": "https://media.kitsu.app/anime/49279/poster_image/small-cbfc6d95bc4b27aec0b3d958da23a40b.jpeg",
+            "description": "Nuovo episodio: Ep 6 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:49861",
+            "type": "series",
+            "name": "Kingdom 6",
+            "poster": "https://media.kitsu.app/anime/49861/poster_image/small-90e97c2ac08fb13623035836b14d43b2.jpeg",
+            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
             "posterShape": "poster"
         }
     ]
