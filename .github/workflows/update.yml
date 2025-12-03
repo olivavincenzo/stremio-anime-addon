@@ -1,33 +1,50 @@
-name: Aggiorna Catalogo
+name: Aggiorna Catalogo Stremio
 
 on:
+  # Esegue l'azione automaticamente ogni 30 minuti
   schedule:
-    - cron: '*/5 * * * *'
-  workflow_dispatch: # Permette di avviarlo a mano se serve
+    - cron: '*/30 * * * *'
+  
+  # Permette di avviare l'azione manualmente dal tab "Actions"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # Questi permessi servono per poter fare il "push" delle modifiche
+    permissions:
+      contents: write
+
     steps:
+      # 1. Scarica il codice del tuo repository
       - name: Checkout del codice
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
+      # 2. Prepara l'ambiente Python
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.10' 
 
+      # 3. Installa le librerie necessarie (incluso cloudscraper)
       - name: Installa librerie
         run: |
-          pip install requests beautifulsoup4 # le tue librerie
+          python -m pip install --upgrade pip
+          pip install cloudscraper
+          # Se il tuo script usa anche 'requests' o 'beautifulsoup4', aggiungili qui sotto:
+          # pip install requests beautifulsoup4
 
+      # 4. Esegue il tuo script Python
       - name: Esegui lo scraper
-        run: python builder.py # Il file che genera il JSON
+        run: python builder.py
 
+      # 5. Salva i cambiamenti (il nuovo JSON) e li carica su GitHub
       - name: Commit e Push dei nuovi dati
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git add .
-          git commit -m "Aggiornamento automatico catalogo"
+          # Il comando sotto prova a fare commit, se non ci sono modifiche non dà errore
+          git commit -m "Aggiornamento automatico catalogo" || echo "Nessuna modifica da salvare"
           git push
