@@ -1,0 +1,30 @@
+{
+    "id": "community.animeworld.updated",
+    "version": "1.0.0",
+    "name": "AnimeWorld Updated",
+    "description": "Gli ultimi episodi usciti su AnimeWorld",
+    "resources": [
+        "catalog",
+        "meta"
+    ],
+    "types": [
+        "series",
+        "movie"
+    ],
+    "catalogs": [
+        {
+            "type": "series",
+            "id": "animeworld_updated",
+            "name": "AnimeWorld Novit\u00e0",
+            "extra": [
+                {
+                    "name": "search",
+                    "isRequired": false
+                }
+            ]
+        }
+    ],
+    "idPrefixes": [
+        "aw_"
+    ]
+}
