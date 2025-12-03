@@ -1,26 +1,39 @@
 import cloudscraper
 from bs4 import BeautifulSoup
 import json
-import re
 import os
+import requests
 import time
+from difflib import SequenceMatcher
 
-# Configurazione URL base
+# URL base
 BASE_URL = "https://www.animeworld.ac"
 UPDATED_URL = f"{BASE_URL}/updated"
 
-def get_id_from_link(link):
-    """
-    Estrae l'ID univoco dal link di AnimeWorld.
-    Esempio: /play/nome-anime.1234/ep-1 -> aw_1234
-    """
+# Funzione per cercare l'ID su Cinemeta (IMDb ID)
+def search_cinemeta_id(title):
     try:
-        match = re.search(r'\.([a-zA-Z0-9]+)/', link)
-        if match:
-            return f"aw_{match.group(1)}"
-        return f"aw_{hash(link)}"
-    except:
-        return f"aw_{hash(link)}"
+        # Puliamo il titolo da eventuali scritte come (ITA) o (SUB ITA) per la ricerca
+        clean_title = title.replace("(ITA)", "").replace("(SUB ITA)", "").strip()
+        
+        # API di Cinemeta per cercare serie
+        url = f"https://v3-cinemeta.strem.io/catalog/series/top.json?search={clean_title}"
+        response = requests.get(url, timeout=5)
+        
+        if response.status_code == 200:
+            data = response.json()
+            metas = data.get('metas', [])
+            
+            if metas:
+                # Restituisce l'ID del primo risultato (il più probabile)
+                # Es. "tt1234567"
+                found_id = metas[0]['id']
+                print(f"   MATCH: {clean_title} -> {found_id}")
+                return found_id, metas[0]['poster']
+    except Exception as e:
+        print(f"   Errore ricerca Cinemeta: {e}")
+    
+    return None, None
 
 def scrape_anime_updated():
     print("Inizio scraping da AnimeWorld...")
@@ -29,7 +42,6 @@ def scrape_anime_updated():
     try:
         response = scraper.get(UPDATED_URL)
         if response.status_code != 200:
-            print(f"Errore connessione: {response.status_code}")
             return []
 
         soup = BeautifulSoup(response.text, 'html.parser')
@@ -37,41 +49,52 @@ def scrape_anime_updated():
         
         stremio_metas = []
 
+        print(f"Trovati {len(items)} elementi. Cerco gli ID corretti (può richiedere tempo)...")
+
         for item in items:
             try:
-                # Dati base
+                # Titolo
                 title_tag = item.select_one('.name')
                 title = title_tag.get_text(strip=True) if title_tag else "Sconosciuto"
                 
+                # Episodio
                 ep_tag = item.select_one('.ep')
                 episode = ep_tag.get_text(strip=True) if ep_tag else ""
                 
-                link_tag = item.select_one('a')
-                url_path = link_tag['href'] if link_tag else ""
-                
+                # Immagine originale (fallback)
                 img_tag = item.select_one('img')
-                poster = img_tag['src'] if img_tag else ""
-                
-                stremio_id = get_id_from_link(url_path)
+                original_poster = img_tag['src'] if img_tag else ""
 
-                # Creiamo l'oggetto Meta
-                # Nota: Per un addon statico veloce, usiamo gli stessi dati per preview e dettagli.
-                # Per avere descrizioni lunghe bisognerebbe entrare in ogni link (lento).
+                # --- STEP CRUCIALE: TROVARE L'ID COMPATIBILE CON TORRENTIO ---
+                real_id, cinemeta_poster = search_cinemeta_id(title)
+
+                # Se non troviamo l'ID IMDb, saltiamo l'anime (o Torrentio non funzionerebbe comunque)
+                # Oppure potremmo usare un ID finto, ma non avrebbe stream.
+                if not real_id:
+                    print(f"   SKIP: Nessun ID trovato per '{title}'")
+                    continue
+                
+                # Usiamo il poster di Cinemeta se c'è (è di qualità migliore), altrimenti quello di AW
+                final_poster = cinemeta_poster if cinemeta_poster else original_poster
+
                 meta = {
-                    "id": stremio_id,
+                    "id": real_id,  # Ora è un ID tipo 'tt12345'
                     "type": "series",
                     "name": title,
-                    "poster": poster,
-                    "description": f"Ultimo episodio rilasciato: {episode}.\n\nDisponibile su AnimeWorld.",
+                    "poster": final_poster,
+                    "description": f"Nuovo episodio: {episode} su AnimeWorld.",
                     "posterShape": "poster",
-                    # Aggiungiamo un background generico o lo stesso poster se manca
-                    "background": poster 
                 }
                 
-                stremio_metas.append(meta)
+                # Controllo duplicati (a volte AW mette lo stesso anime due volte)
+                if not any(m['id'] == real_id for m in stremio_metas):
+                    stremio_metas.append(meta)
+                
+                # Pausa per non intasare le API
+                time.sleep(0.2) 
 
             except Exception as e:
-                print(f"Errore parsing elemento: {e}")
+                print(f"Errore: {e}")
                 continue
 
         return stremio_metas
@@ -81,13 +104,15 @@ def scrape_anime_updated():
         return []
 
 def generate_stremio_files(metas):
-    # 1. Genera MANIFEST.JSON
+    # 1. MANIFEST
+    # Nota: Rimuoviamo 'meta' dalle resources perché ora usiamo ID standard (tt...),
+    # quindi Stremio userà i metadati di Cinemeta automaticamente!
     manifest = {
         "id": "community.animeworld.updated",
-        "version": "1.0.1",
-        "name": "AnimeWorld Updated",
-        "description": "Gli ultimi episodi usciti su AnimeWorld",
-        "resources": ["catalog", "meta"], # 'meta' è fondamentale qui
+        "version": "1.0.2",
+        "name": "AnimeWorld Novità",
+        "description": "Lista ultimi episodi. Compatibile con Torrentio.",
+        "resources": ["catalog"], 
         "types": ["series", "movie"],
         "catalogs": [
             {
@@ -96,49 +121,27 @@ def generate_stremio_files(metas):
                 "name": "AnimeWorld Novità",
                 "extra": [{"name": "search", "isRequired": False}]
             }
-        ],
-        "idPrefixes": ["aw_"]
+        ]
     }
 
     with open("manifest.json", "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=4)
     print("✅ manifest.json generato.")
 
-    # 2. Genera CATALOGO
-    # Percorso: catalog/series/animeworld_updated.json
-    cat_dir = "catalog/series"
-    os.makedirs(cat_dir, exist_ok=True)
+    # 2. CATALOGO
+    output_dir = "catalog/series"
+    os.makedirs(output_dir, exist_ok=True)
 
-    catalog_data = {"metas": metas} # Nel catalogo mettiamo la lista completa
+    catalog_data = {"metas": metas}
 
-    with open(f"{cat_dir}/animeworld_updated.json", "w", encoding="utf-8") as f:
+    with open(f"{output_dir}/animeworld_updated.json", "w", encoding="utf-8") as f:
         json.dump(catalog_data, f, indent=4)
-    print(f"✅ Catalogo salvato in {cat_dir}/animeworld_updated.json")
-
-    # 3. Genera META (Dettagli per ogni singolo anime)
-    # Percorso: meta/series/ID.json
-    meta_dir = "meta/series"
-    os.makedirs(meta_dir, exist_ok=True)
-
-    print(f"Generazione {len(metas)} file di metadati individuali...")
-    
-    for meta in metas:
-        # Stremio si aspetta un oggetto con chiave "meta" che contiene i dettagli
-        meta_file_content = {"meta": meta}
-        
-        file_name = f"{meta['id']}.json"
-        file_path = os.path.join(meta_dir, file_name)
-        
-        with open(file_path, "w", encoding="utf-8") as f:
-            json.dump(meta_file_content, f, indent=4)
-            
-    print(f"✅ File metadati salvati in {meta_dir}/")
+    print(f"✅ Catalogo generato con {len(metas)} anime.")
 
 if __name__ == "__main__":
     anime_data = scrape_anime_updated()
     
     if anime_data:
-        print(f"Trovati {len(anime_data)} anime. Inizio generazione file...")
         generate_stremio_files(anime_data)
     else:
         print("Nessun dato trovato.")

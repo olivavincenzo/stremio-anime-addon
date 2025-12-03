@@ -1,11 +1,10 @@
 {
     "id": "community.animeworld.updated",
-    "version": "1.0.1",
-    "name": "AnimeWorld Updated",
-    "description": "Gli ultimi episodi usciti su AnimeWorld",
+    "version": "1.0.2",
+    "name": "AnimeWorld Novit\u00e0",
+    "description": "Lista ultimi episodi. Compatibile con Torrentio.",
     "resources": [
-        "catalog",
-        "meta"
+        "catalog"
     ],
     "types": [
         "series",
@@ -23,8 +22,5 @@
                 }
             ]
         }
-    ],
-    "idPrefixes": [
-        "aw_"
     ]
 }
