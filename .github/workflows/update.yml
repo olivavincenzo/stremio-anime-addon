@@ -1,0 +1,33 @@
+name: Aggiorna Catalogo
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # Permette di avviarlo a mano se serve
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del codice
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Installa librerie
+        run: |
+          pip install requests beautifulsoup4 # le tue librerie
+
+      - name: Esegui lo scraper
+        run: python builder.py # Il file che genera il JSON
+
+      - name: Commit e Push dei nuovi dati
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add .
+          git commit -m "Aggiornamento automatico catalogo"
+          git push
