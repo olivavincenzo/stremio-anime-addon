@@ -1,6 +1,14 @@
 {
     "metas": [
         {
+            "id": "kitsu:48947",
+            "type": "series",
+            "name": "Flower and Asura",
+            "poster": "https://media.kitsu.app/anime/48947/poster_image/small-cf1db2ba218ac8449ffa7f99e51bdfe5.jpeg",
+            "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
             "id": "kitsu:47613",
             "type": "series",
             "name": "Dragon Raja 2 -The Mourner's Eyes- (JAP)",
@@ -52,7 +60,7 @@
             "id": "kitsu:45320",
             "type": "series",
             "name": "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
-            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45320/poster_image/74dcfcaaa2227936167924a368541c59.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251203%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251203T234113Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=acb4689164d973762b44e7647381d3d3030f4c3ecd633dbde3c836db04854ea1",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45320/poster_image/74dcfcaaa2227936167924a368541c59.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251204%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251204T020049Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=749004a09860fda852f1f56aa1f8bcbce5a7fb9ba7fdf2a28ab31c2f1f71aee9",
             "description": "Nuovo episodio: Ep 6 su AnimeWorld.",
             "posterShape": "poster"
         },
@@ -84,7 +92,7 @@
             "id": "kitsu:49928",
             "type": "series",
             "name": "Yano-kun's Ordinary Days",
-            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49928/poster_image/253fd8bb9520c7d9eac8429ce4be351f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251203%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251203T234115Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=5cacf50affb2b12a63ba7958622808a8f1dd009c9b78b90d793d2fcb2e276465",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49928/poster_image/253fd8bb9520c7d9eac8429ce4be351f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251204%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251204T020051Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=7ef946c6015c6263230af432a5eda0d4a3cbd8a3fc65d93296b431e2699bd124",
             "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
             "posterShape": "poster"
         },
@@ -286,14 +294,6 @@
             "name": "Xing Chen Bian 6",
             "poster": "https://media.kitsu.app/anime/48057/poster_image/small-14a7e236dfffc2401b86ef3a38222be7.jpeg",
             "description": "Nuovo episodio: Ep 18 su AnimeWorld.",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:50203",
-            "type": "series",
-            "name": "SI-VIS: The Sound of Heroes",
-            "poster": "https://media.kitsu.app/anime/50203/poster_image/small-9a243498522d39a8aaeb3927499386e1.jpeg",
-            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
             "posterShape": "poster"
         }
     ]
