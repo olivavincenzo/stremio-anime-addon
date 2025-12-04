@@ -19,6 +19,8 @@ def search_kitsu_id(title):
         clean_title = re.sub(r'\s*\[.*?\]', '', clean_title).strip()
         
         # API di Kitsu
+        # https://kitsu.app/api/edge/anime?filter%5Btext%5D=DragonRaja2&page%5Blimit%5D=1
+        print(f"   Cerco ID Kitsu per '{clean_title}'")
         url = "https://kitsu.io/api/edge/anime"
         params = {
             "filter[text]": clean_title,
@@ -73,7 +75,10 @@ def scrape_anime_updated():
             try:
                 # Titolo
                 title_tag = item.select_one('.name')
-                title = title_tag.get_text(strip=True) if title_tag else "Sconosciuto"
+                english_title = title_tag.get_text(strip=True) if title_tag else "Sconosciuto"
+                japanese_title = title_tag.get("data-jtitle") if title_tag else None
+
+                
                 
                 # Episodio
                 ep_tag = item.select_one('.ep')
@@ -84,10 +89,11 @@ def scrape_anime_updated():
                 original_poster = img_tag['src'] if img_tag else ""
 
                 # --- RICERCA SU KITSU ---
-                kitsu_id, kitsu_poster = search_kitsu_id(title)
+                search_title = japanese_title if japanese_title else english_title
+                kitsu_id, kitsu_poster = search_kitsu_id(search_title)
 
                 if not kitsu_id:
-                    print(f"   SKIP: Nessun ID Kitsu trovato per '{title}'")
+                    print(f"   SKIP: Nessun ID Kitsu trovato per '{search_title}'")
                     continue
                 
                 # Evitiamo duplicati (es. se AW mette ep 11 e ep 12 dello stesso anime)
@@ -101,7 +107,7 @@ def scrape_anime_updated():
                 meta = {
                     "id": kitsu_id,       # Esempio: "kitsu:12345"
                     "type": "series",     # Kitsu gestisce quasi tutto come series o movie
-                    "name": title,
+                    "name": search_title,
                     "poster": final_poster,
                     "description": f"Nuovo episodio: {episode} su AnimeWorld.",
                     "posterShape": "poster",
