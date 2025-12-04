@@ -1,6 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:50196",
+            "type": "series",
+            "name": "Potion, Wagami wo Tasukeru",
+            "poster": "https://media.kitsu.app/anime/50196/poster_image/small-6bf74f4b08361ef04bbf233cca7999e0.jpeg",
+            "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:50135",
+            "type": "series",
+            "name": "Heika Watashi wo Wasurete Kudasai",
+            "poster": "https://media.kitsu.app/anime/50135/poster_image/small-14e3afebe8c5c22322e2fd175139be8a.jpeg",
+            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
             "id": "kitsu:49297",
             "type": "series",
             "name": "Akujiki Reijou to Kyouketsu Koushaku",
@@ -108,7 +124,7 @@
             "id": "kitsu:45320",
             "type": "series",
             "name": "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
-            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45320/poster_image/74dcfcaaa2227936167924a368541c59.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251204%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251204T214307Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=5f302e3a9f69c2ffe177a8ec39c092aa6b53fd513cb399ae995f485678afd428",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45320/poster_image/74dcfcaaa2227936167924a368541c59.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251204%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251204T222330Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=b81cdcff3d17e7a7101cf436c47de0c320afa38c8349b747560618b98037e2a7",
             "description": "Nuovo episodio: Ep 6 su AnimeWorld.",
             "posterShape": "poster"
         },
@@ -140,7 +156,7 @@
             "id": "kitsu:49928",
             "type": "series",
             "name": "Yano-kun no Futsuu no Hibi",
-            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49928/poster_image/253fd8bb9520c7d9eac8429ce4be351f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251204%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251204T214309Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=094fbf73277a1468681a8fa6d5f32c14886637b6eafb644ce68cc725e5d009c4",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49928/poster_image/253fd8bb9520c7d9eac8429ce4be351f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251204%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251204T222332Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=4da6aa7eda248d2a31e9f1f59a2979839dc85eafe52d4a86570960bd43a228d0",
             "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
             "posterShape": "poster"
         },
@@ -286,14 +302,6 @@
             "name": "Gachiakuta (ITA)",
             "poster": "https://media.kitsu.app/anime/48946/poster_image/small-5c66f9ae20e866fd4d3a3dbb4f0527ad.jpeg",
             "description": "Nuovo episodio: Ep 18 su AnimeWorld.",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:48448",
-            "type": "series",
-            "name": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
-            "poster": "https://media.kitsu.app/anime/48448/poster_image/small-026b6e7ce7f49555dcecaca1d58d8709.jpeg",
-            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
             "posterShape": "poster"
         }
     ]
