@@ -1,6 +1,30 @@
 {
     "metas": [
         {
+            "id": "kitsu:49466",
+            "type": "series",
+            "name": "Futari Solo Camp",
+            "poster": "https://media.kitsu.app/anime/49466/poster_image/small-9b0d9d09171430657f293c8ad7ee836e.jpeg",
+            "description": "Nuovo episodio: Ep 22 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:49872",
+            "type": "series",
+            "name": "Taiyou yori mo Mabushii Hoshi (ITA)",
+            "poster": "https://media.kitsu.app/anime/49872/poster_image/small-1135d68a86eab290de26b00715b3f8c4.jpeg",
+            "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:50008",
+            "type": "series",
+            "name": "Towa no Yuugure",
+            "poster": "https://media.kitsu.app/anime/50008/poster_image/small-6ca83a5cc3de541481f1225901632efe.jpeg",
+            "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
             "id": "kitsu:49931",
             "type": "series",
             "name": "Watashi wo Tabetai, Hitodenashi",
@@ -76,7 +100,7 @@
             "id": "kitsu:45320",
             "type": "series",
             "name": "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
-            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45320/poster_image/74dcfcaaa2227936167924a368541c59.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251204%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251204T163703Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=cf0220d29b83f1714a240ff071aef975d1dee3f3cb89ae9d292111f724033c6a",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45320/poster_image/74dcfcaaa2227936167924a368541c59.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251204%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251204T172729Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=a7638efbdf63f3fdd65d1d578d0586c845c7ab532e0dfaaa47c03f430f41d3fa",
             "description": "Nuovo episodio: Ep 6 su AnimeWorld.",
             "posterShape": "poster"
         },
@@ -108,7 +132,7 @@
             "id": "kitsu:49928",
             "type": "series",
             "name": "Yano-kun no Futsuu no Hibi",
-            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49928/poster_image/253fd8bb9520c7d9eac8429ce4be351f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251204%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251204T163705Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=84bca447dca84d1780df5bb39839bf72c66fd5a8411eef9daee98856d89a019e",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49928/poster_image/253fd8bb9520c7d9eac8429ce4be351f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251204%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251204T172732Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=384241e7c7bf8801da5e4d84a8e5f9f31d13c3f6939c4a8fb87b511def18fbb2",
             "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
             "posterShape": "poster"
         },
@@ -261,38 +285,6 @@
             "type": "series",
             "name": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
             "poster": "https://media.kitsu.app/anime/48448/poster_image/small-026b6e7ce7f49555dcecaca1d58d8709.jpeg",
-            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:50194",
-            "type": "series",
-            "name": "Alma-chan wa Kazoku ni Naritai",
-            "poster": "https://media.kitsu.app/anime/50194/poster_image/small-f2b190b67351586c9aba9126120e88d7.jpeg",
-            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:49538",
-            "type": "series",
-            "name": "Chanto Suenai Kyuuketsuki-chan",
-            "poster": "https://media.kitsu.app/anime/49538/poster_image/small-c2ec56aa538ec589791aaad124383813.jpeg",
-            "description": "Nuovo episodio: Ep 8 su AnimeWorld.",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:49120",
-            "type": "series",
-            "name": "Kikaijikake no Marie",
-            "poster": "https://media.kitsu.app/anime/49120/poster_image/small-adb53f5fe5f21bdbe176202add0d2b32.jpeg",
-            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:49700",
-            "type": "series",
-            "name": "Digimon Beatbreak",
-            "poster": "https://media.kitsu.app/anime/49700/poster_image/small-9081595488c42e7fad7a3fac3083ec0f.jpeg",
             "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
             "posterShape": "poster"
         }
