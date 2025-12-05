@@ -1,6 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:10265",
+            "type": "series",
+            "name": "Sanda (ITA)",
+            "poster": "https://media.kitsu.app/anime/poster_images/10265/medium.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:49026",
+            "type": "series",
+            "name": "Sanda",
+            "poster": "https://media.kitsu.app/anime/49026/poster_image/medium-aeed13f71462a6a3440faa8ef19a49c1.jpeg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster"
+        },
+        {
             "id": "kitsu:48834",
             "type": "series",
             "name": "Tougen Anki (ITA)",
@@ -188,7 +204,7 @@
             "id": "kitsu:45320",
             "type": "series",
             "name": "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
-            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45320/poster_image/74dcfcaaa2227936167924a368541c59.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251205%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251205T183444Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=d4d7aaa3b15634e2313569d632b22172480e9589853178d1f76bbf408f9780ec",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45320/poster_image/74dcfcaaa2227936167924a368541c59.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251205%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251205T192141Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=a58bda8504832e7a1a0fb36275d8401e1fe67453511168b154384b95e93281b9",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster"
         },
@@ -220,7 +236,7 @@
             "id": "kitsu:49928",
             "type": "series",
             "name": "Yano-kun no Futsuu no Hibi",
-            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49928/poster_image/253fd8bb9520c7d9eac8429ce4be351f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251205%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251205T183444Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=8b3b82e8e0d7825f9138405e655fd60119aff8cb62e19d2328aaa7c08b52a6c8",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49928/poster_image/253fd8bb9520c7d9eac8429ce4be351f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251205%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251205T192142Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=1c431dbdbbbe4d8f08ab8057c4405113306222ca9f00ac77f8c44a4504da0e12",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster"
         },
@@ -270,22 +286,6 @@
             "name": "Anne Shirley (ITA)",
             "poster": "https://media.kitsu.app/anime/49360/poster_image/medium-35a4b12c5c06f549f24d5251d30e0c09.jpeg",
             "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:50006",
-            "type": "series",
-            "name": "Uma Musume: Cinderella Gray Part 2",
-            "poster": "https://media.kitsu.app/anime/50006/poster_image/medium-a870b49d447630a2f1343581d0a2563f.jpeg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:50193",
-            "type": "series",
-            "name": "Sawaranaide Kotesashi-kun",
-            "poster": "https://media.kitsu.app/anime/50193/poster_image/medium-866cb6aceeb14dc33dccc32cd08ba5de.jpeg",
-            "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster"
         }
     ]
