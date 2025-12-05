@@ -1,6 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:46516",
+            "type": "series",
+            "name": "Long Zu II: Daowangzhe Zhi Tong",
+            "poster": "https://media.kitsu.app/anime/46516/poster_image/small-55dcbf2f8f71c0c8a478f1bcd431f8f0.jpeg",
+            "description": "Nuovo episodio: Ep 23 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:50317",
+            "type": "series",
+            "name": "Cengjing You Yongshi",
+            "poster": "https://media.kitsu.app/anime/50317/poster_image/small-50ff6cca22a8acefdaa66c64d38065fc.jpeg",
+            "description": "Nuovo episodio: Ep 8 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
             "id": "kitsu:1811",
             "type": "series",
             "name": "Jigoku Sensei Nube (2025) (ITA)",
@@ -81,14 +97,6 @@
             "posterShape": "poster"
         },
         {
-            "id": "kitsu:46516",
-            "type": "series",
-            "name": "Long Zu II: Daowangzhe Zhi Tong (JAP)",
-            "poster": "https://media.kitsu.app/anime/46516/poster_image/small-55dcbf2f8f71c0c8a478f1bcd431f8f0.jpeg",
-            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
-            "posterShape": "poster"
-        },
-        {
             "id": "kitsu:50195",
             "type": "series",
             "name": "Let's Play: Quest-darake no My Life",
@@ -132,7 +140,7 @@
             "id": "kitsu:45320",
             "type": "series",
             "name": "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
-            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45320/poster_image/74dcfcaaa2227936167924a368541c59.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251205%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251205T125332Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=e5f9a44e7fb3d6071f0bc61e94a998ba789c05658d45e200d19897ca2e2cc1fd",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45320/poster_image/74dcfcaaa2227936167924a368541c59.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251205%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251205T133619Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=8e7fe2869ca89b21e4a0d4faddd4f7c0488fb10ed8812ea50ad83fb5663557e9",
             "description": "Nuovo episodio: Ep 6 su AnimeWorld.",
             "posterShape": "poster"
         },
@@ -164,7 +172,7 @@
             "id": "kitsu:49928",
             "type": "series",
             "name": "Yano-kun no Futsuu no Hibi",
-            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49928/poster_image/253fd8bb9520c7d9eac8429ce4be351f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251205%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251205T125334Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=859f16d5bc9bfb4991d9cb6df296bf269135005f9d700e1b627b1c9ea42ee6fb",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49928/poster_image/253fd8bb9520c7d9eac8429ce4be351f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251205%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251205T133621Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=3f0f5304bd8e3b7ece26bb33f6608546cad3f7cc9dce4da5df726b21a155daaa",
             "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
             "posterShape": "poster"
         },
@@ -286,22 +294,6 @@
             "name": "One Punch Man 3 (ITA)",
             "poster": "https://media.kitsu.app/anime/46360/poster_image/small-216f8ed2678a9ad510adb33434a8758c.jpeg",
             "description": "Nuovo episodio: Ep 5 su AnimeWorld.",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:12",
-            "type": "series",
-            "name": "One Piece",
-            "poster": "https://media.kitsu.app/anime/poster_images/12/small.jpg",
-            "description": "Nuovo episodio: Ep 1151 su AnimeWorld.",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:50186",
-            "type": "series",
-            "name": "Mofa Gongzhu de Xiao Fannao",
-            "poster": "https://media.kitsu.app/anime/50186/poster_image/small-cc08b42de8eeff076ae266fdcc8957e8.jpeg",
-            "description": "Nuovo episodio: Ep 12 su AnimeWorld.",
             "posterShape": "poster"
         }
     ]
