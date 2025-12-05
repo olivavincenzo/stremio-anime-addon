@@ -1,299 +1,299 @@
 {
     "metas": [
         {
-            "id": "kitsu:46516",
+            "id": "kitsu:1819",
+            "type": "series",
+            "name": "One Piece: The Detective Memoirs of Chief Straw Hat Luffy (ITA)",
+            "poster": "https://media.kitsu.app/anime/poster_images/1819/medium.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:49191",
             "type": "series",
             "name": "Long Zu II: Daowangzhe Zhi Tong",
-            "poster": "https://media.kitsu.app/anime/46516/poster_image/small-55dcbf2f8f71c0c8a478f1bcd431f8f0.jpeg",
-            "description": "Nuovo episodio: Ep 23 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/49191/poster_image/medium-d6f581163f8eb36384491f76a5749c0a.jpeg",
+            "description": "Nuovo episodio: Ep 23",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:50317",
             "type": "series",
             "name": "Cengjing You Yongshi",
-            "poster": "https://media.kitsu.app/anime/50317/poster_image/small-50ff6cca22a8acefdaa66c64d38065fc.jpeg",
-            "description": "Nuovo episodio: Ep 8 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/50317/poster_image/medium-0116d22dba66f0d13159cb7eb86ff2ee.jpeg",
+            "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster"
         },
         {
-            "id": "kitsu:1811",
+            "id": "kitsu:49070",
             "type": "series",
             "name": "Jigoku Sensei Nube (2025) (ITA)",
-            "poster": "https://media.kitsu.app/anime/poster_images/1811/small.jpg",
-            "description": "Nuovo episodio: Ep 3 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/49070/poster_image/medium-c56eefb9981869c07c6f8933be7e48b2.jpeg",
+            "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:50196",
             "type": "series",
             "name": "Potion, Wagami wo Tasukeru",
-            "poster": "https://media.kitsu.app/anime/50196/poster_image/small-6bf74f4b08361ef04bbf233cca7999e0.jpeg",
-            "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/50196/poster_image/medium-817341f921b36bc2f9e7b33f8657282b.jpeg",
+            "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:50135",
             "type": "series",
             "name": "Heika Watashi wo Wasurete Kudasai",
-            "poster": "https://media.kitsu.app/anime/50135/poster_image/small-14e3afebe8c5c22322e2fd175139be8a.jpeg",
-            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/50135/poster_image/medium-7ea4e2b61d039c489db2ae279cede4e6.jpeg",
+            "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:49297",
             "type": "series",
             "name": "Akujiki Reijou to Kyouketsu Koushaku",
-            "poster": "https://media.kitsu.app/anime/49297/poster_image/small-cdb3c69b254ac7f9fbf2dc8bf9c207cc.jpeg",
-            "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/49297/poster_image/medium-7c4cd17787d9d8869fb762bf0cce9e6a.jpeg",
+            "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:49466",
             "type": "series",
             "name": "Futari Solo Camp",
-            "poster": "https://media.kitsu.app/anime/49466/poster_image/small-9b0d9d09171430657f293c8ad7ee836e.jpeg",
-            "description": "Nuovo episodio: Ep 22 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/49466/poster_image/medium-2e526c30822b1ff3e8833d3f1a63570c.jpeg",
+            "description": "Nuovo episodio: Ep 22",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:49872",
             "type": "series",
             "name": "Taiyou yori mo Mabushii Hoshi (ITA)",
-            "poster": "https://media.kitsu.app/anime/49872/poster_image/small-1135d68a86eab290de26b00715b3f8c4.jpeg",
-            "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/49872/poster_image/medium-e373e703bc84cb7105b513fb6bb85acd.jpeg",
+            "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:50008",
             "type": "series",
             "name": "Towa no Yuugure",
-            "poster": "https://media.kitsu.app/anime/50008/poster_image/small-6ca83a5cc3de541481f1225901632efe.jpeg",
-            "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/50008/poster_image/medium-aa932bd2337eed64bebc8a70a39d069a.jpeg",
+            "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:49931",
             "type": "series",
             "name": "Watashi wo Tabetai, Hitodenashi",
-            "poster": "https://media.kitsu.app/anime/49931/poster_image/small-7d9ca7ddae312ac5b05ddff910d17a40.jpeg",
-            "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/49931/poster_image/medium-1c5682d077474e876eb8baafbca0cc49.jpeg",
+            "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:49418",
             "type": "series",
             "name": "Bukiyou na Senpai.",
-            "poster": "https://media.kitsu.app/anime/49418/poster_image/small-779006711e1c8f20835e82063353657d.jpeg",
-            "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/49418/poster_image/medium-b3ec400dbef7d9b9efc206821bfb9d8a.jpeg",
+            "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:48947",
             "type": "series",
             "name": "Hana wa Saku, Shura no Gotoku",
-            "poster": "https://media.kitsu.app/anime/48947/poster_image/small-cf1db2ba218ac8449ffa7f99e51bdfe5.jpeg",
-            "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/48947/poster_image/medium-2754f301a54192c0188a19c283959685.jpeg",
+            "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:50195",
             "type": "series",
             "name": "Let's Play: Quest-darake no My Life",
-            "poster": "https://media.kitsu.app/anime/50195/poster_image/small-5b024c09a8e59a8e1cb2e26b30e7be81.jpeg",
-            "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/50195/poster_image/medium-58d9f8f3b9b6f99f9cfce7e4333d4fde.jpeg",
+            "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:48546",
             "type": "series",
             "name": "Tensei Akujo no Kuro Rekishi",
-            "poster": "https://media.kitsu.app/anime/48546/poster_image/small-bed60cd0e789863a6be4cdb1893e1f44.jpeg",
-            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/48546/poster_image/medium-94c4b07553289cc344b00c08d724f3d1.jpeg",
+            "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:49145",
             "type": "series",
             "name": "WanDance",
-            "poster": "https://media.kitsu.app/anime/49145/poster_image/small-e29be197e05bb6026d31dca8047930e9.jpeg",
-            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/49145/poster_image/medium-e77de9f4e4cb5803348ebfed7e7bb0b3.jpeg",
+            "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:40580",
             "type": "series",
             "name": "Kakuriyo no Yadomeshi Ni",
-            "poster": "https://media.kitsu.app/anime/poster_images/40580/small.jpg",
-            "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/poster_images/40580/medium.jpg",
+            "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:48058",
             "type": "series",
             "name": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga",
-            "poster": "https://media.kitsu.app/anime/48058/poster_image/small-9efc4942fd29439151cb32786f519831.jpeg",
-            "description": "Nuovo episodio: Ep 11 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/48058/poster_image/medium-f6d03433f97167b727ece5944760a772.jpeg",
+            "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:45320",
             "type": "series",
             "name": "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
-            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45320/poster_image/74dcfcaaa2227936167924a368541c59.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251205%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251205T144714Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=7c7ed4853ef1f70aeb238f8062bfa5f620d1cbcb88f903664bd1d21757f8a0e5",
-            "description": "Nuovo episodio: Ep 6 su AnimeWorld.",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45320/poster_image/74dcfcaaa2227936167924a368541c59.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251205%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251205T152727Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=b58e1e317438188927fa3692fddadb2adf551804c057842831dcba7c2d7b20f2",
+            "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:48464",
             "type": "series",
             "name": "Himitsu no AiPri: Ring-hen",
-            "poster": "https://media.kitsu.app/anime/48464/poster_image/small-af52d9e4a000224a1100f53612dd3eb3.jpeg",
-            "description": "Nuovo episodio: Ep 34 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/48464/poster_image/medium-be768895ca58973b9c5a82578808169b.jpeg",
+            "description": "Nuovo episodio: Ep 34",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:48216",
             "type": "series",
             "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V (ITA)",
-            "poster": "https://media.kitsu.app/anime/48216/poster_image/small-e6a8ef72216cb8003bd7e08bde2412e4.jpeg",
-            "description": "Nuovo episodio: Ep 6 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/48216/poster_image/medium-4c5094728eed3045c1c9983ff6dbe177.jpeg",
+            "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:49377",
             "type": "series",
-            "name": "Kimi to Idol Precure \u266a",
-            "poster": "https://media.kitsu.app/anime/49377/poster_image/small-80bf8f8dfd403dbcee1dc72de6aebd97.jpeg",
-            "description": "Nuovo episodio: Ep 42 su AnimeWorld.",
+            "name": "Kimi to Idol Precure ♪",
+            "poster": "https://media.kitsu.app/anime/49377/poster_image/medium-f8ecd08ac0ac0121f02f0a9fafd437a6.jpeg",
+            "description": "Nuovo episodio: Ep 42",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:49928",
             "type": "series",
             "name": "Yano-kun no Futsuu no Hibi",
-            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49928/poster_image/253fd8bb9520c7d9eac8429ce4be351f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251205%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251205T144716Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=79503ead66fc7858bca38386605c028b7ce8bb487e839846faa05702944e1fd4",
-            "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49928/poster_image/253fd8bb9520c7d9eac8429ce4be351f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251205%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251205T152727Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=f443f3966b15af49a75dd529c3bc0efcdd794a8e0af9f4e64ee99604b179e22a",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:3694",
+            "type": "series",
+            "name": "Ninja to Gokudou (ITA)",
+            "poster": "https://media.kitsu.app/anime/poster_images/3694/medium.jpg",
+            "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:49926",
             "type": "series",
-            "name": "Ninja to Gokudou (ITA)",
-            "poster": "https://media.kitsu.app/anime/49926/poster_image/small-7ab1d7372a593e7efe30c031ea603af9.jpeg",
-            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "name": "Ninja to Gokudou",
+            "poster": "https://media.kitsu.app/anime/49926/poster_image/medium-cea60f29f76dd8458c58dda6b503ec82.jpeg",
+            "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:49122",
             "type": "series",
             "name": "Chitose-kun wa Ramune Bin no Naka",
-            "poster": "https://media.kitsu.app/anime/49122/poster_image/small-faa59a53b40880faf8f14b0fb1b4948b.jpeg",
-            "description": "Nuovo episodio: Ep 6 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/49122/poster_image/medium-dc4cf19cc096c73b1ea8bb890d3c7983.jpeg",
+            "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:48190",
             "type": "series",
             "name": "Tondemo Skill de Isekai Hourou Meshi 2",
-            "poster": "https://media.kitsu.app/anime/48190/poster_image/small-d5cd06fa90bde84c2c7e0f157e8fc236.jpeg",
-            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/48190/poster_image/medium-7f5685a16acb2258a6ea99cd8b20b465.jpeg",
+            "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:49496",
             "type": "series",
             "name": "Kimi to Koete Koi ni Naru",
-            "poster": "https://media.kitsu.app/anime/49496/poster_image/small-99782f9665f67835ed32bf2d1f0c5536.jpeg",
-            "description": "Nuovo episodio: Ep 8 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/49496/poster_image/medium-ab480f1ecec67a34e40c797e081d1cfe.jpeg",
+            "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:49360",
             "type": "series",
             "name": "Anne Shirley (ITA)",
-            "poster": "https://media.kitsu.app/anime/49360/poster_image/small-dcae2950127da8ddaaa4c28d5b878245.jpeg",
-            "description": "Nuovo episodio: Ep 2 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/49360/poster_image/medium-35a4b12c5c06f549f24d5251d30e0c09.jpeg",
+            "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:50006",
             "type": "series",
             "name": "Uma Musume: Cinderella Gray Part 2",
-            "poster": "https://media.kitsu.app/anime/50006/poster_image/small-68c6c4c8790e4f803d1e508eff14e499.jpeg",
-            "description": "Nuovo episodio: Ep 7 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/50006/poster_image/medium-a870b49d447630a2f1343581d0a2563f.jpeg",
+            "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:50193",
             "type": "series",
             "name": "Sawaranaide Kotesashi-kun",
-            "poster": "https://media.kitsu.app/anime/50193/poster_image/small-9935f2bdf2f4965fb48c16670469557f.jpeg",
-            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/50193/poster_image/medium-866cb6aceeb14dc33dccc32cd08ba5de.jpeg",
+            "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:49567",
             "type": "series",
             "name": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
-            "poster": "https://media.kitsu.app/anime/49567/poster_image/small-6c9a9b407eb37c34976878205472d6cd.jpeg",
-            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/49567/poster_image/medium-d8ac92b0dff4426feebbe6546e80980b.jpeg",
+            "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:47198",
             "type": "series",
             "name": "3-nen Z-gumi Ginpachi-sensei",
-            "poster": "https://media.kitsu.app/anime/47198/poster_image/small-98d93aee02be14a14ca3449c81d5d6b5.jpeg",
-            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/47198/poster_image/medium-e20bab065d43762f05420f980533f395.jpeg",
+            "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:49927",
             "type": "series",
             "name": "Sozai Saishuka no Isekai Ryokouki",
-            "poster": "https://media.kitsu.app/anime/49927/poster_image/small-bfc69111ca6897b2594bdf5289ac24b9.jpeg",
-            "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/49927/poster_image/medium-45d0e6e2a80d7e586bc263e05d6b6244.jpeg",
+            "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:48237",
             "type": "series",
             "name": "Debu to Love to Ayamachi to!",
-            "poster": "https://media.kitsu.app/anime/48237/poster_image/small-c8e6e7603e9ab1475879788465ee429f.jpeg",
-            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/48237/poster_image/medium-5e1aa97d5205c69c3aa0b90eb896e83c.jpeg",
+            "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:43114",
             "type": "series",
             "name": "Isekai Quartet 3",
-            "poster": "https://media.kitsu.app/anime/43114/poster_image/small-2029f493439249fb603654b3543d261e.jpeg",
-            "description": "Nuovo episodio: Ep 8 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/43114/poster_image/medium-0f571b87b5c499d4013d8418d17985a6.jpeg",
+            "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster"
         },
         {
             "id": "kitsu:48433",
             "type": "series",
             "name": "Egao no Taenai Shokuba desu.",
-            "poster": "https://media.kitsu.app/anime/48433/poster_image/small-674088c22b836ad9676b723ab851189b.jpeg",
-            "description": "Nuovo episodio: Ep 9 su AnimeWorld.",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:7545",
-            "type": "series",
-            "name": "Kuroko's Basketball 2 (ITA)",
-            "poster": "https://media.kitsu.app/anime/7545/poster_image/small-dc822df9528992130a51568d86fb7f84.jpeg",
-            "description": "Nuovo episodio: Ep 7 su AnimeWorld.",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:46360",
-            "type": "series",
-            "name": "One Punch Man 3 (ITA)",
-            "poster": "https://media.kitsu.app/anime/46360/poster_image/small-216f8ed2678a9ad510adb33434a8758c.jpeg",
-            "description": "Nuovo episodio: Ep 5 su AnimeWorld.",
+            "poster": "https://media.kitsu.app/anime/48433/poster_image/medium-804e74ef9c48a0f8544728fb88149654.jpeg",
+            "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster"
         }
     ]
