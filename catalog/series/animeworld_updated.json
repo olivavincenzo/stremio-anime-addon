@@ -1,6 +1,14 @@
 {
     "metas": [
         {
+            "id": "kitsu:49337",
+            "type": "series",
+            "name": "Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+            "poster": "https://media.kitsu.app/anime/49337/poster_image/medium-e4a98a5f4f67c22fe88174306e0bdac0.jpeg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster"
+        },
+        {
             "id": "kitsu:1819",
             "type": "series",
             "name": "One Piece: The Detective Memoirs of Chief Straw Hat Luffy (ITA)",
@@ -148,7 +156,7 @@
             "id": "kitsu:45320",
             "type": "series",
             "name": "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
-            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45320/poster_image/74dcfcaaa2227936167924a368541c59.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251205%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251205T154734Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=40501008ae9795d345948f0dd6f84667b47701c7c3c6438b9f5e33f2ada69718",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45320/poster_image/74dcfcaaa2227936167924a368541c59.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251205%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251205T163402Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=d59efdb4292fb8f51e5efc0c0bff1e8fc8d8b3141b3da691d03e21cf13f9970e",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster"
         },
@@ -180,7 +188,7 @@
             "id": "kitsu:49928",
             "type": "series",
             "name": "Yano-kun no Futsuu no Hibi",
-            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49928/poster_image/253fd8bb9520c7d9eac8429ce4be351f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251205%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251205T154734Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=8df8ca5bb21e103ba1e4705f475bf7406ae3f196002785a1aef439266fb4cd05",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49928/poster_image/253fd8bb9520c7d9eac8429ce4be351f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251205%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251205T163402Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=4a5bee2aca67bec77e8229ea5f622e6e172a32a9ae632a0bb8393066ee6deeaa",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster"
         },
@@ -286,14 +294,6 @@
             "name": "Isekai Quartet 3",
             "poster": "https://media.kitsu.app/anime/43114/poster_image/medium-0f571b87b5c499d4013d8418d17985a6.jpeg",
             "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:48433",
-            "type": "series",
-            "name": "Egao no Taenai Shokuba desu.",
-            "poster": "https://media.kitsu.app/anime/48433/poster_image/medium-804e74ef9c48a0f8544728fb88149654.jpeg",
-            "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster"
         }
     ]
