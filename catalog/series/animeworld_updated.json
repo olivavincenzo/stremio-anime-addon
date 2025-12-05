@@ -1,6 +1,14 @@
 {
     "metas": [
         {
+            "id": "kitsu:1811",
+            "type": "series",
+            "name": "Jigoku Sensei Nube (2025) (ITA)",
+            "poster": "https://media.kitsu.app/anime/poster_images/1811/small.jpg",
+            "description": "Nuovo episodio: Ep 3 su AnimeWorld.",
+            "posterShape": "poster"
+        },
+        {
             "id": "kitsu:50196",
             "type": "series",
             "name": "Potion, Wagami wo Tasukeru",
@@ -124,7 +132,7 @@
             "id": "kitsu:45320",
             "type": "series",
             "name": "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
-            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45320/poster_image/74dcfcaaa2227936167924a368541c59.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251204%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251204T234155Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=8bb99b8c670b68f883036ebf9519af78cf17859f4b1a6934e2bc7f5bf409cadc",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45320/poster_image/74dcfcaaa2227936167924a368541c59.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251205%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251205T020112Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=7d213173a68cac390c62630186cedb50fa504548d94dae522c3f57f35b32b4ae",
             "description": "Nuovo episodio: Ep 6 su AnimeWorld.",
             "posterShape": "poster"
         },
@@ -156,7 +164,7 @@
             "id": "kitsu:49928",
             "type": "series",
             "name": "Yano-kun no Futsuu no Hibi",
-            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49928/poster_image/253fd8bb9520c7d9eac8429ce4be351f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251204%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251204T234157Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=ad4ae9673e160749ef3dc3f09e925c4591a07c5867f1392de1171a945d1142a2",
+            "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49928/poster_image/253fd8bb9520c7d9eac8429ce4be351f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20251205%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20251205T020114Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=a4e96b9e85daf36fa663945afc9f4d8013455ffe269b194f294e4e6c53d3692b",
             "description": "Nuovo episodio: Ep 10 su AnimeWorld.",
             "posterShape": "poster"
         },
@@ -294,14 +302,6 @@
             "name": "Mofa Gongzhu de Xiao Fannao",
             "poster": "https://media.kitsu.app/anime/50186/poster_image/small-cc08b42de8eeff076ae266fdcc8957e8.jpeg",
             "description": "Nuovo episodio: Ep 12 su AnimeWorld.",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:48946",
-            "type": "series",
-            "name": "Gachiakuta (ITA)",
-            "poster": "https://media.kitsu.app/anime/48946/poster_image/small-5c66f9ae20e866fd4d3a3dbb4f0527ad.jpeg",
-            "description": "Nuovo episodio: Ep 18 su AnimeWorld.",
             "posterShape": "poster"
         }
     ]
