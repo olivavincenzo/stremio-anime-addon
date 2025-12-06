@@ -82,7 +82,7 @@ def process_single_item(item):
         return {
             "id": kitsu_id,
             "type": "series",
-            "name": "{raw_primary} - {episode}",
+            "name": f"{raw_primary} - {episode}",
             "poster": final_poster,
             "description": f"Nuovo episodio: {episode}",
             "posterShape": "poster"
