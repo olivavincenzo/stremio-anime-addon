@@ -1,12 +1,24 @@
 import re
 import time
-import json  # <--- NECESSARIO PER SALVARE
-import os    # <--- NECESSARIO PER I PERCORSI
+import json
+import os
 import requests
 import concurrent.futures
 from functools import lru_cache
 from bs4 import BeautifulSoup
 from urllib.parse import quote
+from io import BytesIO
+from PIL import Image, ImageDraw, ImageFont  # <--- NUOVI IMPORT
+
+# ==========================================
+# CONFIGURAZIONE
+# ==========================================
+# L'URL base dove saranno ospitate le tue immagini generate.
+# Se stai testando in locale con un server python (python -m http.server), potrebbe essere:
+# "http://127.0.0.1:8000/catalog/images/"
+# Se carichi su un server, metti il dominio corretto.
+BASE_URL_IMAGES = "http://tuo-dominio.com/catalog/images/" 
+IMAGES_DIR = "catalog/images"
 
 # ==========================================
 # 1. FUNZIONI DI UTILITÀ
@@ -20,7 +32,94 @@ def convert_roman_to_arabic(title):
     return re.sub(pattern, replace, title).strip()
 
 # ==========================================
-# 2. GESTIONE API KITSU
+# 2. GESTIONE IMMAGINI (Pillow)
+# ==========================================
+
+def add_episode_badge(image_url, episode_text, file_name):
+    """
+    Scarica l'immagine, aggiunge l'episodio in basso a destra e la salva.
+    Restituisce l'URL pubblico della nuova immagine.
+    """
+    try:
+        # Assicuriamoci che la cartella esista
+        if not os.path.exists(IMAGES_DIR):
+            os.makedirs(IMAGES_DIR)
+
+        local_path = os.path.join(IMAGES_DIR, file_name)
+        
+        # Se l'immagine esiste già (cache semplice), non la ricreiamo per risparmiare tempo
+        # (Rimuovi questo check se vuoi aggiornare sempre l'immagine)
+        if os.path.exists(local_path):
+             return f"{BASE_URL_IMAGES}{file_name}"
+
+        # Scarica l'immagine originale
+        response = requests.get(image_url, timeout=5)
+        if response.status_code != 200:
+            return image_url # Fallback all'originale se fallisce il download
+
+        img = Image.open(BytesIO(response.content)).convert("RGBA")
+        width, height = img.size
+        draw = ImageDraw.Draw(img)
+
+        # --- Configurazione Font ---
+        # Cerchiamo di usare un font standard, altrimenti quello di default (che è piccolo)
+        try:
+            # Prova Arial su Windows o DejaVuSans su Linux
+            font_size = int(height * 0.10) # Il testo è il 10% dell'altezza immagine
+            font = ImageFont.truetype("arial.ttf", font_size)
+        except IOError:
+            try:
+                font = ImageFont.truetype("DejaVuSans-Bold.ttf", font_size)
+            except IOError:
+                font = ImageFont.load_default()
+
+        text = f"EP {episode_text}"
+        
+        # Calcola dimensioni del testo usando getbbox
+        left, top, right, bottom = draw.textbbox((0, 0), text, font=font)
+        text_w = right - left
+        text_h = bottom - top
+        
+        # Margini
+        padding_x = 10
+        padding_y = 5
+        margin_right = 10
+        margin_bottom = 10
+
+        # Coordinate del box di sfondo (In basso a destra)
+        x2 = width - margin_right
+        y2 = height - margin_bottom
+        x1 = x2 - text_w - (padding_x * 2)
+        y1 = y2 - text_h - (padding_y * 2)
+
+        # Disegna sfondo semi-trasparente scuro
+        # ImageDraw non supporta alpha diretta su RGB, usiamo un layer separato
+        overlay = Image.new('RGBA', img.size, (0,0,0,0))
+        draw_overlay = ImageDraw.Draw(overlay)
+        draw_overlay.rectangle([x1, y1, x2, y2], fill=(0, 0, 0, 200)) # Nero con opacità
+        
+        # Unisci overlay
+        img = Image.alpha_composite(img, overlay)
+        
+        # Disegna il testo (Bianco)
+        draw = ImageDraw.Draw(img)
+        # Centrare il testo nel rettangolo
+        text_x = x1 + padding_x
+        text_y = y1 + padding_y - (top * 0.2) # Aggiustamento fine per l'altezza
+        
+        draw.text((text_x, text_y), text, font=font, fill=(255, 255, 255, 255))
+
+        # Salva l'immagine come JPG (convertendo da RGBA a RGB)
+        img.convert("RGB").save(local_path, "JPEG", quality=85)
+
+        return f"{BASE_URL_IMAGES}{file_name}"
+
+    except Exception as e:
+        print(f"Errore generazione immagine per {file_name}: {e}")
+        return image_url # Fallback all'originale
+
+# ==========================================
+# 3. GESTIONE API KITSU
 # ==========================================
 
 def search_kitsu_id(query):
@@ -47,7 +146,7 @@ def cached_kitsu_search(title):
     return search_kitsu_id(title)
 
 # ==========================================
-# 3. ELABORAZIONE WORKER
+# 4. ELABORAZIONE WORKER
 # ==========================================
 
 def process_single_item(item):
@@ -77,26 +176,33 @@ def process_single_item(item):
 
         if not kitsu_id: return None
 
-        final_poster = kitsu_poster if kitsu_poster else original_poster
+        base_poster = kitsu_poster if kitsu_poster else original_poster
         
+        # --- GENERAZIONE POSTER MODIFICATO ---
+        # Creiamo un nome file univoco basato sull'ID e l'episodio
+        image_filename = f"{kitsu_id.replace(':', '_')}_ep{episode}.jpg"
+        
+        # Chiamiamo la funzione che edita l'immagine
+        final_poster_url = add_episode_badge(base_poster, episode, image_filename)
+
         return {
             "id": kitsu_id,
             "type": "series",
-            "name": f"{raw_primary} - {episode}",
-            "poster": final_poster,
+            "name": raw_primary, # Titolo pulito, senza numero episodio
+            "poster": final_poster_url, # URL della TUA immagine modificata
             "description": f"Nuovo episodio: {episode}",
             "posterShape": "poster"
         }
-    except Exception:
+    except Exception as e:
+        # print(f"Errore item: {e}") 
         return None
 
 # ==========================================
-# 4. FUNZIONE PRINCIPALE E SALVATAGGIO
+# 5. FUNZIONE PRINCIPALE
 # ==========================================
 
 def update_animeworld_catalog():
     UPDATED_URL = "https://www.animeworld.so/updated"
-    # Definisci qui il percorso dove vuoi salvare il file
     OUTPUT_FILE = "catalog/series/animeworld_updated.json"
     
     scraper = requests.Session()
@@ -112,9 +218,10 @@ def update_animeworld_catalog():
         items = soup.select('.film-list .item')
         unique_metas = {}
         
-        print(f"Trovati {len(items)} anime. Elaborazione in corso...")
+        print(f"Trovati {len(items)} anime. Elaborazione e modifica immagini in corso...")
 
-        with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+        # Riduciamo i workers perché l'elaborazione immagini è pesante per la CPU
+        with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
             results = executor.map(process_single_item, items)
 
         for res in results:
@@ -122,26 +229,17 @@ def update_animeworld_catalog():
                 unique_metas[res['id']] = res
 
         metas_list = list(unique_metas.values())
-
-        # --- BLOCCO DI SALVATAGGIO JSON ---
         
-        # 1. Crea la cartella se non esiste
         output_dir = os.path.dirname(OUTPUT_FILE)
         if output_dir and not os.path.exists(output_dir):
             os.makedirs(output_dir)
-            print(f"Creata cartella: {output_dir}")
 
-        # 2. Struttura Stremio Catalog (opzionale, ma consigliata)
-        # Stremio si aspetta spesso un oggetto { "metas": [...] }
-        json_output = {
-            "metas": metas_list
-        }
+        json_output = {"metas": metas_list}
 
-        # 3. Scrivi su file
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
             json.dump(json_output, f, ensure_ascii=False, indent=4)
 
-        print(f"SUCCESSO! Salvati {len(metas_list)} elementi in '{OUTPUT_FILE}'")
+        print(f"SUCCESSO! Salvati {len(metas_list)} elementi.")
         return metas_list
 
     except Exception as e:
