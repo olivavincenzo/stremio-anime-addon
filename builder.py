@@ -4,25 +4,49 @@ import json
 import os
 import requests
 import concurrent.futures
+import shutil  # <--- NUOVO IMPORT PER PULIZIA RAPIDA
 from functools import lru_cache
 from bs4 import BeautifulSoup
 from urllib.parse import quote
 from io import BytesIO
-from PIL import Image, ImageDraw, ImageFont  # <--- NUOVI IMPORT
+from PIL import Image, ImageDraw, ImageFont
 
 # ==========================================
 # CONFIGURAZIONE
 # ==========================================
-# L'URL base dove saranno ospitate le tue immagini generate.
-# Se stai testando in locale con un server python (python -m http.server), potrebbe essere:
-# "http://127.0.0.1:8000/catalog/images/"
-# Se carichi su un server, metti il dominio corretto.
-BASE_URL_IMAGES = "http://tuo-dominio.com/catalog/images/" 
+# URL base per accedere alle immagini via web
+
+BASE_URL_IMAGES = f"https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/"
+
+# Percorso locale dove salvare le immagini
 IMAGES_DIR = "catalog/images"
+# File JSON di output
+OUTPUT_FILE = "catalog/series/animeworld_updated.json"
 
 # ==========================================
-# 1. FUNZIONI DI UTILITÀ
+# 1. FUNZIONI DI UTILITÀ E PULIZIA
 # ==========================================
+
+def clean_images_directory():
+    """
+    Cancella tutti i file presenti nella cartella delle immagini.
+    Se la cartella non esiste, la crea.
+    """
+    if os.path.exists(IMAGES_DIR):
+        print(f"Pulizia della cartella immagini: {IMAGES_DIR}...")
+        for filename in os.listdir(IMAGES_DIR):
+            file_path = os.path.join(IMAGES_DIR, filename)
+            try:
+                if os.path.isfile(file_path) or os.path.islink(file_path):
+                    os.unlink(file_path) # Cancella il file
+                elif os.path.isdir(file_path):
+                    shutil.rmtree(file_path) # Cancella eventuali sottocartelle
+            except Exception as e:
+                print(f"Impossibile cancellare {file_path}. Motivo: {e}")
+    else:
+        # Se non esiste, la crea
+        os.makedirs(IMAGES_DIR)
+        print(f"Creata cartella immagini: {IMAGES_DIR}")
 
 def convert_roman_to_arabic(title):
     if not title: return ""
@@ -38,34 +62,25 @@ def convert_roman_to_arabic(title):
 def add_episode_badge(image_url, episode_text, file_name):
     """
     Scarica l'immagine, aggiunge l'episodio in basso a destra e la salva.
-    Restituisce l'URL pubblico della nuova immagine.
     """
     try:
-        # Assicuriamoci che la cartella esista
+        # Assicuriamoci che la cartella esista (ridondante ma sicuro)
         if not os.path.exists(IMAGES_DIR):
             os.makedirs(IMAGES_DIR)
 
         local_path = os.path.join(IMAGES_DIR, file_name)
         
-        # Se l'immagine esiste già (cache semplice), non la ricreiamo per risparmiare tempo
-        # (Rimuovi questo check se vuoi aggiornare sempre l'immagine)
-        if os.path.exists(local_path):
-             return f"{BASE_URL_IMAGES}{file_name}"
-
         # Scarica l'immagine originale
         response = requests.get(image_url, timeout=5)
         if response.status_code != 200:
-            return image_url # Fallback all'originale se fallisce il download
+            return image_url 
 
         img = Image.open(BytesIO(response.content)).convert("RGBA")
         width, height = img.size
-        draw = ImageDraw.Draw(img)
-
+        
         # --- Configurazione Font ---
-        # Cerchiamo di usare un font standard, altrimenti quello di default (che è piccolo)
         try:
-            # Prova Arial su Windows o DejaVuSans su Linux
-            font_size = int(height * 0.10) # Il testo è il 10% dell'altezza immagine
+            font_size = int(height * 0.10) 
             font = ImageFont.truetype("arial.ttf", font_size)
         except IOError:
             try:
@@ -75,48 +90,42 @@ def add_episode_badge(image_url, episode_text, file_name):
 
         text = f"EP {episode_text}"
         
-        # Calcola dimensioni del testo usando getbbox
+        # Disegno testo e box
+        draw = ImageDraw.Draw(img)
         left, top, right, bottom = draw.textbbox((0, 0), text, font=font)
         text_w = right - left
         text_h = bottom - top
         
-        # Margini
         padding_x = 10
         padding_y = 5
         margin_right = 10
         margin_bottom = 10
 
-        # Coordinate del box di sfondo (In basso a destra)
         x2 = width - margin_right
         y2 = height - margin_bottom
         x1 = x2 - text_w - (padding_x * 2)
         y1 = y2 - text_h - (padding_y * 2)
 
-        # Disegna sfondo semi-trasparente scuro
-        # ImageDraw non supporta alpha diretta su RGB, usiamo un layer separato
         overlay = Image.new('RGBA', img.size, (0,0,0,0))
         draw_overlay = ImageDraw.Draw(overlay)
-        draw_overlay.rectangle([x1, y1, x2, y2], fill=(0, 0, 0, 200)) # Nero con opacità
+        draw_overlay.rectangle([x1, y1, x2, y2], fill=(0, 0, 0, 200)) 
         
-        # Unisci overlay
         img = Image.alpha_composite(img, overlay)
-        
-        # Disegna il testo (Bianco)
         draw = ImageDraw.Draw(img)
-        # Centrare il testo nel rettangolo
+        
         text_x = x1 + padding_x
-        text_y = y1 + padding_y - (top * 0.2) # Aggiustamento fine per l'altezza
+        text_y = y1 + padding_y - (top * 0.2)
         
         draw.text((text_x, text_y), text, font=font, fill=(255, 255, 255, 255))
 
-        # Salva l'immagine come JPG (convertendo da RGBA a RGB)
+        # Salva l'immagine come JPG
         img.convert("RGB").save(local_path, "JPEG", quality=85)
 
         return f"{BASE_URL_IMAGES}{file_name}"
 
     except Exception as e:
         print(f"Errore generazione immagine per {file_name}: {e}")
-        return image_url # Fallback all'originale
+        return image_url
 
 # ==========================================
 # 3. GESTIONE API KITSU
@@ -178,23 +187,21 @@ def process_single_item(item):
 
         base_poster = kitsu_poster if kitsu_poster else original_poster
         
-        # --- GENERAZIONE POSTER MODIFICATO ---
-        # Creiamo un nome file univoco basato sull'ID e l'episodio
+        # Crea nome file univoco
         image_filename = f"{kitsu_id.replace(':', '_')}_ep{episode}.jpg"
         
-        # Chiamiamo la funzione che edita l'immagine
+        # Genera immagine
         final_poster_url = add_episode_badge(base_poster, episode, image_filename)
 
         return {
             "id": kitsu_id,
             "type": "series",
-            "name": raw_primary, # Titolo pulito, senza numero episodio
-            "poster": final_poster_url, # URL della TUA immagine modificata
+            "name": raw_primary,
+            "poster": final_poster_url,
             "description": f"Nuovo episodio: {episode}",
             "posterShape": "poster"
         }
     except Exception as e:
-        # print(f"Errore item: {e}") 
         return None
 
 # ==========================================
@@ -203,7 +210,9 @@ def process_single_item(item):
 
 def update_animeworld_catalog():
     UPDATED_URL = "https://www.animeworld.so/updated"
-    OUTPUT_FILE = "catalog/series/animeworld_updated.json"
+    
+    # --- STEP 0: PULIZIA CARTELLA IMMAGINI ---
+    clean_images_directory()
     
     scraper = requests.Session()
     scraper.headers.update({'User-Agent': 'Mozilla/5.0'})
@@ -212,15 +221,15 @@ def update_animeworld_catalog():
         print("Scaricando la pagina aggiornamenti...")
         response = scraper.get(UPDATED_URL)
         if response.status_code != 200:
+            print(f"Errore connessione: {response.status_code}")
             return
 
         soup = BeautifulSoup(response.text, 'html.parser')
         items = soup.select('.film-list .item')
         unique_metas = {}
         
-        print(f"Trovati {len(items)} anime. Elaborazione e modifica immagini in corso...")
+        print(f"Trovati {len(items)} anime. Inizio elaborazione...")
 
-        # Riduciamo i workers perché l'elaborazione immagini è pesante per la CPU
         with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
             results = executor.map(process_single_item, items)
 
@@ -239,7 +248,7 @@ def update_animeworld_catalog():
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
             json.dump(json_output, f, ensure_ascii=False, indent=4)
 
-        print(f"SUCCESSO! Salvati {len(metas_list)} elementi.")
+        print(f"SUCCESSO! Salvati {len(metas_list)} elementi e immagini aggiornate.")
         return metas_list
 
     except Exception as e:
