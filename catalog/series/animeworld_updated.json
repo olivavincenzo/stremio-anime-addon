@@ -1,6 +1,14 @@
 {
     "metas": [
         {
+            "id": "kitsu:49377",
+            "type": "series",
+            "name": "Kimi to Idol Precure ♪",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49377_Ep_43.jpg",
+            "description": "Nuovo episodio: Ep 43",
+            "posterShape": "poster"
+        },
+        {
             "id": "kitsu:49928",
             "type": "series",
             "name": "Yano-kun no Futsuu no Hibi",
