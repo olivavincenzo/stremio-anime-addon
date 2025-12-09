@@ -1,6 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:50123",
+            "type": "series",
+            "name": "Ganglion",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50123_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:49122",
+            "type": "series",
+            "name": "Chitose-kun wa Ramune Bin no Naka",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49122_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster"
+        },
+        {
             "id": "kitsu:48190",
             "type": "series",
             "name": "Tondemo Skill de Isekai Hourou Meshi 2",
@@ -254,30 +270,6 @@
             "name": "Princession Orchestra",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48972_Ep_30.jpg",
             "description": "Nuovo episodio: Ep 30",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:49291",
-            "type": "series",
-            "name": "Ranma ½ (2024) 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49291_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:49433",
-            "type": "series",
-            "name": "Ranma ½ (2024) 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49433_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:50149",
-            "type": "series",
-            "name": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50149_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster"
         }
     ]
