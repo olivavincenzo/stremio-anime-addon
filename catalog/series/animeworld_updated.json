@@ -1,6 +1,30 @@
 {
     "metas": [
         {
+            "id": "kitsu:49928",
+            "type": "series",
+            "name": "Yano-kun no Futsuu no Hibi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49928_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:3694",
+            "type": "series",
+            "name": "Ninja to Gokudou (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3694_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster"
+        },
+        {
+            "id": "kitsu:49926",
+            "type": "series",
+            "name": "Ninja to Gokudou",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49926_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster"
+        },
+        {
             "id": "kitsu:50123",
             "type": "series",
             "name": "Ganglion",
@@ -246,30 +270,6 @@
             "name": "My Hero Academia Final Season (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49279_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:49861",
-            "type": "series",
-            "name": "Kingdom 6",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49861_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:44019",
-            "type": "series",
-            "name": "Tomodachi no Imouto ga Ore ni dake Uzai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44019_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:48972",
-            "type": "series",
-            "name": "Princession Orchestra",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48972_Ep_30.jpg",
-            "description": "Nuovo episodio: Ep 30",
             "posterShape": "poster"
         }
     ]
