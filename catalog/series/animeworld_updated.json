@@ -1,13 +1,31 @@
 {
     "metas": [
         {
+            "id": "kitsu:49669",
+            "type": "series",
+            "name": "Shuumatsu no Walküre 3 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49669_Ep_15.jpg",
+            "description": "Nuovo episodio: Ep 15",
+            "posterShape": "poster",
+            "rating": "10.00"
+        },
+        {
+            "id": "kitsu:48058",
+            "type": "series",
+            "name": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48058_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "6.16"
+        },
+        {
             "id": "kitsu:48056",
             "type": "series",
             "name": "Yi Nian Yong Heng 3",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48056_Ep_17.jpg",
             "description": "Nuovo episodio: Ep 17",
             "posterShape": "poster",
-            "rating": "7.88"
+            "rating": "7.77"
         },
         {
             "id": "kitsu:45320",
@@ -278,33 +296,6 @@
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "4.71"
-        },
-        {
-            "id": "kitsu:49120",
-            "type": "series",
-            "name": "Kikaijikake no Marie",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49120_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "5.18"
-        },
-        {
-            "id": "kitsu:48070",
-            "type": "series",
-            "name": "Blue Orchestra 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48070_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "4.18"
-        },
-        {
-            "id": "kitsu:49700",
-            "type": "series",
-            "name": "Digimon Beatbreak",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "4.14"
         }
     ]
 }
