@@ -1,13 +1,49 @@
 {
     "metas": [
         {
+            "id": "kitsu:49145",
+            "type": "series",
+            "name": "WanDance",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49145_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "4.85"
+        },
+        {
+            "id": "kitsu:48546",
+            "type": "series",
+            "name": "Tensei Akujo no Kuro Rekishi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48546_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "5.24"
+        },
+        {
+            "id": "kitsu:50135",
+            "type": "series",
+            "name": "Heika Watashi wo Wasurete Kudasai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50135_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "4.69"
+        },
+        {
+            "id": "kitsu:40580",
+            "type": "series",
+            "name": "Kakuriyo no Yadomeshi Ni",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_40580_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "4.73"
+        },
+        {
             "id": "kitsu:49669",
             "type": "series",
             "name": "Shuumatsu no Walküre 3 (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49669_Ep_15.jpg",
             "description": "Nuovo episodio: Ep 15",
             "posterShape": "poster",
-            "rating": "8.67"
+            "rating": "8.80"
         },
         {
             "id": "kitsu:48058",
@@ -241,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46360_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "5.49"
+            "rating": "5.50"
         },
         {
             "id": "kitsu:12",
@@ -269,33 +305,6 @@
             "description": "Nuovo episodio: Ep 19",
             "posterShape": "poster",
             "rating": "7.97"
-        },
-        {
-            "id": "kitsu:48448",
-            "type": "series",
-            "name": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48448_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "5.85"
-        },
-        {
-            "id": "kitsu:49538",
-            "type": "series",
-            "name": "Chanto Suenai Kyuuketsuki-chan",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49538_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "4.86"
-        },
-        {
-            "id": "kitsu:50194",
-            "type": "series",
-            "name": "Alma-chan wa Kazoku ni Naritai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50194_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "4.71"
         }
     ]
 }
