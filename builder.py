@@ -16,7 +16,7 @@ from PIL import Image, ImageDraw, ImageFont
 # ==========================================
 BASE_URL_IMAGES = "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/"
 IMAGES_DIR = "catalog/images"
-OUTPUT_FILE = "catalog/anime/animeworld_updated.json"
+OUTPUT_FILE = "catalog/series/animeworld_updated.json"
 
 # Percorso assoluto per evitare dubbi
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -272,7 +272,7 @@ def process_single_item(item):
 
         return {
             "id": kitsu_id,
-            "type": "anime",
+            "type": "series",
             "name": raw_primary,
             "poster": final_poster_url,
             "description": f"Nuovo episodio: {episode}",
