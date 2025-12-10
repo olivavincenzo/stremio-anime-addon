@@ -1,6 +1,14 @@
 {
     "metas": [
         {
+            "id": "kitsu:48216",
+            "type": "series",
+            "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48216_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster"
+        },
+        {
             "id": "kitsu:49377",
             "type": "series",
             "name": "Kimi to Idol Precure ♪",
@@ -269,14 +277,6 @@
             "type": "series",
             "name": "Spy x Family 3 (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48939_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster"
-        },
-        {
-            "id": "kitsu:49279",
-            "type": "series",
-            "name": "My Hero Academia Final Season (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49279_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster"
         }
