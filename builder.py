@@ -98,7 +98,7 @@ def add_episode_badge(image_url, episode_text, file_name, rating):
             font = ImageFont.load_default()
 
         # Testi badge
-        episode_text = f"EP {episode_text}"
+        episode_text = f"{episode_text}"
         rating_text = f"{rating}"
 
         draw = ImageDraw.Draw(img)
