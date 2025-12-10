@@ -7,13 +7,11 @@
         "catalog"
     ],
     "types": [
-        "series",
-        "movie",
         "anime"
     ],
     "catalogs": [
         {
-            "type": "series",
+            "type": "anime",
             "id": "animeworld_kitsu_updated",
             "name": "AnimeWorld - Ultimi Episodi",
             "extra": [

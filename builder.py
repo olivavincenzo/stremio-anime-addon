@@ -16,11 +16,11 @@ from PIL import Image, ImageDraw, ImageFont
 # ==========================================
 BASE_URL_IMAGES = "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/"
 IMAGES_DIR = "catalog/images"
-OUTPUT_FILE = "catalog/series/animeworld_updated.json"
+OUTPUT_FILE = "catalog/anime/animeworld_updated.json"
 
 # Percorso assoluto per evitare dubbi
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-FONT_PATH = os.path.join(BASE_DIR, "catalog", "Roboto-Bold.ttf")
+FONT_PATH = os.path.join(BASE_DIR, "assets", "Roboto-Bold.ttf")
 
 # ==========================================
 # 1. PREPARAZIONE AMBIENTE (FONT E CARTELLE)
@@ -78,7 +78,7 @@ def convert_roman_to_arabic(title):
 # 3. GESTIONE IMMAGINI (Pillow)
 # ==========================================
 
-def add_episode_badge(image_url, episode_text, file_name):
+def add_episode_badge(image_url, episode_text, file_name, rating):
     try:
         local_path = os.path.join(IMAGES_DIR, file_name)
         
@@ -90,52 +90,88 @@ def add_episode_badge(image_url, episode_text, file_name):
         width, height = img.size
         
         # --- CARICAMENTO FONT ---
-        # Impostiamo la grandezza al 25% dell'altezza (molto grande)
         font_size = int(height * 0.05) 
         
-        font = None
         try:
             font = ImageFont.truetype(FONT_PATH, font_size)
-        except Exception as e:
-            print(f"Errore caricamento font {FONT_PATH}: {e}")
-            font = ImageFont.load_default() # Fallback solo se proprio il file è rotto
+        except:
+            font = ImageFont.load_default()
 
-        text = episode_text
-        # text = f"EP {episode_text}" # Decommenta se vuoi "EP 12"
-        
+        # Testi badge
+        episode_text = f"EP {episode_text}"
+        rating_text = f"{rating}"
+
         draw = ImageDraw.Draw(img)
-        left, top, right, bottom = draw.textbbox((0, 0), text, font=font)
-        text_w = right - left
-        text_h = bottom - top
+
+        # CARICO LA STELLA PNG
+        star_path = "assets/star.png"
+        star_icon = Image.open(star_path).convert("RGBA")
+
+        # Ridimensiono la stella all’altezza del testo
+        icon_h = int(font_size * 1.2)
+        star_icon = star_icon.resize((icon_h, icon_h), Image.LANCZOS)
+
+        # Calcolo larghezza testo rating
+        _, _, rt_w, rt_h = draw.textbbox((0, 0), rating_text, font=font)
         
-        # Padding
-        padding_x = 25
-        padding_y = 15
-        margin_right = 15
-        margin_bottom = 15
+        pad_x = 25
+        pad_y = 15
+        margin = 15
 
-        x2 = width - margin_right
-        y2 = height - margin_bottom
-        x1 = x2 - text_w - (padding_x * 2)
-        y1 = y2 - text_h - (padding_y * 2)
+        badge_h = max(rt_h, star_icon.height)
 
-        # Sfondo nero
-        overlay = Image.new('RGBA', img.size, (0,0,0,0))
+        # === BADGE EPISODIO (DESTRA) ===
+        _, _, ep_w, ep_h = draw.textbbox((0, 0), episode_text, font=font)
+
+        x2_ep = width - margin
+        y2_ep = height - margin
+        x1_ep = x2_ep - (ep_w + pad_x * 2)
+        y1_ep = y2_ep - (badge_h + pad_y * 2)
+
+        # === BADGE RATING (SINISTRA) ===
+        rating_box_w = rt_w + star_icon.width + pad_x * 3   # spazio per icona + testo
+        x2_rating = x1_ep - 10
+        x1_rating = x2_rating - rating_box_w
+        y1_rating = y1_ep
+        y2_rating = y2_ep
+
+        # Overlay
+        overlay = Image.new("RGBA", img.size, (0,0,0,0))
         draw_overlay = ImageDraw.Draw(overlay)
-        # Raggio della curvatura (più alto = più tondo)
-        radius = 20 
+        radius = 20
 
-        # Usa rounded_rectangle invece di rectangle
-        draw_overlay.rounded_rectangle([x1, y1, x2, y2], radius=radius, fill=(0, 0, 0, 200))
-        
+        # Badge rating
+        draw_overlay.rounded_rectangle(
+            [x1_rating, y1_rating, x2_rating, y2_rating],
+            radius=radius, fill=(0, 0, 0, 200)
+        )
+
+        # Badge episodio
+        draw_overlay.rounded_rectangle(
+            [x1_ep, y1_ep, x2_ep, y2_ep],
+            radius=radius, fill=(0, 0, 0, 200)
+        )
+
         img = Image.alpha_composite(img, overlay)
         draw = ImageDraw.Draw(img)
-        
-        # Testo bianco centrato
-        text_x = x1 + padding_x
-        text_y = y1 + padding_y - (top * 0.15)
-        
-        draw.text((text_x, text_y), text, font=font, fill=(255, 255, 255, 255))
+
+        ### DISEGNO DELLA STELLA NEL BADGE ###
+        star_x = x1_rating + pad_x
+        star_y = y1_rating + pad_y
+        img.paste(star_icon, (star_x, star_y), star_icon)
+
+        ### DISEGNO TESTO DEL RATING ###
+        text_x = star_x + star_icon.width + pad_x
+        text_y = y1_rating + pad_y
+        draw.text((text_x, text_y), rating_text, font=font, fill=(255,255,255,255))
+
+        ### DISEGNO TESTO EPISODIO ###
+        draw.text(
+            (x1_ep + pad_x, y1_ep + pad_y),
+            episode_text,
+            font=font,
+            fill=(255, 255, 255, 255)
+        )
 
         img.convert("RGB").save(local_path, "JPEG", quality=95)
 
@@ -178,10 +214,34 @@ def cached_kitsu_search(title):
 
 def process_single_item(item):
     try:
+
+        a_tag = item.select_one('a.poster')
+        if not a_tag:
+            return None
+
+        # --- Estraggo tooltip URL ---
+        tooltip_path = a_tag.get("data-tip")
+        rating = None
+
+        if tooltip_path:
+            api_url = "https://www.animeworld.ac/" + tooltip_path.lstrip("/")
+            r = requests.get(api_url, headers={'User-Agent': 'Mozilla/5.0'})
+            tooltip_soup = BeautifulSoup(r.text, "html.parser")
+
+            # --- Estraggo il voto ---
+            for meta in tooltip_soup.select(".meta"):
+                label = meta.select_one("label")
+                if label and "Voto" in label.text:
+                    span = meta.select_one("span")
+                    if span:
+                        rating = span.text.strip()
+                    break
+
         title_tag = item.select_one('.name')
         if not title_tag: return None
         
         english_title = title_tag.get_text(strip=True)
+        print("Titolo in inglese:", english_title)
         japanese_title = title_tag.get("data-jtitle")
         ep_tag = item.select_one('.ep')
         episode = ep_tag.get_text(strip=True) if ep_tag else "?"
@@ -208,15 +268,16 @@ def process_single_item(item):
         episode_text = episode.replace(" ", "_")
         image_filename = f"{kitsu_id.replace(':', '_')}_{episode_text}.jpg"
         
-        final_poster_url = add_episode_badge(base_poster, episode, image_filename)
+        final_poster_url = add_episode_badge(base_poster, episode, image_filename, rating)
 
         return {
             "id": kitsu_id,
-            "type": "series",
+            "type": "anime",
             "name": raw_primary,
             "poster": final_poster_url,
             "description": f"Nuovo episodio: {episode}",
-            "posterShape": "poster"
+            "posterShape": "poster",
+            "rating": rating
         }
     except Exception:
         return None
