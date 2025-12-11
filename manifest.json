@@ -4,7 +4,9 @@
     "name": "AnimeWorld Novit\u00e0 (Kitsu)",
     "description": "Ultimi episodi usando metadati Kitsu (compatibile con Torrentio)",
     "resources": [
-        "catalog"
+        "catalog",
+        "meta",
+        "stream"
     ],
     "types": [
         "series",
