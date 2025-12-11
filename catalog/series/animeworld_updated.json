@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:50196",
+            "type": "series",
+            "name": "Potion, Wagami wo Tasukeru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50196_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "4.28"
+        },
+        {
             "id": "kitsu:49297",
             "type": "series",
             "name": "Akujiki Reijou to Kyouketsu Koushaku",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49297_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "5.98"
+            "rating": "5.99"
         },
         {
             "id": "kitsu:49466",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49466_Ep_23.jpg",
             "description": "Nuovo episodio: Ep 23",
             "posterShape": "poster",
-            "rating": "4.79"
+            "rating": "4.78"
         },
         {
             "id": "kitsu:49872",
@@ -187,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49928_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "5.08"
+            "rating": "5.09"
         },
         {
             "id": "kitsu:3694",
@@ -296,15 +305,6 @@
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "7.46"
-        },
-        {
-            "id": "kitsu:47198",
-            "type": "series",
-            "name": "3-nen Z-gumi Ginpachi-sensei",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47198_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "4.75"
         }
     ]
 }
