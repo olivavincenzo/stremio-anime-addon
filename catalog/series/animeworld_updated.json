@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:49297",
+            "type": "series",
+            "name": "Akujiki Reijou to Kyouketsu Koushaku",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49297_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "5.98"
+        },
+        {
             "id": "kitsu:49466",
             "type": "series",
             "name": "Futari Solo Camp",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49872_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "5.58"
+            "rating": "5.55"
         },
         {
             "id": "kitsu:50008",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49418_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "4.97"
+            "rating": "4.99"
         },
         {
             "id": "kitsu:8340",
@@ -124,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49669_Ep_15.jpg",
             "description": "Nuovo episodio: Ep 15",
             "posterShape": "poster",
-            "rating": "8.26"
+            "rating": "8.28"
         },
         {
             "id": "kitsu:48058",
@@ -133,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48058_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.20"
+            "rating": "6.21"
         },
         {
             "id": "kitsu:48056",
@@ -296,15 +305,6 @@
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "4.75"
-        },
-        {
-            "id": "kitsu:48237",
-            "type": "series",
-            "name": "Debu to Love to Ayamachi to!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48237_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "3.36"
         }
     ]
 }
