@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:47069",
+            "type": "series",
+            "name": "Guilty Hole",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47069_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "5.76"
+        },
+        {
             "id": "kitsu:50196",
             "type": "series",
             "name": "Potion, Wagami wo Tasukeru",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50008_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "6.57"
+            "rating": "6.56"
         },
         {
             "id": "kitsu:49931",
@@ -241,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48190_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "7.84"
+            "rating": "7.85"
         },
         {
             "id": "kitsu:49496",
@@ -287,24 +296,6 @@
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
             "rating": "5.76"
-        },
-        {
-            "id": "kitsu:49927",
-            "type": "series",
-            "name": "Sozai Saishuka no Isekai Ryokouki",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49927_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "6.12"
-        },
-        {
-            "id": "kitsu:49567",
-            "type": "series",
-            "name": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49567_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "7.46"
         }
     ]
 }
