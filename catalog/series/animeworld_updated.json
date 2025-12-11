@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:49931",
+            "type": "series",
+            "name": "Watashi wo Tabetai, Hitodenashi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49931_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "4.96"
+        },
+        {
+            "id": "kitsu:49418",
+            "type": "series",
+            "name": "Bukiyou na Senpai.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49418_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "4.97"
+        },
+        {
             "id": "kitsu:8340",
             "type": "series",
             "name": "Lupin the 3rd: Zenigata and the Two Lupins (ITA)",
@@ -16,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48476_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.90"
+            "rating": "6.78"
         },
         {
             "id": "kitsu:49191",
@@ -79,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49669_Ep_15.jpg",
             "description": "Nuovo episodio: Ep 15",
             "posterShape": "poster",
-            "rating": "8.25"
+            "rating": "8.24"
         },
         {
             "id": "kitsu:48058",
@@ -88,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48058_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.21"
+            "rating": "6.20"
         },
         {
             "id": "kitsu:48056",
@@ -214,7 +232,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50193_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "5.96"
+            "rating": "5.98"
         },
         {
             "id": "kitsu:48947",
@@ -287,24 +305,6 @@
             "description": "Nuovo episodio: Ep 35",
             "posterShape": "poster",
             "rating": "5.64"
-        },
-        {
-            "id": "kitsu:48433",
-            "type": "series",
-            "name": "Egao no Taenai Shokuba desu.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48433_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "3.48"
-        },
-        {
-            "id": "kitsu:7545",
-            "type": "series",
-            "name": "Kuroko's Basketball 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_7545_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "7.10"
         }
     ]
 }
