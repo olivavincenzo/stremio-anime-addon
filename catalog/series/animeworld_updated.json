@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:49206",
+            "type": "series",
+            "name": "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49206_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "7.16"
+        },
+        {
+            "id": "kitsu:47963",
+            "type": "series",
+            "name": "Watari-kun no xx ga Houkai Sunzen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47963_Ep_24.jpg",
+            "description": "Nuovo episodio: Ep 24",
+            "posterShape": "poster",
+            "rating": "5.49"
+        },
+        {
+            "id": "kitsu:49374",
+            "type": "series",
+            "name": "Shabake",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49374_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "3.58"
+        },
+        {
             "id": "kitsu:48834",
             "type": "series",
             "name": "Tougen Anki (ITA)",
@@ -16,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49337_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.53"
+            "rating": "7.54"
         },
         {
             "id": "kitsu:50317",
@@ -34,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49191_Ep_24.jpg",
             "description": "Nuovo episodio: Ep 24",
             "posterShape": "poster",
-            "rating": "7.04"
+            "rating": "7.06"
         },
         {
             "id": "kitsu:49070",
@@ -52,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47069_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.77"
+            "rating": "5.76"
         },
         {
             "id": "kitsu:50196",
@@ -187,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49669_Ep_15.jpg",
             "description": "Nuovo episodio: Ep 15",
             "posterShape": "poster",
-            "rating": "8.25"
+            "rating": "8.29"
         },
         {
             "id": "kitsu:48058",
@@ -269,24 +296,6 @@
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "4.82"
-        },
-        {
-            "id": "kitsu:49122",
-            "type": "series",
-            "name": "Chitose-kun wa Ramune Bin no Naka",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49122_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "5.33"
-        },
-        {
-            "id": "kitsu:48190",
-            "type": "series",
-            "name": "Tondemo Skill de Isekai Hourou Meshi 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48190_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "7.85"
         }
     ]
 }
