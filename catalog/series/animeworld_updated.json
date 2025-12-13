@@ -1,6 +1,42 @@
 {
     "metas": [
         {
+            "id": "kitsu:49291",
+            "type": "series",
+            "name": "Ranma ½ (2024) 2 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49291_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "6.76"
+        },
+        {
+            "id": "kitsu:49433",
+            "type": "series",
+            "name": "Ranma ½ (2024) 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49433_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "7.12"
+        },
+        {
+            "id": "kitsu:44019",
+            "type": "series",
+            "name": "Tomodachi no Imouto ga Ore ni dake Uzai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44019_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "5.62"
+        },
+        {
+            "id": "kitsu:50149",
+            "type": "series",
+            "name": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50149_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "6.37"
+        },
+        {
             "id": "kitsu:49929",
             "type": "series",
             "name": "Gnosia",
@@ -34,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49651_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "6.06"
+            "rating": "6.08"
         },
         {
             "id": "kitsu:49715",
@@ -52,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48939_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "8.16"
+            "rating": "8.17"
         },
         {
             "id": "kitsu:49147",
@@ -61,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49147_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.76"
+            "rating": "6.77"
         },
         {
             "id": "kitsu:49676",
@@ -97,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49279_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "8.14"
+            "rating": "8.15"
         },
         {
             "id": "kitsu:10265",
@@ -151,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48834_Ep_22.jpg",
             "description": "Nuovo episodio: Ep 22",
             "posterShape": "poster",
-            "rating": "7.21"
+            "rating": "7.18"
         },
         {
             "id": "kitsu:49337",
@@ -277,34 +313,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48476_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.65"
-        },
-        {
-            "id": "kitsu:50195",
-            "type": "series",
-            "name": "Let's Play: Quest-darake no My Life",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50195_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "4.34"
-        },
-        {
-            "id": "kitsu:49145",
-            "type": "series",
-            "name": "WanDance",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49145_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "4.89"
-        },
-        {
-            "id": "kitsu:48546",
-            "type": "series",
-            "name": "Tensei Akujo no Kuro Rekishi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48546_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "5.27"
+            "rating": "6.63"
         }
     ]
 }
