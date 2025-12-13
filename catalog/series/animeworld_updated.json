@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:49279",
+            "type": "series",
+            "name": "My Hero Academia: Final Season",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49279_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "8.10"
+        },
+        {
             "id": "kitsu:10265",
             "type": "series",
             "name": "Sanda (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10265_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "5.72"
+            "rating": "5.71"
         },
         {
             "id": "kitsu:49026",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49026_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "5.28"
+            "rating": "5.29"
         },
         {
             "id": "kitsu:49206",
@@ -287,15 +296,6 @@
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "5.03"
-        },
-        {
-            "id": "kitsu:3694",
-            "type": "series",
-            "name": "Ninja to Gokudou (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3694_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "5.04"
         }
     ]
 }
