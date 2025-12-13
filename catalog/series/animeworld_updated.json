@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:49147",
+            "type": "series",
+            "name": "Yasei no Last Boss ga Arawareta!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49147_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "6.73"
+        },
+        {
+            "id": "kitsu:49676",
+            "type": "series",
+            "name": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49676_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "4.87"
+        },
+        {
+            "id": "kitsu:48648",
+            "type": "series",
+            "name": "Kekkon Yubiwa Monogatari 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48648_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "4.89"
+        },
+        {
             "id": "kitsu:48057",
             "type": "series",
             "name": "Xing Chen Bian 6",
@@ -16,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49279_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "8.11"
+            "rating": "8.12"
         },
         {
             "id": "kitsu:10265",
@@ -43,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49206_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.13"
+            "rating": "7.12"
         },
         {
             "id": "kitsu:47963",
@@ -160,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50008_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "6.55"
+            "rating": "6.54"
         },
         {
             "id": "kitsu:49931",
@@ -178,7 +205,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49418_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "5.00"
+            "rating": "4.99"
         },
         {
             "id": "kitsu:8340",
@@ -250,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49669_Ep_15.jpg",
             "description": "Nuovo episodio: Ep 15",
             "posterShape": "poster",
-            "rating": "8.35"
+            "rating": "8.40"
         },
         {
             "id": "kitsu:48058",
@@ -259,7 +286,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48058_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.20"
+            "rating": "6.19"
         },
         {
             "id": "kitsu:48056",
@@ -269,24 +296,6 @@
             "description": "Nuovo episodio: Ep 17",
             "posterShape": "poster",
             "rating": "8.00"
-        },
-        {
-            "id": "kitsu:45320",
-            "type": "series",
-            "name": "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45320_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "4.36"
-        },
-        {
-            "id": "kitsu:48216",
-            "type": "series",
-            "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48216_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.65"
         }
     ]
 }
