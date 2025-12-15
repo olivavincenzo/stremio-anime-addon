@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:48237",
+            "type": "series",
+            "name": "Debu to Love to Ayamachi to!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48237_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "3.28"
+        },
+        {
             "id": "kitsu:43114",
             "type": "series",
             "name": "Isekai Quartet 3",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_43114_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.08"
+            "rating": "6.10"
         },
         {
             "id": "kitsu:49312",
@@ -79,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48448_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "5.83"
+            "rating": "5.84"
         },
         {
             "id": "kitsu:49538",
