@@ -1,13 +1,31 @@
 {
     "metas": [
         {
+            "id": "kitsu:47198",
+            "type": "series",
+            "name": "3-nen Z-gumi Ginpachi-sensei",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47198_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "4.78"
+        },
+        {
+            "id": "kitsu:49927",
+            "type": "series",
+            "name": "Sozai Saishuka no Isekai Ryokouki",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49927_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "6.08"
+        },
+        {
             "id": "kitsu:48237",
             "type": "series",
             "name": "Debu to Love to Ayamachi to!",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48237_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "3.28"
+            "rating": "3.29"
         },
         {
             "id": "kitsu:43114",
@@ -106,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50194_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "4.68"
+            "rating": "4.69"
         },
         {
             "id": "kitsu:49120",
@@ -268,7 +286,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49651_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "6.20"
+            "rating": "6.21"
         },
         {
             "id": "kitsu:49715",
@@ -296,24 +314,6 @@
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "4.87"
-        },
-        {
-            "id": "kitsu:48648",
-            "type": "series",
-            "name": "Kekkon Yubiwa Monogatari 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48648_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "4.87"
-        },
-        {
-            "id": "kitsu:48057",
-            "type": "series",
-            "name": "Xing Chen Bian 6",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48057_Ep_20.jpg",
-            "description": "Nuovo episodio: Ep 20",
-            "posterShape": "poster",
-            "rating": "6.85"
         }
     ]
 }
