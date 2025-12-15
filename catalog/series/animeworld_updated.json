@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:49312",
+            "type": "series",
+            "name": "Jibi Eopseo",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49312_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "1.40"
+        },
+        {
+            "id": "kitsu:48433",
+            "type": "series",
+            "name": "Egao no Taenai Shokuba desu.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48433_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "3.36"
+        },
+        {
             "id": "kitsu:7545",
             "type": "series",
             "name": "Kuroko's Basketball 2 (ITA)",
@@ -70,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50194_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "4.67"
+            "rating": "4.69"
         },
         {
             "id": "kitsu:49120",
@@ -79,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49120_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "5.20"
+            "rating": "5.21"
         },
         {
             "id": "kitsu:48938",
@@ -278,24 +296,6 @@
             "description": "Nuovo episodio: Ep 20",
             "posterShape": "poster",
             "rating": "6.85"
-        },
-        {
-            "id": "kitsu:10265",
-            "type": "series",
-            "name": "Sanda (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10265_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "5.53"
-        },
-        {
-            "id": "kitsu:49026",
-            "type": "series",
-            "name": "Sanda",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49026_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "5.19"
         }
     ]
 }
