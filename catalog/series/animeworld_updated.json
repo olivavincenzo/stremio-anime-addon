@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:3694",
+            "type": "series",
+            "name": "Ninja to Gokudou (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3694_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "5.04"
+        },
+        {
+            "id": "kitsu:49926",
+            "type": "series",
+            "name": "Ninja to Gokudou",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49926_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "4.47"
+        },
+        {
+            "id": "kitsu:49928",
+            "type": "series",
+            "name": "Yano-kun no Futsuu no Hibi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49928_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "4.93"
+        },
+        {
             "id": "kitsu:49122",
             "type": "series",
             "name": "Chitose-kun wa Ramune Bin no Naka",
@@ -232,7 +259,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50106_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.63"
+            "rating": "6.70"
         },
         {
             "id": "kitsu:47161",
@@ -296,33 +323,6 @@
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "6.81"
-        },
-        {
-            "id": "kitsu:49433",
-            "type": "series",
-            "name": "Ranma ½ (2024) 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49433_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "7.16"
-        },
-        {
-            "id": "kitsu:44019",
-            "type": "series",
-            "name": "Tomodachi no Imouto ga Ore ni dake Uzai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44019_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "5.61"
-        },
-        {
-            "id": "kitsu:50149",
-            "type": "series",
-            "name": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50149_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "6.31"
         }
     ]
 }
