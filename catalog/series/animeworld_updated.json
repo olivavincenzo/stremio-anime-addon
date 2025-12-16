@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:49122",
+            "type": "series",
+            "name": "Chitose-kun wa Ramune Bin no Naka",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49122_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "5.25"
+        },
+        {
             "id": "kitsu:48190",
             "type": "series",
             "name": "Tondemo Skill de Isekai Hourou Meshi 2",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50006_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.11"
+            "rating": "6.16"
         },
         {
             "id": "kitsu:49360",
@@ -79,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49927_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.13"
+            "rating": "6.14"
         },
         {
             "id": "kitsu:48237",
@@ -142,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50186_Ep_14.jpg",
             "description": "Nuovo episodio: Ep 14",
             "posterShape": "poster",
-            "rating": "6.69"
+            "rating": "6.70"
         },
         {
             "id": "kitsu:12",
@@ -314,15 +323,6 @@
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "6.31"
-        },
-        {
-            "id": "kitsu:49929",
-            "type": "series",
-            "name": "Gnosia",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49929_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "4.48"
         }
     ]
 }
