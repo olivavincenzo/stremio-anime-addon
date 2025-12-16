@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:49312",
+            "type": "series",
+            "name": "Jibi Eopseo",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49312_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "4.53"
+        },
+        {
+            "id": "kitsu:50006",
+            "type": "series",
+            "name": "Uma Musume: Cinderella Gray Part 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50006_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "6.05"
+        },
+        {
             "id": "kitsu:49360",
             "type": "series",
             "name": "Anne Shirley (ITA)",
@@ -43,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49927_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.15"
+            "rating": "6.14"
         },
         {
             "id": "kitsu:48237",
@@ -62,15 +80,6 @@
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "6.14"
-        },
-        {
-            "id": "kitsu:49312",
-            "type": "series",
-            "name": "Jibi Eopseo",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49312_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "4.18"
         },
         {
             "id": "kitsu:48433",
@@ -305,24 +314,6 @@
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "3.71"
-        },
-        {
-            "id": "kitsu:49651",
-            "type": "series",
-            "name": "Nageki no Bourei wa Intai shitai Part 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49651_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "6.22"
-        },
-        {
-            "id": "kitsu:49715",
-            "type": "series",
-            "name": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49715_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "5.77"
         }
     ]
 }
