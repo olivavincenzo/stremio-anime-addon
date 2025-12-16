@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:49360",
+            "type": "series",
+            "name": "Anne Shirley (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49360_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "4.74"
+        },
+        {
+            "id": "kitsu:50193",
+            "type": "series",
+            "name": "Sawaranaide Kotesashi-kun",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50193_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "5.99"
+        },
+        {
             "id": "kitsu:49567",
             "type": "series",
             "name": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
@@ -205,7 +223,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48939_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "8.38"
+            "rating": "8.39"
         },
         {
             "id": "kitsu:50203",
@@ -305,15 +323,6 @@
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "5.77"
-        },
-        {
-            "id": "kitsu:49147",
-            "type": "series",
-            "name": "Yasei no Last Boss ga Arawareta!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49147_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "6.84"
         }
     ]
 }
