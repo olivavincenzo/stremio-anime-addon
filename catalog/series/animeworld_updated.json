@@ -1,13 +1,31 @@
 {
     "metas": [
         {
+            "id": "kitsu:48190",
+            "type": "series",
+            "name": "Tondemo Skill de Isekai Hourou Meshi 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48190_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "7.85"
+        },
+        {
+            "id": "kitsu:49496",
+            "type": "series",
+            "name": "Kimi to Koete Koi ni Naru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49496_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "5.74"
+        },
+        {
             "id": "kitsu:49312",
             "type": "series",
             "name": "Jibi Eopseo",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49312_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "4.48"
+            "rating": "4.59"
         },
         {
             "id": "kitsu:50006",
@@ -16,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50006_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.09"
+            "rating": "6.11"
         },
         {
             "id": "kitsu:49360",
@@ -43,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49567_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.35"
+            "rating": "7.34"
         },
         {
             "id": "kitsu:47198",
@@ -305,15 +323,6 @@
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "4.48"
-        },
-        {
-            "id": "kitsu:49590",
-            "type": "series",
-            "name": "Shuumatsu Touring",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49590_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "3.70"
         }
     ]
 }
