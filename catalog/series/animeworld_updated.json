@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:50135",
+            "type": "series",
+            "name": "Heika Watashi wo Wasurete Kudasai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50135_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "4.72"
+        },
+        {
             "id": "kitsu:9978",
             "type": "series",
             "name": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_9978_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "10.00"
+            "rating": "9.00"
         },
         {
             "id": "kitsu:48216",
@@ -314,15 +323,6 @@
             "description": "Nuovo episodio: Ep 36",
             "posterShape": "poster",
             "rating": "5.64"
-        },
-        {
-            "id": "kitsu:48939",
-            "type": "series",
-            "name": "Spy x Family 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48939_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "8.36"
         }
     ]
 }
