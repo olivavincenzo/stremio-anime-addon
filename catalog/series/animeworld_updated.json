@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:48546",
+            "type": "series",
+            "name": "Tensei Akujo no Kuro Rekishi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48546_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "5.15"
+        },
+        {
+            "id": "kitsu:49145",
+            "type": "series",
+            "name": "WanDance",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49145_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "4.81"
+        },
+        {
+            "id": "kitsu:40580",
+            "type": "series",
+            "name": "Kakuriyo no Yadomeshi Ni",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_40580_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "4.74"
+        },
+        {
             "id": "kitsu:49312",
             "type": "series",
             "name": "Jibi Eopseo",
@@ -52,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50123_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "4.83"
+            "rating": "4.86"
         },
         {
             "id": "kitsu:48972",
@@ -232,7 +259,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50186_Ep_14.jpg",
             "description": "Nuovo episodio: Ep 14",
             "posterShape": "poster",
-            "rating": "6.67"
+            "rating": "6.68"
         },
         {
             "id": "kitsu:12",
@@ -296,24 +323,6 @@
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "4.23"
-        },
-        {
-            "id": "kitsu:49700",
-            "type": "series",
-            "name": "Digimon Beatbreak",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "4.12"
-        },
-        {
-            "id": "kitsu:50106",
-            "type": "series",
-            "name": "Xian Wang de Richang Shenghuo 5",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50106_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "6.49"
         }
     ]
 }
