@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:49312",
+            "type": "series",
+            "name": "Jibi Eopseo",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49312_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "4.97"
+        },
+        {
             "id": "kitsu:45320",
             "type": "series",
             "name": "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45320_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "4.28"
+            "rating": "4.29"
         },
         {
             "id": "kitsu:50135",
@@ -79,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49928_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.03"
+            "rating": "5.04"
         },
         {
             "id": "kitsu:49122",
@@ -107,15 +116,6 @@
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "5.71"
-        },
-        {
-            "id": "kitsu:49312",
-            "type": "series",
-            "name": "Jibi Eopseo",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49312_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "4.97"
         },
         {
             "id": "kitsu:50006",
@@ -169,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49927_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.12"
+            "rating": "6.11"
         },
         {
             "id": "kitsu:48237",
@@ -314,15 +314,6 @@
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
             "rating": "6.49"
-        },
-        {
-            "id": "kitsu:47161",
-            "type": "series",
-            "name": "Fumetsu no Anata e 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47161_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "5.14"
         }
     ]
 }
