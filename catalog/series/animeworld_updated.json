@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:49466",
+            "type": "series",
+            "name": "Futari Solo Camp",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49466_Ep_24.jpg",
+            "description": "Nuovo episodio: Ep 24",
+            "posterShape": "poster",
+            "rating": "4.75"
+        },
+        {
+            "id": "kitsu:49872",
+            "type": "series",
+            "name": "Taiyou yori mo Mabushii Hoshi (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49872_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "5.20"
+        },
+        {
+            "id": "kitsu:50008",
+            "type": "series",
+            "name": "Towa no Yuugure",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50008_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "6.50"
+        },
+        {
             "id": "kitsu:49931",
             "type": "series",
             "name": "Watashi wo Tabetai, Hitodenashi",
@@ -43,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50195_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "4.37"
+            "rating": "4.36"
         },
         {
             "id": "kitsu:48546",
@@ -61,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49145_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "4.82"
+            "rating": "4.83"
         },
         {
             "id": "kitsu:40580",
@@ -97,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_9978_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "5.70"
+            "rating": "5.58"
         },
         {
             "id": "kitsu:48216",
@@ -296,24 +323,6 @@
             "description": "Nuovo episodio: Ep 14",
             "posterShape": "poster",
             "rating": "6.68"
-        },
-        {
-            "id": "kitsu:12",
-            "type": "series",
-            "name": "One Piece",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12_Ep_1153.jpg",
-            "description": "Nuovo episodio: Ep 1153",
-            "posterShape": "poster",
-            "rating": "8.38"
-        },
-        {
-            "id": "kitsu:48448",
-            "type": "series",
-            "name": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48448_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "5.82"
         }
     ]
 }
