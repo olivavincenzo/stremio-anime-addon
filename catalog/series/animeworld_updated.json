@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:50317",
+            "type": "series",
+            "name": "Cengjing You Yongshi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50317_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "6.31"
+        },
+        {
             "id": "kitsu:50196",
             "type": "series",
             "name": "Potion, Wagami wo Tasukeru",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50196_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "4.45"
+            "rating": "4.44"
         },
         {
             "id": "kitsu:49070",
@@ -52,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50008_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.47"
+            "rating": "6.48"
         },
         {
             "id": "kitsu:49931",
@@ -70,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49418_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.07"
+            "rating": "5.08"
         },
         {
             "id": "kitsu:49312",
@@ -214,7 +223,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49122_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.23"
+            "rating": "5.24"
         },
         {
             "id": "kitsu:48190",
@@ -314,15 +323,6 @@
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "3.40"
-        },
-        {
-            "id": "kitsu:7545",
-            "type": "series",
-            "name": "Kuroko's Basketball 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_7545_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "6.96"
         }
     ]
 }
