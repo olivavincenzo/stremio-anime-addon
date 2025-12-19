@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:49377",
+            "type": "series",
+            "name": "Kimi to Idol Precure ♪",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49377_Ep_44.jpg",
+            "description": "Nuovo episodio: Ep 44",
+            "posterShape": "poster",
+            "rating": "4.44"
+        },
+        {
             "id": "kitsu:10265",
             "type": "series",
             "name": "Sanda (ITA)",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49026_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.21"
+            "rating": "5.22"
         },
         {
             "id": "kitsu:49206",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49206_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "7.01"
+            "rating": "7.02"
         },
         {
             "id": "kitsu:47963",
@@ -160,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49418_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.10"
+            "rating": "5.09"
         },
         {
             "id": "kitsu:49191",
@@ -169,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49191_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.18"
+            "rating": "7.20"
         },
         {
             "id": "kitsu:50195",
@@ -178,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50195_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "4.42"
+            "rating": "4.43"
         },
         {
             "id": "kitsu:48546",
@@ -305,15 +314,6 @@
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "7.84"
-        },
-        {
-            "id": "kitsu:49496",
-            "type": "series",
-            "name": "Kimi to Koete Koi ni Naru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49496_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "5.75"
         }
     ]
 }
