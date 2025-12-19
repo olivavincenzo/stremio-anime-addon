@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:48056",
+            "type": "series",
+            "name": "Yi Nian Yong Heng 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48056_Ep_19.jpg",
+            "description": "Nuovo episodio: Ep 19",
+            "posterShape": "poster",
+            "rating": "8.00"
+        },
+        {
+            "id": "kitsu:49312",
+            "type": "series",
+            "name": "Jibi Eopseo",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49312_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "5.44"
+        },
+        {
             "id": "kitsu:50317",
             "type": "series",
             "name": "Cengjing You Yongshi",
@@ -16,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50196_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "4.51"
+            "rating": "4.53"
         },
         {
             "id": "kitsu:49070",
@@ -25,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49070_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.94"
+            "rating": "7.03"
         },
         {
             "id": "kitsu:49297",
@@ -79,16 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49418_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.08"
-        },
-        {
-            "id": "kitsu:49312",
-            "type": "series",
-            "name": "Jibi Eopseo",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49312_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "5.44"
+            "rating": "5.09"
         },
         {
             "id": "kitsu:49191",
@@ -305,24 +314,6 @@
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "3.30"
-        },
-        {
-            "id": "kitsu:43114",
-            "type": "series",
-            "name": "Isekai Quartet 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_43114_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "6.20"
-        },
-        {
-            "id": "kitsu:48433",
-            "type": "series",
-            "name": "Egao no Taenai Shokuba desu.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48433_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "3.40"
         }
     ]
 }
