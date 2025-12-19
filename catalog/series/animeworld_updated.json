@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:50196",
+            "type": "series",
+            "name": "Potion, Wagami wo Tasukeru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50196_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "4.41"
+        },
+        {
             "id": "kitsu:49070",
             "type": "series",
             "name": "Jigoku Sensei Nube (2025) (ITA)",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50008_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.48"
+            "rating": "6.47"
         },
         {
             "id": "kitsu:49931",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49418_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.03"
+            "rating": "5.04"
         },
         {
             "id": "kitsu:49312",
@@ -314,15 +323,6 @@
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
             "rating": "6.96"
-        },
-        {
-            "id": "kitsu:46360",
-            "type": "series",
-            "name": "One Punch Man 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46360_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "5.63"
         }
     ]
 }
