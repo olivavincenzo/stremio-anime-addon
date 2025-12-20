@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:48648",
+            "type": "series",
+            "name": "Kekkon Yubiwa Monogatari 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48648_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "4.81"
+        },
+        {
+            "id": "kitsu:49676",
+            "type": "series",
+            "name": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49676_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "4.89"
+        },
+        {
             "id": "kitsu:49377",
             "type": "series",
             "name": "Kimi to Idol Precure ♪",
@@ -16,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10265_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.51"
+            "rating": "5.49"
         },
         {
             "id": "kitsu:49026",
@@ -25,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49026_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.32"
+            "rating": "5.34"
         },
         {
             "id": "kitsu:49206",
@@ -61,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48834_Ep_23.jpg",
             "description": "Nuovo episodio: Ep 23",
             "posterShape": "poster",
-            "rating": "6.93"
+            "rating": "6.92"
         },
         {
             "id": "kitsu:49337",
@@ -142,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49872_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.52"
+            "rating": "5.53"
         },
         {
             "id": "kitsu:50008",
@@ -296,24 +314,6 @@
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
             "rating": "5.08"
-        },
-        {
-            "id": "kitsu:49122",
-            "type": "series",
-            "name": "Chitose-kun wa Ramune Bin no Naka",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49122_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "5.25"
-        },
-        {
-            "id": "kitsu:48190",
-            "type": "series",
-            "name": "Tondemo Skill de Isekai Hourou Meshi 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48190_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "7.84"
         }
     ]
 }
