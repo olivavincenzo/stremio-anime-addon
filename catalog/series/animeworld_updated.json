@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:49769",
+            "type": "series",
+            "name": "Ao no Miburo: Serizawa Ansatsu-hen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49769_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "8.00"
+        },
+        {
+            "id": "kitsu:48939",
+            "type": "series",
+            "name": "Spy x Family 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48939_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "8.18"
+        },
+        {
+            "id": "kitsu:49715",
+            "type": "series",
+            "name": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49715_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "5.77"
+        },
+        {
             "id": "kitsu:48648",
             "type": "series",
             "name": "Kekkon Yubiwa Monogatari 2",
@@ -16,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49676_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "4.89"
+            "rating": "4.90"
         },
         {
             "id": "kitsu:49377",
@@ -88,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49337_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.54"
+            "rating": "7.55"
         },
         {
             "id": "kitsu:48056",
@@ -169,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50008_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.51"
+            "rating": "6.52"
         },
         {
             "id": "kitsu:49931",
@@ -287,33 +314,6 @@
             "description": "Nuovo episodio: Ep 31",
             "posterShape": "poster",
             "rating": "3.69"
-        },
-        {
-            "id": "kitsu:3694",
-            "type": "series",
-            "name": "Ninja to Gokudou (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3694_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "5.26"
-        },
-        {
-            "id": "kitsu:49926",
-            "type": "series",
-            "name": "Ninja to Gokudou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49926_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "4.58"
-        },
-        {
-            "id": "kitsu:49928",
-            "type": "series",
-            "name": "Yano-kun no Futsuu no Hibi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49928_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "5.08"
         }
     ]
 }
