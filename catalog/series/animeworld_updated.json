@@ -1,13 +1,31 @@
 {
     "metas": [
         {
+            "id": "kitsu:50186",
+            "type": "series",
+            "name": "Mofa Gongzhu de Xiao Fannao",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50186_Ep_15.jpg",
+            "description": "Nuovo episodio: Ep 15",
+            "posterShape": "poster",
+            "rating": "6.67"
+        },
+        {
+            "id": "kitsu:46360",
+            "type": "series",
+            "name": "One Punch Man 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46360_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "5.28"
+        },
+        {
             "id": "kitsu:45728",
             "type": "series",
             "name": "Chang Ge Xing",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45728_Ep_16.jpg",
             "description": "Nuovo episodio: Ep 16",
             "posterShape": "poster",
-            "rating": "1.00"
+            "rating": "4.50"
         },
         {
             "id": "kitsu:48946",
@@ -43,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49120_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.28"
+            "rating": "5.27"
         },
         {
             "id": "kitsu:48070",
@@ -61,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "4.12"
+            "rating": "4.10"
         },
         {
             "id": "kitsu:47161",
@@ -79,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48939_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "8.40"
+            "rating": "8.39"
         },
         {
             "id": "kitsu:49279",
@@ -124,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44019_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.68"
+            "rating": "5.69"
         },
         {
             "id": "kitsu:49871",
@@ -142,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49291_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.94"
+            "rating": "6.93"
         },
         {
             "id": "kitsu:49433",
@@ -241,7 +259,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49026_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.43"
+            "rating": "5.44"
         },
         {
             "id": "kitsu:50405",
@@ -296,24 +314,6 @@
             "description": "Nuovo episodio: Ep 19",
             "posterShape": "poster",
             "rating": "8.00"
-        },
-        {
-            "id": "kitsu:49312",
-            "type": "series",
-            "name": "Jibi Eopseo",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49312_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "5.74"
-        },
-        {
-            "id": "kitsu:50317",
-            "type": "series",
-            "name": "Cengjing You Yongshi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50317_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "6.33"
         }
     ]
 }
