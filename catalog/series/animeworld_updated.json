@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:45728",
+            "type": "series",
+            "name": "Chang Ge Xing",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45728_Ep_16.jpg",
+            "description": "Nuovo episodio: Ep 16",
+            "posterShape": "poster",
+            "rating": "1.00"
+        },
+        {
+            "id": "kitsu:48946",
+            "type": "series",
+            "name": "Gachiakuta (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48946_Ep_21.jpg",
+            "description": "Nuovo episodio: Ep 21",
+            "posterShape": "poster",
+            "rating": "7.84"
+        },
+        {
+            "id": "kitsu:48448",
+            "type": "series",
+            "name": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48448_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "5.86"
+        },
+        {
             "id": "kitsu:49538",
             "type": "series",
             "name": "Chanto Suenai Kyuuketsuki-chan",
@@ -16,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49120_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.27"
+            "rating": "5.28"
         },
         {
             "id": "kitsu:48070",
@@ -43,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47161_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.19"
+            "rating": "5.22"
         },
         {
             "id": "kitsu:48939",
@@ -97,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44019_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.69"
+            "rating": "5.68"
         },
         {
             "id": "kitsu:49871",
@@ -223,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50405_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "7.10"
+            "rating": "7.11"
         },
         {
             "id": "kitsu:47963",
@@ -287,42 +314,6 @@
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "6.33"
-        },
-        {
-            "id": "kitsu:50196",
-            "type": "series",
-            "name": "Potion, Wagami wo Tasukeru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50196_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "4.65"
-        },
-        {
-            "id": "kitsu:49070",
-            "type": "series",
-            "name": "Jigoku Sensei Nube (2025) (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49070_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.87"
-        },
-        {
-            "id": "kitsu:49297",
-            "type": "series",
-            "name": "Akujiki Reijou to Kyouketsu Koushaku",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49297_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "6.18"
-        },
-        {
-            "id": "kitsu:49466",
-            "type": "series",
-            "name": "Futari Solo Camp",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49466_Ep_24.jpg",
-            "description": "Nuovo episodio: Ep 24",
-            "posterShape": "poster",
-            "rating": "4.90"
         }
     ]
 }
