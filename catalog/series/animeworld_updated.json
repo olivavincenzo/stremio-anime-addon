@@ -34,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50106_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.45"
+            "rating": "6.49"
         },
         {
             "id": "kitsu:50203",
@@ -130,7 +130,7 @@
             "id": "kitsu:49715",
             "type": "series",
             "name": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
-            "poster": "https://media.kitsu.app/anime/49715/poster_image/medium-97a7dc96d49f2126d14242936f3b3efc.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49715_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
             "rating": "5.85"
