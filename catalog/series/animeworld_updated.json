@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:7545",
+            "type": "series",
+            "name": "Kuroko's Basketball 2 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_7545_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "7.00"
+        },
+        {
             "id": "kitsu:46360",
             "type": "series",
             "name": "One Punch Man 3 (ITA)",
@@ -97,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47161_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "4.99"
+            "rating": "4.96"
         },
         {
             "id": "kitsu:48939",
@@ -223,7 +232,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49715_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.87"
+            "rating": "5.88"
         },
         {
             "id": "kitsu:48648",
@@ -305,15 +314,6 @@
             "description": "Nuovo episodio: Ep 23",
             "posterShape": "poster",
             "rating": "6.94"
-        },
-        {
-            "id": "kitsu:49337",
-            "type": "series",
-            "name": "Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49337_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "7.53"
         }
     ]
 }
