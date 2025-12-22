@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:47198",
+            "type": "series",
+            "name": "3-nen Z-gumi Ginpachi-sensei",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47198_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "4.84"
+        },
+        {
             "id": "kitsu:48237",
             "type": "series",
             "name": "Debu to Love to Ayamachi to!",
@@ -97,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48448_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.93"
+            "rating": "5.94"
         },
         {
             "id": "kitsu:49538",
@@ -196,7 +205,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44019_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.63"
+            "rating": "5.64"
         },
         {
             "id": "kitsu:49871",
@@ -313,16 +322,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49026_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.42"
-        },
-        {
-            "id": "kitsu:50405",
-            "type": "series",
-            "name": "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50405_Ep_13.jpg",
-            "description": "Nuovo episodio: Ep 13",
-            "posterShape": "poster",
-            "rating": "7.12"
+            "rating": "5.43"
         }
     ]
 }
