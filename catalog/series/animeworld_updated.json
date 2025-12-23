@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:49360",
+            "type": "series",
+            "name": "Anne Shirley (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49360_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "3.88"
+        },
+        {
             "id": "kitsu:50006",
             "type": "series",
             "name": "Uma Musume: Cinderella Gray Part 2",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50006_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.31"
+            "rating": "6.33"
         },
         {
             "id": "kitsu:50193",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48237_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "3.33"
+            "rating": "3.34"
         },
         {
             "id": "kitsu:43114",
@@ -259,7 +268,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49433_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.30"
+            "rating": "7.29"
         },
         {
             "id": "kitsu:50149",
@@ -314,15 +323,6 @@
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
             "rating": "4.76"
-        },
-        {
-            "id": "kitsu:49676",
-            "type": "series",
-            "name": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49676_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "4.99"
         }
     ]
 }
