@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:48216",
+            "type": "series",
+            "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48216_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "7.71"
+        },
+        {
             "id": "kitsu:50135",
             "type": "series",
             "name": "Heika Watashi wo Wasurete Kudasai",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50135_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "4.80"
+            "rating": "4.79"
         },
         {
             "id": "kitsu:49377",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49926_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "4.69"
+            "rating": "4.71"
         },
         {
             "id": "kitsu:49122",
@@ -52,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48190_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.82"
+            "rating": "7.83"
         },
         {
             "id": "kitsu:49496",
@@ -223,7 +232,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49120_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.37"
+            "rating": "5.38"
         },
         {
             "id": "kitsu:48070",
@@ -323,15 +332,6 @@
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
             "rating": "6.95"
-        },
-        {
-            "id": "kitsu:49433",
-            "type": "series",
-            "name": "Ranma ½ (2024) 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49433_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "7.30"
         }
     ]
 }
