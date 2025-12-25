@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:7545",
+            "type": "series",
+            "name": "Kuroko's Basketball 2 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_7545_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "7.15"
+        },
+        {
             "id": "kitsu:49931",
             "type": "series",
             "name": "Watashi wo Tabetai, Hitodenashi",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49145_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "4.94"
+            "rating": "4.95"
         },
         {
             "id": "kitsu:49191",
@@ -70,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50135_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "4.78"
+            "rating": "4.76"
         },
         {
             "id": "kitsu:49377",
@@ -199,15 +208,6 @@
             "rating": "3.49"
         },
         {
-            "id": "kitsu:7545",
-            "type": "series",
-            "name": "Kuroko's Basketball 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_7545_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "7.04"
-        },
-        {
             "id": "kitsu:46360",
             "type": "series",
             "name": "One Punch Man 3 (ITA)",
@@ -305,15 +305,6 @@
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
             "rating": "4.80"
-        },
-        {
-            "id": "kitsu:48939",
-            "type": "series",
-            "name": "Spy x Family 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48939_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "8.57"
         }
     ]
 }
