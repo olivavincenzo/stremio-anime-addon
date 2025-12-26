@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:48464",
+            "type": "series",
+            "name": "Himitsu no AiPri: Ring-hen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48464_Ep_37.jpg",
+            "description": "Nuovo episodio: Ep 37",
+            "posterShape": "poster",
+            "rating": "5.64"
+        },
+        {
             "id": "kitsu:49363",
             "type": "series",
             "name": "Cat's♥Eye (ITA)",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49085_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.37"
+            "rating": "7.44"
         },
         {
             "id": "kitsu:7545",
@@ -70,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49312_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.76"
+            "rating": "5.73"
         },
         {
             "id": "kitsu:49145",
@@ -97,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48546_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.31"
+            "rating": "5.32"
         },
         {
             "id": "kitsu:48216",
