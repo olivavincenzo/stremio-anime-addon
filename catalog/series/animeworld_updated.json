@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:49070",
+            "type": "series",
+            "name": "Jigoku Sensei Nube (2025) (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49070_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.87"
+        },
+        {
+            "id": "kitsu:49085",
+            "type": "series",
+            "name": "Undead Unluck: Winter-hen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49085_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "7.92"
+        },
+        {
             "id": "kitsu:7545",
             "type": "series",
             "name": "Kuroko's Basketball 2 (ITA)",
@@ -16,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49931_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "4.85"
+            "rating": "4.87"
         },
         {
             "id": "kitsu:48057",
@@ -43,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49145_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "4.97"
+            "rating": "4.99"
         },
         {
             "id": "kitsu:49191",
@@ -79,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50135_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "4.75"
+            "rating": "4.77"
         },
         {
             "id": "kitsu:49377",
@@ -115,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49122_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "5.21"
+            "rating": "5.20"
         },
         {
             "id": "kitsu:48190",
@@ -124,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48190_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.84"
+            "rating": "7.85"
         },
         {
             "id": "kitsu:49496",
@@ -133,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49496_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "5.62"
+            "rating": "5.61"
         },
         {
             "id": "kitsu:49360",
@@ -160,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50193_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.08"
+            "rating": "6.06"
         },
         {
             "id": "kitsu:49567",
@@ -169,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49567_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.17"
+            "rating": "7.16"
         },
         {
             "id": "kitsu:47198",
@@ -223,7 +241,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12_Ep_1154.jpg",
             "description": "Nuovo episodio: Ep 1154",
             "posterShape": "poster",
-            "rating": "8.38"
+            "rating": "8.37"
         },
         {
             "id": "kitsu:50186",
@@ -287,24 +305,6 @@
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
             "rating": "4.28"
-        },
-        {
-            "id": "kitsu:49700",
-            "type": "series",
-            "name": "Digimon Beatbreak",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "4.09"
-        },
-        {
-            "id": "kitsu:47161",
-            "type": "series",
-            "name": "Fumetsu no Anata e 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47161_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "4.76"
         }
     ]
 }
