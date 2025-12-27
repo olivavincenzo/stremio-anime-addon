@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:7545",
+            "type": "series",
+            "name": "Kuroko's Basketball 2 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_7545_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "6.83"
+        },
+        {
             "id": "kitsu:48834",
             "type": "series",
             "name": "Tougen Anki (ITA)",
@@ -71,15 +80,6 @@
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
             "rating": "7.51"
-        },
-        {
-            "id": "kitsu:7545",
-            "type": "series",
-            "name": "Kuroko's Basketball 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_7545_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "6.83"
         },
         {
             "id": "kitsu:49931",
@@ -296,15 +296,6 @@
             "description": "Nuovo episodio: Ep 1154",
             "posterShape": "poster",
             "rating": "8.37"
-        },
-        {
-            "id": "kitsu:50186",
-            "type": "series",
-            "name": "Mofa Gongzhu de Xiao Fannao",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50186_Ep_15.jpg",
-            "description": "Nuovo episodio: Ep 15",
-            "posterShape": "poster",
-            "rating": "6.55"
         }
     ]
 }
