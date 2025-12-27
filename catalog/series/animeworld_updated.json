@@ -1,13 +1,40 @@
 {
     "metas": [
         {
+            "id": "kitsu:48464",
+            "type": "series",
+            "name": "Himitsu no AiPri: Ring-hen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48464_Ep_38.jpg",
+            "description": "Nuovo episodio: Ep 38",
+            "posterShape": "poster",
+            "rating": "5.64"
+        },
+        {
+            "id": "kitsu:7240",
+            "type": "series",
+            "name": "One Piece: Episode of Nami - Tears of a Navigator and the Bonds of Friends (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_7240_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "7.25"
+        },
+        {
+            "id": "kitsu:49769",
+            "type": "series",
+            "name": "Ao no Miburo: Serizawa Ansatsu-hen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49769_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "6.65"
+        },
+        {
             "id": "kitsu:50149",
             "type": "series",
             "name": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50149_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "6.43"
+            "rating": "6.42"
         },
         {
             "id": "kitsu:49929",
@@ -25,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47161_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "5.46"
+            "rating": "5.47"
         },
         {
             "id": "kitsu:48939",
@@ -34,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48939_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "8.24"
+            "rating": "8.25"
         },
         {
             "id": "kitsu:48648",
@@ -80,15 +107,6 @@
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
             "rating": "3.74"
-        },
-        {
-            "id": "kitsu:48464",
-            "type": "series",
-            "name": "Himitsu no AiPri: Ring-hen",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48464_Ep_37.jpg",
-            "description": "Nuovo episodio: Ep 37",
-            "posterShape": "poster",
-            "rating": "5.64"
         },
         {
             "id": "kitsu:49363",
@@ -278,42 +296,6 @@
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
             "rating": "6.06"
-        },
-        {
-            "id": "kitsu:49567",
-            "type": "series",
-            "name": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49567_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "7.16"
-        },
-        {
-            "id": "kitsu:47198",
-            "type": "series",
-            "name": "3-nen Z-gumi Ginpachi-sensei",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47198_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "4.98"
-        },
-        {
-            "id": "kitsu:48237",
-            "type": "series",
-            "name": "Debu to Love to Ayamachi to!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48237_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "3.33"
-        },
-        {
-            "id": "kitsu:43114",
-            "type": "series",
-            "name": "Isekai Quartet 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_43114_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "6.36"
         }
     ]
 }
