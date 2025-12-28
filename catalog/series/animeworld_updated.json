@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:48939",
+            "type": "series",
+            "name": "Spy x Family 3 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48939_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "8.56"
+        },
+        {
+            "id": "kitsu:48476",
+            "type": "series",
+            "name": "Nukitashi The Animation Specials",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48476_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.43"
+        },
+        {
+            "id": "kitsu:50106",
+            "type": "series",
+            "name": "Xian Wang de Richang Shenghuo 5",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50106_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.56"
+        },
+        {
             "id": "kitsu:49279",
             "type": "series",
             "name": "My Hero Academia Final Season (ITA)",
@@ -73,15 +100,6 @@
             "rating": "5.46"
         },
         {
-            "id": "kitsu:48939",
-            "type": "series",
-            "name": "Spy x Family 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48939_Ep_13.jpg",
-            "description": "Nuovo episodio: Ep 13",
-            "posterShape": "poster",
-            "rating": "8.26"
-        },
-        {
             "id": "kitsu:48648",
             "type": "series",
             "name": "Kekkon Yubiwa Monogatari 2",
@@ -115,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47963_Ep_26.jpg",
             "description": "Nuovo episodio: Ep 26",
             "posterShape": "poster",
-            "rating": "5.53"
+            "rating": "5.54"
         },
         {
             "id": "kitsu:49374",
@@ -269,33 +287,6 @@
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
             "rating": "5.21"
-        },
-        {
-            "id": "kitsu:48190",
-            "type": "series",
-            "name": "Tondemo Skill de Isekai Hourou Meshi 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48190_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "7.84"
-        },
-        {
-            "id": "kitsu:49496",
-            "type": "series",
-            "name": "Kimi to Koete Koi ni Naru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49496_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "5.63"
-        },
-        {
-            "id": "kitsu:49360",
-            "type": "series",
-            "name": "Anne Shirley (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49360_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "3.49"
         }
     ]
 }
