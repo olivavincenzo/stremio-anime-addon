@@ -1,6 +1,42 @@
 {
     "metas": [
         {
+            "id": "kitsu:50186",
+            "type": "series",
+            "name": "Mofa Gongzhu de Xiao Fannao",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50186_Ep_16.jpg",
+            "description": "Nuovo episodio: Ep 16",
+            "posterShape": "poster",
+            "rating": "6.55"
+        },
+        {
+            "id": "kitsu:46360",
+            "type": "series",
+            "name": "One Punch Man 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46360_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "5.15"
+        },
+        {
+            "id": "kitsu:48946",
+            "type": "series",
+            "name": "Gachiakuta (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48946_Ep_22.jpg",
+            "description": "Nuovo episodio: Ep 22",
+            "posterShape": "poster",
+            "rating": "7.80"
+        },
+        {
+            "id": "kitsu:49538",
+            "type": "series",
+            "name": "Chanto Suenai Kyuuketsuki-chan",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49538_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "4.71"
+        },
+        {
             "id": "kitsu:48939",
             "type": "series",
             "name": "Spy x Family 3 (ITA)",
@@ -16,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48476_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.49"
+            "rating": "6.50"
         },
         {
             "id": "kitsu:50106",
@@ -25,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50106_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.60"
+            "rating": "6.61"
         },
         {
             "id": "kitsu:49279",
@@ -43,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49861_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "7.26"
+            "rating": "7.29"
         },
         {
             "id": "kitsu:48464",
@@ -178,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49085_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.58"
+            "rating": "7.60"
         },
         {
             "id": "kitsu:49931",
@@ -214,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49145_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.03"
+            "rating": "5.04"
         },
         {
             "id": "kitsu:49191",
@@ -251,42 +287,6 @@
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
             "rating": "4.81"
-        },
-        {
-            "id": "kitsu:49377",
-            "type": "series",
-            "name": "Kimi to Idol Precure ♪",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49377_Ep_45.jpg",
-            "description": "Nuovo episodio: Ep 45",
-            "posterShape": "poster",
-            "rating": "4.52"
-        },
-        {
-            "id": "kitsu:3694",
-            "type": "series",
-            "name": "Ninja to Gokudou (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3694_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "5.50"
-        },
-        {
-            "id": "kitsu:49926",
-            "type": "series",
-            "name": "Ninja to Gokudou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49926_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "4.78"
-        },
-        {
-            "id": "kitsu:49122",
-            "type": "series",
-            "name": "Chitose-kun wa Ramune Bin no Naka",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49122_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "5.22"
         }
     ]
 }
