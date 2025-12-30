@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:49496",
+            "type": "series",
+            "name": "Kimi to Koete Koi ni Naru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49496_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "5.72"
+        },
+        {
             "id": "kitsu:49360",
             "type": "series",
             "name": "Anne Shirley (ITA)",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50172_Ep_25.jpg",
             "description": "Nuovo episodio: Ep 25",
             "posterShape": "poster",
-            "rating": "6.45"
+            "rating": "6.42"
         },
         {
             "id": "kitsu:48433",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12_Ep_1155.jpg",
             "description": "Nuovo episodio: Ep 1155",
             "posterShape": "poster",
-            "rating": "8.37"
+            "rating": "8.38"
         },
         {
             "id": "kitsu:46360",
