@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:47919",
+            "type": "series",
+            "name": "Daikaijuu Gamenya Shuurai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47919_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "5.50"
+        },
+        {
+            "id": "kitsu:46974",
+            "type": "series",
+            "name": "Yoru wa Neko to Issho 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46974_Ep_30.jpg",
+            "description": "Nuovo episodio: Ep 30",
+            "posterShape": "poster",
+            "rating": "3.00"
+        },
+        {
             "id": "kitsu:49363",
             "type": "series",
             "name": "Cat's♥Eye (ITA)",
@@ -16,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50317_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.40"
+            "rating": "6.45"
         },
         {
             "id": "kitsu:50237",
@@ -25,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50237_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "5.50"
+            "rating": "5.25"
         },
         {
             "id": "kitsu:50433",
@@ -70,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49358_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.99"
+            "rating": "6.93"
         },
         {
             "id": "kitsu:48944",
@@ -79,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48944_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.35"
+            "rating": "7.37"
         },
         {
             "id": "kitsu:45542",
@@ -97,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.21"
+            "rating": "7.22"
         },
         {
             "id": "kitsu:48216",
@@ -258,24 +276,6 @@
             "name": "Kingdom 6",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49861_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
-            "posterShape": "poster",
-            "rating": "7.20"
-        },
-        {
-            "id": "kitsu:48464",
-            "type": "series",
-            "name": "Himitsu no AiPri: Ring-hen",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48464_Ep_38.jpg",
-            "description": "Nuovo episodio: Ep 38",
-            "posterShape": "poster",
-            "rating": "5.64"
-        },
-        {
-            "id": "kitsu:7240",
-            "type": "series",
-            "name": "One Piece: Episode of Nami - Tears of a Navigator and the Bonds of Friends (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_7240_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
             "rating": "7.22"
         }
