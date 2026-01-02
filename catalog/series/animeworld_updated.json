@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:49363",
+            "type": "series",
+            "name": "Cat's♥Eye (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49363_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "6.04"
+        },
+        {
+            "id": "kitsu:50317",
+            "type": "series",
+            "name": "Cengjing You Yongshi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50317_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "6.40"
+        },
+        {
             "id": "kitsu:50237",
             "type": "series",
             "name": "Yi Ren Zhi Xia 6",
@@ -70,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45542_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "8.57"
+            "rating": "8.54"
         },
         {
             "id": "kitsu:50423",
@@ -260,24 +278,6 @@
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
             "rating": "7.22"
-        },
-        {
-            "id": "kitsu:49769",
-            "type": "series",
-            "name": "Ao no Miburo: Serizawa Ansatsu-hen",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49769_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "6.57"
-        },
-        {
-            "id": "kitsu:50149",
-            "type": "series",
-            "name": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50149_Ep_13.jpg",
-            "description": "Nuovo episodio: Ep 13",
-            "posterShape": "poster",
-            "rating": "6.44"
         }
     ]
 }
