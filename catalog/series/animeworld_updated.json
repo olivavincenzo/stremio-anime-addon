@@ -1,13 +1,40 @@
 {
     "metas": [
         {
+            "id": "kitsu:47655",
+            "type": "series",
+            "name": "Golden Kamuy: Saishuushou",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47655_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "10.00"
+        },
+        {
+            "id": "kitsu:49966",
+            "type": "series",
+            "name": "Kirei ni Shitemoraemasu ka.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49966_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "6.25"
+        },
+        {
+            "id": "kitsu:50007",
+            "type": "series",
+            "name": "My Hero Academia: Vigilantes 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50007_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "7.13"
+        },
+        {
             "id": "kitsu:11367",
             "type": "series",
             "name": "Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_11367_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "4.79"
+            "rating": "4.69"
         },
         {
             "id": "kitsu:7545",
@@ -61,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49867_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.54"
+            "rating": "7.52"
         },
         {
             "id": "kitsu:50424",
@@ -70,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50424_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.55"
+            "rating": "7.56"
         },
         {
             "id": "kitsu:48870",
@@ -151,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_43186_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.31"
+            "rating": "7.12"
         },
         {
             "id": "kitsu:47759",
@@ -160,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47759_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "8.38"
+            "rating": "8.39"
         },
         {
             "id": "kitsu:47919",
@@ -241,7 +268,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49358_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.30"
+            "rating": "7.32"
         },
         {
             "id": "kitsu:48944",
@@ -250,25 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48944_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.92"
-        },
-        {
-            "id": "kitsu:45542",
-            "type": "series",
-            "name": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45542_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "8.43"
-        },
-        {
-            "id": "kitsu:50423",
-            "type": "series",
-            "name": "Yuusha Party wo Oidasareta Kiyoubinbou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "7.09"
+            "rating": "7.93"
         }
     ]
 }
