@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:48216",
+            "type": "series",
+            "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48216_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "7.41"
+        },
+        {
             "id": "kitsu:50123",
             "type": "series",
             "name": "Ganglion",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49323_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "6.53"
+            "rating": "6.55"
         },
         {
             "id": "kitsu:50427",
@@ -52,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50437_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.70"
+            "rating": "7.72"
         },
         {
             "id": "kitsu:50425",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50425_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "6.18"
+            "rating": "6.16"
         },
         {
             "id": "kitsu:49992",
@@ -70,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49992_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.77"
+            "rating": "6.68"
         },
         {
             "id": "kitsu:49680",
@@ -79,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49680_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.17"
+            "rating": "7.06"
         },
         {
             "id": "kitsu:49700",
@@ -106,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49377_Ep_46.jpg",
             "description": "Nuovo episodio: Ep 46",
             "posterShape": "poster",
-            "rating": "4.52"
+            "rating": "4.54"
         },
         {
             "id": "kitsu:3817",
@@ -169,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_7545_Ep_16.jpg",
             "description": "Nuovo episodio: Ep 16",
             "posterShape": "poster",
-            "rating": "6.92"
+            "rating": "7.00"
         },
         {
             "id": "kitsu:46360",
@@ -205,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50426_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "5.79"
+            "rating": "5.83"
         },
         {
             "id": "kitsu:49867",
@@ -295,7 +304,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45264_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.28"
+            "rating": "7.23"
         },
         {
             "id": "kitsu:43186",
@@ -305,15 +314,6 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "7.16"
-        },
-        {
-            "id": "kitsu:47759",
-            "type": "series",
-            "name": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47759_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "8.43"
         }
     ]
 }
