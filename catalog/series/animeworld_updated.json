@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:49363",
+            "type": "series",
+            "name": "Cat's♥Eye (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49363_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "6.17"
+        },
+        {
             "id": "kitsu:50433",
             "type": "series",
             "name": "Jigoku Sensei Nube (2025) (ITA)",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50237_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.04"
+            "rating": "6.12"
         },
         {
             "id": "kitsu:48972",
@@ -52,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48363_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "8.23"
+            "rating": "8.24"
         },
         {
             "id": "kitsu:50334",
@@ -88,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49296_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.34"
+            "rating": "7.23"
         },
         {
             "id": "kitsu:49441",
@@ -142,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50442_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "6.56"
+            "rating": "6.62"
         },
         {
             "id": "kitsu:50423",
@@ -151,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.10"
+            "rating": "7.09"
         },
         {
             "id": "kitsu:49903",
@@ -196,7 +205,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49323_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "6.43"
+            "rating": "6.47"
         },
         {
             "id": "kitsu:50427",
@@ -232,7 +241,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50437_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.72"
+            "rating": "7.73"
         },
         {
             "id": "kitsu:50425",
@@ -287,24 +296,6 @@
             "description": "Nuovo episodio: Ep 46",
             "posterShape": "poster",
             "rating": "4.54"
-        },
-        {
-            "id": "kitsu:3817",
-            "type": "series",
-            "name": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3817_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "5.98"
-        },
-        {
-            "id": "kitsu:50352",
-            "type": "series",
-            "name": "Osananajimi to wa Love Comedy ni Naranai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50352_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "6.72"
         }
     ]
 }
