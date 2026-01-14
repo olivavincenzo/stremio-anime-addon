@@ -2,13 +2,22 @@
   "metas": [
     {
       "id": "BigBuckBunny",
-       "name": "Big Buck Bunny",
-        "year": 2008,
-        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVEFQvFMMsg4e6yb03xOfVsDz4o.jpg",
-        "posterShape": "regular",
-        "banner": "https://image.tmdb.org/t/p/original/aHLST0g8sOE1ixCxRDgM35SKwwp.jpg",
-        "isFree": true,
-        "type": "movie"
+      "name": "Big Buck Bunny",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVEFQvFMMsg4e6yb03xOfVsDz4o.jpg",
+      "posterShape": "regular",
+      "banner": "https://image.tmdb.org/t/p/original/aHLST0g8sOE1ixCxRDgM35SKwwp.jpg",
+      "isFree": true,
+      "type": "movie"
+    },
+    {
+      "id": "kitsu:48216",
+      "type": "series",
+      "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V (ITA)",
+      "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48216_Ep_12.jpg",
+      "description": "Nuovo episodio: Ep 12",
+      "posterShape": "poster",
+      "rating": "7.27"
     }
   ]
 }

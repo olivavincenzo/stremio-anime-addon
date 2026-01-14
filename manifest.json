@@ -9,8 +9,7 @@
     "stream"
   ],
   "types": [
-    "movie",
-    "series"
+    "movie"
   ],
   "catalogs": [
     {
