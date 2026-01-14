@@ -14,6 +14,11 @@
   "catalogs": [
     {
       "type": "movie",
+      "id": "BigBuckBunnyCatalog",
+      "name": "BigBuckBunny Catalog"
+    },
+    {
+      "type": "series",
       "id": "AnimeWorldCatalog",
       "name": "AnimeWorld Catalog"
     }
