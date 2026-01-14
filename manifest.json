@@ -1,29 +1,15 @@
 {
-    "id": "community.animeworld.kitsu.updated",
-    "version": "1.0.3",
-    "name": "AnimeWorld Novit\u00e0 (Kitsu)",
-    "description": "Ultimi episodi usando metadati Kitsu (compatibile con Torrentio)",
-    "resources": [
-        "catalog",
-        "meta",
-        "stream"
-    ],
-    "types": [
-        "series",
-        "movie",
-        "anime"
-    ],
-    "catalogs": [
-        {
-            "type": "series",
-            "id": "animeworld_kitsu_updated",
-            "name": "AnimeWorld - Ultimi Episodi",
-            "extra": [
-                {
-                    "name": "search",
-                    "isRequired": false
-                }
-            ]
-        }
-    ]
+  "id": "com.stremio.nowexample",
+  "version": "0.0.1",
+  "name": "Now.sh Example",
+  "description": "Example Add-on",
+  "resources": ["catalog", "meta", "stream"],
+  "types": ["movie"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "BigBuckBunnyCatalog",
+      "name": "Big Buck Bunny Catalog"
+    }
+  ]
 }
