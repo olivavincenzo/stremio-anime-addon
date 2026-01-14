@@ -13,7 +13,7 @@
   ],
   "catalogs": [
     {
-      "type": "series",
+      "type": "movie",
       "id": "BigBuckBunnyCatalog",
       "name": "BigBuckBunny Catalog"
     }
