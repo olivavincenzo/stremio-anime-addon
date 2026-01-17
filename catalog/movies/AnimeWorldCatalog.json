@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:49681",
+            "type": "series",
+            "name": "Yuusha no Kuzu",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49681_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "6.84"
+        },
+        {
+            "id": "kitsu:50149",
+            "type": "series",
+            "name": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50149_Ep_15.jpg",
+            "description": "Nuovo episodio: Ep 15",
+            "posterShape": "poster",
+            "rating": "6.52"
+        },
+        {
+            "id": "kitsu:49929",
+            "type": "series",
+            "name": "Gnosia",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49929_Ep_14.jpg",
+            "description": "Nuovo episodio: Ep 14",
+            "posterShape": "poster",
+            "rating": "4.46"
+        },
+        {
             "id": "kitsu:47682",
             "type": "series",
             "name": "Fate/strange Fake",
@@ -34,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47243_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.87"
+            "rating": "6.88"
         },
         {
             "id": "kitsu:49672",
@@ -169,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3817_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "5.75"
+            "rating": "5.76"
         },
         {
             "id": "kitsu:48972",
@@ -287,24 +314,6 @@
             "description": "Nuovo episodio: Ep 24",
             "posterShape": "poster",
             "rating": "7.14"
-        },
-        {
-            "id": "kitsu:49191",
-            "type": "series",
-            "name": "Long Zu II: Daowangzhe Zhi Tong (JAP)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49191_Ep_14.jpg",
-            "description": "Nuovo episodio: Ep 14",
-            "posterShape": "poster",
-            "rating": "7.19"
-        },
-        {
-            "id": "kitsu:48944",
-            "type": "series",
-            "name": "Tamon-kun Ima Docchi!?",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48944_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.99"
         }
     ]
 }
