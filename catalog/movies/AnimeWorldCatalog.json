@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:50106",
+            "type": "series",
+            "name": "Xian Wang de Richang Shenghuo 5",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50106_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "6.96"
+        },
+        {
+            "id": "kitsu:50203",
+            "type": "series",
+            "name": "SI-VIS: The Sound of Heroes",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50203_Ep_15.jpg",
+            "description": "Nuovo episodio: Ep 15",
+            "posterShape": "poster",
+            "rating": "3.47"
+        },
+        {
             "id": "kitsu:48939",
             "type": "series",
             "name": "Spy x Family 3 (ITA)",
@@ -52,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47161_Ep_14.jpg",
             "description": "Nuovo episodio: Ep 14",
             "posterShape": "poster",
-            "rating": "4.87"
+            "rating": "4.88"
         },
         {
             "id": "kitsu:50393",
@@ -79,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49672_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.78"
+            "rating": "6.81"
         },
         {
             "id": "kitsu:49769",
@@ -133,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50444_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.37"
+            "rating": "7.38"
         },
         {
             "id": "kitsu:50325",
@@ -314,15 +332,6 @@
             "description": "Nuovo episodio: Ep 39",
             "posterShape": "poster",
             "rating": "6.43"
-        },
-        {
-            "id": "kitsu:8063",
-            "type": "series",
-            "name": "JoJo no Kimyou na Bouken: Stardust Crusaders 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8063_Ep_24.jpg",
-            "description": "Nuovo episodio: Ep 24",
-            "posterShape": "poster",
-            "rating": "7.59"
         }
     ]
 }
