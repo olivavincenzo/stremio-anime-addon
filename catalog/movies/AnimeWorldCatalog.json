@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:50352",
+            "type": "series",
+            "name": "Osananajimi to wa Love Comedy ni Naranai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50352_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "6.76"
+        },
+        {
             "id": "kitsu:50007",
             "type": "series",
             "name": "My Hero Academia: Vigilantes 2 (ITA)",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47655_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.67"
+            "rating": "6.71"
         },
         {
             "id": "kitsu:49966",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46360_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.80"
+            "rating": "5.82"
         },
         {
             "id": "kitsu:50470",
@@ -70,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50470_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "5.55"
+            "rating": "5.58"
         },
         {
             "id": "kitsu:48830",
@@ -88,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50426_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "5.89"
+            "rating": "5.87"
         },
         {
             "id": "kitsu:47679",
@@ -106,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49867_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.04"
+            "rating": "7.03"
         },
         {
             "id": "kitsu:50439",
@@ -115,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50439_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.16"
+            "rating": "7.15"
         },
         {
             "id": "kitsu:50424",
@@ -124,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50424_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.45"
+            "rating": "7.44"
         },
         {
             "id": "kitsu:48870",
@@ -160,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50335_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.92"
+            "rating": "6.87"
         },
         {
             "id": "kitsu:49372",
@@ -286,7 +295,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49672_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.83"
+            "rating": "6.80"
         },
         {
             "id": "kitsu:49769",
@@ -304,7 +313,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46143_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "3.55"
+            "rating": "3.66"
         },
         {
             "id": "kitsu:49915",
@@ -323,15 +332,6 @@
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
             "rating": "8.17"
-        },
-        {
-            "id": "kitsu:50444",
-            "type": "series",
-            "name": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50444_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "7.32"
         }
     ]
 }
