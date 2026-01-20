@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:48216",
+            "type": "series",
+            "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48216_Ep_13.jpg",
+            "description": "Nuovo episodio: Ep 13",
+            "posterShape": "poster",
+            "rating": "7.29"
+        },
+        {
+            "id": "kitsu:50123",
+            "type": "series",
+            "name": "Ganglion",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50123_Ep_14.jpg",
+            "description": "Nuovo episodio: Ep 14",
+            "posterShape": "poster",
+            "rating": "5.01"
+        },
+        {
             "id": "kitsu:9978",
             "type": "series",
             "name": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
@@ -43,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48884_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.82"
+            "rating": "6.87"
         },
         {
             "id": "kitsu:50427",
@@ -52,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50427_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.01"
+            "rating": "6.04"
         },
         {
             "id": "kitsu:50437",
@@ -88,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49680_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.22"
+            "rating": "7.23"
         },
         {
             "id": "kitsu:49992",
@@ -196,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46360_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.84"
+            "rating": "5.82"
         },
         {
             "id": "kitsu:50470",
@@ -313,25 +331,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49910_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.86"
-        },
-        {
-            "id": "kitsu:50106",
-            "type": "series",
-            "name": "Xian Wang de Richang Shenghuo 5",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50106_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.05"
-        },
-        {
-            "id": "kitsu:50203",
-            "type": "series",
-            "name": "SI-VIS: The Sound of Heroes",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50203_Ep_15.jpg",
-            "description": "Nuovo episodio: Ep 15",
-            "posterShape": "poster",
-            "rating": "3.52"
+            "rating": "7.83"
         }
     ]
 }
