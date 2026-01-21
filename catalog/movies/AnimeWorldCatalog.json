@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:50337",
+            "type": "series",
+            "name": "Shibou Yuugi de Meshi wo Kuu. (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50337_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "7.26"
+        },
+        {
+            "id": "kitsu:50433",
+            "type": "series",
+            "name": "Jigoku Sensei Nube (2025) Part 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50433_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "6.34"
+        },
+        {
             "id": "kitsu:49191",
             "type": "series",
             "name": "Long Zu II: Daowangzhe Zhi Tong (JAP)",
@@ -16,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48944_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.96"
+            "rating": "7.98"
         },
         {
             "id": "kitsu:50442",
@@ -43,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49264_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "8.65"
+            "rating": "8.67"
         },
         {
             "id": "kitsu:50432",
@@ -79,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48216_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "7.23"
+            "rating": "7.25"
         },
         {
             "id": "kitsu:50123",
@@ -88,13 +106,13 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50123_Ep_14.jpg",
             "description": "Nuovo episodio: Ep 14",
             "posterShape": "poster",
-            "rating": "5.01"
+            "rating": "5.02"
         },
         {
-            "id": "kitsu:7705",
+            "id": "kitsu:9978",
             "type": "series",
             "name": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_7705_Ep_3.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_9978_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "6.00"
@@ -151,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50437_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.41"
+            "rating": "7.42"
         },
         {
             "id": "kitsu:50425",
@@ -160,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50425_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.18"
+            "rating": "6.19"
         },
         {
             "id": "kitsu:50201",
@@ -169,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50201_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "5.81"
+            "rating": "5.82"
         },
         {
             "id": "kitsu:49680",
@@ -305,33 +323,6 @@
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "7.20"
-        },
-        {
-            "id": "kitsu:50426",
-            "type": "series",
-            "name": "Goumon Baito-kun no Nichijou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50426_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "5.86"
-        },
-        {
-            "id": "kitsu:47679",
-            "type": "series",
-            "name": "Jigokuraku 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47679_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "8.67"
-        },
-        {
-            "id": "kitsu:49867",
-            "type": "series",
-            "name": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49867_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.03"
         }
     ]
 }
