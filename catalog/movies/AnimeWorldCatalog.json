@@ -1,13 +1,40 @@
 {
     "metas": [
         {
+            "id": "kitsu:49768",
+            "type": "series",
+            "name": "Douse, Koishite Shimaunda. 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49768_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "5.89"
+        },
+        {
+            "id": "kitsu:49377",
+            "type": "series",
+            "name": "Kimi to Idol Precure ♪",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49377_Ep_48.jpg",
+            "description": "Nuovo episodio: Ep 48",
+            "posterShape": "poster",
+            "rating": "4.54"
+        },
+        {
+            "id": "kitsu:48363",
+            "type": "series",
+            "name": "Jujutsu Kaisen 3: Shimetsu Kaiyuu - Zenpen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48363_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "8.29"
+        },
+        {
             "id": "kitsu:50334",
             "type": "series",
             "name": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50334_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.98"
+            "rating": "6.97"
         },
         {
             "id": "kitsu:48639",
@@ -25,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49375_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.22"
+            "rating": "7.25"
         },
         {
             "id": "kitsu:49296",
@@ -34,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49296_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.16"
+            "rating": "7.13"
         },
         {
             "id": "kitsu:47759",
@@ -52,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50322_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "8.10"
+            "rating": "8.18"
         },
         {
             "id": "kitsu:7545",
@@ -97,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48944_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.02"
+            "rating": "8.01"
         },
         {
             "id": "kitsu:50442",
@@ -115,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.15"
+            "rating": "7.14"
         },
         {
             "id": "kitsu:49264",
@@ -124,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49264_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "8.69"
+            "rating": "8.68"
         },
         {
             "id": "kitsu:50432",
@@ -133,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50432_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.50"
+            "rating": "7.51"
         },
         {
             "id": "kitsu:49903",
@@ -241,7 +268,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50425_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.19"
+            "rating": "6.20"
         },
         {
             "id": "kitsu:50201",
@@ -296,33 +323,6 @@
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
             "rating": "7.19"
-        },
-        {
-            "id": "kitsu:50352",
-            "type": "series",
-            "name": "Osananajimi to wa Love Comedy ni Naranai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50352_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.65"
-        },
-        {
-            "id": "kitsu:50007",
-            "type": "series",
-            "name": "My Hero Academia: Vigilantes 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50007_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.82"
-        },
-        {
-            "id": "kitsu:47655",
-            "type": "series",
-            "name": "Golden Kamuy: Saishuushou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47655_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.07"
         }
     ]
 }
