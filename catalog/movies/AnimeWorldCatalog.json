@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:49240",
+            "type": "series",
+            "name": "Sousou no Frieren 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49240_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "8.99"
+        },
+        {
             "id": "kitsu:49363",
             "type": "series",
             "name": "Cat's♥Eye (ITA)",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49401_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.01"
+            "rating": "7.03"
         },
         {
             "id": "kitsu:49441",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49441_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.56"
+            "rating": "8.57"
         },
         {
             "id": "kitsu:49768",
@@ -241,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_9978_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.02"
+            "rating": "6.06"
         },
         {
             "id": "kitsu:3817",
@@ -250,7 +259,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3817_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "5.69"
+            "rating": "5.71"
         },
         {
             "id": "kitsu:49323",
@@ -287,15 +296,6 @@
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "6.07"
-        },
-        {
-            "id": "kitsu:50437",
-            "type": "series",
-            "name": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50437_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.38"
         }
     ]
 }
