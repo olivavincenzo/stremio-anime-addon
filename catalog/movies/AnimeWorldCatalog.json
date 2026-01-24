@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:49929",
+            "type": "series",
+            "name": "Gnosia",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49929_Ep_15.jpg",
+            "description": "Nuovo episodio: Ep 15",
+            "posterShape": "poster",
+            "rating": "4.50"
+        },
+        {
             "id": "kitsu:49769",
             "type": "series",
             "name": "Ao no Miburo: Serizawa Ansatsu-hen",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47161_Ep_15.jpg",
             "description": "Nuovo episodio: Ep 15",
             "posterShape": "poster",
-            "rating": "5.44"
+            "rating": "5.43"
         },
         {
             "id": "kitsu:50393",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49672_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.73"
+            "rating": "6.68"
         },
         {
             "id": "kitsu:49915",
@@ -97,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50325_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.16"
+            "rating": "7.17"
         },
         {
             "id": "kitsu:49240",
@@ -142,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49401_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.02"
+            "rating": "7.01"
         },
         {
             "id": "kitsu:49441",
@@ -223,7 +232,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47759_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.30"
+            "rating": "8.29"
         },
         {
             "id": "kitsu:50322",
@@ -259,7 +268,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48944_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.00"
+            "rating": "8.01"
         },
         {
             "id": "kitsu:50442",
@@ -287,15 +296,6 @@
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
             "rating": "8.69"
-        },
-        {
-            "id": "kitsu:50432",
-            "type": "series",
-            "name": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50432_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.54"
         }
     ]
 }
