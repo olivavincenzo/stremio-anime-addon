@@ -1,13 +1,58 @@
 {
     "metas": [
         {
+            "id": "kitsu:49769",
+            "type": "series",
+            "name": "Ao no Miburo: Serizawa Ansatsu-hen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49769_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "5.98"
+        },
+        {
+            "id": "kitsu:49871",
+            "type": "series",
+            "name": "Yu-Gi-Oh! Card Game: The Chronicles",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49871_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "6.16"
+        },
+        {
+            "id": "kitsu:47161",
+            "type": "series",
+            "name": "Fumetsu no Anata e 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47161_Ep_15.jpg",
+            "description": "Nuovo episodio: Ep 15",
+            "posterShape": "poster",
+            "rating": "5.44"
+        },
+        {
+            "id": "kitsu:50393",
+            "type": "series",
+            "name": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50393_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "6.99"
+        },
+        {
+            "id": "kitsu:49672",
+            "type": "series",
+            "name": "Dead Account",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49672_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "6.73"
+        },
+        {
             "id": "kitsu:49915",
             "type": "series",
             "name": "Android wa Keiken Ninzuu ni Hairimasu ka??",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49915_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.29"
+            "rating": "6.27"
         },
         {
             "id": "kitsu:7545",
@@ -43,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50444_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.29"
+            "rating": "7.30"
         },
         {
             "id": "kitsu:50325",
@@ -52,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50325_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.15"
+            "rating": "7.16"
         },
         {
             "id": "kitsu:49240",
@@ -169,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49296_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.23"
+            "rating": "7.25"
         },
         {
             "id": "kitsu:47759",
@@ -232,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.13"
+            "rating": "7.12"
         },
         {
             "id": "kitsu:49264",
@@ -251,42 +296,6 @@
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "7.54"
-        },
-        {
-            "id": "kitsu:49903",
-            "type": "series",
-            "name": "29-sai Dokushin Chuuken Boukensha no Nichijou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49903_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.97"
-        },
-        {
-            "id": "kitsu:48057",
-            "type": "series",
-            "name": "Xing Chen Bian 6",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48057_Ep_24.jpg",
-            "description": "Nuovo episodio: Ep 24",
-            "posterShape": "poster",
-            "rating": "6.83"
-        },
-        {
-            "id": "kitsu:48216",
-            "type": "series",
-            "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48216_Ep_13.jpg",
-            "description": "Nuovo episodio: Ep 13",
-            "posterShape": "poster",
-            "rating": "7.28"
-        },
-        {
-            "id": "kitsu:50123",
-            "type": "series",
-            "name": "Ganglion",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50123_Ep_14.jpg",
-            "description": "Nuovo episodio: Ep 14",
-            "posterShape": "poster",
-            "rating": "5.03"
         }
     ]
 }
