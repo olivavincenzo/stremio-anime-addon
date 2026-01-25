@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:50424",
+            "type": "series",
+            "name": "Majutsushi Kunon wa Mieteiru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50424_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.36"
+        },
+        {
+            "id": "kitsu:48870",
+            "type": "series",
+            "name": "Hanazakari no Kimitachi e",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48870_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.12"
+        },
+        {
+            "id": "kitsu:50466",
+            "type": "series",
+            "name": "Tensei shitara Dragon no Tamago datta",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50466_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "7.58"
+        },
+        {
             "id": "kitsu:48070",
             "type": "series",
             "name": "Blue Orchestra 2",
@@ -34,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49372_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.07"
+            "rating": "8.08"
         },
         {
             "id": "kitsu:49910",
@@ -232,7 +259,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49240_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "9.03"
+            "rating": "9.04"
         },
         {
             "id": "kitsu:49363",
@@ -260,51 +287,6 @@
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "6.24"
-        },
-        {
-            "id": "kitsu:49401",
-            "type": "series",
-            "name": "Champignon no Majo",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49401_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "7.06"
-        },
-        {
-            "id": "kitsu:49441",
-            "type": "series",
-            "name": "MF Ghost 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49441_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "8.60"
-        },
-        {
-            "id": "kitsu:49768",
-            "type": "series",
-            "name": "Douse, Koishite Shimaunda. 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49768_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.10"
-        },
-        {
-            "id": "kitsu:49377",
-            "type": "series",
-            "name": "Kimi to Idol Precure ♪",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49377_Ep_48.jpg",
-            "description": "Nuovo episodio: Ep 48",
-            "posterShape": "poster",
-            "rating": "4.54"
-        },
-        {
-            "id": "kitsu:48363",
-            "type": "series",
-            "name": "Jujutsu Kaisen 3: Shimetsu Kaiyuu - Zenpen",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48363_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "8.39"
         }
     ]
 }
