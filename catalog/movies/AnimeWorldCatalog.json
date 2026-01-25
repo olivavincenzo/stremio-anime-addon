@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:47679",
+            "type": "series",
+            "name": "Jigokuraku 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47679_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "8.68"
+        },
+        {
+            "id": "kitsu:49867",
+            "type": "series",
+            "name": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49867_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "7.02"
+        },
+        {
+            "id": "kitsu:50439",
+            "type": "series",
+            "name": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50439_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "7.13"
+        },
+        {
             "id": "kitsu:50424",
             "type": "series",
             "name": "Majutsushi Kunon wa Mieteiru",
@@ -25,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50466_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.17"
+            "rating": "7.70"
         },
         {
             "id": "kitsu:48070",
@@ -269,24 +296,6 @@
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "6.39"
-        },
-        {
-            "id": "kitsu:50237",
-            "type": "series",
-            "name": "Yi Ren Zhi Xia 6",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50237_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "6.15"
-        },
-        {
-            "id": "kitsu:50433",
-            "type": "series",
-            "name": "Jigoku Sensei Nube (2025) (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50433_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "6.24"
         }
     ]
 }
