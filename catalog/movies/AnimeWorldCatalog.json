@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:7545",
+            "type": "series",
+            "name": "Kuroko's Basketball 2 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_7545_Ep_25.jpg",
+            "description": "Nuovo episodio: Ep 25",
+            "posterShape": "poster",
+            "rating": "7.24"
+        },
+        {
+            "id": "kitsu:48464",
+            "type": "series",
+            "name": "Himitsu no AiPri: Ring-hen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48464_Ep_41.jpg",
+            "description": "Nuovo episodio: Ep 41",
+            "posterShape": "poster",
+            "rating": "5.64"
+        },
+        {
             "id": "kitsu:50390",
             "type": "series",
             "name": "Yamishibai: Japanese Ghost Stories 16",
@@ -52,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49867_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.03"
+            "rating": "7.02"
         },
         {
             "id": "kitsu:50439",
@@ -88,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50466_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.59"
+            "rating": "7.67"
         },
         {
             "id": "kitsu:48070",
@@ -160,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50270_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "3.90"
+            "rating": "3.97"
         },
         {
             "id": "kitsu:47161",
@@ -223,7 +241,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49929_Ep_15.jpg",
             "description": "Nuovo episodio: Ep 15",
             "posterShape": "poster",
-            "rating": "4.52"
+            "rating": "4.54"
         },
         {
             "id": "kitsu:49769",
@@ -271,15 +289,6 @@
             "rating": "6.20"
         },
         {
-            "id": "kitsu:7545",
-            "type": "series",
-            "name": "Kuroko's Basketball 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_7545_Ep_24.jpg",
-            "description": "Nuovo episodio: Ep 24",
-            "posterShape": "poster",
-            "rating": "7.18"
-        },
-        {
             "id": "kitsu:44814",
             "type": "series",
             "name": "Waccha PriMagi!",
@@ -296,15 +305,6 @@
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "8.20"
-        },
-        {
-            "id": "kitsu:50444",
-            "type": "series",
-            "name": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50444_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.35"
         }
     ]
 }
