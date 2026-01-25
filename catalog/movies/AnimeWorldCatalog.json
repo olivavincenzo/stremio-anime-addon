@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:50106",
+            "type": "series",
+            "name": "Xian Wang de Richang Shenghuo 5",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50106_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.02"
+        },
+        {
+            "id": "kitsu:50203",
+            "type": "series",
+            "name": "SI-VIS: The Sound of Heroes",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50203_Ep_16.jpg",
+            "description": "Nuovo episodio: Ep 16",
+            "posterShape": "poster",
+            "rating": "3.52"
+        },
+        {
             "id": "kitsu:50270",
             "type": "series",
             "name": "High School! Kimengumi (2026)",
@@ -25,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49767_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.96"
+            "rating": "7.72"
         },
         {
             "id": "kitsu:47243",
@@ -43,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47682_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.20"
+            "rating": "7.19"
         },
         {
             "id": "kitsu:49681",
@@ -250,7 +268,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50334_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.94"
+            "rating": "6.95"
         },
         {
             "id": "kitsu:48639",
@@ -287,15 +305,6 @@
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "8.29"
-        },
-        {
-            "id": "kitsu:50322",
-            "type": "series",
-            "name": "Chou Kaguya-hime! (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50322_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "8.15"
         }
     ]
 }
