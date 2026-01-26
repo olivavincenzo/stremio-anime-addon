@@ -1,10 +1,10 @@
 {
     "metas": [
         {
-            "id": "kitsu:47656",
+            "id": "kitsu:48667",
             "type": "series",
             "name": "Himesama \"Goumon\" no Jikan desu 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47656_Ep_3.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48667_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "7.08"
@@ -67,7 +67,7 @@
             "id": "kitsu:50390",
             "type": "series",
             "name": "Yamishibai: Japanese Ghost Stories 16",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50390_Ep_3.jpg",
+            "poster": "https://media.kitsu.app/anime/50390/poster_image/medium-5b93ab90190a16cc8b141b2adb7985f2.jpeg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "5.24"
@@ -163,15 +163,6 @@
             "rating": "4.37"
         },
         {
-            "id": "kitsu:49700",
-            "type": "series",
-            "name": "Digimon Beatbreak",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_16.jpg",
-            "description": "Nuovo episodio: Ep 16",
-            "posterShape": "poster",
-            "rating": "4.23"
-        },
-        {
             "id": "kitsu:50335",
             "type": "series",
             "name": "Kaya-chan wa Kowakunai",
@@ -184,7 +175,7 @@
             "id": "kitsu:49372",
             "type": "series",
             "name": "Seihantai na Kimi to Boku",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49372_Ep_3.jpg",
+            "poster": "https://media.kitsu.app/anime/49372/poster_image/medium-83bbbb546a9f50811c3024a7e015aa73.jpeg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "8.01"
@@ -220,8 +211,8 @@
             "id": "kitsu:50270",
             "type": "series",
             "name": "High School! Kimengumi (2026)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50270_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50270_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
             "rating": "3.87"
         },
@@ -242,15 +233,6 @@
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
             "rating": "7.83"
-        },
-        {
-            "id": "kitsu:47243",
-            "type": "series",
-            "name": "Trigun Stargaze",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47243_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.59"
         },
         {
             "id": "kitsu:47682",
@@ -283,28 +265,19 @@
             "id": "kitsu:49929",
             "type": "series",
             "name": "Gnosia",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49929_Ep_15.jpg",
+            "poster": "https://media.kitsu.app/anime/49929/poster_image/medium-3009e2c70b8b414e298ddacaf9e33497.jpeg",
             "description": "Nuovo episodio: Ep 15",
             "posterShape": "poster",
             "rating": "4.54"
         },
         {
-            "id": "kitsu:49769",
+            "id": "kitsu:47936",
             "type": "series",
             "name": "Ao no Miburo: Serizawa Ansatsu-hen",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49769_Ep_5.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47936_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "6.00"
-        },
-        {
-            "id": "kitsu:49871",
-            "type": "series",
-            "name": "Yu-Gi-Oh! Card Game: The Chronicles",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49871_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "6.16"
         }
     ]
 }
