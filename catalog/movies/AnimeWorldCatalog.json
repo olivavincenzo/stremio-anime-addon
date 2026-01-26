@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:49360",
+            "type": "series",
+            "name": "Anne Shirley (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49360_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "3.49"
+        },
+        {
+            "id": "kitsu:50123",
+            "type": "series",
+            "name": "Ganglion",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50123_Ep_15.jpg",
+            "description": "Nuovo episodio: Ep 15",
+            "posterShape": "poster",
+            "rating": "5.03"
+        },
+        {
             "id": "kitsu:49377",
             "type": "series",
             "name": "Kimi to Idol Precure ♪",
@@ -142,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50424_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.36"
+            "rating": "7.35"
         },
         {
             "id": "kitsu:48870",
@@ -160,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50466_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.64"
+            "rating": "7.61"
         },
         {
             "id": "kitsu:48070",
@@ -250,7 +268,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49767_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.81"
+            "rating": "7.86"
         },
         {
             "id": "kitsu:47243",
@@ -296,24 +314,6 @@
             "description": "Nuovo episodio: Ep 15",
             "posterShape": "poster",
             "rating": "4.49"
-        },
-        {
-            "id": "kitsu:49769",
-            "type": "series",
-            "name": "Ao no Miburo: Serizawa Ansatsu-hen",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49769_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.00"
-        },
-        {
-            "id": "kitsu:49871",
-            "type": "series",
-            "name": "Yu-Gi-Oh! Card Game: The Chronicles",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49871_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "6.16"
         }
     ]
 }
