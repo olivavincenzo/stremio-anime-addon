@@ -34,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50437_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.35"
+            "rating": "7.36"
         },
         {
             "id": "kitsu:50425",
@@ -58,16 +58,16 @@
             "id": "kitsu:49360",
             "type": "series",
             "name": "Anne Shirley (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49360_Ep_10.jpg",
+            "poster": "https://media.kitsu.app/anime/49360/poster_image/medium-35a4b12c5c06f549f24d5251d30e0c09.jpeg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "3.49"
+            "rating": "3.58"
         },
         {
             "id": "kitsu:50123",
             "type": "series",
             "name": "Ganglion",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50123_Ep_15.jpg",
+            "poster": "https://media.kitsu.app/anime/50123/poster_image/medium-d1e5c6f446a3253f5f31f630a408e163.jpeg",
             "description": "Nuovo episodio: Ep 15",
             "posterShape": "poster",
             "rating": "5.08"
@@ -124,13 +124,13 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49966_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.25"
+            "rating": "6.24"
         },
         {
             "id": "kitsu:7545",
             "type": "series",
             "name": "Kuroko's Basketball 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_7545_Ep_25.jpg",
+            "poster": "https://media.kitsu.app/anime/7545/poster_image/medium-a98a9965c6b0830b4dc618e16d813f69.jpeg",
             "description": "Nuovo episodio: Ep 25",
             "posterShape": "poster",
             "rating": "7.29"
@@ -256,7 +256,7 @@
             "id": "kitsu:50335",
             "type": "series",
             "name": "Kaya-chan wa Kowakunai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50335_Ep_3.jpg",
+            "poster": "https://media.kitsu.app/anime/50335/poster_image/medium-8ad1bbdbdaccee2da77763195809da84.jpeg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "7.03"
@@ -268,7 +268,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49372_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.01"
+            "rating": "8.03"
         },
         {
             "id": "kitsu:49910",
@@ -287,15 +287,6 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "7.04"
-        },
-        {
-            "id": "kitsu:50203",
-            "type": "series",
-            "name": "SI-VIS: The Sound of Heroes",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50203_Ep_16.jpg",
-            "description": "Nuovo episodio: Ep 16",
-            "posterShape": "poster",
-            "rating": "3.52"
         },
         {
             "id": "kitsu:50270",
