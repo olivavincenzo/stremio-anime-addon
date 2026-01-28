@@ -1,6 +1,42 @@
 {
     "metas": [
         {
+            "id": "kitsu:50337",
+            "type": "series",
+            "name": "Shibou Yuugi de Meshi wo Kuu. (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50337_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "7.21"
+        },
+        {
+            "id": "kitsu:50442",
+            "type": "series",
+            "name": "Odayaka Kizoku no Kyuuka no Susume.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50442_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.90"
+        },
+        {
+            "id": "kitsu:50423",
+            "type": "series",
+            "name": "Yuusha Party wo Oidasareta Kiyoubinbou",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.14"
+        },
+        {
+            "id": "kitsu:49264",
+            "type": "series",
+            "name": "\"Oshi no Ko\" 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49264_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "8.70"
+        },
+        {
             "id": "kitsu:50432",
             "type": "series",
             "name": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
@@ -34,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48216_Ep_14.jpg",
             "description": "Nuovo episodio: Ep 14",
             "posterShape": "poster",
-            "rating": "7.22"
+            "rating": "7.21"
         },
         {
             "id": "kitsu:49323",
@@ -70,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50427_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "5.99"
+            "rating": "5.97"
         },
         {
             "id": "kitsu:50437",
@@ -278,51 +314,6 @@
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "7.60"
-        },
-        {
-            "id": "kitsu:48070",
-            "type": "series",
-            "name": "Blue Orchestra 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48070_Ep_16.jpg",
-            "description": "Nuovo episodio: Ep 16",
-            "posterShape": "poster",
-            "rating": "4.39"
-        },
-        {
-            "id": "kitsu:49700",
-            "type": "series",
-            "name": "Digimon Beatbreak",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_16.jpg",
-            "description": "Nuovo episodio: Ep 16",
-            "posterShape": "poster",
-            "rating": "4.23"
-        },
-        {
-            "id": "kitsu:50335",
-            "type": "series",
-            "name": "Kaya-chan wa Kowakunai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50335_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.06"
-        },
-        {
-            "id": "kitsu:49372",
-            "type": "series",
-            "name": "Seihantai na Kimi to Boku",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49372_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "8.07"
-        },
-        {
-            "id": "kitsu:49910",
-            "type": "series",
-            "name": "Uruwashi no Yoi no Tsuki",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49910_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.87"
         }
     ]
 }
