@@ -4,10 +4,10 @@
             "id": "kitsu:48363",
             "type": "series",
             "name": "Jujutsu Kaisen 3: Shimetsu Kaiyuu - Zenpen (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48363_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48363_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "8.80"
+            "rating": "8.71"
         },
         {
             "id": "kitsu:49401",
@@ -43,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48639_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.20"
+            "rating": "8.17"
         },
         {
             "id": "kitsu:49375",
@@ -52,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49375_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.28"
+            "rating": "7.29"
         },
         {
             "id": "kitsu:49296",
@@ -70,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49441_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.57"
+            "rating": "8.58"
         },
         {
             "id": "kitsu:47759",
@@ -79,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47759_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.30"
+            "rating": "8.31"
         },
         {
             "id": "kitsu:10338",
@@ -145,15 +145,6 @@
             "rating": "6.83"
         },
         {
-            "id": "kitsu:50423",
-            "type": "series",
-            "name": "Yuusha Party wo Oidasareta Kiyoubinbou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "7.14"
-        },
-        {
             "id": "kitsu:49264",
             "type": "series",
             "name": "\"Oshi no Ko\" 3",
@@ -187,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50484_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "5.38"
+            "rating": "5.36"
         },
         {
             "id": "kitsu:48216",
