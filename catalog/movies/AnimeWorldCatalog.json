@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:49363",
+            "type": "series",
+            "name": "Cat's♥Eye (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49363_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "6.43"
+        },
+        {
+            "id": "kitsu:48056",
+            "type": "series",
+            "name": "Yi Nian Yong Heng 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48056_Ep_23.jpg",
+            "description": "Nuovo episodio: Ep 23",
+            "posterShape": "poster",
+            "rating": "7.93"
+        },
+        {
             "id": "kitsu:50237",
             "type": "series",
             "name": "Yi Ren Zhi Xia 6",
@@ -34,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48363_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.95"
+            "rating": "7.65"
         },
         {
             "id": "kitsu:49401",
@@ -79,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49375_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.30"
+            "rating": "7.32"
         },
         {
             "id": "kitsu:49296",
@@ -278,42 +296,6 @@
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "6.69"
-        },
-        {
-            "id": "kitsu:49360",
-            "type": "series",
-            "name": "Anne Shirley (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49360_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "3.58"
-        },
-        {
-            "id": "kitsu:50123",
-            "type": "series",
-            "name": "Ganglion",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50123_Ep_15.jpg",
-            "description": "Nuovo episodio: Ep 15",
-            "posterShape": "poster",
-            "rating": "5.08"
-        },
-        {
-            "id": "kitsu:49377",
-            "type": "series",
-            "name": "Kimi to Idol Precure ♪",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49377_Ep_49.jpg",
-            "description": "Nuovo episodio: Ep 49",
-            "posterShape": "poster",
-            "rating": "4.60"
-        },
-        {
-            "id": "kitsu:47656",
-            "type": "series",
-            "name": "Himesama \"Goumon\" no Jikan desu 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47656_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.09"
         }
     ]
 }
