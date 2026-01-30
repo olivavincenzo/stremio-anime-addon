@@ -1,22 +1,22 @@
 {
     "metas": [
         {
-            "id": "kitsu:6701",
+            "id": "kitsu:49240",
             "type": "series",
-            "name": "Cat's♥Eye (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_6701_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
+            "name": "Sousou no Frieren 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49240_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.48"
+            "rating": "9.00"
         },
         {
             "id": "kitsu:49363",
             "type": "series",
-            "name": "Cat's♥Eye",
+            "name": "Cat's♥Eye (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49363_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.58"
+            "rating": "6.48"
         },
         {
             "id": "kitsu:48056",
@@ -31,7 +31,7 @@
             "id": "kitsu:50237",
             "type": "series",
             "name": "Yi Ren Zhi Xia 6",
-            "poster": "https://media.kitsu.app/anime/50237/poster_image/medium-22fb4bfcb0bd7ef665f70e5e8a3fe783.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50237_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "6.17"
@@ -62,6 +62,33 @@
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
             "rating": "7.54"
+        },
+        {
+            "id": "kitsu:49401",
+            "type": "series",
+            "name": "Champignon no Majo",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49401_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.04"
+        },
+        {
+            "id": "kitsu:49768",
+            "type": "series",
+            "name": "Douse, Koishite Shimaunda. 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49768_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.04"
+        },
+        {
+            "id": "kitsu:50334",
+            "type": "series",
+            "name": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50334_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.91"
         },
         {
             "id": "kitsu:48639",
@@ -103,10 +130,28 @@
             "id": "kitsu:47759",
             "type": "series",
             "name": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
-            "poster": "https://media.kitsu.app/anime/47759/poster_image/medium-e3cdaba168c0e74496f7d1a11fd7acad.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47759_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "8.29"
+        },
+        {
+            "id": "kitsu:10338",
+            "type": "series",
+            "name": "Kuroko’s Basketball: Would You Mind Doing That Once More (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10338_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "6.50"
+        },
+        {
+            "id": "kitsu:44814",
+            "type": "series",
+            "name": "Waccha PriMagi!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44814_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "4.56"
         },
         {
             "id": "kitsu:49191",
@@ -118,13 +163,13 @@
             "rating": "6.97"
         },
         {
-            "id": "kitsu:49070",
+            "id": "kitsu:48944",
             "type": "series",
-            "name": "Jigoku Sensei Nube (2025) Part 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49070_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
+            "name": "Tamon-kun Ima Docchi!?",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48944_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.28"
+            "rating": "8.09"
         },
         {
             "id": "kitsu:50337",
@@ -154,6 +199,15 @@
             "rating": "7.12"
         },
         {
+            "id": "kitsu:49264",
+            "type": "series",
+            "name": "\"Oshi no Ko\" 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49264_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "8.70"
+        },
+        {
             "id": "kitsu:50432",
             "type": "series",
             "name": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
@@ -166,7 +220,7 @@
             "id": "kitsu:49903",
             "type": "series",
             "name": "29-sai Dokushin Chuuken Boukensha no Nichijou",
-            "poster": "https://media.kitsu.app/anime/49903/poster_image/medium-ad0d118ddde23808185ad90705e74c17.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49903_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "6.93"
@@ -193,7 +247,7 @@
             "id": "kitsu:49323",
             "type": "series",
             "name": "Arne no Jikenbo",
-            "poster": "https://media.kitsu.app/anime/49323/poster_image/medium-f4b78d18fd11486735e49969e50be5dd.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49323_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "6.11"
@@ -242,15 +296,6 @@
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "6.17"
-        },
-        {
-            "id": "kitsu:49992",
-            "type": "series",
-            "name": "Maou no Musume wa Yasashisugiru!!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49992_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.69"
         }
     ]
 }
