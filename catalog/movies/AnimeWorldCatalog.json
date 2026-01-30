@@ -1,13 +1,22 @@
 {
     "metas": [
         {
-            "id": "kitsu:49363",
+            "id": "kitsu:6701",
             "type": "series",
             "name": "Cat's♥Eye (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49363_Ep_12.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_6701_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
             "rating": "6.43"
+        },
+        {
+            "id": "kitsu:49363",
+            "type": "series",
+            "name": "Cat's♥Eye",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49363_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "5.58"
         },
         {
             "id": "kitsu:48056",
@@ -28,10 +37,10 @@
             "rating": "6.12"
         },
         {
-            "id": "kitsu:50433",
+            "id": "kitsu:49070",
             "type": "series",
             "name": "Jigoku Sensei Nube (2025) (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50433_Ep_11.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49070_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "6.27"
@@ -52,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48363_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.65"
+            "rating": "7.54"
         },
         {
             "id": "kitsu:49401",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49401_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.02"
+            "rating": "7.04"
         },
         {
             "id": "kitsu:49768",
@@ -145,13 +154,22 @@
             "rating": "4.56"
         },
         {
-            "id": "kitsu:49191",
+            "id": "kitsu:50454",
             "type": "series",
             "name": "Long Zu II: Daowangzhe Zhi Tong (JAP)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49191_Ep_16.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50454_Ep_16.jpg",
             "description": "Nuovo episodio: Ep 16",
             "posterShape": "poster",
             "rating": "6.97"
+        },
+        {
+            "id": "kitsu:50433",
+            "type": "series",
+            "name": "Jigoku Sensei Nube (2025) Part 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50433_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.28"
         },
         {
             "id": "kitsu:48944",
@@ -178,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50442_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.83"
+            "rating": "6.82"
         },
         {
             "id": "kitsu:50423",
@@ -187,7 +205,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.11"
+            "rating": "7.12"
         },
         {
             "id": "kitsu:49264",
@@ -211,7 +229,7 @@
             "id": "kitsu:49903",
             "type": "series",
             "name": "29-sai Dokushin Chuuken Boukensha no Nichijou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49903_Ep_4.jpg",
+            "poster": "https://media.kitsu.app/anime/49903/poster_image/medium-ad0d118ddde23808185ad90705e74c17.jpeg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "6.93"
@@ -287,15 +305,6 @@
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "6.17"
-        },
-        {
-            "id": "kitsu:49992",
-            "type": "series",
-            "name": "Maou no Musume wa Yasashisugiru!!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49992_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.69"
         }
     ]
 }
