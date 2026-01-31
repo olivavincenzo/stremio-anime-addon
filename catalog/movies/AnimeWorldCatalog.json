@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:49672",
+            "type": "series",
+            "name": "Dead Account",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49672_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.63"
+        },
+        {
+            "id": "kitsu:50270",
+            "type": "series",
+            "name": "High School! Kimengumi (2026)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50270_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "3.87"
+        },
+        {
             "id": "kitsu:49769",
             "type": "series",
             "name": "Ao no Miburo: Serizawa Ansatsu-hen",
@@ -43,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50444_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.36"
+            "rating": "7.35"
         },
         {
             "id": "kitsu:50325",
@@ -278,24 +296,6 @@
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "6.92"
-        },
-        {
-            "id": "kitsu:50484",
-            "type": "series",
-            "name": "Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50484_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "5.39"
-        },
-        {
-            "id": "kitsu:48216",
-            "type": "series",
-            "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48216_Ep_14.jpg",
-            "description": "Nuovo episodio: Ep 14",
-            "posterShape": "poster",
-            "rating": "7.25"
         }
     ]
 }
