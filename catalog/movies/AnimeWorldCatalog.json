@@ -1,6 +1,42 @@
 {
     "metas": [
         {
+            "id": "kitsu:47682",
+            "type": "series",
+            "name": "Fate/strange Fake",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47682_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.23"
+        },
+        {
+            "id": "kitsu:47161",
+            "type": "series",
+            "name": "Fumetsu no Anata e 3 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47161_Ep_16.jpg",
+            "description": "Nuovo episodio: Ep 16",
+            "posterShape": "poster",
+            "rating": "4.87"
+        },
+        {
+            "id": "kitsu:50393",
+            "type": "series",
+            "name": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50393_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.99"
+        },
+        {
+            "id": "kitsu:47243",
+            "type": "series",
+            "name": "Trigun Stargaze",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47243_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.53"
+        },
+        {
             "id": "kitsu:49672",
             "type": "series",
             "name": "Dead Account",
@@ -43,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49915_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.19"
+            "rating": "6.20"
         },
         {
             "id": "kitsu:49016",
@@ -178,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49375_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.27"
+            "rating": "7.28"
         },
         {
             "id": "kitsu:49296",
@@ -251,51 +287,6 @@
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "7.03"
-        },
-        {
-            "id": "kitsu:50442",
-            "type": "series",
-            "name": "Odayaka Kizoku no Kyuuka no Susume.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50442_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "6.82"
-        },
-        {
-            "id": "kitsu:50423",
-            "type": "series",
-            "name": "Yuusha Party wo Oidasareta Kiyoubinbou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "7.12"
-        },
-        {
-            "id": "kitsu:49264",
-            "type": "series",
-            "name": "\"Oshi no Ko\" 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49264_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "8.69"
-        },
-        {
-            "id": "kitsu:50432",
-            "type": "series",
-            "name": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50432_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "7.47"
-        },
-        {
-            "id": "kitsu:49903",
-            "type": "series",
-            "name": "29-sai Dokushin Chuuken Boukensha no Nichijou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49903_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "6.92"
         }
     ]
 }
