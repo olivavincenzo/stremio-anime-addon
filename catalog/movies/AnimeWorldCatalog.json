@@ -1,13 +1,31 @@
 {
     "metas": [
         {
+            "id": "kitsu:50424",
+            "type": "series",
+            "name": "Majutsushi Kunon wa Mieteiru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50424_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.31"
+        },
+        {
+            "id": "kitsu:48870",
+            "type": "series",
+            "name": "Hanazakari no Kimitachi e",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48870_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.20"
+        },
+        {
             "id": "kitsu:48070",
             "type": "series",
             "name": "Blue Orchestra 2",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48070_Ep_17.jpg",
             "description": "Nuovo episodio: Ep 17",
             "posterShape": "poster",
-            "rating": "4.38"
+            "rating": "4.41"
         },
         {
             "id": "kitsu:49700",
@@ -61,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50466_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.53"
+            "rating": "7.50"
         },
         {
             "id": "kitsu:50203",
@@ -79,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49767_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.95"
+            "rating": "7.96"
         },
         {
             "id": "kitsu:49681",
@@ -296,15 +314,6 @@
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "6.04"
-        },
-        {
-            "id": "kitsu:50334",
-            "type": "series",
-            "name": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50334_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "6.93"
         }
     ]
 }
