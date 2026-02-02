@@ -1,19 +1,10 @@
 {
     "metas": [
         {
-            "id": "kitsu:50362",
-            "type": "series",
-            "name": "Meitantei Precure!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50362_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "7.33"
-        },
-        {
-            "id": "kitsu:8524",
+            "id": "kitsu:11891",
             "type": "series",
             "name": "Kuroko's Basketball 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8524_Ep_2.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_11891_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
             "rating": "7.82"
@@ -37,10 +28,10 @@
             "rating": "5.24"
         },
         {
-            "id": "kitsu:50470",
+            "id": "kitsu:13079",
             "type": "series",
             "name": "Hikuidori: Ushuu Boro Tobi-gumi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50470_Ep_4.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13079_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "5.71"
@@ -66,11 +57,11 @@
         {
             "id": "kitsu:47679",
             "type": "series",
-            "name": "Jigokuraku 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47679_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
+            "name": "Jigokuraku 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47679_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.71"
+            "rating": "8.64"
         },
         {
             "id": "kitsu:49867",
@@ -79,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49867_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.94"
+            "rating": "6.95"
         },
         {
             "id": "kitsu:50439",
@@ -97,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50424_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.34"
+            "rating": "7.35"
         },
         {
             "id": "kitsu:48870",
@@ -169,16 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50466_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.47"
-        },
-        {
-            "id": "kitsu:50203",
-            "type": "series",
-            "name": "SI-VIS: The Sound of Heroes",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50203_Ep_17.jpg",
-            "description": "Nuovo episodio: Ep 17",
-            "posterShape": "poster",
-            "rating": "3.61"
+            "rating": "7.48"
         },
         {
             "id": "kitsu:49767",
@@ -215,15 +197,6 @@
             "description": "Nuovo episodio: Ep 16",
             "posterShape": "poster",
             "rating": "4.51"
-        },
-        {
-            "id": "kitsu:47682",
-            "type": "series",
-            "name": "Fate/strange Fake",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47682_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "7.21"
         },
         {
             "id": "kitsu:47161",
@@ -291,11 +264,11 @@
         {
             "id": "kitsu:49016",
             "type": "series",
-            "name": "Enen no Shouboutai: San no Shou Part 2 (ITA)",
+            "name": "Enen no Shouboutai: San no Shou Part 2",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49016_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.94"
+            "rating": "8.58"
         },
         {
             "id": "kitsu:50444",
