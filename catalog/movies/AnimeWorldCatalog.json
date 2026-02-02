@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:48972",
+            "type": "series",
+            "name": "Princession Orchestra",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48972_Ep_36.jpg",
+            "description": "Nuovo episodio: Ep 36",
+            "posterShape": "poster",
+            "rating": "3.73"
+        },
+        {
+            "id": "kitsu:50352",
+            "type": "series",
+            "name": "Osananajimi to wa Love Comedy ni Naranai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50352_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "6.66"
+        },
+        {
+            "id": "kitsu:44814",
+            "type": "series",
+            "name": "Waccha PriMagi!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44814_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "4.56"
+        },
+        {
             "id": "kitsu:47655",
             "type": "series",
             "name": "Golden Kamuy: Saishuushou",
@@ -16,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50007_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.64"
+            "rating": "7.66"
         },
         {
             "id": "kitsu:49966",
@@ -79,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50426_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.02"
+            "rating": "6.01"
         },
         {
             "id": "kitsu:48830",
@@ -169,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49910_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.75"
+            "rating": "7.74"
         },
         {
             "id": "kitsu:50335",
@@ -196,7 +223,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50466_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.48"
+            "rating": "7.49"
         },
         {
             "id": "kitsu:50203",
@@ -305,24 +332,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "5.97"
-        },
-        {
-            "id": "kitsu:49915",
-            "type": "series",
-            "name": "Android wa Keiken Ninzuu ni Hairimasu ka??",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49915_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "6.20"
-        },
-        {
-            "id": "kitsu:49016",
-            "type": "series",
-            "name": "Enen no Shouboutai: San no Shou Part 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49016_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "7.94"
         }
     ]
 }
