@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:49680",
+            "type": "series",
+            "name": "Mayonaka Heart Tune",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49680_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.28"
+        },
+        {
+            "id": "kitsu:48464",
+            "type": "series",
+            "name": "Himitsu no AiPri: Ring-hen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48464_Ep_42.jpg",
+            "description": "Nuovo episodio: Ep 42",
+            "posterShape": "poster",
+            "rating": "5.88"
+        },
+        {
             "id": "kitsu:49992",
             "type": "series",
             "name": "Maou no Musume wa Yasashisugiru!!",
@@ -286,7 +304,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49767_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.97"
+            "rating": "8.00"
         },
         {
             "id": "kitsu:49681",
@@ -305,24 +323,6 @@
             "description": "Nuovo episodio: Ep 17",
             "posterShape": "poster",
             "rating": "6.59"
-        },
-        {
-            "id": "kitsu:49929",
-            "type": "series",
-            "name": "Gnosia",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49929_Ep_16.jpg",
-            "description": "Nuovo episodio: Ep 16",
-            "posterShape": "poster",
-            "rating": "4.52"
-        },
-        {
-            "id": "kitsu:47682",
-            "type": "series",
-            "name": "Fate/strange Fake",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47682_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "7.22"
         }
     ]
 }
