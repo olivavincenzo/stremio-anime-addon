@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:50427",
+            "type": "series",
+            "name": "Yoroi Shin Den Samurai Troopers",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50427_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "6.03"
+        },
+        {
+            "id": "kitsu:50437",
+            "type": "series",
+            "name": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50437_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.23"
+        },
+        {
+            "id": "kitsu:50425",
+            "type": "series",
+            "name": "Isekai no Sata wa Shachiku Shidai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50425_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "6.18"
+        },
+        {
             "id": "kitsu:49680",
             "type": "series",
             "name": "Mayonaka Heart Tune",
@@ -52,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3817_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "5.56"
+            "rating": "5.60"
         },
         {
             "id": "kitsu:9978",
@@ -205,7 +232,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50439_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.08"
+            "rating": "7.09"
         },
         {
             "id": "kitsu:50424",
@@ -296,33 +323,6 @@
             "description": "Nuovo episodio: Ep 17",
             "posterShape": "poster",
             "rating": "3.61"
-        },
-        {
-            "id": "kitsu:49767",
-            "type": "series",
-            "name": "Medalist 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49767_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "8.00"
-        },
-        {
-            "id": "kitsu:49681",
-            "type": "series",
-            "name": "Yuusha no Kuzu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49681_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "6.66"
-        },
-        {
-            "id": "kitsu:50149",
-            "type": "series",
-            "name": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50149_Ep_17.jpg",
-            "description": "Nuovo episodio: Ep 17",
-            "posterShape": "poster",
-            "rating": "6.59"
         }
     ]
 }
