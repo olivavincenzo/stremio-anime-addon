@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:49992",
+            "type": "series",
+            "name": "Maou no Musume wa Yasashisugiru!!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49992_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.69"
+        },
+        {
             "id": "kitsu:49360",
             "type": "series",
             "name": "Anne Shirley (ITA)",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3817_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "5.55"
+            "rating": "5.56"
         },
         {
             "id": "kitsu:9978",
@@ -88,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47655_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.09"
+            "rating": "7.02"
         },
         {
             "id": "kitsu:49966",
@@ -314,15 +323,6 @@
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "7.22"
-        },
-        {
-            "id": "kitsu:47161",
-            "type": "series",
-            "name": "Fumetsu no Anata e 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47161_Ep_16.jpg",
-            "description": "Nuovo episodio: Ep 16",
-            "posterShape": "poster",
-            "rating": "4.92"
         }
     ]
 }
