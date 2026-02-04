@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:8524",
+            "type": "series",
+            "name": "Kuroko's Basketball 3 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8524_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "7.95"
+        },
+        {
             "id": "kitsu:50484",
             "type": "series",
             "name": "Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!",
@@ -98,15 +107,6 @@
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "3.58"
-        },
-        {
-            "id": "kitsu:8524",
-            "type": "series",
-            "name": "Kuroko's Basketball 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8524_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.95"
         },
         {
             "id": "kitsu:3817",
@@ -305,15 +305,6 @@
             "description": "Nuovo episodio: Ep 17",
             "posterShape": "poster",
             "rating": "4.25"
-        },
-        {
-            "id": "kitsu:49372",
-            "type": "series",
-            "name": "Seihantai na Kimi to Boku",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49372_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "8.07"
         }
     ]
 }
