@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:49191",
+            "type": "series",
+            "name": "Long Zu II: Daowangzhe Zhi Tong (JAP)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49191_Ep_17.jpg",
+            "description": "Nuovo episodio: Ep 17",
+            "posterShape": "poster",
+            "rating": "7.08"
+        },
+        {
             "id": "kitsu:50433",
             "type": "series",
             "name": "Jigoku Sensei Nube (2025) Part 2",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50442_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.81"
+            "rating": "6.80"
         },
         {
             "id": "kitsu:50423",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.21"
+            "rating": "7.22"
         },
         {
             "id": "kitsu:49264",
@@ -52,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49264_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.72"
+            "rating": "8.71"
         },
         {
             "id": "kitsu:49903",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49903_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.93"
+            "rating": "6.92"
         },
         {
             "id": "kitsu:50432",
@@ -70,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50432_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.50"
+            "rating": "7.51"
         },
         {
             "id": "kitsu:48057",
@@ -106,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48216_Ep_15.jpg",
             "description": "Nuovo episodio: Ep 15",
             "posterShape": "poster",
-            "rating": "7.10"
+            "rating": "7.11"
         },
         {
             "id": "kitsu:49323",
@@ -196,7 +205,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3817_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "5.57"
+            "rating": "5.56"
         },
         {
             "id": "kitsu:9978",
@@ -229,7 +238,7 @@
             "id": "kitsu:48972",
             "type": "series",
             "name": "Princession Orchestra",
-            "poster": "https://media.kitsu.app/anime/48972/poster_image/medium-76dde158ac6737a9ca04b32601487061.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48972_Ep_36.jpg",
             "description": "Nuovo episodio: Ep 36",
             "posterShape": "poster",
             "rating": "3.73"
@@ -242,6 +251,15 @@
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "6.65"
+        },
+        {
+            "id": "kitsu:44814",
+            "type": "series",
+            "name": "Waccha PriMagi!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44814_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "5.00"
         },
         {
             "id": "kitsu:47655",
@@ -278,15 +296,6 @@
             "description": "Nuovo episodio: Ep 16",
             "posterShape": "poster",
             "rating": "5.09"
-        },
-        {
-            "id": "kitsu:50390",
-            "type": "series",
-            "name": "Yamishibai: Japanese Ghost Stories 16",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50390_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "5.24"
         }
     ]
 }
