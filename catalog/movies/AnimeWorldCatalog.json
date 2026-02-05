@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:48639",
+            "type": "series",
+            "name": "Mato Seihei no Slave 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48639_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "8.13"
+        },
+        {
+            "id": "kitsu:49296",
+            "type": "series",
+            "name": "Eris no Seihai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49296_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.18"
+        },
+        {
+            "id": "kitsu:49375",
+            "type": "series",
+            "name": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49375_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.23"
+        },
+        {
             "id": "kitsu:49441",
             "type": "series",
             "name": "MF Ghost 3",
@@ -52,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48944_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "8.06"
+            "rating": "8.07"
         },
         {
             "id": "kitsu:50337",
@@ -79,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.32"
+            "rating": "7.31"
         },
         {
             "id": "kitsu:49264",
@@ -278,24 +305,6 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "5.00"
-        },
-        {
-            "id": "kitsu:47655",
-            "type": "series",
-            "name": "Golden Kamuy: Saishuushou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47655_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "7.02"
-        },
-        {
-            "id": "kitsu:49966",
-            "type": "series",
-            "name": "Kirei ni Shitemoraemasu ka.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49966_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.35"
         }
     ]
 }
