@@ -1,13 +1,31 @@
 {
     "metas": [
         {
+            "id": "kitsu:50444",
+            "type": "series",
+            "name": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50444_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.36"
+        },
+        {
+            "id": "kitsu:50325",
+            "type": "series",
+            "name": "Dark Moon: Tsuki no Saidan",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50325_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.23"
+        },
+        {
             "id": "kitsu:49240",
             "type": "series",
             "name": "Sousou no Frieren 2 (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49240_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "5.40"
+            "rating": "6.29"
         },
         {
             "id": "kitsu:48972",
@@ -25,22 +43,22 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50201_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.80"
+            "rating": "5.78"
         },
         {
             "id": "kitsu:50237",
             "type": "series",
             "name": "Yi Ren Zhi Xia 6",
-            "poster": "https://media.kitsu.app/anime/50237/poster_image/medium-22fb4bfcb0bd7ef665f70e5e8a3fe783.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50237_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "6.24"
         },
         {
-            "id": "kitsu:49070",
+            "id": "kitsu:50433",
             "type": "series",
             "name": "Jigoku Sensei Nube (2025) (ITA)",
-            "poster": "https://media.kitsu.app/anime/49070/poster_image/medium-c56eefb9981869c07c6f8933be7e48b2.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50433_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
             "rating": "6.37"
@@ -76,7 +94,7 @@
             "id": "kitsu:48363",
             "type": "series",
             "name": "Jujutsu Kaisen 3: Shimetsu Kaiyuu - Zenpen",
-            "poster": "https://media.kitsu.app/anime/48363/poster_image/medium-3a5b89a567ed3d4be0cc71fe94e029c7.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48363_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "8.37"
@@ -88,16 +106,16 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50334_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.93"
+            "rating": "6.94"
         },
         {
             "id": "kitsu:48639",
             "type": "series",
             "name": "Mato Seihei no Slave 2",
-            "poster": "https://media.kitsu.app/anime/48639/poster_image/medium-d4d08324d08f96819c391836b4bbef95.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48639_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.12"
+            "rating": "8.13"
         },
         {
             "id": "kitsu:49296",
@@ -121,7 +139,7 @@
             "id": "kitsu:49441",
             "type": "series",
             "name": "MF Ghost 3",
-            "poster": "https://media.kitsu.app/anime/49441/poster_image/medium-07521d6314419e0b5318839d42c38836.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49441_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "8.55"
@@ -143,15 +161,6 @@
             "description": "Nuovo episodio: Ep 17",
             "posterShape": "poster",
             "rating": "6.98"
-        },
-        {
-            "id": "kitsu:50433",
-            "type": "series",
-            "name": "Jigoku Sensei Nube (2025) Part 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50433_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.33"
         },
         {
             "id": "kitsu:48944",
@@ -193,16 +202,16 @@
             "id": "kitsu:49264",
             "type": "series",
             "name": "\"Oshi no Ko\" 3",
-            "poster": "https://media.kitsu.app/anime/49264/poster_image/medium-31b25960adbad35afb8eb2aafc48aa2c.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49264_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.75"
+            "rating": "8.76"
         },
         {
             "id": "kitsu:49903",
             "type": "series",
             "name": "29-sai Dokushin Chuuken Boukensha no Nichijou",
-            "poster": "https://media.kitsu.app/anime/49903/poster_image/medium-ad0d118ddde23808185ad90705e74c17.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49903_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "6.90"
@@ -229,7 +238,7 @@
             "id": "kitsu:50484",
             "type": "series",
             "name": "Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!",
-            "poster": "https://media.kitsu.app/anime/50484/poster_image/medium-5659446653cfff6fc89b8a5a9c3b7423.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50484_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "5.45"
@@ -278,24 +287,6 @@
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "7.13"
-        },
-        {
-            "id": "kitsu:50425",
-            "type": "series",
-            "name": "Isekai no Sata wa Shachiku Shidai",
-            "poster": "https://media.kitsu.app/anime/50425/poster_image/medium-c488c848bf873a014c15d79b9ae332af.jpeg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.22"
-        },
-        {
-            "id": "kitsu:49680",
-            "type": "series",
-            "name": "Mayonaka Heart Tune",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49680_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "7.39"
         }
     ]
 }
