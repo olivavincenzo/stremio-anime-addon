@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:50270",
+            "type": "series",
+            "name": "High School! Kimengumi (2026)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50270_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "4.00"
+        },
+        {
             "id": "kitsu:49769",
             "type": "series",
             "name": "Ao no Miburo: Serizawa Ansatsu-hen",
@@ -205,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50337_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.89"
+            "rating": "6.92"
         },
         {
             "id": "kitsu:50442",
@@ -269,15 +278,6 @@
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "5.45"
-        },
-        {
-            "id": "kitsu:48216",
-            "type": "series",
-            "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48216_Ep_15.jpg",
-            "description": "Nuovo episodio: Ep 15",
-            "posterShape": "poster",
-            "rating": "7.24"
         }
     ]
 }
