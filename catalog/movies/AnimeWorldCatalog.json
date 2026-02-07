@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:50466",
+            "type": "series",
+            "name": "Tensei shitara Dragon no Tamago datta",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50466_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.46"
+        },
+        {
             "id": "kitsu:49767",
             "type": "series",
             "name": "Medalist 2",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49767_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.09"
+            "rating": "8.07"
         },
         {
             "id": "kitsu:49681",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49929_Ep_17.jpg",
             "description": "Nuovo episodio: Ep 17",
             "posterShape": "poster",
-            "rating": "4.54"
+            "rating": "4.56"
         },
         {
             "id": "kitsu:47682",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47682_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.21"
+            "rating": "7.20"
         },
         {
             "id": "kitsu:49672",
@@ -88,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49769_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "5.99"
+            "rating": "6.01"
         },
         {
             "id": "kitsu:49915",
@@ -187,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49401_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.11"
+            "rating": "7.08"
         },
         {
             "id": "kitsu:49768",
@@ -287,15 +296,6 @@
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "6.92"
-        },
-        {
-            "id": "kitsu:50442",
-            "type": "series",
-            "name": "Odayaka Kizoku no Kyuuka no Susume.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50442_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.74"
         }
     ]
 }
