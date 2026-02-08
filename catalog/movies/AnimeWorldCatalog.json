@@ -1,13 +1,31 @@
 {
     "metas": [
         {
+            "id": "kitsu:50106",
+            "type": "series",
+            "name": "Xian Wang de Richang Shenghuo 5",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50106_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "7.21"
+        },
+        {
+            "id": "kitsu:50203",
+            "type": "series",
+            "name": "SI-VIS: The Sound of Heroes",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50203_Ep_18.jpg",
+            "description": "Nuovo episodio: Ep 18",
+            "posterShape": "poster",
+            "rating": "3.61"
+        },
+        {
             "id": "kitsu:50466",
             "type": "series",
             "name": "Tensei shitara Dragon no Tamago datta",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50466_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.53"
+            "rating": "7.54"
         },
         {
             "id": "kitsu:49767",
@@ -70,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50393_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.04"
+            "rating": "7.01"
         },
         {
             "id": "kitsu:47243",
@@ -106,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49915_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.11"
+            "rating": "6.09"
         },
         {
             "id": "kitsu:8524",
@@ -187,7 +205,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50433_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.37"
+            "rating": "6.33"
         },
         {
             "id": "kitsu:49401",
@@ -287,15 +305,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "8.05"
-        },
-        {
-            "id": "kitsu:50337",
-            "type": "series",
-            "name": "Shibou Yuugi de Meshi wo Kuu. (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50337_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.92"
         }
     ]
 }
