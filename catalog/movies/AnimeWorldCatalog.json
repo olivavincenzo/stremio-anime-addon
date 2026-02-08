@@ -1,6 +1,60 @@
 {
     "metas": [
         {
+            "id": "kitsu:48070",
+            "type": "series",
+            "name": "Blue Orchestra 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48070_Ep_18.jpg",
+            "description": "Nuovo episodio: Ep 18",
+            "posterShape": "poster",
+            "rating": "4.50"
+        },
+        {
+            "id": "kitsu:49700",
+            "type": "series",
+            "name": "Digimon Beatbreak",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_18.jpg",
+            "description": "Nuovo episodio: Ep 18",
+            "posterShape": "poster",
+            "rating": "4.26"
+        },
+        {
+            "id": "kitsu:50201",
+            "type": "series",
+            "name": "Strike World: Deadverse Reloaded the Anime",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50201_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "5.71"
+        },
+        {
+            "id": "kitsu:50335",
+            "type": "series",
+            "name": "Kaya-chan wa Kowakunai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50335_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "6.90"
+        },
+        {
+            "id": "kitsu:49372",
+            "type": "series",
+            "name": "Seihantai na Kimi to Boku",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49372_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "8.01"
+        },
+        {
+            "id": "kitsu:49910",
+            "type": "series",
+            "name": "Uruwashi no Yoi no Tsuki",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49910_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.73"
+        },
+        {
             "id": "kitsu:50106",
             "type": "series",
             "name": "Xian Wang de Richang Shenghuo 5",
@@ -25,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50466_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.52"
+            "rating": "7.55"
         },
         {
             "id": "kitsu:49767",
@@ -52,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50149_Ep_18.jpg",
             "description": "Nuovo episodio: Ep 18",
             "posterShape": "poster",
-            "rating": "6.67"
+            "rating": "6.69"
         },
         {
             "id": "kitsu:49929",
@@ -61,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49929_Ep_17.jpg",
             "description": "Nuovo episodio: Ep 17",
             "posterShape": "poster",
-            "rating": "4.51"
+            "rating": "4.52"
         },
         {
             "id": "kitsu:47682",
@@ -79,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49672_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.70"
+            "rating": "6.69"
         },
         {
             "id": "kitsu:50393",
@@ -142,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49016_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.88"
+            "rating": "7.89"
         },
         {
             "id": "kitsu:50444",
@@ -179,15 +233,6 @@
             "description": "Nuovo episodio: Ep 37",
             "posterShape": "poster",
             "rating": "3.77"
-        },
-        {
-            "id": "kitsu:50201",
-            "type": "series",
-            "name": "Strike World: Deadverse Reloaded the Anime",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50201_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "5.71"
         },
         {
             "id": "kitsu:50237",
@@ -269,42 +314,6 @@
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "7.24"
-        },
-        {
-            "id": "kitsu:49441",
-            "type": "series",
-            "name": "MF Ghost 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49441_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "8.52"
-        },
-        {
-            "id": "kitsu:47759",
-            "type": "series",
-            "name": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47759_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "8.24"
-        },
-        {
-            "id": "kitsu:49191",
-            "type": "series",
-            "name": "Long Zu II: Daowangzhe Zhi Tong (JAP)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49191_Ep_17.jpg",
-            "description": "Nuovo episodio: Ep 17",
-            "posterShape": "poster",
-            "rating": "6.98"
-        },
-        {
-            "id": "kitsu:48944",
-            "type": "series",
-            "name": "Tamon-kun Ima Docchi!?",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48944_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "8.05"
         }
     ]
 }
