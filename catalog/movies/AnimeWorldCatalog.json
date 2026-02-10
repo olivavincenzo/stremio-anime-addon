@@ -4,10 +4,10 @@
             "id": "kitsu:49323",
             "type": "series",
             "name": "Arne no Jikenbo",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49323_Ep_6.jpg",
+            "poster": "https://media.kitsu.app/anime/49323/poster_image/medium-f4b78d18fd11486735e49969e50be5dd.jpeg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.09"
+            "rating": "6.04"
         },
         {
             "id": "kitsu:50427",
@@ -22,10 +22,10 @@
             "id": "kitsu:48884",
             "type": "series",
             "name": "Darwin Jihen (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48884_Ep_6.jpg",
+            "poster": "https://media.kitsu.app/anime/48884/poster_image/medium-47940529d2b673332a575151645f7dda.jpeg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.94"
+            "rating": "6.95"
         },
         {
             "id": "kitsu:50437",
@@ -37,22 +37,13 @@
             "rating": "7.08"
         },
         {
-            "id": "kitsu:50425",
-            "type": "series",
-            "name": "Isekai no Sata wa Shachiku Shidai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50425_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "6.23"
-        },
-        {
             "id": "kitsu:49680",
             "type": "series",
             "name": "Mayonaka Heart Tune",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49680_Ep_6.jpg",
+            "poster": "https://media.kitsu.app/anime/49680/poster_image/medium-32f869b3999b43011d72d596edceb058.jpeg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.42"
+            "rating": "7.47"
         },
         {
             "id": "kitsu:49992",
@@ -76,10 +67,10 @@
             "id": "kitsu:8524",
             "type": "series",
             "name": "Kuroko's Basketball 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8524_Ep_9.jpg",
+            "poster": "https://media.kitsu.app/anime/8524/poster_image/medium-bfa6b7f06748ce15f23261b7471d2a2e.jpeg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.08"
+            "rating": "7.19"
         },
         {
             "id": "kitsu:50362",
@@ -94,7 +85,7 @@
             "id": "kitsu:47656",
             "type": "series",
             "name": "Himesama \"Goumon\" no Jikan desu 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47656_Ep_5.jpg",
+            "poster": "https://media.kitsu.app/anime/47656/poster_image/medium-259f8bfe856c8ea0c5910b3caa405d19.jpeg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "7.20"
@@ -103,7 +94,7 @@
             "id": "kitsu:50352",
             "type": "series",
             "name": "Osananajimi to wa Love Comedy ni Naranai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50352_Ep_6.jpg",
+            "poster": "https://media.kitsu.app/anime/50352/poster_image/medium-ad1ed869f0ef0aff71d8e8639863cf95.jpeg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "6.60"
@@ -124,13 +115,13 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50007_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.69"
+            "rating": "7.71"
         },
         {
             "id": "kitsu:49966",
             "type": "series",
             "name": "Kirei ni Shitemoraemasu ka.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49966_Ep_6.jpg",
+            "poster": "https://media.kitsu.app/anime/49966/poster_image/medium-525bfd8a94bda08277be1aae7c7ae829.jpeg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "6.33"
@@ -148,7 +139,7 @@
             "id": "kitsu:50390",
             "type": "series",
             "name": "Yamishibai: Japanese Ghost Stories 16",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50390_Ep_5.jpg",
+            "poster": "https://media.kitsu.app/anime/50390/poster_image/medium-5b93ab90190a16cc8b141b2adb7985f2.jpeg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "5.24"
@@ -178,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47679_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "8.48"
+            "rating": "8.47"
         },
         {
             "id": "kitsu:49867",
@@ -226,15 +217,6 @@
             "rating": "4.53"
         },
         {
-            "id": "kitsu:49700",
-            "type": "series",
-            "name": "Digimon Beatbreak",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_18.jpg",
-            "description": "Nuovo episodio: Ep 18",
-            "posterShape": "poster",
-            "rating": "4.27"
-        },
-        {
             "id": "kitsu:50201",
             "type": "series",
             "name": "Strike World: Deadverse Reloaded the Anime",
@@ -274,19 +256,10 @@
             "id": "kitsu:50106",
             "type": "series",
             "name": "Xian Wang de Richang Shenghuo 5",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50106_Ep_10.jpg",
+            "poster": "https://media.kitsu.app/anime/50106/poster_image/medium-e79fc583a60aa46da8406520221dc3ac.jpeg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "7.10"
-        },
-        {
-            "id": "kitsu:50203",
-            "type": "series",
-            "name": "SI-VIS: The Sound of Heroes",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50203_Ep_18.jpg",
-            "description": "Nuovo episodio: Ep 18",
-            "posterShape": "poster",
-            "rating": "3.60"
         },
         {
             "id": "kitsu:50466",
@@ -301,7 +274,7 @@
             "id": "kitsu:49767",
             "type": "series",
             "name": "Medalist 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49767_Ep_3.jpg",
+            "poster": "https://media.kitsu.app/anime/49767/poster_image/medium-436554a1a1089921173f211b156e8701.jpeg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "7.86"
