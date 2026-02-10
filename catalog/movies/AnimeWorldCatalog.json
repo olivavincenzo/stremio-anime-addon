@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:49323",
+            "type": "series",
+            "name": "Arne no Jikenbo",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49323_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.09"
+        },
+        {
+            "id": "kitsu:50427",
+            "type": "series",
+            "name": "Yoroi Shin Den Samurai Troopers",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50427_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.13"
+        },
+        {
             "id": "kitsu:48884",
             "type": "series",
             "name": "Darwin Jihen (ITA)",
@@ -16,16 +34,16 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50437_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.10"
+            "rating": "7.08"
         },
         {
             "id": "kitsu:50425",
             "type": "series",
             "name": "Isekai no Sata wa Shachiku Shidai",
-            "poster": "https://media.kitsu.app/anime/50425/poster_image/medium-c488c848bf873a014c15d79b9ae332af.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50425_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.22"
+            "rating": "6.23"
         },
         {
             "id": "kitsu:49680",
@@ -43,13 +61,13 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49992_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.66"
+            "rating": "6.67"
         },
         {
-            "id": "kitsu:13892",
+            "id": "kitsu:49360",
             "type": "series",
             "name": "Anne Shirley (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13892_Ep_12.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49360_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
             "rating": "3.65"
@@ -67,7 +85,7 @@
             "id": "kitsu:50362",
             "type": "series",
             "name": "Meitantei Precure!",
-            "poster": "https://media.kitsu.app/anime/50362/poster_image/medium-2cdd7b0453f4aeabce41d02b51e920cf.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50362_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
             "rating": "5.92"
@@ -166,7 +184,7 @@
             "id": "kitsu:49867",
             "type": "series",
             "name": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
-            "poster": "https://media.kitsu.app/anime/49867/poster_image/medium-52a6604b4c38c042e368aadc3eb1e1cb.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49867_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "6.99"
@@ -208,6 +226,15 @@
             "rating": "4.53"
         },
         {
+            "id": "kitsu:49700",
+            "type": "series",
+            "name": "Digimon Beatbreak",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_18.jpg",
+            "description": "Nuovo episodio: Ep 18",
+            "posterShape": "poster",
+            "rating": "4.27"
+        },
+        {
             "id": "kitsu:50201",
             "type": "series",
             "name": "Strike World: Deadverse Reloaded the Anime",
@@ -226,10 +253,10 @@
             "rating": "6.88"
         },
         {
-            "id": "kitsu:46117",
+            "id": "kitsu:49372",
             "type": "series",
             "name": "Seihantai na Kimi to Boku",
-            "poster": "https://media.kitsu.app/anime/46117/poster_image/medium-2f0596f7d62936c93881b571ea06fa0e.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49372_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "8.01"
@@ -283,7 +310,7 @@
             "id": "kitsu:49681",
             "type": "series",
             "name": "Yuusha no Kuzu",
-            "poster": "https://media.kitsu.app/anime/49681/poster_image/medium-e1e3981bd551f9725da5328ea6b0b81b.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49681_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "6.68"
@@ -292,19 +319,10 @@
             "id": "kitsu:50149",
             "type": "series",
             "name": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-            "poster": "https://media.kitsu.app/anime/50149/poster_image/medium-6c2cb6c4de66436d678793b4e942a0d3.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50149_Ep_18.jpg",
             "description": "Nuovo episodio: Ep 18",
             "posterShape": "poster",
             "rating": "6.71"
-        },
-        {
-            "id": "kitsu:49929",
-            "type": "series",
-            "name": "Gnosia",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49929_Ep_17.jpg",
-            "description": "Nuovo episodio: Ep 17",
-            "posterShape": "poster",
-            "rating": "4.49"
         }
     ]
 }
