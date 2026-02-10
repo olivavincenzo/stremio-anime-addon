@@ -1,13 +1,40 @@
 {
     "metas": [
         {
+            "id": "kitsu:48884",
+            "type": "series",
+            "name": "Darwin Jihen (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48884_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.94"
+        },
+        {
+            "id": "kitsu:50437",
+            "type": "series",
+            "name": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50437_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.10"
+        },
+        {
+            "id": "kitsu:50425",
+            "type": "series",
+            "name": "Isekai no Sata wa Shachiku Shidai",
+            "poster": "https://media.kitsu.app/anime/50425/poster_image/medium-c488c848bf873a014c15d79b9ae332af.jpeg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.22"
+        },
+        {
             "id": "kitsu:49680",
             "type": "series",
             "name": "Mayonaka Heart Tune",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49680_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.40"
+            "rating": "7.43"
         },
         {
             "id": "kitsu:49992",
@@ -19,10 +46,10 @@
             "rating": "6.66"
         },
         {
-            "id": "kitsu:49360",
+            "id": "kitsu:13892",
             "type": "series",
             "name": "Anne Shirley (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49360_Ep_12.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13892_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
             "rating": "3.65"
@@ -40,7 +67,7 @@
             "id": "kitsu:50362",
             "type": "series",
             "name": "Meitantei Precure!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50362_Ep_2.jpg",
+            "poster": "https://media.kitsu.app/anime/50362/poster_image/medium-2cdd7b0453f4aeabce41d02b51e920cf.jpeg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
             "rating": "5.92"
@@ -139,7 +166,7 @@
             "id": "kitsu:49867",
             "type": "series",
             "name": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49867_Ep_6.jpg",
+            "poster": "https://media.kitsu.app/anime/49867/poster_image/medium-52a6604b4c38c042e368aadc3eb1e1cb.jpeg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "6.99"
@@ -181,15 +208,6 @@
             "rating": "4.53"
         },
         {
-            "id": "kitsu:49700",
-            "type": "series",
-            "name": "Digimon Beatbreak",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_18.jpg",
-            "description": "Nuovo episodio: Ep 18",
-            "posterShape": "poster",
-            "rating": "4.27"
-        },
-        {
             "id": "kitsu:50201",
             "type": "series",
             "name": "Strike World: Deadverse Reloaded the Anime",
@@ -208,13 +226,13 @@
             "rating": "6.88"
         },
         {
-            "id": "kitsu:49372",
+            "id": "kitsu:46117",
             "type": "series",
             "name": "Seihantai na Kimi to Boku",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49372_Ep_5.jpg",
+            "poster": "https://media.kitsu.app/anime/46117/poster_image/medium-2f0596f7d62936c93881b571ea06fa0e.jpeg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.02"
+            "rating": "8.01"
         },
         {
             "id": "kitsu:49910",
@@ -250,7 +268,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50466_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.60"
+            "rating": "7.59"
         },
         {
             "id": "kitsu:49767",
@@ -265,7 +283,7 @@
             "id": "kitsu:49681",
             "type": "series",
             "name": "Yuusha no Kuzu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49681_Ep_5.jpg",
+            "poster": "https://media.kitsu.app/anime/49681/poster_image/medium-e1e3981bd551f9725da5328ea6b0b81b.jpeg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "6.68"
@@ -274,7 +292,7 @@
             "id": "kitsu:50149",
             "type": "series",
             "name": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50149_Ep_18.jpg",
+            "poster": "https://media.kitsu.app/anime/50149/poster_image/medium-6c2cb6c4de66436d678793b4e942a0d3.jpeg",
             "description": "Nuovo episodio: Ep 18",
             "posterShape": "poster",
             "rating": "6.71"
@@ -286,52 +304,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49929_Ep_17.jpg",
             "description": "Nuovo episodio: Ep 17",
             "posterShape": "poster",
-            "rating": "4.47"
-        },
-        {
-            "id": "kitsu:47682",
-            "type": "series",
-            "name": "Fate/strange Fake",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47682_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.23"
-        },
-        {
-            "id": "kitsu:49672",
-            "type": "series",
-            "name": "Dead Account",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49672_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.71"
-        },
-        {
-            "id": "kitsu:50393",
-            "type": "series",
-            "name": "Jingai Kyoushitsu no Ningengirai Kyoushi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50393_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.96"
-        },
-        {
-            "id": "kitsu:47243",
-            "type": "series",
-            "name": "Trigun Stargaze",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47243_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.69"
-        },
-        {
-            "id": "kitsu:50270",
-            "type": "series",
-            "name": "High School! Kimengumi (2026)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50270_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "4.24"
+            "rating": "4.49"
         }
     ]
 }
