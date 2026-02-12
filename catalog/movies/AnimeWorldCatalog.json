@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:49768",
+            "type": "series",
+            "name": "Douse, Koishite Shimaunda. 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49768_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.07"
+        },
+        {
             "id": "kitsu:48363",
             "type": "series",
-            "name": "Jujutsu Kaisen 3: Shimetsu Kaiyuu - Zenpen (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48363_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
+            "name": "Jujutsu Kaisen 3: Shimetsu Kaiyuu - Zenpen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48363_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.58"
+            "rating": "8.37"
         },
         {
             "id": "kitsu:50334",
@@ -16,7 +25,16 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50334_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.93"
+            "rating": "6.90"
+        },
+        {
+            "id": "kitsu:48639",
+            "type": "series",
+            "name": "Mato Seihei no Slave 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48639_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "8.13"
         },
         {
             "id": "kitsu:49296",
@@ -46,10 +64,10 @@
             "rating": "8.48"
         },
         {
-            "id": "kitsu:7705",
+            "id": "kitsu:9978",
             "type": "series",
             "name": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_7705_Ep_5.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_9978_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "5.91"
@@ -61,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3817_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.67"
+            "rating": "5.68"
         },
         {
             "id": "kitsu:47759",
@@ -70,13 +88,13 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47759_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "8.25"
+            "rating": "8.26"
         },
         {
-            "id": "kitsu:11891",
+            "id": "kitsu:8524",
             "type": "series",
             "name": "Kuroko's Basketball 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_11891_Ep_11.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8524_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "7.30"
@@ -97,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50433_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.27"
+            "rating": "6.32"
         },
         {
             "id": "kitsu:49191",
@@ -127,6 +145,15 @@
             "rating": "6.97"
         },
         {
+            "id": "kitsu:50442",
+            "type": "series",
+            "name": "Odayaka Kizoku no Kyuuka no Susume.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50442_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.80"
+        },
+        {
             "id": "kitsu:49264",
             "type": "series",
             "name": "\"Oshi no Ko\" 3",
@@ -142,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.35"
+            "rating": "7.34"
         },
         {
             "id": "kitsu:49903",
@@ -160,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50432_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.42"
+            "rating": "7.41"
         },
         {
             "id": "kitsu:50201",
@@ -170,6 +197,15 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "5.59"
+        },
+        {
+            "id": "kitsu:48464",
+            "type": "series",
+            "name": "Himitsu no AiPri: Ring-hen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48464_Ep_43.jpg",
+            "description": "Nuovo episodio: Ep 43",
+            "posterShape": "poster",
+            "rating": "5.88"
         },
         {
             "id": "kitsu:49323",
@@ -205,7 +241,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50437_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.06"
+            "rating": "7.07"
         },
         {
             "id": "kitsu:50425",
@@ -253,6 +289,15 @@
             "rating": "5.92"
         },
         {
+            "id": "kitsu:47656",
+            "type": "series",
+            "name": "Himesama \"Goumon\" no Jikan desu 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47656_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.21"
+        },
+        {
             "id": "kitsu:50352",
             "type": "series",
             "name": "Osananajimi to wa Love Comedy ni Naranai",
@@ -268,16 +313,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47655_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.87"
-        },
-        {
-            "id": "kitsu:50007",
-            "type": "series",
-            "name": "My Hero Academia: Vigilantes 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50007_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.74"
+            "rating": "6.84"
         }
     ]
 }
