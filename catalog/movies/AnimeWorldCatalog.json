@@ -7,7 +7,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49401_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.06"
+            "rating": "7.04"
         },
         {
             "id": "kitsu:49768",
@@ -16,7 +16,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49768_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.11"
+            "rating": "6.14"
         },
         {
             "id": "kitsu:48363",
@@ -52,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49296_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.26"
+            "rating": "7.27"
         },
         {
             "id": "kitsu:49375",
@@ -160,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50442_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.80"
+            "rating": "6.81"
         },
         {
             "id": "kitsu:49264",
@@ -196,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50432_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.41"
+            "rating": "7.40"
         },
         {
             "id": "kitsu:50201",
@@ -313,7 +313,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50352_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.60"
+            "rating": "6.58"
         }
     ]
 }
