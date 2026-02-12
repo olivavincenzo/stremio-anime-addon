@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:9978",
+            "type": "series",
+            "name": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_9978_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "5.91"
+        },
+        {
+            "id": "kitsu:3817",
+            "type": "series",
+            "name": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3817_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "5.67"
+        },
+        {
+            "id": "kitsu:47759",
+            "type": "series",
+            "name": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47759_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "8.24"
+        },
+        {
             "id": "kitsu:8524",
             "type": "series",
             "name": "Kuroko's Basketball 3 (ITA)",
@@ -79,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.34"
+            "rating": "7.33"
         },
         {
             "id": "kitsu:49903",
@@ -88,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49903_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.81"
+            "rating": "6.82"
         },
         {
             "id": "kitsu:50432",
@@ -278,24 +305,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "6.07"
-        },
-        {
-            "id": "kitsu:47679",
-            "type": "series",
-            "name": "Jigokuraku 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47679_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "8.44"
-        },
-        {
-            "id": "kitsu:49867",
-            "type": "series",
-            "name": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49867_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "6.97"
         }
     ]
 }
