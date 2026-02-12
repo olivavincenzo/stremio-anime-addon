@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:49296",
+            "type": "series",
+            "name": "Eris no Seihai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49296_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.21"
+        },
+        {
+            "id": "kitsu:49375",
+            "type": "series",
+            "name": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49375_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.21"
+        },
+        {
+            "id": "kitsu:49441",
+            "type": "series",
+            "name": "MF Ghost 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49441_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "8.48"
+        },
+        {
             "id": "kitsu:9978",
             "type": "series",
             "name": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
@@ -16,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3817_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.67"
+            "rating": "5.68"
         },
         {
             "id": "kitsu:47759",
@@ -106,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.33"
+            "rating": "7.34"
         },
         {
             "id": "kitsu:49903",
@@ -115,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49903_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.82"
+            "rating": "6.83"
         },
         {
             "id": "kitsu:50432",
@@ -187,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50425_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.27"
+            "rating": "6.26"
         },
         {
             "id": "kitsu:49680",
@@ -278,33 +305,6 @@
             "description": "Nuovo episodio: Ep 17",
             "posterShape": "poster",
             "rating": "5.20"
-        },
-        {
-            "id": "kitsu:50390",
-            "type": "series",
-            "name": "Yamishibai: Japanese Ghost Stories 16",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50390_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "5.24"
-        },
-        {
-            "id": "kitsu:48830",
-            "type": "series",
-            "name": "Ikoku Nikki",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48830_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.51"
-        },
-        {
-            "id": "kitsu:50426",
-            "type": "series",
-            "name": "Goumon Baito-kun no Nichijou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50426_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "6.07"
         }
     ]
 }
