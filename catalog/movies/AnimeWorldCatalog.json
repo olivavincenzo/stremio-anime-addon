@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:50325",
+            "type": "series",
+            "name": "Dark Moon: Tsuki no Saidan",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50325_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.17"
+        },
+        {
             "id": "kitsu:49240",
             "type": "series",
             "name": "Sousou no Frieren 2 (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49240_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "8.96"
+            "rating": "9.03"
         },
         {
             "id": "kitsu:48056",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48056_Ep_25.jpg",
             "description": "Nuovo episodio: Ep 25",
             "posterShape": "poster",
-            "rating": "7.95"
+            "rating": "7.86"
         },
         {
             "id": "kitsu:50237",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50433_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "6.30"
+            "rating": "6.25"
         },
         {
             "id": "kitsu:8524",
@@ -278,15 +287,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "7.06"
-        },
-        {
-            "id": "kitsu:50425",
-            "type": "series",
-            "name": "Isekai no Sata wa Shachiku Shidai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50425_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "6.26"
         }
     ]
 }
