@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:49915",
+            "type": "series",
+            "name": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49915_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.13"
+        },
+        {
             "id": "kitsu:49016",
             "type": "series",
             "name": "Enen no Shouboutai: San no Shou Part 2 (ITA)",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50444_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.35"
+            "rating": "7.37"
         },
         {
             "id": "kitsu:50325",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49240_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "9.06"
+            "rating": "9.08"
         },
         {
             "id": "kitsu:48056",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48056_Ep_25.jpg",
             "description": "Nuovo episodio: Ep 25",
             "posterShape": "poster",
-            "rating": "7.86"
+            "rating": "7.77"
         },
         {
             "id": "kitsu:50237",
@@ -160,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3817_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.66"
+            "rating": "5.67"
         },
         {
             "id": "kitsu:47759",
@@ -169,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47759_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "8.25"
+            "rating": "8.26"
         },
         {
             "id": "kitsu:50484",
@@ -278,15 +287,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "6.12"
-        },
-        {
-            "id": "kitsu:50427",
-            "type": "series",
-            "name": "Yoroi Shin Den Samurai Troopers",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50427_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "6.14"
         }
     ]
 }
