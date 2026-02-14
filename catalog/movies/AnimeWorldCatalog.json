@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:49767",
+            "type": "series",
+            "name": "Medalist 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49767_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "7.89"
+        },
+        {
+            "id": "kitsu:49681",
+            "type": "series",
+            "name": "Yuusha no Kuzu",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49681_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.68"
+        },
+        {
+            "id": "kitsu:50149",
+            "type": "series",
+            "name": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50149_Ep_19.jpg",
+            "description": "Nuovo episodio: Ep 19",
+            "posterShape": "poster",
+            "rating": "6.71"
+        },
+        {
             "id": "kitsu:49929",
             "type": "series",
             "name": "Gnosia",
@@ -88,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49915_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.16"
+            "rating": "6.17"
         },
         {
             "id": "kitsu:49016",
@@ -106,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50444_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.42"
+            "rating": "7.41"
         },
         {
             "id": "kitsu:50325",
@@ -133,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48056_Ep_25.jpg",
             "description": "Nuovo episodio: Ep 25",
             "posterShape": "poster",
-            "rating": "7.71"
+            "rating": "7.82"
         },
         {
             "id": "kitsu:50237",
@@ -269,24 +296,6 @@
             "description": "Nuovo episodio: Ep 18",
             "posterShape": "poster",
             "rating": "7.02"
-        },
-        {
-            "id": "kitsu:48944",
-            "type": "series",
-            "name": "Tamon-kun Ima Docchi!?",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48944_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.72"
-        },
-        {
-            "id": "kitsu:50337",
-            "type": "series",
-            "name": "Shibou Yuugi de Meshi wo Kuu. (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50337_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "6.97"
         }
     ]
 }
