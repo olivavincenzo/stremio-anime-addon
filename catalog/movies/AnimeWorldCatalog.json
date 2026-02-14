@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:8524",
+            "type": "series",
+            "name": "Kuroko's Basketball 3 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8524_Ep_13.jpg",
+            "description": "Nuovo episodio: Ep 13",
+            "posterShape": "poster",
+            "rating": "6.90"
+        },
+        {
             "id": "kitsu:49915",
             "type": "series",
             "name": "Android wa Keiken Ninzuu ni Hairimasu ka??",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49915_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.16"
+            "rating": "6.15"
         },
         {
             "id": "kitsu:49016",
@@ -73,15 +82,6 @@
             "rating": "6.25"
         },
         {
-            "id": "kitsu:8524",
-            "type": "series",
-            "name": "Kuroko's Basketball 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8524_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "6.90"
-        },
-        {
             "id": "kitsu:49401",
             "type": "series",
             "name": "Champignon no Majo",
@@ -124,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48639_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "8.10"
+            "rating": "8.08"
         },
         {
             "id": "kitsu:49296",
@@ -160,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_9978_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "5.81"
+            "rating": "5.84"
         },
         {
             "id": "kitsu:3817",
@@ -241,7 +241,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.34"
+            "rating": "7.33"
         },
         {
             "id": "kitsu:49903",
@@ -278,15 +278,6 @@
             "description": "Nuovo episodio: Ep 43",
             "posterShape": "poster",
             "rating": "5.88"
-        },
-        {
-            "id": "kitsu:49323",
-            "type": "series",
-            "name": "Arne no Jikenbo",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49323_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "6.12"
         }
     ]
 }
