@@ -1,6 +1,78 @@
 {
     "metas": [
         {
+            "id": "kitsu:50439",
+            "type": "series",
+            "name": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50439_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.04"
+        },
+        {
+            "id": "kitsu:49700",
+            "type": "series",
+            "name": "Digimon Beatbreak",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_19.jpg",
+            "description": "Nuovo episodio: Ep 19",
+            "posterShape": "poster",
+            "rating": "4.28"
+        },
+        {
+            "id": "kitsu:48070",
+            "type": "series",
+            "name": "Blue Orchestra 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48070_Ep_19.jpg",
+            "description": "Nuovo episodio: Ep 19",
+            "posterShape": "poster",
+            "rating": "4.58"
+        },
+        {
+            "id": "kitsu:50424",
+            "type": "series",
+            "name": "Majutsushi Kunon wa Mieteiru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50424_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.26"
+        },
+        {
+            "id": "kitsu:48870",
+            "type": "series",
+            "name": "Hanazakari no Kimitachi e",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48870_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.16"
+        },
+        {
+            "id": "kitsu:49372",
+            "type": "series",
+            "name": "Seihantai na Kimi to Boku",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49372_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "8.06"
+        },
+        {
+            "id": "kitsu:49910",
+            "type": "series",
+            "name": "Uruwashi no Yoi no Tsuki",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49910_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.69"
+        },
+        {
+            "id": "kitsu:50335",
+            "type": "series",
+            "name": "Kaya-chan wa Kowakunai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50335_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.85"
+        },
+        {
             "id": "kitsu:50106",
             "type": "series",
             "name": "Xian Wang de Richang Shenghuo 5",
@@ -242,69 +314,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "6.88"
-        },
-        {
-            "id": "kitsu:48639",
-            "type": "series",
-            "name": "Mato Seihei no Slave 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48639_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.82"
-        },
-        {
-            "id": "kitsu:49296",
-            "type": "series",
-            "name": "Eris no Seihai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49296_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.28"
-        },
-        {
-            "id": "kitsu:49375",
-            "type": "series",
-            "name": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49375_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.18"
-        },
-        {
-            "id": "kitsu:49441",
-            "type": "series",
-            "name": "MF Ghost 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49441_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "8.45"
-        },
-        {
-            "id": "kitsu:9978",
-            "type": "series",
-            "name": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_9978_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "5.81"
-        },
-        {
-            "id": "kitsu:3817",
-            "type": "series",
-            "name": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3817_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "5.66"
-        },
-        {
-            "id": "kitsu:47759",
-            "type": "series",
-            "name": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47759_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "8.15"
         }
     ]
 }
