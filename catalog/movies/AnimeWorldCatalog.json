@@ -1,13 +1,31 @@
 {
     "metas": [
         {
+            "id": "kitsu:50466",
+            "type": "series",
+            "name": "Tensei shitara Dragon no Tamago datta",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50466_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.57"
+        },
+        {
+            "id": "kitsu:47656",
+            "type": "series",
+            "name": "Himesama \"Goumon\" no Jikan desu 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47656_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.17"
+        },
+        {
             "id": "kitsu:50352",
             "type": "series",
             "name": "Osananajimi to wa Love Comedy ni Naranai",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50352_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.63"
+            "rating": "6.61"
         },
         {
             "id": "kitsu:50007",
@@ -124,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50439_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.04"
+            "rating": "7.05"
         },
         {
             "id": "kitsu:49700",
@@ -259,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47682_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.25"
+            "rating": "7.26"
         },
         {
             "id": "kitsu:50393",
@@ -314,24 +332,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "4.37"
-        },
-        {
-            "id": "kitsu:49915",
-            "type": "series",
-            "name": "Android wa Keiken Ninzuu ni Hairimasu ka??",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49915_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "6.20"
-        },
-        {
-            "id": "kitsu:49016",
-            "type": "series",
-            "name": "Enen no Shouboutai: San no Shou Part 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49016_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.68"
         }
     ]
 }
