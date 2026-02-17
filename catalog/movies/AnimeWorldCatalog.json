@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:48972",
+            "type": "series",
+            "name": "Princession Orchestra",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48972_Ep_38.jpg",
+            "description": "Nuovo episodio: Ep 38",
+            "posterShape": "poster",
+            "rating": "3.77"
+        },
+        {
             "id": "kitsu:49323",
             "type": "series",
             "name": "Arne no Jikenbo",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48884_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.96"
+            "rating": "6.94"
         },
         {
             "id": "kitsu:50427",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50437_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.02"
+            "rating": "7.03"
         },
         {
             "id": "kitsu:50425",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49680_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.51"
+            "rating": "7.52"
         },
         {
             "id": "kitsu:49992",
@@ -97,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49539_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.48"
+            "rating": "7.58"
         },
         {
             "id": "kitsu:50466",
@@ -151,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47655_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.76"
+            "rating": "6.79"
         },
         {
             "id": "kitsu:49966",
@@ -286,7 +295,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49910_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.71"
+            "rating": "7.72"
         },
         {
             "id": "kitsu:50335",
@@ -314,15 +323,6 @@
             "description": "Nuovo episodio: Ep 19",
             "posterShape": "poster",
             "rating": "3.61"
-        },
-        {
-            "id": "kitsu:48464",
-            "type": "series",
-            "name": "Himitsu no AiPri: Ring-hen",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48464_Ep_44.jpg",
-            "description": "Nuovo episodio: Ep 44",
-            "posterShape": "poster",
-            "rating": "5.88"
         }
     ]
 }
