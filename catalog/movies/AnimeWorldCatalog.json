@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:49323",
+            "type": "series",
+            "name": "Arne no Jikenbo",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49323_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "6.10"
+        },
+        {
             "id": "kitsu:50484",
             "type": "series",
             "name": "Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!",
@@ -26,6 +35,15 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.18"
+        },
+        {
+            "id": "kitsu:50437",
+            "type": "series",
+            "name": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50437_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.02"
         },
         {
             "id": "kitsu:50425",
@@ -55,13 +73,31 @@
             "rating": "6.81"
         },
         {
+            "id": "kitsu:49360",
+            "type": "series",
+            "name": "Anne Shirley (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49360_Ep_13.jpg",
+            "description": "Nuovo episodio: Ep 13",
+            "posterShape": "poster",
+            "rating": "4.04"
+        },
+        {
+            "id": "kitsu:8524",
+            "type": "series",
+            "name": "Kuroko's Basketball 3 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8524_Ep_15.jpg",
+            "description": "Nuovo episodio: Ep 15",
+            "posterShape": "poster",
+            "rating": "6.91"
+        },
+        {
             "id": "kitsu:49539",
             "type": "series",
             "name": "Detective Conan Movie 28: One-Eyed Flashback",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49539_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.95"
+            "rating": "7.48"
         },
         {
             "id": "kitsu:50466",
@@ -91,6 +127,15 @@
             "rating": "6.57"
         },
         {
+            "id": "kitsu:50007",
+            "type": "series",
+            "name": "My Hero Academia: Vigilantes 2 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50007_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.86"
+        },
+        {
             "id": "kitsu:50362",
             "type": "series",
             "name": "Meitantei Precure!",
@@ -109,15 +154,6 @@
             "rating": "6.76"
         },
         {
-            "id": "kitsu:50007",
-            "type": "series",
-            "name": "My Hero Academia: Vigilantes 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50007_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.56"
-        },
-        {
             "id": "kitsu:49966",
             "type": "series",
             "name": "Kirei ni Shitemoraemasu ka.",
@@ -134,6 +170,15 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "5.47"
+        },
+        {
+            "id": "kitsu:49335",
+            "type": "series",
+            "name": "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49335_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "5.85"
         },
         {
             "id": "kitsu:50470",
@@ -165,11 +210,11 @@
         {
             "id": "kitsu:47679",
             "type": "series",
-            "name": "Jigokuraku 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47679_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
+            "name": "Jigokuraku 2 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47679_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.63"
+            "rating": "8.23"
         },
         {
             "id": "kitsu:49867",
@@ -223,13 +268,13 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48870_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.19"
+            "rating": "7.20"
         },
         {
-            "id": "kitsu:46117",
+            "id": "kitsu:49372",
             "type": "series",
             "name": "Seihantai na Kimi to Boku",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46117_Ep_6.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49372_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "8.01"
@@ -253,6 +298,15 @@
             "rating": "6.88"
         },
         {
+            "id": "kitsu:50106",
+            "type": "series",
+            "name": "Xian Wang de Richang Shenghuo 5",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50106_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "7.22"
+        },
+        {
             "id": "kitsu:50203",
             "type": "series",
             "name": "SI-VIS: The Sound of Heroes",
@@ -262,13 +316,13 @@
             "rating": "3.61"
         },
         {
-            "id": "kitsu:49767",
+            "id": "kitsu:48464",
             "type": "series",
-            "name": "Medalist 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49767_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
+            "name": "Himitsu no AiPri: Ring-hen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48464_Ep_44.jpg",
+            "description": "Nuovo episodio: Ep 44",
             "posterShape": "poster",
-            "rating": "7.84"
+            "rating": "5.88"
         }
     ]
 }
