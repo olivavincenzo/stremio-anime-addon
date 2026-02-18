@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:49191",
+            "type": "series",
+            "name": "Long Zu II: Daowangzhe Zhi Tong (JAP)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49191_Ep_19.jpg",
+            "description": "Nuovo episodio: Ep 19",
+            "posterShape": "poster",
+            "rating": "7.02"
+        },
+        {
+            "id": "kitsu:50433",
+            "type": "series",
+            "name": "Jigoku Sensei Nube (2025) Part 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50433_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "6.37"
+        },
+        {
             "id": "kitsu:48944",
             "type": "series",
             "name": "Tamon-kun Ima Docchi!?",
@@ -34,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50442_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.87"
+            "rating": "6.86"
         },
         {
             "id": "kitsu:49264",
@@ -43,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49264_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "8.55"
+            "rating": "8.56"
         },
         {
             "id": "kitsu:50423",
@@ -163,10 +181,10 @@
             "rating": "6.83"
         },
         {
-            "id": "kitsu:13892",
+            "id": "kitsu:49360",
             "type": "series",
             "name": "Anne Shirley (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13892_Ep_13.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49360_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
             "rating": "4.04"
@@ -295,16 +313,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47679_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.22"
-        },
-        {
-            "id": "kitsu:49867",
-            "type": "series",
-            "name": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49867_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "6.96"
+            "rating": "8.13"
         }
     ]
 }
