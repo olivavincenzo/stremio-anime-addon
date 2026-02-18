@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:8524",
+            "type": "series",
+            "name": "Kuroko's Basketball 3 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8524_Ep_16.jpg",
+            "description": "Nuovo episodio: Ep 16",
+            "posterShape": "poster",
+            "rating": "6.91"
+        },
+        {
             "id": "kitsu:48972",
             "type": "series",
             "name": "Princession Orchestra",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49323_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.06"
+            "rating": "6.08"
         },
         {
             "id": "kitsu:50484",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48884_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.87"
+            "rating": "6.81"
         },
         {
             "id": "kitsu:50427",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50425_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.26"
+            "rating": "6.25"
         },
         {
             "id": "kitsu:49680",
@@ -70,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49680_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.50"
+            "rating": "7.47"
         },
         {
             "id": "kitsu:49992",
@@ -79,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49992_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.83"
+            "rating": "6.84"
         },
         {
             "id": "kitsu:49360",
@@ -91,22 +100,13 @@
             "rating": "4.04"
         },
         {
-            "id": "kitsu:8524",
-            "type": "series",
-            "name": "Kuroko's Basketball 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8524_Ep_15.jpg",
-            "description": "Nuovo episodio: Ep 15",
-            "posterShape": "poster",
-            "rating": "6.91"
-        },
-        {
             "id": "kitsu:49539",
             "type": "series",
             "name": "Detective Conan Movie 28: One-Eyed Flashback",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49539_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.65"
+            "rating": "7.57"
         },
         {
             "id": "kitsu:50466",
@@ -232,7 +232,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49867_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.97"
+            "rating": "6.96"
         },
         {
             "id": "kitsu:50439",
@@ -295,7 +295,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49910_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.71"
+            "rating": "7.73"
         },
         {
             "id": "kitsu:50335",
@@ -314,15 +314,6 @@
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "7.22"
-        },
-        {
-            "id": "kitsu:50203",
-            "type": "series",
-            "name": "SI-VIS: The Sound of Heroes",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50203_Ep_19.jpg",
-            "description": "Nuovo episodio: Ep 19",
-            "posterShape": "poster",
-            "rating": "3.61"
         }
     ]
 }
