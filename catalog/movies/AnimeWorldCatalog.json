@@ -1,13 +1,31 @@
 {
     "metas": [
         {
+            "id": "kitsu:49401",
+            "type": "series",
+            "name": "Champignon no Majo",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49401_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "6.98"
+        },
+        {
+            "id": "kitsu:49768",
+            "type": "series",
+            "name": "Douse, Koishite Shimaunda. 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49768_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "6.18"
+        },
+        {
             "id": "kitsu:49296",
             "type": "series",
             "name": "Eris no Seihai",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49296_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.30"
+            "rating": "7.31"
         },
         {
             "id": "kitsu:3817",
@@ -43,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50334_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.83"
+            "rating": "6.82"
         },
         {
             "id": "kitsu:48639",
@@ -52,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48639_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.84"
+            "rating": "7.85"
         },
         {
             "id": "kitsu:49375",
@@ -61,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49375_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.24"
+            "rating": "7.26"
         },
         {
             "id": "kitsu:49441",
@@ -296,24 +314,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "7.55"
-        },
-        {
-            "id": "kitsu:47656",
-            "type": "series",
-            "name": "Himesama \"Goumon\" no Jikan desu 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47656_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.17"
-        },
-        {
-            "id": "kitsu:50352",
-            "type": "series",
-            "name": "Osananajimi to wa Love Comedy ni Naranai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50352_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "6.60"
         }
     ]
 }
