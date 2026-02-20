@@ -3,11 +3,11 @@
         {
             "id": "kitsu:49016",
             "type": "series",
-            "name": "Enen no Shouboutai: San no Shou Part 2",
+            "name": "Enen no Shouboutai: San no Shou Part 2 (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49016_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "8.42"
+            "rating": "7.69"
         },
         {
             "id": "kitsu:50444",
@@ -52,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8524_Ep_18.jpg",
             "description": "Nuovo episodio: Ep 18",
             "posterShape": "poster",
-            "rating": "6.84"
+            "rating": "6.92"
         },
         {
             "id": "kitsu:49401",
@@ -61,16 +61,16 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49401_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.96"
+            "rating": "6.95"
         },
         {
-            "id": "kitsu:8106",
+            "id": "kitsu:49768",
             "type": "series",
             "name": "Douse, Koishite Shimaunda. 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8106_Ep_7.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49768_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.14"
+            "rating": "6.15"
         },
         {
             "id": "kitsu:49296",
@@ -88,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3817_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "5.69"
+            "rating": "5.68"
         },
         {
             "id": "kitsu:9978",
@@ -130,7 +130,7 @@
             "id": "kitsu:49375",
             "type": "series",
             "name": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
-            "poster": "https://media.kitsu.app/anime/49375/poster_image/medium-f1ea056c1187358f80a12112f24d7da7.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49375_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "7.27"
@@ -148,8 +148,8 @@
             "id": "kitsu:48057",
             "type": "series",
             "name": "Xing Chen Bian 6",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48057_Ep_27.jpg",
-            "description": "Nuovo episodio: Ep 27",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48057_Ep_28.jpg",
+            "description": "Nuovo episodio: Ep 28",
             "posterShape": "poster",
             "rating": "6.77"
         },
@@ -172,10 +172,10 @@
             "rating": "7.01"
         },
         {
-            "id": "kitsu:49070",
+            "id": "kitsu:50433",
             "type": "series",
             "name": "Jigoku Sensei Nube (2025) Part 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49070_Ep_7.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50433_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.22"
@@ -250,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50432_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.31"
+            "rating": "7.32"
         },
         {
             "id": "kitsu:48972",
@@ -304,16 +304,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50437_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.95"
-        },
-        {
-            "id": "kitsu:50425",
-            "type": "series",
-            "name": "Isekai no Sata wa Shachiku Shidai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50425_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "6.24"
+            "rating": "6.94"
         }
     ]
 }
