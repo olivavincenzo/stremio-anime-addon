@@ -1,13 +1,31 @@
 {
     "metas": [
         {
+            "id": "kitsu:50325",
+            "type": "series",
+            "name": "Dark Moon: Tsuki no Saidan",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50325_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.24"
+        },
+        {
+            "id": "kitsu:49240",
+            "type": "series",
+            "name": "Sousou no Frieren 2 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49240_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "9.18"
+        },
+        {
             "id": "kitsu:50237",
             "type": "series",
             "name": "Yi Ren Zhi Xia 6",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50237_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.33"
+            "rating": "6.37"
         },
         {
             "id": "kitsu:8524",
@@ -28,10 +46,10 @@
             "rating": "6.96"
         },
         {
-            "id": "kitsu:49768",
+            "id": "kitsu:8106",
             "type": "series",
             "name": "Douse, Koishite Shimaunda. 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49768_Ep_7.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8106_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.14"
@@ -70,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48363_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.91"
+            "rating": "7.90"
         },
         {
             "id": "kitsu:50334",
@@ -100,22 +118,13 @@
             "rating": "7.27"
         },
         {
-            "id": "kitsu:49441",
-            "type": "series",
-            "name": "MF Ghost 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49441_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "8.46"
-        },
-        {
             "id": "kitsu:48057",
             "type": "series",
             "name": "Xing Chen Bian 6",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48057_Ep_28.jpg",
             "description": "Nuovo episodio: Ep 28",
             "posterShape": "poster",
-            "rating": "6.73"
+            "rating": "6.77"
         },
         {
             "id": "kitsu:47759",
@@ -296,15 +305,6 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "6.83"
-        },
-        {
-            "id": "kitsu:49360",
-            "type": "series",
-            "name": "Anne Shirley (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49360_Ep_13.jpg",
-            "description": "Nuovo episodio: Ep 13",
-            "posterShape": "poster",
-            "rating": "4.04"
         }
     ]
 }
