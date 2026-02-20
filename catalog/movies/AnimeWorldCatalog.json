@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:49016",
+            "type": "series",
+            "name": "Enen no Shouboutai: San no Shou Part 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49016_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "8.42"
+        },
+        {
+            "id": "kitsu:50444",
+            "type": "series",
+            "name": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50444_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.40"
+        },
+        {
             "id": "kitsu:50325",
             "type": "series",
             "name": "Dark Moon: Tsuki no Saidan",
@@ -106,23 +124,32 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48639_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.83"
+            "rating": "7.82"
         },
         {
             "id": "kitsu:49375",
             "type": "series",
             "name": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49375_Ep_7.jpg",
+            "poster": "https://media.kitsu.app/anime/49375/poster_image/medium-f1ea056c1187358f80a12112f24d7da7.jpeg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "7.27"
         },
         {
+            "id": "kitsu:49441",
+            "type": "series",
+            "name": "MF Ghost 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49441_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "8.46"
+        },
+        {
             "id": "kitsu:48057",
             "type": "series",
             "name": "Xing Chen Bian 6",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48057_Ep_28.jpg",
-            "description": "Nuovo episodio: Ep 28",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48057_Ep_27.jpg",
+            "description": "Nuovo episodio: Ep 27",
             "posterShape": "poster",
             "rating": "6.77"
         },
@@ -145,10 +172,10 @@
             "rating": "7.01"
         },
         {
-            "id": "kitsu:50433",
+            "id": "kitsu:49070",
             "type": "series",
             "name": "Jigoku Sensei Nube (2025) Part 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50433_Ep_7.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49070_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.22"
@@ -287,24 +314,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.24"
-        },
-        {
-            "id": "kitsu:49680",
-            "type": "series",
-            "name": "Mayonaka Heart Tune",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49680_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.48"
-        },
-        {
-            "id": "kitsu:49992",
-            "type": "series",
-            "name": "Maou no Musume wa Yasashisugiru!!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49992_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "6.83"
         }
     ]
 }
