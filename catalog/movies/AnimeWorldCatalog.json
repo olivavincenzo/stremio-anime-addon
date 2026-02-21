@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:47682",
+            "type": "series",
+            "name": "Fate/strange Fake",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47682_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.28"
+        },
+        {
+            "id": "kitsu:50466",
+            "type": "series",
+            "name": "Tensei shitara Dragon no Tamago datta",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50466_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.54"
+        },
+        {
+            "id": "kitsu:50393",
+            "type": "series",
+            "name": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50393_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "6.85"
+        },
+        {
             "id": "kitsu:47243",
             "type": "series",
             "name": "Trigun Stargaze",
@@ -61,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49016_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.69"
+            "rating": "7.70"
         },
         {
             "id": "kitsu:50444",
@@ -287,24 +314,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.76"
-        },
-        {
-            "id": "kitsu:50432",
-            "type": "series",
-            "name": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50432_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.32"
-        },
-        {
-            "id": "kitsu:48972",
-            "type": "series",
-            "name": "Princession Orchestra",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48972_Ep_38.jpg",
-            "description": "Nuovo episodio: Ep 38",
-            "posterShape": "poster",
-            "rating": "3.67"
         }
     ]
 }
