@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:47243",
+            "type": "series",
+            "name": "Trigun Stargaze",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47243_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "6.70"
+        },
+        {
+            "id": "kitsu:49672",
+            "type": "series",
+            "name": "Dead Account",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49672_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "6.68"
+        },
+        {
             "id": "kitsu:49769",
             "type": "series",
             "name": "Ao no Miburo: Serizawa Ansatsu-hen",
@@ -16,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50270_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "4.37"
+            "rating": "4.36"
         },
         {
             "id": "kitsu:8524",
@@ -25,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8524_Ep_19.jpg",
             "description": "Nuovo episodio: Ep 19",
             "posterShape": "poster",
-            "rating": "6.92"
+            "rating": "7.15"
         },
         {
             "id": "kitsu:49915",
@@ -43,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49016_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.67"
+            "rating": "7.69"
         },
         {
             "id": "kitsu:50444",
@@ -70,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49240_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "9.09"
+            "rating": "9.10"
         },
         {
             "id": "kitsu:50237",
@@ -115,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3817_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "5.65"
+            "rating": "5.66"
         },
         {
             "id": "kitsu:9978",
@@ -133,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48363_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.92"
+            "rating": "7.87"
         },
         {
             "id": "kitsu:50334",
@@ -287,24 +305,6 @@
             "description": "Nuovo episodio: Ep 38",
             "posterShape": "poster",
             "rating": "3.67"
-        },
-        {
-            "id": "kitsu:49323",
-            "type": "series",
-            "name": "Arne no Jikenbo",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49323_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "6.08"
-        },
-        {
-            "id": "kitsu:50484",
-            "type": "series",
-            "name": "Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50484_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "5.23"
         }
     ]
 }
