@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:50149",
+            "type": "series",
+            "name": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50149_Ep_20.jpg",
+            "description": "Nuovo episodio: Ep 20",
+            "posterShape": "poster",
+            "rating": "6.71"
+        },
+        {
             "id": "kitsu:48464",
             "type": "series",
             "name": "Himitsu no AiPri: Ring-hen",
@@ -79,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49672_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.66"
+            "rating": "6.67"
         },
         {
             "id": "kitsu:49769",
@@ -124,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49016_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.70"
+            "rating": "7.72"
         },
         {
             "id": "kitsu:50444",
