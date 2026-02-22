@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:49335",
+            "type": "series",
+            "name": "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49335_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "6.03"
+        },
+        {
             "id": "kitsu:50470",
             "type": "series",
             "name": "Hikuidori: Ushuu Boro Tobi-gumi",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_20.jpg",
             "description": "Nuovo episodio: Ep 20",
             "posterShape": "poster",
-            "rating": "4.28"
+            "rating": "4.30"
         },
         {
             "id": "kitsu:50439",
@@ -70,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50439_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.98"
+            "rating": "6.97"
         },
         {
             "id": "kitsu:48870",
@@ -79,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48870_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.23"
+            "rating": "7.25"
         },
         {
             "id": "kitsu:50424",
@@ -133,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50106_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.32"
+            "rating": "7.31"
         },
         {
             "id": "kitsu:50149",
@@ -241,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50270_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "4.36"
+            "rating": "4.49"
         },
         {
             "id": "kitsu:8524",
@@ -323,15 +332,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.18"
-        },
-        {
-            "id": "kitsu:49296",
-            "type": "series",
-            "name": "Eris no Seihai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49296_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.23"
         }
     ]
 }
