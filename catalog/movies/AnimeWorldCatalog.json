@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:50390",
+            "type": "series",
+            "name": "Yamishibai: Japanese Ghost Stories 16",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50390_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "5.43"
+        },
+        {
             "id": "kitsu:49335",
             "type": "series",
             "name": "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi",
@@ -79,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50439_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.97"
+            "rating": "6.96"
         },
         {
             "id": "kitsu:48870",
@@ -115,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49372_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "8.05"
+            "rating": "8.06"
         },
         {
             "id": "kitsu:49910",
@@ -323,15 +332,6 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "6.96"
-        },
-        {
-            "id": "kitsu:49768",
-            "type": "series",
-            "name": "Douse, Koishite Shimaunda. 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49768_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "6.18"
         }
     ]
 }
