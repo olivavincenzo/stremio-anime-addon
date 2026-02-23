@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:50362",
+            "type": "series",
+            "name": "Meitantei Precure!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50362_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "5.92"
+        },
+        {
             "id": "kitsu:8524",
             "type": "series",
             "name": "Kuroko's Basketball 3 (ITA)",
@@ -79,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49867_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.96"
+            "rating": "6.95"
         },
         {
             "id": "kitsu:49700",
@@ -142,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49910_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.66"
+            "rating": "7.67"
         },
         {
             "id": "kitsu:50203",
@@ -223,7 +232,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50466_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.58"
+            "rating": "7.59"
         },
         {
             "id": "kitsu:50393",
