@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:8524",
+            "type": "series",
+            "name": "Kuroko's Basketball 3 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8524_Ep_22.jpg",
+            "description": "Nuovo episodio: Ep 22",
+            "posterShape": "poster",
+            "rating": "7.26"
+        },
+        {
             "id": "kitsu:50484",
             "type": "series",
             "name": "Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50437_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.90"
+            "rating": "6.89"
         },
         {
             "id": "kitsu:50425",
@@ -52,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50425_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.22"
+            "rating": "6.21"
         },
         {
             "id": "kitsu:49680",
@@ -70,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49992_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.86"
+            "rating": "6.84"
         },
         {
             "id": "kitsu:46000",
@@ -79,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46000_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "8.14"
+            "rating": "8.17"
         },
         {
             "id": "kitsu:49360",
@@ -89,15 +98,6 @@
             "description": "Nuovo episodio: Ep 14",
             "posterShape": "poster",
             "rating": "4.06"
-        },
-        {
-            "id": "kitsu:8524",
-            "type": "series",
-            "name": "Kuroko's Basketball 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8524_Ep_21.jpg",
-            "description": "Nuovo episodio: Ep 21",
-            "posterShape": "poster",
-            "rating": "7.26"
         },
         {
             "id": "kitsu:47656",
@@ -187,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48830_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.60"
+            "rating": "7.62"
         },
         {
             "id": "kitsu:50426",
@@ -314,15 +314,6 @@
             "description": "Nuovo episodio: Ep 20",
             "posterShape": "poster",
             "rating": "6.68"
-        },
-        {
-            "id": "kitsu:48464",
-            "type": "series",
-            "name": "Himitsu no AiPri: Ring-hen",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48464_Ep_45.jpg",
-            "description": "Nuovo episodio: Ep 45",
-            "posterShape": "poster",
-            "rating": "5.88"
         }
     ]
 }
