@@ -1,6 +1,42 @@
 {
     "metas": [
         {
+            "id": "kitsu:49191",
+            "type": "series",
+            "name": "Long Zu II: Daowangzhe Zhi Tong (JAP)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49191_Ep_20.jpg",
+            "description": "Nuovo episodio: Ep 20",
+            "posterShape": "poster",
+            "rating": "6.96"
+        },
+        {
+            "id": "kitsu:50433",
+            "type": "series",
+            "name": "Jigoku Sensei Nube (2025) Part 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50433_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "6.35"
+        },
+        {
+            "id": "kitsu:48944",
+            "type": "series",
+            "name": "Tamon-kun Ima Docchi!?",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48944_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "7.72"
+        },
+        {
+            "id": "kitsu:50337",
+            "type": "series",
+            "name": "Shibou Yuugi de Meshi wo Kuu. (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50337_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "6.94"
+        },
+        {
             "id": "kitsu:50442",
             "type": "series",
             "name": "Odayaka Kizoku no Kyuuka no Susume.",
@@ -61,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50484_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.24"
+            "rating": "5.27"
         },
         {
             "id": "kitsu:49323",
@@ -267,51 +303,6 @@
             "name": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49867_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "6.97"
-        },
-        {
-            "id": "kitsu:49700",
-            "type": "series",
-            "name": "Digimon Beatbreak",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_20.jpg",
-            "description": "Nuovo episodio: Ep 20",
-            "posterShape": "poster",
-            "rating": "4.29"
-        },
-        {
-            "id": "kitsu:50439",
-            "type": "series",
-            "name": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50439_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "6.90"
-        },
-        {
-            "id": "kitsu:48870",
-            "type": "series",
-            "name": "Hanazakari no Kimitachi e",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48870_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "7.23"
-        },
-        {
-            "id": "kitsu:50424",
-            "type": "series",
-            "name": "Majutsushi Kunon wa Mieteiru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50424_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "7.25"
-        },
-        {
-            "id": "kitsu:50335",
-            "type": "series",
-            "name": "Kaya-chan wa Kowakunai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50335_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.97"
         }
