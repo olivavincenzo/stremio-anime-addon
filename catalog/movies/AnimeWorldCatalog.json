@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:50334",
+            "type": "series",
+            "name": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50334_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "6.81"
+        },
+        {
+            "id": "kitsu:48639",
+            "type": "series",
+            "name": "Mato Seihei no Slave 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48639_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.76"
+        },
+        {
             "id": "kitsu:49375",
             "type": "series",
             "name": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
@@ -43,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48676_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "7.20"
+            "rating": "6.93"
         },
         {
             "id": "kitsu:8524",
@@ -287,15 +305,6 @@
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "5.92"
-        },
-        {
-            "id": "kitsu:50390",
-            "type": "series",
-            "name": "Yamishibai: Japanese Ghost Stories 16",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50390_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "5.44"
         }
     ]
 }
