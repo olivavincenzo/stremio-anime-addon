@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:49375",
+            "type": "series",
+            "name": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49375_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.26"
+        },
+        {
+            "id": "kitsu:49296",
+            "type": "series",
+            "name": "Eris no Seihai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49296_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.22"
+        },
+        {
+            "id": "kitsu:49441",
+            "type": "series",
+            "name": "MF Ghost 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49441_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "8.35"
+        },
+        {
             "id": "kitsu:47759",
             "type": "series",
             "name": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
@@ -16,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48676_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "7.67"
+            "rating": "7.20"
         },
         {
             "id": "kitsu:8524",
@@ -34,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48992_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.52"
+            "rating": "7.58"
         },
         {
             "id": "kitsu:49191",
@@ -269,33 +296,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "5.44"
-        },
-        {
-            "id": "kitsu:49335",
-            "type": "series",
-            "name": "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49335_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "6.14"
-        },
-        {
-            "id": "kitsu:50470",
-            "type": "series",
-            "name": "Hikuidori: Ushuu Boro Tobi-gumi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50470_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "5.60"
-        },
-        {
-            "id": "kitsu:48830",
-            "type": "series",
-            "name": "Ikoku Nikki",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48830_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "7.62"
         }
     ]
 }
