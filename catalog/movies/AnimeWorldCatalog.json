@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:8524",
+            "type": "series",
+            "name": "Kuroko's Basketball 3 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8524_Ep_25.jpg",
+            "description": "Nuovo episodio: Ep 25",
+            "posterShape": "poster",
+            "rating": "7.36"
+        },
+        {
+            "id": "kitsu:49915",
+            "type": "series",
+            "name": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49915_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "6.19"
+        },
+        {
             "id": "kitsu:45690",
             "type": "series",
             "name": "One Piece: Episode of Luffy - Adventure on Hand Island (ITA)",
@@ -16,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49016_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.75"
+            "rating": "7.72"
         },
         {
             "id": "kitsu:50444",
@@ -73,15 +91,6 @@
             "rating": "6.39"
         },
         {
-            "id": "kitsu:8524",
-            "type": "series",
-            "name": "Kuroko's Basketball 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8524_Ep_24.jpg",
-            "description": "Nuovo episodio: Ep 24",
-            "posterShape": "poster",
-            "rating": "7.33"
-        },
-        {
             "id": "kitsu:44814",
             "type": "series",
             "name": "Waccha PriMagi!",
@@ -97,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49401_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.96"
+            "rating": "6.99"
         },
         {
             "id": "kitsu:49768",
@@ -169,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47759_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "8.08"
+            "rating": "8.09"
         },
         {
             "id": "kitsu:48676",
@@ -178,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48676_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "8.06"
+            "rating": "7.89"
         },
         {
             "id": "kitsu:48992",
@@ -269,15 +278,6 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "7.31"
-        },
-        {
-            "id": "kitsu:50484",
-            "type": "series",
-            "name": "Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50484_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "5.21"
         }
     ]
 }
