@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:50390",
+            "type": "series",
+            "name": "Yamishibai: Japanese Ghost Stories 16",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50390_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "5.38"
+        },
+        {
             "id": "kitsu:48269",
             "type": "series",
             "name": "Dandadan (ITA) (AG)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48269_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "3.83"
+            "rating": "5.38"
         },
         {
             "id": "kitsu:46859",
@@ -70,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50439_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.90"
+            "rating": "6.88"
         },
         {
             "id": "kitsu:48870",
@@ -142,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49910_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.81"
+            "rating": "7.82"
         },
         {
             "id": "kitsu:50203",
@@ -296,15 +305,6 @@
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "5.99"
-        },
-        {
-            "id": "kitsu:8524",
-            "type": "series",
-            "name": "Kuroko's Basketball 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8524_Ep_25.jpg",
-            "description": "Nuovo episodio: Ep 25",
-            "posterShape": "poster",
-            "rating": "7.58"
         }
     ]
 }
