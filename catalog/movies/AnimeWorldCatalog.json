@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:49966",
+            "type": "series",
+            "name": "Kirei ni Shitemoraemasu ka.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49966_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "6.31"
+        },
+        {
             "id": "kitsu:46000",
             "type": "series",
             "name": "Ragna Crimson (ITA)",
@@ -268,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49929_Ep_19.jpg",
             "description": "Nuovo episodio: Ep 19",
             "posterShape": "poster",
-            "rating": "4.33"
+            "rating": "4.32"
         },
         {
             "id": "kitsu:47682",
@@ -287,15 +296,6 @@
             "description": "Nuovo episodio: Ep 17",
             "posterShape": "poster",
             "rating": "4.68"
-        },
-        {
-            "id": "kitsu:49672",
-            "type": "series",
-            "name": "Dead Account",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49672_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "6.66"
         }
     ]
 }
