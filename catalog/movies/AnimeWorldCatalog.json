@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:44814",
+            "type": "series",
+            "name": "Waccha PriMagi!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44814_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "4.17"
+        },
+        {
             "id": "kitsu:49191",
             "type": "series",
             "name": "Long Zu II: Daowangzhe Zhi Tong (JAP)",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50442_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.92"
+            "rating": "6.93"
         },
         {
             "id": "kitsu:49264",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "7.22"
+            "rating": "7.23"
         },
         {
             "id": "kitsu:50432",
@@ -70,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50432_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.25"
+            "rating": "7.27"
         },
         {
             "id": "kitsu:49903",
@@ -142,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50427_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.06"
+            "rating": "6.08"
         },
         {
             "id": "kitsu:50437",
@@ -259,7 +268,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46000_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.93"
+            "rating": "7.92"
         },
         {
             "id": "kitsu:50362",
