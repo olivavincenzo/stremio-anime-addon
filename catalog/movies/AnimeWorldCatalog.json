@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:696",
+            "type": "series",
+            "name": "Case Closed (AG)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_696_Ep_1191.jpg",
+            "description": "Nuovo episodio: Ep 1191",
+            "posterShape": "poster",
+            "rating": "6.81"
+        },
+        {
             "id": "kitsu:49401",
             "type": "series",
             "name": "Champignon no Majo",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50334_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.67"
+            "rating": "6.66"
         },
         {
             "id": "kitsu:48639",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49375_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.19"
+            "rating": "7.16"
         },
         {
             "id": "kitsu:49296",
@@ -88,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47759_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "8.09"
+            "rating": "8.08"
         },
         {
             "id": "kitsu:44814",
@@ -124,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48944_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "7.65"
+            "rating": "7.66"
         },
         {
             "id": "kitsu:50337",
@@ -142,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50442_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.97"
+            "rating": "6.94"
         },
         {
             "id": "kitsu:49264",
@@ -160,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "7.19"
+            "rating": "7.18"
         },
         {
             "id": "kitsu:50432",
@@ -205,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3817_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.63"
+            "rating": "5.62"
         },
         {
             "id": "kitsu:49323",
@@ -253,22 +262,13 @@
             "rating": "6.90"
         },
         {
-            "id": "kitsu:696",
-            "type": "series",
-            "name": "Case Closed (AG)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_696_Ep_1190.jpg",
-            "description": "Nuovo episodio: Ep 1190",
-            "posterShape": "poster",
-            "rating": "6.81"
-        },
-        {
             "id": "kitsu:50425",
             "type": "series",
             "name": "Isekai no Sata wa Shachiku Shidai",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50425_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.24"
+            "rating": "6.25"
         },
         {
             "id": "kitsu:49680",
@@ -305,15 +305,6 @@
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
             "rating": "7.22"
-        },
-        {
-            "id": "kitsu:47656",
-            "type": "series",
-            "name": "Himesama \"Goumon\" no Jikan desu 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47656_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "7.16"
         }
     ]
 }
