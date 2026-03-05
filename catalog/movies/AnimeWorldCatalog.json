@@ -1,6 +1,42 @@
 {
     "metas": [
         {
+            "id": "kitsu:49375",
+            "type": "series",
+            "name": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49375_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "7.21"
+        },
+        {
+            "id": "kitsu:49296",
+            "type": "series",
+            "name": "Eris no Seihai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49296_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "7.01"
+        },
+        {
+            "id": "kitsu:49441",
+            "type": "series",
+            "name": "MF Ghost 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49441_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "8.27"
+        },
+        {
+            "id": "kitsu:47759",
+            "type": "series",
+            "name": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47759_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "8.10"
+        },
+        {
             "id": "kitsu:44814",
             "type": "series",
             "name": "Waccha PriMagi!",
@@ -70,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "7.20"
+            "rating": "7.18"
         },
         {
             "id": "kitsu:50432",
@@ -88,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49903_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.74"
+            "rating": "6.72"
         },
         {
             "id": "kitsu:48269",
@@ -142,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48884_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "5.61"
+            "rating": "5.51"
         },
         {
             "id": "kitsu:50427",
@@ -169,7 +205,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_696_Ep_1190.jpg",
             "description": "Nuovo episodio: Ep 1190",
             "posterShape": "poster",
-            "rating": "7.13"
+            "rating": "6.88"
         },
         {
             "id": "kitsu:50425",
@@ -214,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50563_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.18"
+            "rating": "7.21"
         },
         {
             "id": "kitsu:47656",
@@ -278,24 +314,6 @@
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "5.21"
-        },
-        {
-            "id": "kitsu:8261",
-            "type": "series",
-            "name": "Kuroko’s Basketball: It is the Best Present (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8261_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "6.86"
-        },
-        {
-            "id": "kitsu:50390",
-            "type": "series",
-            "name": "Yamishibai: Japanese Ghost Stories 16",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50390_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "5.35"
         }
     ]
 }
