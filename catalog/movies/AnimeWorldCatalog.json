@@ -3,11 +3,11 @@
         {
             "id": "kitsu:49240",
             "type": "series",
-            "name": "Sousou no Frieren 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49240_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
+            "name": "Sousou no Frieren 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49240_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "8.80"
+            "rating": "8.88"
         },
         {
             "id": "kitsu:48834",
@@ -16,7 +16,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48834_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "8.00"
+            "rating": "8.11"
         },
         {
             "id": "kitsu:50237",
@@ -52,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49768_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.23"
+            "rating": "6.21"
         },
         {
             "id": "kitsu:48363",
@@ -196,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "7.18"
+            "rating": "7.17"
         },
         {
             "id": "kitsu:50432",
@@ -287,15 +287,6 @@
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
             "rating": "6.90"
-        },
-        {
-            "id": "kitsu:50425",
-            "type": "series",
-            "name": "Isekai no Sata wa Shachiku Shidai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50425_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "6.25"
         }
     ]
 }
