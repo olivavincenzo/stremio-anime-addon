@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:48056",
+            "type": "series",
+            "name": "Yi Nian Yong Heng 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48056_Ep_29.jpg",
+            "description": "Nuovo episodio: Ep 29",
+            "posterShape": "poster",
+            "rating": "7.92"
+        },
+        {
             "id": "kitsu:49353",
             "type": "series",
             "name": "Himitsu no AiPri: Ring-hen",
@@ -278,24 +287,6 @@
             "description": "Nuovo episodio: Ep 893",
             "posterShape": "poster",
             "rating": "7.98"
-        },
-        {
-            "id": "kitsu:3817",
-            "type": "series",
-            "name": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3817_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "5.62"
-        },
-        {
-            "id": "kitsu:49323",
-            "type": "series",
-            "name": "Arne no Jikenbo",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49323_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "6.08"
         }
     ]
 }
