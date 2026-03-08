@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:50390",
+            "type": "series",
+            "name": "Yamishibai: Japanese Ghost Stories 16",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50390_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "5.35"
+        },
+        {
             "id": "kitsu:50470",
             "type": "series",
             "name": "Hikuidori: Ushuu Boro Tobi-gumi",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50470_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.62"
+            "rating": "5.63"
         },
         {
             "id": "kitsu:48830",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49867_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.97"
+            "rating": "6.96"
         },
         {
             "id": "kitsu:50439",
@@ -52,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50439_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.83"
+            "rating": "6.84"
         },
         {
             "id": "kitsu:50424",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50424_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.20"
+            "rating": "7.21"
         },
         {
             "id": "kitsu:48870",
@@ -97,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49910_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.85"
+            "rating": "7.87"
         },
         {
             "id": "kitsu:49606",
@@ -296,15 +305,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "8.87"
-        },
-        {
-            "id": "kitsu:48834",
-            "type": "series",
-            "name": "Tougen Anki (ITA) (AG)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48834_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "6.07"
         }
     ]
 }
