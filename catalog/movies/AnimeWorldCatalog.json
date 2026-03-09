@@ -1,6 +1,42 @@
 {
     "metas": [
         {
+            "id": "kitsu:9978",
+            "type": "series",
+            "name": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
+            "poster": "https://media.kitsu.app/anime/poster_images/9978/medium.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "5.82"
+        },
+        {
+            "id": "kitsu:3817",
+            "type": "series",
+            "name": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3817_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "5.64"
+        },
+        {
+            "id": "kitsu:44814",
+            "type": "series",
+            "name": "Waccha PriMagi!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44814_Ep_13.jpg",
+            "description": "Nuovo episodio: Ep 13",
+            "posterShape": "poster",
+            "rating": "4.17"
+        },
+        {
+            "id": "kitsu:50563",
+            "type": "series",
+            "name": "Fangkai Nage Nuwu",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50563_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "7.09"
+        },
+        {
             "id": "kitsu:47656",
             "type": "series",
             "name": "Himesama \"Goumon\" no Jikan desu 2",
@@ -52,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49966_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.36"
+            "rating": "6.34"
         },
         {
             "id": "kitsu:50362",
@@ -70,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46000_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.77"
+            "rating": "7.83"
         },
         {
             "id": "kitsu:50390",
@@ -151,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48870_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.21"
+            "rating": "7.20"
         },
         {
             "id": "kitsu:49372",
@@ -178,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49910_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.83"
+            "rating": "7.84"
         },
         {
             "id": "kitsu:49606",
@@ -269,51 +305,6 @@
             "description": "Nuovo episodio: Ep 18",
             "posterShape": "poster",
             "rating": "4.64"
-        },
-        {
-            "id": "kitsu:50393",
-            "type": "series",
-            "name": "Jingai Kyoushitsu no Ningengirai Kyoushi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50393_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "6.83"
-        },
-        {
-            "id": "kitsu:47243",
-            "type": "series",
-            "name": "Trigun Stargaze",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47243_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "6.79"
-        },
-        {
-            "id": "kitsu:49672",
-            "type": "series",
-            "name": "Dead Account",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49672_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "6.64"
-        },
-        {
-            "id": "kitsu:696",
-            "type": "series",
-            "name": "Case Closed (AG)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_696_Ep_1192.jpg",
-            "description": "Nuovo episodio: Ep 1192",
-            "posterShape": "poster",
-            "rating": "6.77"
-        },
-        {
-            "id": "kitsu:49769",
-            "type": "series",
-            "name": "Ao no Miburo: Serizawa Ansatsu-hen",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49769_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "6.03"
         }
     ]
 }
