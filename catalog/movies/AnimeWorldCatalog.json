@@ -19,15 +19,6 @@
             "rating": "5.64"
         },
         {
-            "id": "kitsu:449",
-            "type": "series",
-            "name": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_449_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "5.64"
-        },
-        {
             "id": "kitsu:44814",
             "type": "series",
             "name": "Waccha PriMagi!",
@@ -46,10 +37,10 @@
             "rating": "7.09"
         },
         {
-            "id": "kitsu:48667",
+            "id": "kitsu:47656",
             "type": "series",
             "name": "Himesama \"Goumon\" no Jikan desu 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48667_Ep_9.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47656_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
             "rating": "7.18"
@@ -58,7 +49,7 @@
             "id": "kitsu:50352",
             "type": "series",
             "name": "Osananajimi to wa Love Comedy ni Naranai",
-            "poster": "https://media.kitsu.app/anime/50352/poster_image/medium-ad1ed869f0ef0aff71d8e8639863cf95.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50352_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "6.61"
@@ -193,7 +184,7 @@
             "id": "kitsu:48870",
             "type": "series",
             "name": "Hanazakari no Kimitachi e",
-            "poster": "https://media.kitsu.app/anime/48870/poster_image/medium-fa36d02f12ecca9a91266f5c43bd0fbc.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48870_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "7.20"
@@ -238,7 +229,7 @@
             "id": "kitsu:50575",
             "type": "series",
             "name": "Evangelion: Housou 30-shuunen Kinen Tokubetsu Kougyou",
-            "poster": "https://media.kitsu.app/anime/50575/poster_image/medium-c80974a622b83c01fe12699bac5041db.jpeg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50575_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
             "rating": "7.95"
