@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:49992",
+            "type": "series",
+            "name": "Maou no Musume wa Yasashisugiru!!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49992_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "6.84"
+        },
+        {
             "id": "kitsu:49360",
             "type": "series",
             "name": "Anne Shirley (ITA)",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_9978_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.79"
+            "rating": "5.76"
         },
         {
             "id": "kitsu:3817",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3817_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "5.69"
+            "rating": "5.70"
         },
         {
             "id": "kitsu:44814",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50563_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.33"
+            "rating": "7.32"
         },
         {
             "id": "kitsu:47656",
@@ -296,15 +305,6 @@
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
             "rating": "7.52"
-        },
-        {
-            "id": "kitsu:47682",
-            "type": "series",
-            "name": "Fate/strange Fake",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47682_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "7.29"
         }
     ]
 }
