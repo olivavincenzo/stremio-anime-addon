@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:49360",
+            "type": "series",
+            "name": "Anne Shirley (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49360_Ep_16.jpg",
+            "description": "Nuovo episodio: Ep 16",
+            "posterShape": "poster",
+            "rating": "4.05"
+        },
+        {
             "id": "kitsu:9978",
             "type": "series",
             "name": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_9978_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.82"
+            "rating": "5.79"
         },
         {
             "id": "kitsu:3817",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3817_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "5.65"
+            "rating": "5.66"
         },
         {
             "id": "kitsu:44814",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50563_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.23"
+            "rating": "7.30"
         },
         {
             "id": "kitsu:47656",
@@ -151,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47679_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "8.56"
+            "rating": "8.55"
         },
         {
             "id": "kitsu:49867",
@@ -259,7 +268,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50149_Ep_22.jpg",
             "description": "Nuovo episodio: Ep 22",
             "posterShape": "poster",
-            "rating": "6.75"
+            "rating": "6.76"
         },
         {
             "id": "kitsu:50270",
@@ -296,15 +305,6 @@
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "7.29"
-        },
-        {
-            "id": "kitsu:47161",
-            "type": "series",
-            "name": "Fumetsu no Anata e 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47161_Ep_18.jpg",
-            "description": "Nuovo episodio: Ep 18",
-            "posterShape": "poster",
-            "rating": "4.64"
         }
     ]
 }
