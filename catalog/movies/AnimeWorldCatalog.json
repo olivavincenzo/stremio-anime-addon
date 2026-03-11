@@ -1,13 +1,31 @@
 {
     "metas": [
         {
+            "id": "kitsu:48944",
+            "type": "series",
+            "name": "Tamon-kun Ima Docchi!?",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48944_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "7.68"
+        },
+        {
+            "id": "kitsu:50337",
+            "type": "series",
+            "name": "Shibou Yuugi de Meshi wo Kuu. (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50337_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "6.99"
+        },
+        {
             "id": "kitsu:50442",
             "type": "series",
             "name": "Odayaka Kizoku no Kyuuka no Susume.",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50442_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.97"
+            "rating": "6.96"
         },
         {
             "id": "kitsu:49264",
@@ -25,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.14"
+            "rating": "7.13"
         },
         {
             "id": "kitsu:49903",
@@ -278,33 +296,6 @@
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "7.67"
-        },
-        {
-            "id": "kitsu:50426",
-            "type": "series",
-            "name": "Goumon Baito-kun no Nichijou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50426_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "6.04"
-        },
-        {
-            "id": "kitsu:47679",
-            "type": "series",
-            "name": "Jigokuraku 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47679_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "8.55"
-        },
-        {
-            "id": "kitsu:49867",
-            "type": "series",
-            "name": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49867_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "6.94"
         }
     ]
 }
