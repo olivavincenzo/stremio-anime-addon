@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:49903",
+            "type": "series",
+            "name": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49903_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "6.69"
+        },
+        {
+            "id": "kitsu:50432",
+            "type": "series",
+            "name": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50432_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "7.27"
+        },
+        {
             "id": "kitsu:48269",
             "type": "series",
             "name": "Dandadan (ITA) (AG)",
@@ -25,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45320_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.19"
+            "rating": "5.25"
         },
         {
             "id": "kitsu:48884",
@@ -278,24 +296,6 @@
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "7.21"
-        },
-        {
-            "id": "kitsu:48870",
-            "type": "series",
-            "name": "Hanazakari no Kimitachi e",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48870_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "7.19"
-        },
-        {
-            "id": "kitsu:49372",
-            "type": "series",
-            "name": "Seihantai na Kimi to Boku",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49372_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "8.11"
         }
     ]
 }
