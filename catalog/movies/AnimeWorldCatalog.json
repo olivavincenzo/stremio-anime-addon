@@ -1,13 +1,31 @@
 {
     "metas": [
         {
+            "id": "kitsu:49768",
+            "type": "series",
+            "name": "Douse, Koishite Shimaunda. 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49768_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "6.16"
+        },
+        {
+            "id": "kitsu:48363",
+            "type": "series",
+            "name": "Jujutsu Kaisen 3: Shimetsu Kaiyuu - Zenpen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48363_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "8.28"
+        },
+        {
             "id": "kitsu:50334",
             "type": "series",
             "name": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50334_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.51"
+            "rating": "6.48"
         },
         {
             "id": "kitsu:48639",
@@ -16,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48639_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "7.78"
+            "rating": "7.76"
         },
         {
             "id": "kitsu:49375",
@@ -34,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49296_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.99"
+            "rating": "6.95"
         },
         {
             "id": "kitsu:49441",
@@ -52,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47759_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "8.09"
+            "rating": "8.10"
         },
         {
             "id": "kitsu:12",
@@ -115,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49264_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "8.51"
+            "rating": "8.48"
         },
         {
             "id": "kitsu:50423",
@@ -124,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.07"
+            "rating": "7.08"
         },
         {
             "id": "kitsu:49903",
@@ -133,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49903_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.60"
+            "rating": "6.58"
         },
         {
             "id": "kitsu:50432",
@@ -142,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50432_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "7.22"
+            "rating": "7.20"
         },
         {
             "id": "kitsu:48269",
@@ -169,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45320_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.05"
+            "rating": "4.98"
         },
         {
             "id": "kitsu:48884",
@@ -178,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48884_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "5.09"
+            "rating": "5.04"
         },
         {
             "id": "kitsu:50427",
@@ -205,7 +223,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50425_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.25"
+            "rating": "6.24"
         },
         {
             "id": "kitsu:48972",
@@ -259,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3817_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "5.71"
+            "rating": "5.72"
         },
         {
             "id": "kitsu:44814",
@@ -287,24 +305,6 @@
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
             "rating": "7.23"
-        },
-        {
-            "id": "kitsu:50352",
-            "type": "series",
-            "name": "Osananajimi to wa Love Comedy ni Naranai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50352_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "6.63"
-        },
-        {
-            "id": "kitsu:50484",
-            "type": "series",
-            "name": "Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50484_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "5.19"
         }
     ]
 }
