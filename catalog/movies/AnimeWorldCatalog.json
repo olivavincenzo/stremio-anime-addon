@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:47161",
+            "type": "series",
+            "name": "Fumetsu no Anata e 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47161_Ep_19.jpg",
+            "description": "Nuovo episodio: Ep 19",
+            "posterShape": "poster",
+            "rating": "5.11"
+        },
+        {
             "id": "kitsu:50393",
             "type": "series",
             "name": "Jingai Kyoushitsu no Ningengirai Kyoushi",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50393_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.79"
+            "rating": "6.82"
         },
         {
             "id": "kitsu:50270",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47243_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.79"
+            "rating": "6.77"
         },
         {
             "id": "kitsu:49672",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49672_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.65"
+            "rating": "6.64"
         },
         {
             "id": "kitsu:696",
@@ -295,7 +304,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.07"
+            "rating": "7.06"
         },
         {
             "id": "kitsu:49903",
@@ -305,15 +314,6 @@
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "6.56"
-        },
-        {
-            "id": "kitsu:50432",
-            "type": "series",
-            "name": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50432_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "7.10"
         }
     ]
 }
