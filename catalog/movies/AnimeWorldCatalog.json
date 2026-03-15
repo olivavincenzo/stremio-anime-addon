@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:50470",
+            "type": "series",
+            "name": "Hikuidori: Ushuu Boro Tobi-gumi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50470_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "5.64"
+        },
+        {
             "id": "kitsu:50426",
             "type": "series",
             "name": "Goumon Baito-kun no Nichijou",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47679_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "8.54"
+            "rating": "8.53"
         },
         {
             "id": "kitsu:49867",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50439_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.78"
+            "rating": "6.79"
         },
         {
             "id": "kitsu:48870",
@@ -52,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48870_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.20"
+            "rating": "7.21"
         },
         {
             "id": "kitsu:50424",
@@ -178,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50149_Ep_23.jpg",
             "description": "Nuovo episodio: Ep 23",
             "posterShape": "poster",
-            "rating": "6.79"
+            "rating": "6.80"
         },
         {
             "id": "kitsu:49929",
@@ -232,7 +241,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49672_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.65"
+            "rating": "6.66"
         },
         {
             "id": "kitsu:696",
@@ -250,7 +259,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49769_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.12"
+            "rating": "6.14"
         },
         {
             "id": "kitsu:49016",
@@ -277,7 +286,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50325_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "7.09"
+            "rating": "7.10"
         },
         {
             "id": "kitsu:49240",
@@ -296,15 +305,6 @@
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "6.15"
-        },
-        {
-            "id": "kitsu:44814",
-            "type": "series",
-            "name": "Waccha PriMagi!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44814_Ep_14.jpg",
-            "description": "Nuovo episodio: Ep 14",
-            "posterShape": "poster",
-            "rating": "4.17"
         }
     ]
 }
