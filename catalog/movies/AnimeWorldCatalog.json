@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:49680",
+            "type": "series",
+            "name": "Mayonaka Heart Tune",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49680_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "7.41"
+        },
+        {
             "id": "kitsu:49992",
             "type": "series",
             "name": "Maou no Musume wa Yasashisugiru!!",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49992_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.87"
+            "rating": "6.88"
         },
         {
             "id": "kitsu:49360",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47655_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.00"
+            "rating": "7.03"
         },
         {
             "id": "kitsu:50007",
@@ -106,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50580_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "5.87"
+            "rating": "5.82"
         },
         {
             "id": "kitsu:50390",
@@ -160,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47679_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "8.57"
+            "rating": "8.58"
         },
         {
             "id": "kitsu:49867",
@@ -214,7 +223,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49071_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.44"
+            "rating": "7.41"
         },
         {
             "id": "kitsu:49700",
@@ -314,15 +323,6 @@
             "description": "Nuovo episodio: Ep 23",
             "posterShape": "poster",
             "rating": "6.82"
-        },
-        {
-            "id": "kitsu:49929",
-            "type": "series",
-            "name": "Gnosia",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49929_Ep_21.jpg",
-            "description": "Nuovo episodio: Ep 21",
-            "posterShape": "poster",
-            "rating": "4.43"
         }
     ]
 }
