@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:49438",
+            "type": "series",
+            "name": "Hateshinaki Scarlet (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49438_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "10.00"
+        },
+        {
+            "id": "kitsu:49323",
+            "type": "series",
+            "name": "Arne no Jikenbo",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49323_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "6.02"
+        },
+        {
             "id": "kitsu:48884",
             "type": "series",
             "name": "Darwin Jihen (ITA)",
@@ -25,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50437_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "6.84"
+            "rating": "6.83"
         },
         {
             "id": "kitsu:50425",
@@ -52,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49992_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.91"
+            "rating": "6.92"
         },
         {
             "id": "kitsu:49360",
@@ -142,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46000_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.60"
+            "rating": "7.61"
         },
         {
             "id": "kitsu:50580",
@@ -151,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50580_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "5.82"
+            "rating": "5.85"
         },
         {
             "id": "kitsu:50390",
@@ -250,7 +268,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50466_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "7.46"
+            "rating": "7.45"
         },
         {
             "id": "kitsu:49071",
@@ -287,33 +305,6 @@
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "7.08"
-        },
-        {
-            "id": "kitsu:49372",
-            "type": "series",
-            "name": "Seihantai na Kimi to Boku",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49372_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "8.09"
-        },
-        {
-            "id": "kitsu:49910",
-            "type": "series",
-            "name": "Uruwashi no Yoi no Tsuki",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49910_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "7.81"
-        },
-        {
-            "id": "kitsu:50203",
-            "type": "series",
-            "name": "SI-VIS: The Sound of Heroes",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50203_Ep_22.jpg",
-            "description": "Nuovo episodio: Ep 22",
-            "posterShape": "poster",
-            "rating": "3.59"
         }
     ]
 }
