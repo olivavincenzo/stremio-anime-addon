@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:48056",
+            "type": "series",
+            "name": "Yi Nian Yong Heng 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48056_Ep_33.jpg",
+            "description": "Nuovo episodio: Ep 33",
+            "posterShape": "poster",
+            "rating": "7.81"
+        },
+        {
             "id": "kitsu:50237",
             "type": "series",
             "name": "Yi Ren Zhi Xia 6",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49401_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.94"
+            "rating": "6.95"
         },
         {
             "id": "kitsu:49768",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49768_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "5.98"
+            "rating": "6.02"
         },
         {
             "id": "kitsu:48363",
@@ -97,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49847_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "8.22"
+            "rating": "8.18"
         },
         {
             "id": "kitsu:12",
@@ -160,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50442_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "6.94"
+            "rating": "6.95"
         },
         {
             "id": "kitsu:49264",
@@ -278,24 +287,6 @@
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
             "rating": "6.98"
-        },
-        {
-            "id": "kitsu:49360",
-            "type": "series",
-            "name": "Anne Shirley (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49360_Ep_17.jpg",
-            "description": "Nuovo episodio: Ep 17",
-            "posterShape": "poster",
-            "rating": "3.99"
-        },
-        {
-            "id": "kitsu:50563",
-            "type": "series",
-            "name": "Fangkai Nage Nuwu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50563_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.60"
         }
     ]
 }
