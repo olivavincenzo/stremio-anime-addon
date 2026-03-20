@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:44814",
+            "type": "series",
+            "name": "Waccha PriMagi!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44814_Ep_15.jpg",
+            "description": "Nuovo episodio: Ep 15",
+            "posterShape": "poster",
+            "rating": "4.15"
+        },
+        {
             "id": "kitsu:49016",
             "type": "series",
             "name": "Enen no Shouboutai: San no Shou Part 2 (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49016_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.66"
+            "rating": "7.65"
         },
         {
             "id": "kitsu:50444",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50325_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.05"
+            "rating": "7.07"
         },
         {
             "id": "kitsu:48834",
