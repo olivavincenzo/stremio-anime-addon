@@ -1,6 +1,42 @@
 {
     "metas": [
         {
+            "id": "kitsu:50393",
+            "type": "series",
+            "name": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50393_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "6.83"
+        },
+        {
+            "id": "kitsu:50270",
+            "type": "series",
+            "name": "High School! Kimengumi (2026)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50270_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "4.65"
+        },
+        {
+            "id": "kitsu:47243",
+            "type": "series",
+            "name": "Trigun Stargaze",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47243_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "6.80"
+        },
+        {
+            "id": "kitsu:49672",
+            "type": "series",
+            "name": "Dead Account",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49672_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "6.65"
+        },
+        {
             "id": "kitsu:696",
             "type": "series",
             "name": "Case Closed (AG)",
@@ -16,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49769_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "6.16"
+            "rating": "6.18"
         },
         {
             "id": "kitsu:49353",
@@ -52,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49016_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.66"
+            "rating": "7.67"
         },
         {
             "id": "kitsu:50444",
@@ -250,43 +286,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50337_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "6.91"
-        },
-        {
-            "id": "kitsu:50442",
-            "type": "series",
-            "name": "Odayaka Kizoku no Kyuuka no Susume.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50442_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "6.93"
-        },
-        {
-            "id": "kitsu:49264",
-            "type": "series",
-            "name": "\"Oshi no Ko\" 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49264_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "8.35"
-        },
-        {
-            "id": "kitsu:50423",
-            "type": "series",
-            "name": "Yuusha Party wo Oidasareta Kiyoubinbou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50423_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "7.10"
-        },
-        {
-            "id": "kitsu:49903",
-            "type": "series",
-            "name": "29-sai Dokushin Chuuken Boukensha no Nichijou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49903_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "6.61"
+            "rating": "6.90"
         }
     ]
 }
