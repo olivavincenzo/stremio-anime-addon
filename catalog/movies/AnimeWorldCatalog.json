@@ -1,6 +1,51 @@
 {
     "metas": [
         {
+            "id": "kitsu:50470",
+            "type": "series",
+            "name": "Hikuidori: Ushuu Boro Tobi-gumi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50470_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "5.67"
+        },
+        {
+            "id": "kitsu:50426",
+            "type": "series",
+            "name": "Goumon Baito-kun no Nichijou",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50426_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "6.01"
+        },
+        {
+            "id": "kitsu:48830",
+            "type": "series",
+            "name": "Ikoku Nikki",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48830_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "7.72"
+        },
+        {
+            "id": "kitsu:47679",
+            "type": "series",
+            "name": "Jigokuraku 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47679_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "8.55"
+        },
+        {
+            "id": "kitsu:49867",
+            "type": "series",
+            "name": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49867_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "6.95"
+        },
+        {
             "id": "kitsu:50439",
             "type": "series",
             "name": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru",
@@ -8,15 +53,6 @@
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "6.79"
-        },
-        {
-            "id": "kitsu:47679",
-            "type": "series",
-            "name": "Jigokuraku 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47679_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "7.86"
         },
         {
             "id": "kitsu:49071",
@@ -34,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50424_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "7.13"
+            "rating": "7.12"
         },
         {
             "id": "kitsu:49700",
@@ -88,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49767_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.90"
+            "rating": "7.91"
         },
         {
             "id": "kitsu:49681",
@@ -106,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50149_Ep_24.jpg",
             "description": "Nuovo episodio: Ep 24",
             "posterShape": "poster",
-            "rating": "6.93"
+            "rating": "6.94"
         },
         {
             "id": "kitsu:50466",
@@ -232,7 +268,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50444_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.32"
+            "rating": "7.31"
         },
         {
             "id": "kitsu:50325",
@@ -269,42 +305,6 @@
             "description": "Nuovo episodio: Ep 33",
             "posterShape": "poster",
             "rating": "7.75"
-        },
-        {
-            "id": "kitsu:50237",
-            "type": "series",
-            "name": "Yi Ren Zhi Xia 6",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50237_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "6.39"
-        },
-        {
-            "id": "kitsu:49401",
-            "type": "series",
-            "name": "Champignon no Majo",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49401_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "6.96"
-        },
-        {
-            "id": "kitsu:49768",
-            "type": "series",
-            "name": "Douse, Koishite Shimaunda. 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49768_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "6.05"
-        },
-        {
-            "id": "kitsu:48363",
-            "type": "series",
-            "name": "Jujutsu Kaisen 3: Shimetsu Kaiyuu - Zenpen",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48363_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "8.30"
         }
     ]
 }
