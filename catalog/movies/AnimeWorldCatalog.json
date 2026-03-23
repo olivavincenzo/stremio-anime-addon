@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:48972",
+            "type": "series",
+            "name": "Princession Orchestra",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48972_Ep_42.jpg",
+            "description": "Nuovo episodio: Ep 42",
+            "posterShape": "poster",
+            "rating": "3.80"
+        },
+        {
             "id": "kitsu:50563",
             "type": "series",
             "name": "Fangkai Nage Nuwu",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47656_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.18"
+            "rating": "7.14"
         },
         {
             "id": "kitsu:50352",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47655_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.03"
+            "rating": "7.06"
         },
         {
             "id": "kitsu:50007",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50007_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.38"
+            "rating": "7.39"
         },
         {
             "id": "kitsu:49966",
@@ -97,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50426_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.08"
+            "rating": "6.11"
         },
         {
             "id": "kitsu:48830",
@@ -124,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49867_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.91"
+            "rating": "6.90"
         },
         {
             "id": "kitsu:50439",
@@ -160,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_23.jpg",
             "description": "Nuovo episodio: Ep 23",
             "posterShape": "poster",
-            "rating": "4.36"
+            "rating": "4.37"
         },
         {
             "id": "kitsu:49372",
@@ -314,15 +323,6 @@
             "description": "Nuovo episodio: Ep 49",
             "posterShape": "poster",
             "rating": "5.59"
-        },
-        {
-            "id": "kitsu:49871",
-            "type": "series",
-            "name": "Yu-Gi-Oh! Card Game: The Chronicles",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49871_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "6.13"
         }
     ]
 }
