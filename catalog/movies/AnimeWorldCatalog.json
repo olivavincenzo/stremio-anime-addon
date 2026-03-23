@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:47656",
+            "type": "series",
+            "name": "Himesama \"Goumon\" no Jikan desu 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47656_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "7.14"
+        },
+        {
             "id": "kitsu:50352",
             "type": "series",
             "name": "Osananajimi to wa Love Comedy ni Naranai",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50352_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.60"
+            "rating": "6.54"
         },
         {
             "id": "kitsu:47655",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49966_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.33"
+            "rating": "6.32"
         },
         {
             "id": "kitsu:50362",
@@ -106,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49867_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.93"
+            "rating": "6.91"
         },
         {
             "id": "kitsu:50439",
@@ -115,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50439_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "6.83"
+            "rating": "6.82"
         },
         {
             "id": "kitsu:49071",
@@ -133,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50424_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "7.06"
+            "rating": "7.05"
         },
         {
             "id": "kitsu:49700",
@@ -314,15 +323,6 @@
             "description": "Nuovo episodio: Ep 15",
             "posterShape": "poster",
             "rating": "4.57"
-        },
-        {
-            "id": "kitsu:49016",
-            "type": "series",
-            "name": "Enen no Shouboutai: San no Shou Part 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49016_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "7.68"
         }
     ]
 }
