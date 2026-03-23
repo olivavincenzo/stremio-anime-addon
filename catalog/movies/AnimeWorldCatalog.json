@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:46000",
+            "type": "series",
+            "name": "Ragna Crimson (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46000_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "6.38"
+        },
+        {
             "id": "kitsu:50390",
             "type": "series",
             "name": "Yamishibai: Japanese Ghost Stories 16",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50426_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.05"
+            "rating": "6.06"
         },
         {
             "id": "kitsu:48830",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47679_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "8.56"
+            "rating": "8.55"
         },
         {
             "id": "kitsu:49867",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50439_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "6.83"
+            "rating": "6.82"
         },
         {
             "id": "kitsu:49071",
@@ -70,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49071_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.84"
+            "rating": "7.86"
         },
         {
             "id": "kitsu:50424",
@@ -133,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49767_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.92"
+            "rating": "7.93"
         },
         {
             "id": "kitsu:49681",
@@ -214,7 +223,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49672_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "6.65"
+            "rating": "6.64"
         },
         {
             "id": "kitsu:696",
@@ -223,7 +232,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_696_Ep_1194.jpg",
             "description": "Nuovo episodio: Ep 1194",
             "posterShape": "poster",
-            "rating": "6.75"
+            "rating": "6.86"
         },
         {
             "id": "kitsu:49769",
@@ -277,7 +286,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50444_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.31"
+            "rating": "7.30"
         },
         {
             "id": "kitsu:50325",
@@ -296,15 +305,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "3.90"
-        },
-        {
-            "id": "kitsu:49240",
-            "type": "series",
-            "name": "Sousou no Frieren 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49240_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "8.85"
         }
     ]
 }
