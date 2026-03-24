@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:50437",
+            "type": "series",
+            "name": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50437_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "6.80"
+        },
+        {
+            "id": "kitsu:50425",
+            "type": "series",
+            "name": "Isekai no Sata wa Shachiku Shidai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50425_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "6.34"
+        },
+        {
+            "id": "kitsu:49680",
+            "type": "series",
+            "name": "Mayonaka Heart Tune",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49680_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "7.33"
+        },
+        {
             "id": "kitsu:49360",
             "type": "series",
             "name": "Anne Shirley (ITA)",
@@ -10,22 +37,13 @@
             "rating": "3.99"
         },
         {
-            "id": "kitsu:48972",
-            "type": "series",
-            "name": "Princession Orchestra",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48972_Ep_42.jpg",
-            "description": "Nuovo episodio: Ep 42",
-            "posterShape": "poster",
-            "rating": "3.80"
-        },
-        {
             "id": "kitsu:50563",
             "type": "series",
             "name": "Fangkai Nage Nuwu",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50563_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.63"
+            "rating": "7.64"
         },
         {
             "id": "kitsu:47656",
@@ -61,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50007_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.43"
+            "rating": "7.41"
         },
         {
             "id": "kitsu:49966",
@@ -88,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46000_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.46"
+            "rating": "6.49"
         },
         {
             "id": "kitsu:50390",
@@ -106,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50470_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "5.72"
+            "rating": "5.76"
         },
         {
             "id": "kitsu:50426",
@@ -250,7 +268,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50466_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.41"
+            "rating": "7.40"
         },
         {
             "id": "kitsu:47682",
@@ -280,15 +298,6 @@
             "rating": "6.74"
         },
         {
-            "id": "kitsu:50270",
-            "type": "series",
-            "name": "High School! Kimengumi (2026)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50270_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "4.65"
-        },
-        {
             "id": "kitsu:47243",
             "type": "series",
             "name": "Trigun Stargaze",
@@ -296,33 +305,6 @@
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "6.75"
-        },
-        {
-            "id": "kitsu:49672",
-            "type": "series",
-            "name": "Dead Account",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49672_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "6.64"
-        },
-        {
-            "id": "kitsu:696",
-            "type": "series",
-            "name": "Case Closed (AG)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_696_Ep_1194.jpg",
-            "description": "Nuovo episodio: Ep 1194",
-            "posterShape": "poster",
-            "rating": "6.86"
-        },
-        {
-            "id": "kitsu:49769",
-            "type": "series",
-            "name": "Ao no Miburo: Serizawa Ansatsu-hen",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49769_Ep_13.jpg",
-            "description": "Nuovo episodio: Ep 13",
-            "posterShape": "poster",
-            "rating": "6.23"
         }
     ]
 }
