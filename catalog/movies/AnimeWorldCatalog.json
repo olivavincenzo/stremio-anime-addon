@@ -1,13 +1,31 @@
 {
     "metas": [
         {
+            "id": "kitsu:48884",
+            "type": "series",
+            "name": "Darwin Jihen (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48884_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "4.36"
+        },
+        {
+            "id": "kitsu:50427",
+            "type": "series",
+            "name": "Yoroi Shin Den Samurai Troopers",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50427_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "5.95"
+        },
+        {
             "id": "kitsu:50437",
             "type": "series",
             "name": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50437_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.80"
+            "rating": "6.79"
         },
         {
             "id": "kitsu:50425",
@@ -16,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50425_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.34"
+            "rating": "6.37"
         },
         {
             "id": "kitsu:49680",
@@ -25,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49680_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.33"
+            "rating": "7.31"
         },
         {
             "id": "kitsu:49360",
@@ -35,6 +53,15 @@
             "description": "Nuovo episodio: Ep 18",
             "posterShape": "poster",
             "rating": "3.99"
+        },
+        {
+            "id": "kitsu:48972",
+            "type": "series",
+            "name": "Princession Orchestra",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48972_Ep_42.jpg",
+            "description": "Nuovo episodio: Ep 42",
+            "posterShape": "poster",
+            "rating": "3.80"
         },
         {
             "id": "kitsu:50563",
@@ -61,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50352_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.54"
+            "rating": "6.53"
         },
         {
             "id": "kitsu:47655",
@@ -88,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49966_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.34"
+            "rating": "6.33"
         },
         {
             "id": "kitsu:50362",
@@ -187,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50424_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "7.03"
+            "rating": "7.02"
         },
         {
             "id": "kitsu:49700",
@@ -205,7 +232,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49372_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "8.16"
+            "rating": "8.15"
         },
         {
             "id": "kitsu:49910",
@@ -268,7 +295,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50466_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.40"
+            "rating": "7.39"
         },
         {
             "id": "kitsu:47682",
@@ -287,24 +314,6 @@
             "description": "Nuovo episodio: Ep 20",
             "posterShape": "poster",
             "rating": "4.50"
-        },
-        {
-            "id": "kitsu:50393",
-            "type": "series",
-            "name": "Jingai Kyoushitsu no Ningengirai Kyoushi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50393_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "6.74"
-        },
-        {
-            "id": "kitsu:47243",
-            "type": "series",
-            "name": "Trigun Stargaze",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47243_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "6.75"
         }
     ]
 }
