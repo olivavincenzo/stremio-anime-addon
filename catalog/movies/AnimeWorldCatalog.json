@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:49903",
+            "type": "series",
+            "name": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49903_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "6.61"
+        },
+        {
+            "id": "kitsu:50432",
+            "type": "series",
+            "name": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50432_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "6.72"
+        },
+        {
             "id": "kitsu:48269",
             "type": "series",
             "name": "Dandadan (ITA) (AG)",
@@ -223,7 +241,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49071_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.94"
+            "rating": "7.96"
         },
         {
             "id": "kitsu:50424",
@@ -296,24 +314,6 @@
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "6.60"
-        },
-        {
-            "id": "kitsu:50149",
-            "type": "series",
-            "name": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50149_Ep_24.jpg",
-            "description": "Nuovo episodio: Ep 24",
-            "posterShape": "poster",
-            "rating": "6.99"
-        },
-        {
-            "id": "kitsu:50466",
-            "type": "series",
-            "name": "Tensei shitara Dragon no Tamago datta",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50466_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "7.38"
         }
     ]
 }
