@@ -16,7 +16,7 @@ from PIL import Image, ImageDraw, ImageFont
 # ==========================================
 BASE_URL_IMAGES = "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/"
 IMAGES_DIR = "catalog/images"
-OUTPUT_FILE = "catalog/movie/AnimeWorldCatalog.json"
+OUTPUT_FILE = "catalog/movie/BigBuckBunnyCatalog.json"
 
 # Percorso assoluto per evitare dubbi
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
