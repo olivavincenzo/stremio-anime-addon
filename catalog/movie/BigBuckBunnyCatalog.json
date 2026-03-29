@@ -1,6 +1,42 @@
 {
     "metas": [
         {
+            "id": "kitsu:49071",
+            "type": "series",
+            "name": "Niwatori Fighter (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49071_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "7.90"
+        },
+        {
+            "id": "kitsu:49700",
+            "type": "series",
+            "name": "Digimon Beatbreak",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_24.jpg",
+            "description": "Nuovo episodio: Ep 24",
+            "posterShape": "poster",
+            "rating": "4.37"
+        },
+        {
+            "id": "kitsu:49910",
+            "type": "series",
+            "name": "Uruwashi no Yoi no Tsuki",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49910_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "7.80"
+        },
+        {
+            "id": "kitsu:50335",
+            "type": "series",
+            "name": "Kaya-chan wa Kowakunai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50335_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "7.12"
+        },
+        {
             "id": "kitsu:50203",
             "type": "series",
             "name": "SI-VIS: The Sound of Heroes",
@@ -43,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47161_Ep_22.jpg",
             "description": "Nuovo episodio: Ep 22",
             "posterShape": "poster",
-            "rating": "4.35"
+            "rating": "4.36"
         },
         {
             "id": "kitsu:49681",
@@ -106,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47243_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.68"
+            "rating": "6.67"
         },
         {
             "id": "kitsu:49672",
@@ -115,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49672_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.63"
+            "rating": "6.62"
         },
         {
             "id": "kitsu:44814",
@@ -160,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50444_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.12"
+            "rating": "7.13"
         },
         {
             "id": "kitsu:50325",
@@ -251,42 +287,6 @@
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
             "rating": "7.38"
-        },
-        {
-            "id": "kitsu:48639",
-            "type": "series",
-            "name": "Mato Seihei no Slave 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48639_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "7.77"
-        },
-        {
-            "id": "kitsu:49375",
-            "type": "series",
-            "name": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49375_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "6.18"
-        },
-        {
-            "id": "kitsu:49296",
-            "type": "series",
-            "name": "Eris no Seihai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49296_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "6.08"
-        },
-        {
-            "id": "kitsu:49441",
-            "type": "series",
-            "name": "MF Ghost 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49441_Ep_13.jpg",
-            "description": "Nuovo episodio: Ep 13",
-            "posterShape": "poster",
-            "rating": "8.41"
         }
     ]
 }
