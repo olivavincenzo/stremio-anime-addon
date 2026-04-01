@@ -7,7 +7,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50275_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "6.92"
+            "rating": "6.93"
         },
         {
             "id": "kitsu:50119",
@@ -25,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48884_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "3.84"
+            "rating": "3.85"
         },
         {
             "id": "kitsu:50437",
@@ -34,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50437_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "6.66"
+            "rating": "6.65"
         },
         {
             "id": "kitsu:49360",
@@ -61,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49122_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "5.68"
+            "rating": "5.70"
         },
         {
             "id": "kitsu:3817",
@@ -106,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50007_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "7.48"
+            "rating": "7.49"
         },
         {
             "id": "kitsu:49568",
@@ -196,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50439_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.77"
+            "rating": "6.78"
         },
         {
             "id": "kitsu:49071",
@@ -232,7 +232,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50335_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.14"
+            "rating": "7.16"
         },
         {
             "id": "kitsu:50203",
@@ -295,7 +295,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49839_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "5.63"
+            "rating": "5.67"
         }
     ]
 }
