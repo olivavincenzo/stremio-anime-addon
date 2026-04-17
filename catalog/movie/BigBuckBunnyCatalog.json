@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:50237",
+            "type": "series",
+            "name": "Yi Ren Zhi Xia 6",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50237_Ep_16.jpg",
+            "description": "Nuovo episodio: Ep 16",
+            "posterShape": "poster",
+            "rating": "6.40"
+        },
+        {
             "id": "kitsu:50554",
             "type": "series",
             "name": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50554_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "5.18"
+            "rating": "5.19"
         },
         {
             "id": "kitsu:50374",
@@ -106,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49930_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.68"
+            "rating": "7.66"
         },
         {
             "id": "kitsu:50614",
@@ -151,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50320_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.85"
+            "rating": "6.84"
         },
         {
             "id": "kitsu:50216",
@@ -268,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47987_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.25"
+            "rating": "7.23"
         },
         {
             "id": "kitsu:49984",
@@ -287,15 +296,6 @@
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
             "rating": "5.01"
-        },
-        {
-            "id": "kitsu:50218",
-            "type": "series",
-            "name": "Marriagetoxin",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50218_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "7.22"
         }
     ]
 }
