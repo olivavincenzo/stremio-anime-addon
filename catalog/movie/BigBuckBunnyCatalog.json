@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:12",
+            "type": "series",
+            "name": "One Piece",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12_Ep_1158.jpg",
+            "description": "Nuovo episodio: Ep 1158",
+            "posterShape": "poster",
+            "rating": "8.38"
+        },
+        {
             "id": "kitsu:50579",
             "type": "series",
             "name": "Ghost Concert: Missing Songs",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50579_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "4.03"
+            "rating": "4.04"
         },
         {
             "id": "kitsu:50079",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50079_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.42"
+            "rating": "6.45"
         },
         {
             "id": "kitsu:47679",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47679_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.88"
+            "rating": "7.87"
         },
         {
             "id": "kitsu:49677",
@@ -88,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49241_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "8.24"
+            "rating": "8.25"
         },
         {
             "id": "kitsu:49681",
@@ -115,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50341_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "5.04"
+            "rating": "5.06"
         },
         {
             "id": "kitsu:50171",
@@ -151,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50076_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "5.87"
+            "rating": "5.88"
         },
         {
             "id": "kitsu:49839",
@@ -196,7 +205,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49402_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.23"
+            "rating": "7.24"
         },
         {
             "id": "kitsu:50128",
@@ -268,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50570_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "4.17"
+            "rating": "4.19"
         },
         {
             "id": "kitsu:50648",
@@ -277,7 +286,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50648_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "4.25"
+            "rating": "4.24"
         },
         {
             "id": "kitsu:50041",
@@ -296,15 +305,6 @@
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
             "rating": "3.76"
-        },
-        {
-            "id": "kitsu:49240",
-            "type": "series",
-            "name": "Sousou no Frieren 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49240_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "8.77"
         }
     ]
 }
