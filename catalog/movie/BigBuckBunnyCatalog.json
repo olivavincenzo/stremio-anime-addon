@@ -1,13 +1,40 @@
 {
     "metas": [
         {
+            "id": "kitsu:47679",
+            "type": "series",
+            "name": "Jigokuraku 2 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47679_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "7.89"
+        },
+        {
+            "id": "kitsu:49677",
+            "type": "series",
+            "name": "Mahou no Shimai Lulutto Lilly",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49677_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "5.16"
+        },
+        {
+            "id": "kitsu:50119",
+            "type": "series",
+            "name": "Maid-san wa Taberu dake",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50119_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "4.10"
+        },
+        {
             "id": "kitsu:50550",
             "type": "series",
             "name": "Nippon Sangoku (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50550_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.77"
+            "rating": "7.84"
         },
         {
             "id": "kitsu:49700",
@@ -16,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_27.jpg",
             "description": "Nuovo episodio: Ep 27",
             "posterShape": "poster",
-            "rating": "4.42"
+            "rating": "4.43"
         },
         {
             "id": "kitsu:49071",
@@ -25,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49071_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.53"
+            "rating": "7.52"
         },
         {
             "id": "kitsu:48878",
@@ -34,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48878_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.81"
+            "rating": "7.80"
         },
         {
             "id": "kitsu:49241",
@@ -43,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49241_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "8.19"
+            "rating": "8.20"
         },
         {
             "id": "kitsu:49681",
@@ -88,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48972_Ep_45.jpg",
             "description": "Nuovo episodio: Ep 45",
             "posterShape": "poster",
-            "rating": "3.81"
+            "rating": "3.83"
         },
         {
             "id": "kitsu:50571",
@@ -106,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50076_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "5.84"
+            "rating": "5.87"
         },
         {
             "id": "kitsu:49839",
@@ -278,24 +305,6 @@
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "7.61"
-        },
-        {
-            "id": "kitsu:48834",
-            "type": "series",
-            "name": "Tougen Anki (ITA) (AG)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48834_Ep_14.jpg",
-            "description": "Nuovo episodio: Ep 14",
-            "posterShape": "poster",
-            "rating": "3.74"
-        },
-        {
-            "id": "kitsu:48056",
-            "type": "series",
-            "name": "Yi Nian Yong Heng 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48056_Ep_41.jpg",
-            "description": "Nuovo episodio: Ep 41",
-            "posterShape": "poster",
-            "rating": "7.80"
         }
     ]
 }
