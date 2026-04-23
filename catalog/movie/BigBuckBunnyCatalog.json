@@ -1,13 +1,31 @@
 {
     "metas": [
         {
+            "id": "kitsu:50554",
+            "type": "series",
+            "name": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50554_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "5.22"
+        },
+        {
+            "id": "kitsu:49118",
+            "type": "series",
+            "name": "Reincarnation no Kaben",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49118_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "5.37"
+        },
+        {
             "id": "kitsu:50374",
             "type": "series",
             "name": "Haibara-kun no Tsuyokute Seishun New Game",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50374_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "5.61"
+            "rating": "5.63"
         },
         {
             "id": "kitsu:48846",
@@ -16,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48846_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "3.80"
+            "rating": "3.79"
         },
         {
             "id": "kitsu:49503",
@@ -25,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49503_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "3.98"
+            "rating": "4.02"
         },
         {
             "id": "kitsu:50465",
@@ -34,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50465_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.13"
+            "rating": "8.16"
         },
         {
             "id": "kitsu:48972",
@@ -52,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50187_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "9.11"
+            "rating": "9.17"
         },
         {
             "id": "kitsu:48845",
@@ -70,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49930_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.69"
+            "rating": "7.70"
         },
         {
             "id": "kitsu:48611",
@@ -124,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49983_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.24"
+            "rating": "6.25"
         },
         {
             "id": "kitsu:50320",
@@ -142,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50216_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.66"
+            "rating": "7.65"
         },
         {
             "id": "kitsu:49746",
@@ -187,7 +205,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50182_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "5.73"
+            "rating": "5.76"
         },
         {
             "id": "kitsu:49194",
@@ -223,7 +241,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46806_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "4.47"
+            "rating": "4.48"
         },
         {
             "id": "kitsu:47987",
@@ -232,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47987_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.49"
+            "rating": "7.50"
         },
         {
             "id": "kitsu:49984",
@@ -268,7 +286,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50073_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.60"
+            "rating": "7.59"
         },
         {
             "id": "kitsu:49360",
@@ -278,24 +296,6 @@
             "description": "Nuovo episodio: Ep 22",
             "posterShape": "poster",
             "rating": "4.12"
-        },
-        {
-            "id": "kitsu:8107",
-            "type": "series",
-            "name": "Ookii Onnanoko wa Suki desu ka?",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8107_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.43"
-        },
-        {
-            "id": "kitsu:50651",
-            "type": "series",
-            "name": "Ingoku Danchi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50651_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "5.92"
         }
     ]
 }
