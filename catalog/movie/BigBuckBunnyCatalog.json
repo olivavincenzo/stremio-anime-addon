@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:49767",
+            "type": "series",
+            "name": "Medalist 2 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49767_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "7.14"
+        },
+        {
             "id": "kitsu:50659",
             "type": "series",
             "name": "Ichijouma Mankitsugurashi!",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50659_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "5.30"
+            "rating": "5.33"
         },
         {
             "id": "kitsu:50341",
@@ -52,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50076_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "5.99"
+            "rating": "5.96"
         },
         {
             "id": "kitsu:50023",
@@ -70,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49402_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.12"
+            "rating": "7.11"
         },
         {
             "id": "kitsu:49854",
@@ -178,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50354_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "3.89"
+            "rating": "3.94"
         },
         {
             "id": "kitsu:50570",
@@ -196,7 +205,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "8.62"
+            "rating": "8.68"
         },
         {
             "id": "kitsu:50614",
@@ -259,7 +268,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49118_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "5.44"
+            "rating": "5.45"
         },
         {
             "id": "kitsu:50374",
@@ -287,24 +296,6 @@
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "4.20"
-        },
-        {
-            "id": "kitsu:50465",
-            "type": "series",
-            "name": "Koori no Jouheki (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50465_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "8.20"
-        },
-        {
-            "id": "kitsu:48972",
-            "type": "series",
-            "name": "Princession Orchestra",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48972_Ep_46.jpg",
-            "description": "Nuovo episodio: Ep 46",
-            "posterShape": "poster",
-            "rating": "3.83"
         }
     ]
 }
