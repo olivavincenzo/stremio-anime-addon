@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:48293",
+            "type": "series",
+            "name": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48293_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "7.61"
+        },
+        {
             "id": "kitsu:13698",
             "type": "series",
             "name": "Rilakkuma",
@@ -115,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50554_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "5.27"
+            "rating": "5.28"
         },
         {
             "id": "kitsu:49118",
@@ -160,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50465_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.18"
+            "rating": "8.20"
         },
         {
             "id": "kitsu:48972",
@@ -268,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50216_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.64"
+            "rating": "7.65"
         },
         {
             "id": "kitsu:49746",
@@ -278,15 +287,6 @@
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "8.23"
-        },
-        {
-            "id": "kitsu:48410",
-            "type": "series",
-            "name": "Dorohedoro 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48410_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.47"
         }
     ]
 }
