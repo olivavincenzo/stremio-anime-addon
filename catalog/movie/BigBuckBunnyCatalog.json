@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:8340",
+            "type": "series",
+            "name": "Lupin the 3rd: Fujimi no Ketsuzoku (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8340_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "7.86"
+        },
+        {
             "id": "kitsu:12",
             "type": "series",
             "name": "One Piece",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50579_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "4.20"
+            "rating": "4.18"
         },
         {
             "id": "kitsu:50079",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50079_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.63"
+            "rating": "6.64"
         },
         {
             "id": "kitsu:49677",
@@ -52,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50550_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.94"
+            "rating": "7.97"
         },
         {
             "id": "kitsu:49071",
@@ -79,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49241_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.35"
+            "rating": "8.40"
         },
         {
             "id": "kitsu:48878",
@@ -133,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50171_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.81"
+            "rating": "7.82"
         },
         {
             "id": "kitsu:49839",
@@ -142,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49839_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "5.16"
+            "rating": "5.18"
         },
         {
             "id": "kitsu:50076",
@@ -151,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50076_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "5.99"
+            "rating": "6.01"
         },
         {
             "id": "kitsu:50023",
@@ -178,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49854_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.13"
+            "rating": "7.14"
         },
         {
             "id": "kitsu:50275",
@@ -187,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50275_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.61"
+            "rating": "6.62"
         },
         {
             "id": "kitsu:50128",
@@ -232,7 +241,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48293_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.61"
+            "rating": "7.56"
         },
         {
             "id": "kitsu:13698",
@@ -259,7 +268,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49671_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "5.49"
+            "rating": "5.47"
         },
         {
             "id": "kitsu:50041",
@@ -278,24 +287,6 @@
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "4.07"
-        },
-        {
-            "id": "kitsu:50570",
-            "type": "series",
-            "name": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50570_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "4.29"
-        },
-        {
-            "id": "kitsu:49235",
-            "type": "series",
-            "name": "Tensei shitara Slime Datta Ken 4 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "8.68"
         }
     ]
 }
