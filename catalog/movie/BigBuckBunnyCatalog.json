@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:8107",
+            "type": "series",
+            "name": "Ookii Onnanoko wa Suki desu ka?",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8107_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.33"
+        },
+        {
             "id": "kitsu:50651",
             "type": "series",
             "name": "Ingoku Danchi",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50651_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "5.92"
+            "rating": "5.95"
         },
         {
             "id": "kitsu:50665",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49834_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.38"
+            "rating": "7.41"
         },
         {
             "id": "kitsu:50117",
@@ -52,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50117_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.15"
+            "rating": "8.13"
         },
         {
             "id": "kitsu:46043",
@@ -160,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49241_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.44"
+            "rating": "8.45"
         },
         {
             "id": "kitsu:48878",
@@ -241,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50023_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.89"
+            "rating": "7.90"
         },
         {
             "id": "kitsu:49402",
@@ -287,15 +296,6 @@
             "description": "Nuovo episodio: Ep 1199",
             "posterShape": "poster",
             "rating": "7.25"
-        },
-        {
-            "id": "kitsu:49871",
-            "type": "series",
-            "name": "Yu-Gi-Oh! Card Game: The Chronicles",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49871_Ep_13.jpg",
-            "description": "Nuovo episodio: Ep 13",
-            "posterShape": "poster",
-            "rating": "6.15"
         }
     ]
 }
