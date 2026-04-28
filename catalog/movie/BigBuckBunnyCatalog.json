@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:50648",
+            "type": "series",
+            "name": "Daikenja Riddle no Jikan Gyakkou",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50648_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "4.30"
+        },
+        {
             "id": "kitsu:8107",
             "type": "series",
             "name": "Ookii Onnanoko wa Suki desu ka?",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8107_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.33"
+            "rating": "6.31"
         },
         {
             "id": "kitsu:50651",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50651_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "5.95"
+            "rating": "5.92"
         },
         {
             "id": "kitsu:50665",
@@ -287,15 +296,6 @@
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "7.78"
-        },
-        {
-            "id": "kitsu:696",
-            "type": "series",
-            "name": "Case Closed (AG)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_696_Ep_1199.jpg",
-            "description": "Nuovo episodio: Ep 1199",
-            "posterShape": "poster",
-            "rating": "7.25"
         }
     ]
 }
