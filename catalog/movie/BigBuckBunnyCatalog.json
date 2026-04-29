@@ -1,6 +1,51 @@
 {
     "metas": [
         {
+            "id": "kitsu:49123",
+            "type": "series",
+            "name": "Ganbare! Nakamura-kun!!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49123_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "5.73"
+        },
+        {
+            "id": "kitsu:49983",
+            "type": "series",
+            "name": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49983_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "6.25"
+        },
+        {
+            "id": "kitsu:50320",
+            "type": "series",
+            "name": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50320_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.02"
+        },
+        {
+            "id": "kitsu:50216",
+            "type": "series",
+            "name": "Otaku ni Yasashii Gal wa Inai!?",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50216_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "7.70"
+        },
+        {
+            "id": "kitsu:7894",
+            "type": "series",
+            "name": "One Piece: Episode of Merry - The Tale of One More Friend (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_7894_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "7.40"
+        },
+        {
             "id": "kitsu:45412",
             "type": "series",
             "name": "Mao",
@@ -34,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48410_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.61"
+            "rating": "7.71"
         },
         {
             "id": "kitsu:50155",
@@ -43,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50155_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "5.53"
+            "rating": "5.51"
         },
         {
             "id": "kitsu:50182",
@@ -52,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50182_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "5.64"
+            "rating": "5.67"
         },
         {
             "id": "kitsu:12",
@@ -151,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50073_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.61"
+            "rating": "7.60"
         },
         {
             "id": "kitsu:49360",
@@ -250,7 +295,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46043_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.40"
+            "rating": "8.41"
         },
         {
             "id": "kitsu:50362",
@@ -260,42 +305,6 @@
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
             "rating": "6.62"
-        },
-        {
-            "id": "kitsu:8340",
-            "type": "series",
-            "name": "Lupin the 3rd: Fujimi no Ketsuzoku (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8340_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "7.61"
-        },
-        {
-            "id": "kitsu:50579",
-            "type": "series",
-            "name": "Ghost Concert: Missing Songs",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50579_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "4.14"
-        },
-        {
-            "id": "kitsu:50079",
-            "type": "series",
-            "name": "Kuroneko to Majo no Kyoushitsu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50079_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.54"
-        },
-        {
-            "id": "kitsu:49677",
-            "type": "series",
-            "name": "Mahou no Shimai Lulutto Lilly",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49677_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "5.36"
         }
     ]
 }
