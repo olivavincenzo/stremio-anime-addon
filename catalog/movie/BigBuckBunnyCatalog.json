@@ -1,13 +1,58 @@
 {
     "metas": [
         {
+            "id": "kitsu:45412",
+            "type": "series",
+            "name": "Mao",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45412_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.89"
+        },
+        {
+            "id": "kitsu:49425",
+            "type": "series",
+            "name": "Dandadan 2 (ITA) (AG)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49425_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.06"
+        },
+        {
+            "id": "kitsu:49746",
+            "type": "series",
+            "name": "Re:Zero kara Hajimeru Isekai Seikatsu 4 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49746_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "8.14"
+        },
+        {
+            "id": "kitsu:48410",
+            "type": "series",
+            "name": "Dorohedoro 2 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48410_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.61"
+        },
+        {
+            "id": "kitsu:50155",
+            "type": "series",
+            "name": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50155_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "5.53"
+        },
+        {
             "id": "kitsu:50182",
             "type": "series",
             "name": "Kanojo, Okarishimasu 5",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50182_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "5.65"
+            "rating": "5.64"
         },
         {
             "id": "kitsu:12",
@@ -25,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49194_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.83"
+            "rating": "7.85"
         },
         {
             "id": "kitsu:50614",
@@ -97,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49984_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.39"
+            "rating": "7.40"
         },
         {
             "id": "kitsu:50073",
@@ -205,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46043_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.39"
+            "rating": "8.40"
         },
         {
             "id": "kitsu:50362",
@@ -251,60 +296,6 @@
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "5.36"
-        },
-        {
-            "id": "kitsu:50119",
-            "type": "series",
-            "name": "Maid-san wa Taberu dake",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50119_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "4.22"
-        },
-        {
-            "id": "kitsu:50550",
-            "type": "series",
-            "name": "Nippon Sangoku (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50550_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "7.82"
-        },
-        {
-            "id": "kitsu:49071",
-            "type": "series",
-            "name": "Niwatori Fighter (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49071_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.50"
-        },
-        {
-            "id": "kitsu:49700",
-            "type": "series",
-            "name": "Digimon Beatbreak",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_28.jpg",
-            "description": "Nuovo episodio: Ep 28",
-            "posterShape": "poster",
-            "rating": "4.47"
-        },
-        {
-            "id": "kitsu:49241",
-            "type": "series",
-            "name": "Tsue to Tsurugi no Wistoria 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49241_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "8.43"
-        },
-        {
-            "id": "kitsu:48878",
-            "type": "series",
-            "name": "Diamond no Ace: Act II 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48878_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "7.80"
         }
     ]
 }
