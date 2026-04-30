@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:49503",
+            "type": "series",
+            "name": "Kirio Fanclub",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49503_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "4.31"
+        },
+        {
+            "id": "kitsu:50465",
+            "type": "series",
+            "name": "Koori no Jouheki (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50465_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "8.23"
+        },
+        {
             "id": "kitsu:50187",
             "type": "series",
             "name": "Dr. Stone: Science Future Part 3 (ITA)",
@@ -34,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48056_Ep_45.jpg",
             "description": "Nuovo episodio: Ep 45",
             "posterShape": "poster",
-            "rating": "7.75"
+            "rating": "7.69"
         },
         {
             "id": "kitsu:49767",
@@ -88,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_7894_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "8.77"
+            "rating": "8.86"
         },
         {
             "id": "kitsu:45412",
@@ -97,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45412_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.87"
+            "rating": "6.89"
         },
         {
             "id": "kitsu:49425",
@@ -232,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49984_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.45"
+            "rating": "7.44"
         },
         {
             "id": "kitsu:50073",
@@ -251,33 +269,6 @@
             "description": "Nuovo episodio: Ep 23",
             "posterShape": "poster",
             "rating": "4.18"
-        },
-        {
-            "id": "kitsu:50571",
-            "type": "series",
-            "name": "Onegai AiPri",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50571_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.89"
-        },
-        {
-            "id": "kitsu:50648",
-            "type": "series",
-            "name": "Daikenja Riddle no Jikan Gyakkou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50648_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "4.30"
-        },
-        {
-            "id": "kitsu:8107",
-            "type": "series",
-            "name": "Ookii Onnanoko wa Suki desu ka?",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8107_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "6.19"
         }
     ]
 }
