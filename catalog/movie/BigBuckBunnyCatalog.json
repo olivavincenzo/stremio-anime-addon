@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:696",
+            "type": "series",
+            "name": "Case Closed (AG)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_696_Ep_1200.jpg",
+            "description": "Nuovo episodio: Ep 1200",
+            "posterShape": "poster",
+            "rating": "7.25"
+        },
+        {
+            "id": "kitsu:49361",
+            "type": "series",
+            "name": "Mairimashita! Iruma-kun 4",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49361_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.96"
+        },
+        {
             "id": "kitsu:50399",
             "type": "series",
             "name": "My Hero Academia: More (ITA)",
@@ -61,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50570_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "4.38"
+            "rating": "4.39"
         },
         {
             "id": "kitsu:49235",
@@ -169,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50465_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.16"
+            "rating": "8.18"
         },
         {
             "id": "kitsu:50187",
@@ -269,15 +287,6 @@
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "6.92"
-        },
-        {
-            "id": "kitsu:49425",
-            "type": "series",
-            "name": "Dandadan 2 (ITA) (AG)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49425_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "7.00"
         }
     ]
 }
