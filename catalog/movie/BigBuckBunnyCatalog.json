@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:48878",
+            "type": "series",
+            "name": "Diamond no Ace: Act II 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48878_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.86"
+        },
+        {
             "id": "kitsu:49241",
             "type": "series",
             "name": "Tsue to Tsurugi no Wistoria 2",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49241_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.44"
+            "rating": "8.49"
         },
         {
             "id": "kitsu:49071",
@@ -106,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50171_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.87"
+            "rating": "7.86"
         },
         {
             "id": "kitsu:49839",
@@ -124,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50076_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.18"
+            "rating": "6.17"
         },
         {
             "id": "kitsu:50023",
@@ -133,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50023_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.85"
+            "rating": "7.84"
         },
         {
             "id": "kitsu:49854",
@@ -142,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49854_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.03"
+            "rating": "7.04"
         },
         {
             "id": "kitsu:45412",
@@ -232,7 +241,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3676_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.78"
+            "rating": "6.80"
         },
         {
             "id": "kitsu:50354",
@@ -268,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "8.13"
+            "rating": "8.02"
         },
         {
             "id": "kitsu:48069",
@@ -314,15 +323,6 @@
             "description": "Nuovo episodio: Ep 22",
             "posterShape": "poster",
             "rating": "4.11"
-        },
-        {
-            "id": "kitsu:50554",
-            "type": "series",
-            "name": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50554_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "5.32"
         }
     ]
 }
