@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:50643",
+            "type": "series",
+            "name": "Tadaima, Ojamasaremasu!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50643_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "5.74"
+        },
+        {
             "id": "kitsu:46806",
             "type": "series",
             "name": "Hidarikiki no Eren",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47987_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.77"
+            "rating": "7.80"
         },
         {
             "id": "kitsu:49592",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50218_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.21"
+            "rating": "7.22"
         },
         {
             "id": "kitsu:49984",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49984_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.42"
+            "rating": "7.40"
         },
         {
             "id": "kitsu:50614",
@@ -115,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50108_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.64"
+            "rating": "6.65"
         },
         {
             "id": "kitsu:49834",
@@ -223,7 +232,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50550_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.79"
+            "rating": "7.80"
         },
         {
             "id": "kitsu:48878",
@@ -305,15 +314,6 @@
             "description": "Nuovo episodio: Ep 47",
             "posterShape": "poster",
             "rating": "3.80"
-        },
-        {
-            "id": "kitsu:50659",
-            "type": "series",
-            "name": "Ichijouma Mankitsugurashi!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50659_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "5.48"
         }
     ]
 }
