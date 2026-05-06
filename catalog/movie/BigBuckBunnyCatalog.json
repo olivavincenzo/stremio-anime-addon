@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:48972",
+            "type": "series",
+            "name": "Princession Orchestra",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48972_Ep_48.jpg",
+            "description": "Nuovo episodio: Ep 48",
+            "posterShape": "poster",
+            "rating": "3.80"
+        },
+        {
             "id": "kitsu:49123",
             "type": "series",
             "name": "Ganbare! Nakamura-kun!!",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49123_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "5.81"
+            "rating": "5.79"
         },
         {
             "id": "kitsu:49983",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50216_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.76"
+            "rating": "7.77"
         },
         {
             "id": "kitsu:50155",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49746_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.92"
+            "rating": "8.03"
         },
         {
             "id": "kitsu:49425",
@@ -88,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50182_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "5.62"
+            "rating": "5.63"
         },
         {
             "id": "kitsu:49194",
@@ -97,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49194_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.88"
+            "rating": "7.89"
         },
         {
             "id": "kitsu:50642",
@@ -287,15 +296,6 @@
             "description": "Nuovo episodio: Ep 14",
             "posterShape": "poster",
             "rating": "6.62"
-        },
-        {
-            "id": "kitsu:50579",
-            "type": "series",
-            "name": "Ghost Concert: Missing Songs",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50579_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "4.19"
         }
     ]
 }
