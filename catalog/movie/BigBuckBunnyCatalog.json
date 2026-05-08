@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:50570",
+            "type": "series",
+            "name": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50570_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "4.41"
+        },
+        {
             "id": "kitsu:49118",
             "type": "series",
             "name": "Reincarnation no Kaben",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49118_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.47"
+            "rating": "5.46"
         },
         {
             "id": "kitsu:49503",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50554_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.32"
+            "rating": "5.34"
         },
         {
             "id": "kitsu:50374",
@@ -106,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49123_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "5.81"
+            "rating": "5.82"
         },
         {
             "id": "kitsu:49983",
@@ -232,7 +241,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47987_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.91"
+            "rating": "7.92"
         },
         {
             "id": "kitsu:49592",
@@ -296,15 +305,6 @@
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "6.08"
-        },
-        {
-            "id": "kitsu:50651",
-            "type": "series",
-            "name": "Ingoku Danchi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50651_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "5.87"
         }
     ]
 }
