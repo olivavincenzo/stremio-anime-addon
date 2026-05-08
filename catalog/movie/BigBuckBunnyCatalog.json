@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:49912",
+            "type": "series",
+            "name": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49912_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.34"
+        },
+        {
             "id": "kitsu:50237",
             "type": "series",
             "name": "Yi Ren Zhi Xia 6",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50237_Ep_19.jpg",
             "description": "Nuovo episodio: Ep 19",
             "posterShape": "poster",
-            "rating": "6.40"
+            "rating": "6.39"
         },
         {
             "id": "kitsu:50570",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50570_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "4.42"
+            "rating": "4.43"
         },
         {
             "id": "kitsu:49118",
@@ -70,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50465_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "8.24"
+            "rating": "8.26"
         },
         {
             "id": "kitsu:48611",
@@ -88,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50187_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "9.19"
+            "rating": "9.18"
         },
         {
             "id": "kitsu:48845",
@@ -133,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49983_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.33"
+            "rating": "6.32"
         },
         {
             "id": "kitsu:50320",
@@ -151,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50216_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.82"
+            "rating": "7.80"
         },
         {
             "id": "kitsu:50155",
@@ -178,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49746_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.00"
+            "rating": "8.02"
         },
         {
             "id": "kitsu:49425",
@@ -296,15 +305,6 @@
             "description": "Nuovo episodio: Ep 24",
             "posterShape": "poster",
             "rating": "4.33"
-        },
-        {
-            "id": "kitsu:50073",
-            "type": "series",
-            "name": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50073_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "7.61"
         }
     ]
 }
