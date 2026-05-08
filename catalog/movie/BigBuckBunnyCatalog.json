@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:50237",
+            "type": "series",
+            "name": "Yi Ren Zhi Xia 6",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50237_Ep_19.jpg",
+            "description": "Nuovo episodio: Ep 19",
+            "posterShape": "poster",
+            "rating": "6.40"
+        },
+        {
             "id": "kitsu:50570",
             "type": "series",
             "name": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
@@ -296,15 +305,6 @@
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "7.61"
-        },
-        {
-            "id": "kitsu:8107",
-            "type": "series",
-            "name": "Ookii Onnanoko wa Suki desu ka?",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8107_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.08"
         }
     ]
 }
