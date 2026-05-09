@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:49145",
+            "type": "series",
+            "name": "Wandance (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49145_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "5.50"
+        },
+        {
             "id": "kitsu:50648",
             "type": "series",
             "name": "Daikenja Riddle no Jikan Gyakkou",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50341_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.16"
+            "rating": "5.19"
         },
         {
             "id": "kitsu:49681",
@@ -52,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49839_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "5.38"
+            "rating": "5.39"
         },
         {
             "id": "kitsu:50076",
@@ -70,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49854_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.08"
+            "rating": "7.09"
         },
         {
             "id": "kitsu:50023",
@@ -79,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50023_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.81"
+            "rating": "7.79"
         },
         {
             "id": "kitsu:45412",
@@ -97,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49402_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.13"
+            "rating": "7.11"
         },
         {
             "id": "kitsu:50128",
@@ -124,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50275_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.56"
+            "rating": "6.54"
         },
         {
             "id": "kitsu:49361",
@@ -142,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48293_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.62"
+            "rating": "7.63"
         },
         {
             "id": "kitsu:545",
@@ -241,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50090_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "5.36"
+            "rating": "5.37"
         },
         {
             "id": "kitsu:48069",
@@ -269,42 +278,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "7.33"
-        },
-        {
-            "id": "kitsu:50237",
-            "type": "series",
-            "name": "Yi Ren Zhi Xia 6",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50237_Ep_19.jpg",
-            "description": "Nuovo episodio: Ep 19",
-            "posterShape": "poster",
-            "rating": "6.38"
-        },
-        {
-            "id": "kitsu:50570",
-            "type": "series",
-            "name": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50570_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "4.48"
-        },
-        {
-            "id": "kitsu:49118",
-            "type": "series",
-            "name": "Reincarnation no Kaben",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49118_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "5.47"
-        },
-        {
-            "id": "kitsu:49503",
-            "type": "series",
-            "name": "Kirio Fanclub",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49503_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "4.19"
         }
     ]
 }
