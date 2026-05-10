@@ -1,13 +1,40 @@
 {
     "metas": [
         {
+            "id": "kitsu:12",
+            "type": "series",
+            "name": "One Piece",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12_Ep_1161.jpg",
+            "description": "Nuovo episodio: Ep 1161",
+            "posterShape": "poster",
+            "rating": "8.38"
+        },
+        {
+            "id": "kitsu:50579",
+            "type": "series",
+            "name": "Ghost Concert: Missing Songs",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50579_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "4.19"
+        },
+        {
+            "id": "kitsu:50079",
+            "type": "series",
+            "name": "Kuroneko to Majo no Kyoushitsu",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50079_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "6.54"
+        },
+        {
             "id": "kitsu:49269",
             "type": "series",
             "name": "Yozakura-san Chi no Daisakusen 2",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49269_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.23"
+            "rating": "8.24"
         },
         {
             "id": "kitsu:49677",
@@ -43,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50550_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.88"
+            "rating": "7.81"
         },
         {
             "id": "kitsu:48878",
@@ -79,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49145_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.53"
+            "rating": "7.56"
         },
         {
             "id": "kitsu:50648",
@@ -88,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50648_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "4.32"
+            "rating": "4.34"
         },
         {
             "id": "kitsu:50659",
@@ -178,7 +205,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49402_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.06"
+            "rating": "7.07"
         },
         {
             "id": "kitsu:50128",
@@ -205,7 +232,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50275_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.56"
+            "rating": "6.55"
         },
         {
             "id": "kitsu:49361",
@@ -214,7 +241,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49361_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.97"
+            "rating": "7.98"
         },
         {
             "id": "kitsu:48293",
@@ -251,24 +278,6 @@
             "description": "Nuovo episodio: Ep 23",
             "posterShape": "poster",
             "rating": "4.11"
-        },
-        {
-            "id": "kitsu:49671",
-            "type": "series",
-            "name": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49671_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "5.58"
-        },
-        {
-            "id": "kitsu:49767",
-            "type": "series",
-            "name": "Medalist 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49767_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "7.10"
         }
     ]
 }
