@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:49700",
+            "type": "series",
+            "name": "Digimon Beatbreak",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_30.jpg",
+            "description": "Nuovo episodio: Ep 30",
+            "posterShape": "poster",
+            "rating": "4.52"
+        },
+        {
+            "id": "kitsu:50550",
+            "type": "series",
+            "name": "Nippon Sangoku (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50550_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.97"
+        },
+        {
             "id": "kitsu:48878",
             "type": "series",
             "name": "Diamond no Ace: Act II 2",
@@ -34,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49145_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.64"
+            "rating": "7.83"
         },
         {
             "id": "kitsu:50648",
@@ -61,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50341_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.21"
+            "rating": "5.25"
         },
         {
             "id": "kitsu:49681",
@@ -79,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50171_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.86"
+            "rating": "7.87"
         },
         {
             "id": "kitsu:49839",
@@ -115,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50023_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.80"
+            "rating": "7.79"
         },
         {
             "id": "kitsu:45412",
@@ -259,25 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.79"
-        },
-        {
-            "id": "kitsu:48834",
-            "type": "series",
-            "name": "Tougen Anki (ITA) (AG)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48834_Ep_20.jpg",
-            "description": "Nuovo episodio: Ep 20",
-            "posterShape": "poster",
-            "rating": "3.96"
-        },
-        {
-            "id": "kitsu:50090",
-            "type": "series",
-            "name": "Iya na Kao sare nagara Opantsu Misete Moraitai Returns",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50090_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "5.39"
+            "rating": "7.83"
         }
     ]
 }
