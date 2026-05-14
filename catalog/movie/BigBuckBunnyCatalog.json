@@ -1,13 +1,49 @@
 {
     "metas": [
         {
+            "id": "kitsu:49118",
+            "type": "series",
+            "name": "Reincarnation no Kaben",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49118_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "5.50"
+        },
+        {
+            "id": "kitsu:50554",
+            "type": "series",
+            "name": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50554_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "5.38"
+        },
+        {
+            "id": "kitsu:48846",
+            "type": "series",
+            "name": "Awajima Hyakkei",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48846_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "4.00"
+        },
+        {
+            "id": "kitsu:50374",
+            "type": "series",
+            "name": "Haibara-kun no Tsuyokute Seishun New Game",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50374_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "5.66"
+        },
+        {
             "id": "kitsu:49503",
             "type": "series",
             "name": "Kirio Fanclub",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49503_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "4.18"
+            "rating": "4.23"
         },
         {
             "id": "kitsu:50465",
@@ -16,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50465_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "8.18"
+            "rating": "8.20"
         },
         {
             "id": "kitsu:50090",
@@ -43,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48611_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.59"
+            "rating": "7.63"
         },
         {
             "id": "kitsu:50187",
@@ -70,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49930_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.64"
+            "rating": "7.63"
         },
         {
             "id": "kitsu:49123",
@@ -97,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49983_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.32"
+            "rating": "6.33"
         },
         {
             "id": "kitsu:50320",
@@ -115,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50216_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.78"
+            "rating": "7.79"
         },
         {
             "id": "kitsu:48410",
@@ -196,7 +232,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49841_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "8.81"
+            "rating": "8.75"
         },
         {
             "id": "kitsu:50128",
@@ -251,42 +287,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "7.50"
-        },
-        {
-            "id": "kitsu:46806",
-            "type": "series",
-            "name": "Hidarikiki no Eren",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46806_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "4.46"
-        },
-        {
-            "id": "kitsu:47987",
-            "type": "series",
-            "name": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47987_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.90"
-        },
-        {
-            "id": "kitsu:50218",
-            "type": "series",
-            "name": "Marriagetoxin",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50218_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.19"
-        },
-        {
-            "id": "kitsu:49592",
-            "type": "series",
-            "name": "Replica datte, Koi wo Suru.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49592_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "5.32"
         }
     ]
 }
