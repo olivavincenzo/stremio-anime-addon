@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:48878",
+            "type": "series",
+            "name": "Diamond no Ace: Act II 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48878_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.85"
+        },
+        {
+            "id": "kitsu:49241",
+            "type": "series",
+            "name": "Tsue to Tsurugi no Wistoria 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49241_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "8.66"
+        },
+        {
+            "id": "kitsu:49071",
+            "type": "series",
+            "name": "Niwatori Fighter (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49071_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "7.39"
+        },
+        {
             "id": "kitsu:50648",
             "type": "series",
             "name": "Daikenja Riddle no Jikan Gyakkou",
@@ -178,7 +205,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_43545_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "7.94"
+            "rating": "8.00"
         },
         {
             "id": "kitsu:49671",
@@ -287,42 +314,6 @@
             "description": "Nuovo episodio: Ep 20",
             "posterShape": "poster",
             "rating": "6.40"
-        },
-        {
-            "id": "kitsu:49118",
-            "type": "series",
-            "name": "Reincarnation no Kaben",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49118_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "5.50"
-        },
-        {
-            "id": "kitsu:50554",
-            "type": "series",
-            "name": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50554_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "5.41"
-        },
-        {
-            "id": "kitsu:48846",
-            "type": "series",
-            "name": "Awajima Hyakkei",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48846_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "4.02"
-        },
-        {
-            "id": "kitsu:50374",
-            "type": "series",
-            "name": "Haibara-kun no Tsuyokute Seishun New Game",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50374_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "5.67"
         }
     ]
 }
