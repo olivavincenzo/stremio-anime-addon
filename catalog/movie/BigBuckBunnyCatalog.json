@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:50236",
+            "type": "series",
+            "name": "Bongchon Gaksi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50236_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "4.79"
+        },
+        {
+            "id": "kitsu:50642",
+            "type": "series",
+            "name": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50642_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "6.06"
+        },
+        {
             "id": "kitsu:50614",
             "type": "series",
             "name": "Hyakki Yakoushou",
@@ -25,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46806_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "4.39"
+            "rating": "4.38"
         },
         {
             "id": "kitsu:50073",
@@ -34,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50073_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.49"
+            "rating": "7.47"
         },
         {
             "id": "kitsu:47987",
@@ -52,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50218_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.15"
+            "rating": "7.16"
         },
         {
             "id": "kitsu:49984",
@@ -70,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49592_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "5.21"
+            "rating": "5.22"
         },
         {
             "id": "kitsu:49145",
@@ -79,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49145_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.13"
+            "rating": "6.16"
         },
         {
             "id": "kitsu:50108",
@@ -88,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50108_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.53"
+            "rating": "6.54"
         },
         {
             "id": "kitsu:50665",
@@ -196,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50550_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.93"
+            "rating": "7.92"
         },
         {
             "id": "kitsu:42134",
@@ -241,7 +259,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49241_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "8.65"
+            "rating": "8.63"
         },
         {
             "id": "kitsu:49071",
@@ -259,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50648_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "4.33"
+            "rating": "4.32"
         },
         {
             "id": "kitsu:50659",
@@ -278,15 +296,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "5.30"
-        },
-        {
-            "id": "kitsu:49681",
-            "type": "series",
-            "name": "Yuusha no Kuzu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49681_Ep_18.jpg",
-            "description": "Nuovo episodio: Ep 18",
-            "posterShape": "poster",
-            "rating": "6.51"
         }
     ]
 }
