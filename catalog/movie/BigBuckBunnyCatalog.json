@@ -1,13 +1,40 @@
 {
     "metas": [
         {
+            "id": "kitsu:50580",
+            "type": "series",
+            "name": "Marika-chan no Koukando wa Bukkowareteiru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50580_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "5.91"
+        },
+        {
+            "id": "kitsu:8107",
+            "type": "series",
+            "name": "Ookii Onnanoko wa Suki desu ka?",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8107_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "6.14"
+        },
+        {
+            "id": "kitsu:50651",
+            "type": "series",
+            "name": "Ingoku Danchi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50651_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "5.78"
+        },
+        {
             "id": "kitsu:50236",
             "type": "series",
             "name": "Bongchon Gaksi",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50236_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "4.79"
+            "rating": "4.53"
         },
         {
             "id": "kitsu:50642",
@@ -61,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47987_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.88"
+            "rating": "7.87"
         },
         {
             "id": "kitsu:50218",
@@ -268,34 +295,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49071_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "7.36"
-        },
-        {
-            "id": "kitsu:50648",
-            "type": "series",
-            "name": "Daikenja Riddle no Jikan Gyakkou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50648_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "4.32"
-        },
-        {
-            "id": "kitsu:50659",
-            "type": "series",
-            "name": "Ichijouma Mankitsugurashi!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50659_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "5.33"
-        },
-        {
-            "id": "kitsu:50341",
-            "type": "series",
-            "name": "Needy Girl Overdose",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50341_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "5.30"
+            "rating": "7.35"
         }
     ]
 }
