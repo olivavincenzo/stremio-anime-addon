@@ -7,7 +7,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49671_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.54"
+            "rating": "5.57"
         },
         {
             "id": "kitsu:3676",
@@ -61,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48069_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.42"
+            "rating": "7.41"
         },
         {
             "id": "kitsu:49912",
@@ -106,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50374_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "5.65"
+            "rating": "5.66"
         },
         {
             "id": "kitsu:49118",
@@ -250,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50216_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.81"
+            "rating": "7.80"
         },
         {
             "id": "kitsu:49746",
@@ -278,6 +278,15 @@
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
             "rating": "5.54"
+        },
+        {
+            "id": "kitsu:43613",
+            "type": "series",
+            "name": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_43613_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "8.92"
         },
         {
             "id": "kitsu:50182",
