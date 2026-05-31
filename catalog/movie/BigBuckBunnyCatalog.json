@@ -1,13 +1,40 @@
 {
     "metas": [
         {
+            "id": "kitsu:49700",
+            "type": "series",
+            "name": "Digimon Beatbreak",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_33.jpg",
+            "description": "Nuovo episodio: Ep 33",
+            "posterShape": "poster",
+            "rating": "4.63"
+        },
+        {
+            "id": "kitsu:50579",
+            "type": "series",
+            "name": "Ghost Concert: Missing Songs",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50579_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "4.23"
+        },
+        {
+            "id": "kitsu:49677",
+            "type": "series",
+            "name": "Mahou no Shimai Lulutto Lilly",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49677_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "5.33"
+        },
+        {
             "id": "kitsu:50079",
             "type": "series",
             "name": "Kuroneko to Majo no Kyoushitsu",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50079_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.47"
+            "rating": "6.46"
         },
         {
             "id": "kitsu:49269",
@@ -16,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49269_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.95"
+            "rating": "7.96"
         },
         {
             "id": "kitsu:50119",
@@ -34,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50550_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.77"
+            "rating": "7.75"
         },
         {
             "id": "kitsu:48878",
@@ -52,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49241_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "8.63"
+            "rating": "8.64"
         },
         {
             "id": "kitsu:49071",
@@ -70,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50648_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "4.42"
+            "rating": "4.43"
         },
         {
             "id": "kitsu:50659",
@@ -88,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50341_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "5.42"
+            "rating": "5.43"
         },
         {
             "id": "kitsu:49681",
@@ -133,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50023_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.85"
+            "rating": "7.84"
         },
         {
             "id": "kitsu:49854",
@@ -160,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50128_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.78"
+            "rating": "7.73"
         },
         {
             "id": "kitsu:49402",
@@ -278,33 +305,6 @@
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
             "rating": "7.41"
-        },
-        {
-            "id": "kitsu:49912",
-            "type": "series",
-            "name": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49912_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "7.44"
-        },
-        {
-            "id": "kitsu:545",
-            "type": "series",
-            "name": "Karna the Guardian",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_545_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "5.71"
-        },
-        {
-            "id": "kitsu:50237",
-            "type": "series",
-            "name": "Yi Ren Zhi Xia 6",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50237_Ep_22.jpg",
-            "description": "Nuovo episodio: Ep 22",
-            "posterShape": "poster",
-            "rating": "6.37"
         }
     ]
 }
