@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:49242",
+            "type": "series",
+            "name": "Shouri no Megami NIKKE - Nikenichi! Non Non Zenshou Kichi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49242_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "5.79"
+        },
+        {
+            "id": "kitsu:12",
+            "type": "series",
+            "name": "One Piece",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12_Ep_1165.jpg",
+            "description": "Nuovo episodio: Ep 1165",
+            "posterShape": "poster",
+            "rating": "8.39"
+        },
+        {
+            "id": "kitsu:50648",
+            "type": "series",
+            "name": "Daikenja Riddle no Jikan Gyakkou",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50648_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "4.40"
+        },
+        {
             "id": "kitsu:50579",
             "type": "series",
             "name": "Ghost Concert: Missing Songs",
@@ -52,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49269_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "8.07"
+            "rating": "8.06"
         },
         {
             "id": "kitsu:50119",
@@ -97,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50040_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "8.36"
+            "rating": "8.45"
         },
         {
             "id": "kitsu:50571",
@@ -160,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49839_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "5.74"
+            "rating": "5.75"
         },
         {
             "id": "kitsu:50171",
@@ -296,15 +323,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "8.10"
-        },
-        {
-            "id": "kitsu:48069",
-            "type": "series",
-            "name": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48069_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "7.34"
         }
     ]
 }
