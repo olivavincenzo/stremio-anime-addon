@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:13078",
+            "type": "series",
+            "name": "Quanzhi Fashi VII",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13078_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "7.00"
+        },
+        {
             "id": "kitsu:8107",
             "type": "series",
             "name": "Ookii Onnanoko wa Suki desu ka?",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8107_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "5.93"
+            "rating": "5.94"
         },
         {
             "id": "kitsu:50651",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50580_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.76"
+            "rating": "5.72"
         },
         {
             "id": "kitsu:50642",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50642_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.12"
+            "rating": "6.13"
         },
         {
             "id": "kitsu:50643",
@@ -70,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47987_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "8.00"
+            "rating": "8.01"
         },
         {
             "id": "kitsu:50218",
@@ -88,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49984_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.18"
+            "rating": "7.17"
         },
         {
             "id": "kitsu:49592",
@@ -124,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50108_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.40"
+            "rating": "6.42"
         },
         {
             "id": "kitsu:50665",
@@ -295,7 +304,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50040_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "8.57"
+            "rating": "8.55"
         },
         {
             "id": "kitsu:50571",
@@ -332,15 +341,6 @@
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "5.48"
-        },
-        {
-            "id": "kitsu:210",
-            "type": "series",
-            "name": "Meitantei Conan: Hanamaru na Answer",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_210_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "7.13"
         }
     ]
 }
