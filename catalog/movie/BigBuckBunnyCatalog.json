@@ -1,13 +1,49 @@
 {
     "metas": [
         {
+            "id": "kitsu:49671",
+            "type": "series",
+            "name": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49671_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "5.67"
+        },
+        {
+            "id": "kitsu:3676",
+            "type": "series",
+            "name": "Hokuto no Ken: Fist of the North Star (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_3676_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "6.69"
+        },
+        {
+            "id": "kitsu:50354",
+            "type": "series",
+            "name": "Kami no Shizuku",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50354_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "4.38"
+        },
+        {
+            "id": "kitsu:50041",
+            "type": "series",
+            "name": "Snowball Earth",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50041_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "6.96"
+        },
+        {
             "id": "kitsu:49235",
             "type": "series",
             "name": "Tensei shitara Slime Datta Ken 4 (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "8.14"
+            "rating": "8.12"
         },
         {
             "id": "kitsu:48069",
@@ -16,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48069_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.30"
+            "rating": "7.29"
         },
         {
             "id": "kitsu:50570",
@@ -43,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49912_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.62"
+            "rating": "7.63"
         },
         {
             "id": "kitsu:545",
@@ -196,7 +232,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49983_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "6.46"
+            "rating": "6.47"
         },
         {
             "id": "kitsu:49123",
@@ -242,51 +278,6 @@
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "5.63"
-        },
-        {
-            "id": "kitsu:49194",
-            "type": "series",
-            "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4: 2-nensei-hen 1 Gakki",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49194_Ep_14.jpg",
-            "description": "Nuovo episodio: Ep 14",
-            "posterShape": "poster",
-            "rating": "7.95"
-        },
-        {
-            "id": "kitsu:13078",
-            "type": "series",
-            "name": "Quanzhi Fashi VII",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13078_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "6.86"
-        },
-        {
-            "id": "kitsu:8107",
-            "type": "series",
-            "name": "Ookii Onnanoko wa Suki desu ka?",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8107_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "5.96"
-        },
-        {
-            "id": "kitsu:50651",
-            "type": "series",
-            "name": "Ingoku Danchi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50651_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "5.60"
-        },
-        {
-            "id": "kitsu:50580",
-            "type": "series",
-            "name": "Marika-chan no Koukando wa Bukkowareteiru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50580_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "5.70"
         }
     ]
 }
