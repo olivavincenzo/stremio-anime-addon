@@ -1,6 +1,51 @@
 {
     "metas": [
         {
+            "id": "kitsu:49235",
+            "type": "series",
+            "name": "Tensei shitara Slime Datta Ken 4 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "8.14"
+        },
+        {
+            "id": "kitsu:48069",
+            "type": "series",
+            "name": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48069_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "7.30"
+        },
+        {
+            "id": "kitsu:50570",
+            "type": "series",
+            "name": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50570_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "4.69"
+        },
+        {
+            "id": "kitsu:50571",
+            "type": "series",
+            "name": "Onegai AiPri",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50571_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "6.89"
+        },
+        {
+            "id": "kitsu:49912",
+            "type": "series",
+            "name": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49912_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "7.62"
+        },
+        {
             "id": "kitsu:545",
             "type": "series",
             "name": "Karna the Guardian",
@@ -61,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48846_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "3.96"
+            "rating": "3.94"
         },
         {
             "id": "kitsu:48932",
@@ -133,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49930_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "7.51"
+            "rating": "7.52"
         },
         {
             "id": "kitsu:50320",
@@ -196,7 +241,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50182_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "5.61"
+            "rating": "5.63"
         },
         {
             "id": "kitsu:49194",
@@ -242,60 +287,6 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "5.70"
-        },
-        {
-            "id": "kitsu:50642",
-            "type": "series",
-            "name": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50642_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "6.14"
-        },
-        {
-            "id": "kitsu:50643",
-            "type": "series",
-            "name": "Tadaima, Ojamasaremasu!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50643_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "6.02"
-        },
-        {
-            "id": "kitsu:46806",
-            "type": "series",
-            "name": "Hidarikiki no Eren",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46806_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "4.35"
-        },
-        {
-            "id": "kitsu:50614",
-            "type": "series",
-            "name": "Hyakki Yakoushou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50614_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "4.59"
-        },
-        {
-            "id": "kitsu:47987",
-            "type": "series",
-            "name": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47987_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "8.02"
-        },
-        {
-            "id": "kitsu:50218",
-            "type": "series",
-            "name": "Marriagetoxin",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50218_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "7.21"
         }
     ]
 }
