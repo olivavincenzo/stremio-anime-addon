@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:13698",
+            "type": "series",
+            "name": "Rilakkuma",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13698_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "5.55"
+        },
+        {
             "id": "kitsu:49671",
             "type": "series",
             "name": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49671_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "5.69"
+            "rating": "5.71"
         },
         {
             "id": "kitsu:3676",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50570_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "4.70"
+            "rating": "4.71"
         },
         {
             "id": "kitsu:50571",
@@ -133,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50374_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "5.68"
+            "rating": "5.70"
         },
         {
             "id": "kitsu:48846",
@@ -169,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50187_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "8.98"
+            "rating": "8.99"
         },
         {
             "id": "kitsu:48845",
@@ -269,15 +278,6 @@
             "description": "Nuovo episodio: Ep 59",
             "posterShape": "poster",
             "rating": "7.79"
-        },
-        {
-            "id": "kitsu:50182",
-            "type": "series",
-            "name": "Kanojo, Okarishimasu 5",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50182_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "5.63"
         }
     ]
 }
