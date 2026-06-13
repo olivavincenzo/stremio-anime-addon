@@ -1,13 +1,31 @@
 {
     "metas": [
         {
+            "id": "kitsu:49681",
+            "type": "series",
+            "name": "Yuusha no Kuzu",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49681_Ep_22.jpg",
+            "description": "Nuovo episodio: Ep 22",
+            "posterShape": "poster",
+            "rating": "6.52"
+        },
+        {
+            "id": "kitsu:50341",
+            "type": "series",
+            "name": "Needy Girl Overdose",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50341_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "5.46"
+        },
+        {
             "id": "kitsu:49839",
             "type": "series",
             "name": "Shunkashuutou Daikousha: Haru no Mai",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49839_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.79"
+            "rating": "5.80"
         },
         {
             "id": "kitsu:50171",
@@ -16,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50171_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.73"
+            "rating": "7.74"
         },
         {
             "id": "kitsu:49854",
@@ -34,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50023_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.75"
+            "rating": "7.76"
         },
         {
             "id": "kitsu:50128",
@@ -52,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50275_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.40"
+            "rating": "6.39"
         },
         {
             "id": "kitsu:49361",
@@ -70,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48293_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "7.61"
+            "rating": "7.62"
         },
         {
             "id": "kitsu:13698",
@@ -295,25 +313,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49930_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "7.54"
-        },
-        {
-            "id": "kitsu:50320",
-            "type": "series",
-            "name": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50320_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "7.19"
-        },
-        {
-            "id": "kitsu:49983",
-            "type": "series",
-            "name": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49983_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "6.47"
+            "rating": "7.55"
         }
     ]
 }
