@@ -1,6 +1,51 @@
 {
     "metas": [
         {
+            "id": "kitsu:49677",
+            "type": "series",
+            "name": "Mahou no Shimai Lulutto Lilly",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49677_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "5.49"
+        },
+        {
+            "id": "kitsu:50119",
+            "type": "series",
+            "name": "Maid-san wa Taberu dake",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50119_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "4.47"
+        },
+        {
+            "id": "kitsu:50648",
+            "type": "series",
+            "name": "Daikenja Riddle no Jikan Gyakkou",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50648_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "4.45"
+        },
+        {
+            "id": "kitsu:50550",
+            "type": "series",
+            "name": "Nippon Sangoku (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50550_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "7.73"
+        },
+        {
+            "id": "kitsu:49700",
+            "type": "series",
+            "name": "Digimon Beatbreak",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_35.jpg",
+            "description": "Nuovo episodio: Ep 35",
+            "posterShape": "poster",
+            "rating": "4.64"
+        },
+        {
             "id": "kitsu:49269",
             "type": "series",
             "name": "Yozakura-san Chi no Daisakusen 2",
@@ -16,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48878_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "8.15"
+            "rating": "8.10"
         },
         {
             "id": "kitsu:49241",
@@ -25,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49241_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "8.61"
+            "rating": "8.60"
         },
         {
             "id": "kitsu:50128",
@@ -35,15 +80,6 @@
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "7.92"
-        },
-        {
-            "id": "kitsu:45412",
-            "type": "series",
-            "name": "Mao",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45412_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "6.73"
         },
         {
             "id": "kitsu:50659",
@@ -61,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_696_Ep_1203.jpg",
             "description": "Nuovo episodio: Ep 1203",
             "posterShape": "poster",
-            "rating": "7.24"
+            "rating": "7.19"
         },
         {
             "id": "kitsu:50076",
@@ -70,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50076_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "6.30"
+            "rating": "6.31"
         },
         {
             "id": "kitsu:50023",
@@ -88,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49402_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.87"
+            "rating": "6.88"
         },
         {
             "id": "kitsu:49681",
@@ -124,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50171_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.72"
+            "rating": "7.71"
         },
         {
             "id": "kitsu:49854",
@@ -142,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50275_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.39"
+            "rating": "6.38"
         },
         {
             "id": "kitsu:49361",
@@ -232,7 +268,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50570_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "4.73"
+            "rating": "4.72"
         },
         {
             "id": "kitsu:50571",
@@ -250,7 +286,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49912_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.65"
+            "rating": "7.66"
         },
         {
             "id": "kitsu:545",
@@ -278,51 +314,6 @@
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
             "rating": "5.60"
-        },
-        {
-            "id": "kitsu:49503",
-            "type": "series",
-            "name": "Kirio Fanclub",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49503_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "4.49"
-        },
-        {
-            "id": "kitsu:50554",
-            "type": "series",
-            "name": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50554_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "5.44"
-        },
-        {
-            "id": "kitsu:50374",
-            "type": "series",
-            "name": "Haibara-kun no Tsuyokute Seishun New Game",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50374_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "5.70"
-        },
-        {
-            "id": "kitsu:48846",
-            "type": "series",
-            "name": "Awajima Hyakkei",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48846_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "3.94"
-        },
-        {
-            "id": "kitsu:48932",
-            "type": "series",
-            "name": "Mr. Osomatsu 4",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48932_Ep_13.jpg",
-            "description": "Nuovo episodio: Ep 13",
-            "posterShape": "poster",
-            "rating": "5.45"
         }
     ]
 }
