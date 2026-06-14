@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:49269",
+            "type": "series",
+            "name": "Yozakura-san Chi no Daisakusen 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49269_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "8.09"
+        },
+        {
             "id": "kitsu:48878",
             "type": "series",
             "name": "Diamond no Ace: Act II 2",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48878_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "8.13"
+            "rating": "8.15"
         },
         {
             "id": "kitsu:49241",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49241_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "8.59"
+            "rating": "8.61"
         },
         {
             "id": "kitsu:50128",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50076_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "6.31"
+            "rating": "6.30"
         },
         {
             "id": "kitsu:50023",
@@ -88,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49681_Ep_22.jpg",
             "description": "Nuovo episodio: Ep 22",
             "posterShape": "poster",
-            "rating": "6.49"
+            "rating": "6.48"
         },
         {
             "id": "kitsu:50341",
@@ -106,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49839_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.86"
+            "rating": "5.85"
         },
         {
             "id": "kitsu:50171",
@@ -133,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50275_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.40"
+            "rating": "6.39"
         },
         {
             "id": "kitsu:49361",
@@ -268,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49118_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "5.59"
+            "rating": "5.60"
         },
         {
             "id": "kitsu:49503",
@@ -314,15 +323,6 @@
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
             "rating": "5.45"
-        },
-        {
-            "id": "kitsu:50465",
-            "type": "series",
-            "name": "Koori no Jouheki (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50465_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "8.18"
         }
     ]
 }
