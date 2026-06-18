@@ -1,6 +1,51 @@
 {
     "metas": [
         {
+            "id": "kitsu:50187",
+            "type": "series",
+            "name": "Dr. Stone: Science Future Part 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50187_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "8.72"
+        },
+        {
+            "id": "kitsu:48845",
+            "type": "series",
+            "name": "Kujima Utaeba Ie Hororo",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48845_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "3.84"
+        },
+        {
+            "id": "kitsu:49930",
+            "type": "series",
+            "name": "Himekishi wa Barbaroi no Yome",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49930_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "7.54"
+        },
+        {
+            "id": "kitsu:48611",
+            "type": "series",
+            "name": "Yofukashi no Uta 2 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48611_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "7.52"
+        },
+        {
+            "id": "kitsu:12",
+            "type": "series",
+            "name": "One Piece (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12_Ep_924.jpg",
+            "description": "Nuovo episodio: Ep 924",
+            "posterShape": "poster",
+            "rating": "7.98"
+        },
+        {
             "id": "kitsu:49123",
             "type": "series",
             "name": "Ganbare! Nakamura-kun!!",
@@ -16,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50320_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.14"
+            "rating": "7.17"
         },
         {
             "id": "kitsu:50216",
@@ -25,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50216_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.79"
+            "rating": "7.80"
         },
         {
             "id": "kitsu:49746",
@@ -34,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49746_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "8.27"
+            "rating": "8.29"
         },
         {
             "id": "kitsu:50155",
@@ -88,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8107_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "5.92"
+            "rating": "5.91"
         },
         {
             "id": "kitsu:50651",
@@ -106,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50642_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "6.18"
+            "rating": "6.19"
         },
         {
             "id": "kitsu:50643",
@@ -133,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47987_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.99"
+            "rating": "8.00"
         },
         {
             "id": "kitsu:49592",
@@ -262,15 +307,6 @@
             "rating": "2.50"
         },
         {
-            "id": "kitsu:12",
-            "type": "series",
-            "name": "One Piece",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12_Ep_1166.jpg",
-            "description": "Nuovo episodio: Ep 1166",
-            "posterShape": "poster",
-            "rating": "8.39"
-        },
-        {
             "id": "kitsu:50579",
             "type": "series",
             "name": "Ghost Concert: Missing Songs",
@@ -287,51 +323,6 @@
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "6.54"
-        },
-        {
-            "id": "kitsu:49677",
-            "type": "series",
-            "name": "Mahou no Shimai Lulutto Lilly",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49677_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "5.49"
-        },
-        {
-            "id": "kitsu:50119",
-            "type": "series",
-            "name": "Maid-san wa Taberu dake",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50119_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "4.56"
-        },
-        {
-            "id": "kitsu:50648",
-            "type": "series",
-            "name": "Daikenja Riddle no Jikan Gyakkou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50648_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "4.46"
-        },
-        {
-            "id": "kitsu:50550",
-            "type": "series",
-            "name": "Nippon Sangoku (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50550_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "7.72"
-        },
-        {
-            "id": "kitsu:49700",
-            "type": "series",
-            "name": "Digimon Beatbreak",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_35.jpg",
-            "description": "Nuovo episodio: Ep 35",
-            "posterShape": "poster",
-            "rating": "4.69"
         }
     ]
 }
