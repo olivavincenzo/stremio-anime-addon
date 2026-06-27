@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:49402",
+            "type": "series",
+            "name": "Yowayowa Sensei",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49402_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "6.94"
+        },
+        {
             "id": "kitsu:696",
             "type": "series",
             "name": "Case Closed (AG)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_696_Ep_1205.jpg",
             "description": "Nuovo episodio: Ep 1205",
             "posterShape": "poster",
-            "rating": "7.23"
+            "rating": "7.24"
         },
         {
             "id": "kitsu:49361",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49361_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "8.07"
+            "rating": "8.08"
         },
         {
             "id": "kitsu:48293",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48293_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.63"
+            "rating": "7.64"
         },
         {
             "id": "kitsu:50455",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50455_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "8.77"
+            "rating": "8.76"
         },
         {
             "id": "kitsu:13698",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49671_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.66"
+            "rating": "5.67"
         },
         {
             "id": "kitsu:49235",
@@ -142,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50793_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.69"
+            "rating": "7.66"
         },
         {
             "id": "kitsu:50187",
@@ -205,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49983_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.61"
+            "rating": "6.62"
         },
         {
             "id": "kitsu:50216",
@@ -305,15 +314,6 @@
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
             "rating": "6.41"
-        },
-        {
-            "id": "kitsu:50643",
-            "type": "series",
-            "name": "Tadaima, Ojamasaremasu!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50643_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "6.16"
         }
     ]
 }
