@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:48611",
+            "type": "series",
+            "name": "Yofukashi no Uta 2 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48611_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "7.58"
+        },
+        {
             "id": "kitsu:50411",
             "type": "series",
             "name": "Otome Kaijuu Caraméliser",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50551_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.57"
+            "rating": "7.46"
         },
         {
             "id": "kitsu:50137",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50137_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.50"
+            "rating": "6.35"
         },
         {
             "id": "kitsu:49183",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.76"
+            "rating": "7.80"
         },
         {
             "id": "kitsu:50465",
@@ -70,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50751_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "6.91"
+            "rating": "6.86"
         },
         {
             "id": "kitsu:44814",
@@ -97,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50109_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.85"
+            "rating": "7.86"
         },
         {
             "id": "kitsu:50613",
@@ -187,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50108_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "6.33"
+            "rating": "6.34"
         },
         {
             "id": "kitsu:50076",
@@ -287,15 +296,6 @@
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
             "rating": "5.74"
-        },
-        {
-            "id": "kitsu:49839",
-            "type": "series",
-            "name": "Shunkashuutou Daikousha: Haru no Mai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49839_Ep_14.jpg",
-            "description": "Nuovo episodio: Ep 14",
-            "posterShape": "poster",
-            "rating": "6.19"
         }
     ]
 }
