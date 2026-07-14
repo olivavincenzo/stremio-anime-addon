@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:50828",
+            "type": "series",
+            "name": "Bai Ri Cheng Wang",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50828_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "6.80"
+        },
+        {
             "id": "kitsu:50646",
             "type": "series",
             "name": "Shibou Yuugi de Meshi wo Kuu. 44: Cloudy Beach (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50646_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "6.00"
+            "rating": "5.67"
         },
         {
             "id": "kitsu:49700",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50766_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.39"
+            "rating": "7.40"
         },
         {
             "id": "kitsu:49410",
@@ -106,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50350_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.44"
+            "rating": "7.43"
         },
         {
             "id": "kitsu:50362",
@@ -205,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50258_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "4.23"
+            "rating": "4.24"
         },
         {
             "id": "kitsu:50634",
@@ -232,7 +241,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50761_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.54"
+            "rating": "7.55"
         },
         {
             "id": "kitsu:50179",
@@ -314,15 +323,6 @@
             "description": "Nuovo episodio: Ep 1206",
             "posterShape": "poster",
             "rating": "7.06"
-        },
-        {
-            "id": "kitsu:42908",
-            "type": "series",
-            "name": "Xing Chen Bian 7",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_42908_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "6.94"
         }
     ]
 }
