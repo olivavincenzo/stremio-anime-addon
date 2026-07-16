@@ -1,13 +1,40 @@
 {
     "metas": [
         {
+            "id": "kitsu:49183",
+            "type": "series",
+            "name": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "7.36"
+        },
+        {
+            "id": "kitsu:50040",
+            "type": "series",
+            "name": "Super no Ura de Yani Suu Futari",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50040_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "8.46"
+        },
+        {
+            "id": "kitsu:50411",
+            "type": "series",
+            "name": "Otome Kaijuu Caraméliser",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50411_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "7.73"
+        },
+        {
             "id": "kitsu:50551",
             "type": "series",
             "name": "Yani Neko",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50551_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.15"
+            "rating": "7.17"
         },
         {
             "id": "kitsu:42337",
@@ -16,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_42337_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "4.77"
+            "rating": "4.74"
         },
         {
             "id": "kitsu:50793",
@@ -25,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50793_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.47"
+            "rating": "7.46"
         },
         {
             "id": "kitsu:50137",
@@ -70,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50649_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "5.08"
+            "rating": "5.13"
         },
         {
             "id": "kitsu:50769",
@@ -106,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50109_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.07"
+            "rating": "7.06"
         },
         {
             "id": "kitsu:50613",
@@ -133,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49995_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.81"
+            "rating": "7.79"
         },
         {
             "id": "kitsu:49913",
@@ -142,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49913_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.14"
+            "rating": "7.16"
         },
         {
             "id": "kitsu:44778",
@@ -187,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50518_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "5.77"
+            "rating": "5.76"
         },
         {
             "id": "kitsu:50805",
@@ -286,7 +313,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50646_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "5.43"
+            "rating": "5.35"
         },
         {
             "id": "kitsu:49700",
@@ -296,33 +323,6 @@
             "description": "Nuovo episodio: Ep 38",
             "posterShape": "poster",
             "rating": "4.75"
-        },
-        {
-            "id": "kitsu:50108",
-            "type": "series",
-            "name": "Liar Game",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50108_Ep_15.jpg",
-            "description": "Nuovo episodio: Ep 15",
-            "posterShape": "poster",
-            "rating": "6.12"
-        },
-        {
-            "id": "kitsu:47988",
-            "type": "series",
-            "name": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47988_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "6.40"
-        },
-        {
-            "id": "kitsu:50181",
-            "type": "series",
-            "name": "Grand Blue Dreaming 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50181_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "8.78"
         }
     ]
 }
