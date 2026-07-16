@@ -1,13 +1,31 @@
 {
     "metas": [
         {
+            "id": "kitsu:50649",
+            "type": "series",
+            "name": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50649_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "5.02"
+        },
+        {
+            "id": "kitsu:50769",
+            "type": "series",
+            "name": "Perfect Addiction",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50769_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "5.85"
+        },
+        {
             "id": "kitsu:47759",
             "type": "series",
             "name": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47759_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "8.05"
+            "rating": "8.15"
         },
         {
             "id": "kitsu:50480",
@@ -16,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50480_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.33"
+            "rating": "7.34"
         },
         {
             "id": "kitsu:50109",
@@ -25,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50109_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.08"
+            "rating": "7.07"
         },
         {
             "id": "kitsu:50613",
@@ -34,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50613_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.78"
+            "rating": "6.76"
         },
         {
             "id": "kitsu:46925",
@@ -52,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49995_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.82"
+            "rating": "7.81"
         },
         {
             "id": "kitsu:49913",
@@ -61,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49913_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.11"
+            "rating": "7.14"
         },
         {
             "id": "kitsu:44778",
@@ -268,7 +286,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49410_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.66"
+            "rating": "7.67"
         },
         {
             "id": "kitsu:50690",
@@ -305,24 +323,6 @@
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
             "rating": "7.37"
-        },
-        {
-            "id": "kitsu:50362",
-            "type": "series",
-            "name": "Meitantei Precure!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50362_Ep_24.jpg",
-            "description": "Nuovo episodio: Ep 24",
-            "posterShape": "poster",
-            "rating": "6.88"
-        },
-        {
-            "id": "kitsu:12",
-            "type": "series",
-            "name": "One Piece",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12_Ep_1169.jpg",
-            "description": "Nuovo episodio: Ep 1169",
-            "posterShape": "poster",
-            "rating": "8.39"
         }
     ]
 }
