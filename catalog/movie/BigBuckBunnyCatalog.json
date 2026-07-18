@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:49249",
+            "type": "series",
+            "name": "Boku no Kokoro no Yabai Yatsu Movie (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49249_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "8.33"
+        },
+        {
             "id": "kitsu:49265",
             "type": "series",
             "name": "Nige Jouzu no Wakagimi 2",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49265_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.92"
+            "rating": "8.08"
         },
         {
             "id": "kitsu:50760",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50760_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.67"
+            "rating": "7.65"
         },
         {
             "id": "kitsu:50797",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50555_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.52"
+            "rating": "7.51"
         },
         {
             "id": "kitsu:50049",
@@ -70,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50049_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.69"
+            "rating": "7.67"
         },
         {
             "id": "kitsu:50571",
@@ -133,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.30"
+            "rating": "7.31"
         },
         {
             "id": "kitsu:50040",
@@ -214,7 +223,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50649_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "5.14"
+            "rating": "5.11"
         },
         {
             "id": "kitsu:50769",
@@ -305,24 +314,6 @@
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
             "rating": "7.65"
-        },
-        {
-            "id": "kitsu:13051",
-            "type": "series",
-            "name": "Boruto: Naruto Next Generations (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13051_Ep_30.jpg",
-            "description": "Nuovo episodio: Ep 30",
-            "posterShape": "poster",
-            "rating": "7.15"
-        },
-        {
-            "id": "kitsu:13078",
-            "type": "series",
-            "name": "Quanzhi Fashi VII",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13078_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "6.71"
         }
     ]
 }
