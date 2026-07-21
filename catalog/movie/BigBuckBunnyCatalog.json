@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:49607",
+            "type": "series",
+            "name": "Kimi ga Shinu made Koi wo Shitai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49607_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "6.28"
+        },
+        {
+            "id": "kitsu:44021",
+            "type": "series",
+            "name": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44021_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "5.98"
+        },
+        {
             "id": "kitsu:50828",
             "type": "series",
             "name": "Bai Ri Cheng Wang",
@@ -25,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50768_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.82"
+            "rating": "6.81"
         },
         {
             "id": "kitsu:50181",
@@ -34,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50181_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.72"
+            "rating": "8.73"
         },
         {
             "id": "kitsu:50690",
@@ -70,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49410_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.50"
+            "rating": "7.49"
         },
         {
             "id": "kitsu:47989",
@@ -106,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_2513_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.32"
+            "rating": "6.33"
         },
         {
             "id": "kitsu:47342",
@@ -142,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49002_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.62"
+            "rating": "8.63"
         },
         {
             "id": "kitsu:50079",
@@ -169,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50272_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.42"
+            "rating": "7.43"
         },
         {
             "id": "kitsu:50139",
@@ -187,7 +205,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_39.jpg",
             "description": "Nuovo episodio: Ep 39",
             "posterShape": "poster",
-            "rating": "4.78"
+            "rating": "4.80"
         },
         {
             "id": "kitsu:50801",
@@ -304,7 +322,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50023_Ep_15.jpg",
             "description": "Nuovo episodio: Ep 15",
             "posterShape": "poster",
-            "rating": "7.73"
+            "rating": "7.74"
         },
         {
             "id": "kitsu:45412",
@@ -314,24 +332,6 @@
             "description": "Nuovo episodio: Ep 16",
             "posterShape": "poster",
             "rating": "6.74"
-        },
-        {
-            "id": "kitsu:50128",
-            "type": "series",
-            "name": "Kill Ao (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50128_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "7.65"
-        },
-        {
-            "id": "kitsu:45657",
-            "type": "series",
-            "name": "Black Torch (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45657_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "8.00"
         }
     ]
 }
