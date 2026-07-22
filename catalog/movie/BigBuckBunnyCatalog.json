@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:44778",
+            "type": "series",
+            "name": "Youjo Senki 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44778_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "8.81"
+        },
+        {
+            "id": "kitsu:42908",
+            "type": "series",
+            "name": "Xing Chen Bian 7",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_42908_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "6.71"
+        },
+        {
+            "id": "kitsu:50154",
+            "type": "series",
+            "name": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50154_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "7.48"
+        },
+        {
             "id": "kitsu:44814",
             "type": "series",
             "name": "Waccha PriMagi!",
@@ -34,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50622_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.53"
+            "rating": "6.62"
         },
         {
             "id": "kitsu:50805",
@@ -43,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50805_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.53"
+            "rating": "7.52"
         },
         {
             "id": "kitsu:10229",
@@ -70,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50048_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.00"
+            "rating": "7.01"
         },
         {
             "id": "kitsu:49607",
@@ -79,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49607_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.32"
+            "rating": "6.35"
         },
         {
             "id": "kitsu:44021",
@@ -88,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44021_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.05"
+            "rating": "6.08"
         },
         {
             "id": "kitsu:50828",
@@ -151,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50766_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.45"
+            "rating": "7.49"
         },
         {
             "id": "kitsu:49410",
@@ -190,13 +217,13 @@
             "rating": "6.88"
         },
         {
-            "id": "kitsu:41442",
+            "id": "kitsu:2513",
             "type": "series",
             "name": "Ushiro no Shoumen Kamui-san",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41442_Ep_2.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_2513_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.33"
+            "rating": "6.34"
         },
         {
             "id": "kitsu:47342",
@@ -241,7 +268,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50079_Ep_15.jpg",
             "description": "Nuovo episodio: Ep 15",
             "posterShape": "poster",
-            "rating": "6.53"
+            "rating": "6.54"
         },
         {
             "id": "kitsu:41923",
@@ -305,33 +332,6 @@
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "8.56"
-        },
-        {
-            "id": "kitsu:49427",
-            "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.08"
-        },
-        {
-            "id": "kitsu:41243",
-            "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41243_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.56"
-        },
-        {
-            "id": "kitsu:50767",
-            "type": "series",
-            "name": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50767_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.73"
         }
     ]
 }
