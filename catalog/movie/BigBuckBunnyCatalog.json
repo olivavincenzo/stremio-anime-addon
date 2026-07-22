@@ -1,6 +1,42 @@
 {
     "metas": [
         {
+            "id": "kitsu:50480",
+            "type": "series",
+            "name": "Dogulwang",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50480_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "7.14"
+        },
+        {
+            "id": "kitsu:50109",
+            "type": "series",
+            "name": "Lv999 no Murabito",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50109_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.09"
+        },
+        {
+            "id": "kitsu:50613",
+            "type": "series",
+            "name": "Hanazakari no Kimitachi e 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50613_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "6.74"
+        },
+        {
+            "id": "kitsu:49995",
+            "type": "series",
+            "name": "Katainaka no Ossan, Kensei ni Naru II (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49995_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "7.71"
+        },
+        {
             "id": "kitsu:46925",
             "type": "series",
             "name": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
@@ -16,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49913_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.07"
+            "rating": "7.08"
         },
         {
             "id": "kitsu:44778",
@@ -181,6 +217,15 @@
             "rating": "6.05"
         },
         {
+            "id": "kitsu:47988",
+            "type": "series",
+            "name": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47988_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "6.37"
+        },
+        {
             "id": "kitsu:50766",
             "type": "series",
             "name": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
@@ -196,7 +241,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49410_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.50"
+            "rating": "7.49"
         },
         {
             "id": "kitsu:47989",
@@ -226,10 +271,10 @@
             "rating": "6.88"
         },
         {
-            "id": "kitsu:41442",
+            "id": "kitsu:2513",
             "type": "series",
             "name": "Ushiro no Shoumen Kamui-san",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41442_Ep_2.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_2513_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
             "rating": "6.33"
@@ -287,51 +332,6 @@
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "5.33"
-        },
-        {
-            "id": "kitsu:50272",
-            "type": "series",
-            "name": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50272_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.41"
-        },
-        {
-            "id": "kitsu:50139",
-            "type": "series",
-            "name": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50139_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.07"
-        },
-        {
-            "id": "kitsu:49700",
-            "type": "series",
-            "name": "Digimon Beatbreak",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_39.jpg",
-            "description": "Nuovo episodio: Ep 39",
-            "posterShape": "poster",
-            "rating": "4.80"
-        },
-        {
-            "id": "kitsu:50801",
-            "type": "series",
-            "name": "Tetsunabe no Jan!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50801_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "5.92"
-        },
-        {
-            "id": "kitsu:50258",
-            "type": "series",
-            "name": "Let's Go Kaiki-gumi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50258_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "4.20"
         }
     ]
 }
