@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:13078",
+            "type": "series",
+            "name": "Quanzhi Fashi VII",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13078_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "6.71"
+        },
+        {
             "id": "kitsu:50562",
             "type": "series",
             "name": "Sora wa Akai Kawa no Hotori",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50562_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "5.48"
+            "rating": "5.51"
         },
         {
             "id": "kitsu:50622",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49607_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.37"
+            "rating": "6.39"
         },
         {
             "id": "kitsu:44021",
@@ -142,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49410_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.49"
+            "rating": "7.50"
         },
         {
             "id": "kitsu:47989",
@@ -232,7 +241,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41923_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "5.36"
+            "rating": "5.33"
         },
         {
             "id": "kitsu:50272",
@@ -322,16 +331,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50761_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.53"
-        },
-        {
-            "id": "kitsu:50179",
-            "type": "series",
-            "name": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50179_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "7.10"
+            "rating": "7.51"
         }
     ]
 }
