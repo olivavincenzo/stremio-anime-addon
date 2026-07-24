@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:50519",
+            "type": "series",
+            "name": "Thunder 3 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50519_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "10.00"
+        },
+        {
+            "id": "kitsu:545",
+            "type": "series",
+            "name": "Karna the Guardian",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_545_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "5.56"
+        },
+        {
             "id": "kitsu:50571",
             "type": "series",
             "name": "Onegai AiPri",
@@ -25,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46529_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "8.47"
+            "rating": "8.06"
         },
         {
             "id": "kitsu:50040",
@@ -61,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.21"
+            "rating": "7.20"
         },
         {
             "id": "kitsu:50793",
@@ -70,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50793_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.40"
+            "rating": "7.39"
         },
         {
             "id": "kitsu:42337",
@@ -124,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50480_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.08"
+            "rating": "7.06"
         },
         {
             "id": "kitsu:50109",
@@ -196,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50154_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.53"
+            "rating": "7.51"
         },
         {
             "id": "kitsu:44814",
@@ -287,42 +305,6 @@
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "5.97"
-        },
-        {
-            "id": "kitsu:50108",
-            "type": "series",
-            "name": "Liar Game",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50108_Ep_16.jpg",
-            "description": "Nuovo episodio: Ep 16",
-            "posterShape": "poster",
-            "rating": "6.01"
-        },
-        {
-            "id": "kitsu:50768",
-            "type": "series",
-            "name": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50768_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.75"
-        },
-        {
-            "id": "kitsu:50181",
-            "type": "series",
-            "name": "Grand Blue Dreaming 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50181_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "8.70"
-        },
-        {
-            "id": "kitsu:50690",
-            "type": "series",
-            "name": "World Is Dancing",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50690_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "6.05"
         }
     ]
 }
