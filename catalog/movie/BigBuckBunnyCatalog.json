@@ -7,7 +7,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50760_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.53"
+            "rating": "7.51"
         },
         {
             "id": "kitsu:50797",
@@ -16,16 +16,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50797_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.93"
-        },
-        {
-            "id": "kitsu:10233",
-            "type": "series",
-            "name": "Onaji Semi no Someya-san ga Sexy Joyuu datta Hanashi.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10233_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.30"
+            "rating": "6.95"
         },
         {
             "id": "kitsu:50244",
@@ -43,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49265_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.49"
+            "rating": "7.55"
         },
         {
             "id": "kitsu:49235",
@@ -64,22 +55,13 @@
             "rating": "4.25"
         },
         {
-            "id": "kitsu:50355",
-            "type": "series",
-            "name": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50355_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "7.44"
-        },
-        {
             "id": "kitsu:50049",
             "type": "series",
             "name": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50049_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.54"
+            "rating": "7.53"
         },
         {
             "id": "kitsu:50519",
@@ -160,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.19"
+            "rating": "7.20"
         },
         {
             "id": "kitsu:50793",
