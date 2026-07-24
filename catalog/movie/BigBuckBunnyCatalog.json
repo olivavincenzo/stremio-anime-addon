@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:50049",
+            "type": "series",
+            "name": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50049_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "7.55"
+        },
+        {
             "id": "kitsu:50519",
             "type": "series",
             "name": "Thunder 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50519_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50519_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "10.00"
+            "rating": "7.00"
         },
         {
             "id": "kitsu:545",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46529_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "8.06"
+            "rating": "7.78"
         },
         {
             "id": "kitsu:50040",
@@ -52,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50040_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.47"
+            "rating": "8.48"
         },
         {
             "id": "kitsu:50411",
@@ -124,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50751_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.13"
+            "rating": "6.16"
         },
         {
             "id": "kitsu:50055",
@@ -133,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50055_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.75"
+            "rating": "6.70"
         },
         {
             "id": "kitsu:50480",
@@ -142,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50480_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.06"
+            "rating": "7.08"
         },
         {
             "id": "kitsu:50109",
@@ -278,33 +287,6 @@
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "4.95"
-        },
-        {
-            "id": "kitsu:50048",
-            "type": "series",
-            "name": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50048_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "6.94"
-        },
-        {
-            "id": "kitsu:49607",
-            "type": "series",
-            "name": "Kimi ga Shinu made Koi wo Shitai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49607_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.27"
-        },
-        {
-            "id": "kitsu:44021",
-            "type": "series",
-            "name": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44021_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "5.97"
         }
     ]
 }
