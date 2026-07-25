@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:50483",
+            "type": "series",
+            "name": "Iwamoto-senpai no Suisen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50483_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "5.32"
+        },
+        {
             "id": "kitsu:45657",
             "type": "series",
             "name": "Black Torch (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45657_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.08"
+            "rating": "8.01"
         },
         {
             "id": "kitsu:49585",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49585_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.09"
+            "rating": "8.10"
         },
         {
             "id": "kitsu:49656",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49656_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.83"
+            "rating": "7.84"
         },
         {
             "id": "kitsu:696",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_42908_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.76"
+            "rating": "6.92"
         },
         {
             "id": "kitsu:49361",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48293_Ep_15.jpg",
             "description": "Nuovo episodio: Ep 15",
             "posterShape": "poster",
-            "rating": "7.65"
+            "rating": "7.67"
         },
         {
             "id": "kitsu:13698",
@@ -100,6 +109,15 @@
             "rating": "7.00"
         },
         {
+            "id": "kitsu:10233",
+            "type": "series",
+            "name": "Onaji Semi no Someya-san ga Sexy Joyuu datta Hanashi.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10233_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "6.29"
+        },
+        {
             "id": "kitsu:50244",
             "type": "series",
             "name": "Kore Kaite Shine",
@@ -124,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "8.25"
+            "rating": "8.26"
         },
         {
             "id": "kitsu:50354",
@@ -134,6 +152,15 @@
             "description": "Nuovo episodio: Ep 16",
             "posterShape": "poster",
             "rating": "4.23"
+        },
+        {
+            "id": "kitsu:50555",
+            "type": "series",
+            "name": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50555_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "7.36"
         },
         {
             "id": "kitsu:50049",
@@ -187,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46529_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "7.89"
+            "rating": "7.94"
         },
         {
             "id": "kitsu:50040",
@@ -223,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.18"
+            "rating": "7.19"
         },
         {
             "id": "kitsu:50793",
@@ -232,7 +259,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50793_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.36"
+            "rating": "7.35"
         },
         {
             "id": "kitsu:42337",
@@ -269,15 +296,6 @@
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "6.17"
-        },
-        {
-            "id": "kitsu:50055",
-            "type": "series",
-            "name": "Ibitte Konai Gibo to Gishi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50055_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "6.73"
         }
     ]
 }
