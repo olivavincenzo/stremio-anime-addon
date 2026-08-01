@@ -10,6 +10,15 @@
             "rating": "4.40"
         },
         {
+            "id": "kitsu:50555",
+            "type": "series",
+            "name": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50555_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.11"
+        },
+        {
             "id": "kitsu:50519",
             "type": "series",
             "name": "Thunder 3 (ITA)",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50760_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.41"
+            "rating": "7.42"
         },
         {
             "id": "kitsu:50797",
@@ -89,6 +98,15 @@
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "5.56"
+        },
+        {
+            "id": "kitsu:49236",
+            "type": "series",
+            "name": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49236_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "7.52"
         },
         {
             "id": "kitsu:50828",
@@ -160,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50137_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.74"
+            "rating": "6.76"
         },
         {
             "id": "kitsu:50328",
@@ -313,7 +331,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45249_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "8.70"
+            "rating": "8.71"
         }
     ]
 }
