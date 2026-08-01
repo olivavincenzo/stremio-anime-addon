@@ -1,6 +1,42 @@
 {
     "metas": [
         {
+            "id": "kitsu:696",
+            "type": "series",
+            "name": "Case Closed (AG)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_696_Ep_1209.jpg",
+            "description": "Nuovo episodio: Ep 1209",
+            "posterShape": "poster",
+            "rating": "7.10"
+        },
+        {
+            "id": "kitsu:42908",
+            "type": "series",
+            "name": "Xing Chen Bian 7",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_42908_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "7.08"
+        },
+        {
+            "id": "kitsu:13698",
+            "type": "series",
+            "name": "Rilakkuma",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13698_Ep_18.jpg",
+            "description": "Nuovo episodio: Ep 18",
+            "posterShape": "poster",
+            "rating": "5.90"
+        },
+        {
+            "id": "kitsu:49361",
+            "type": "series",
+            "name": "Mairimashita! Iruma-kun 4",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49361_Ep_18.jpg",
+            "description": "Nuovo episodio: Ep 18",
+            "posterShape": "poster",
+            "rating": "7.94"
+        },
+        {
             "id": "kitsu:48293",
             "type": "series",
             "name": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
@@ -19,15 +55,6 @@
             "rating": "4.40"
         },
         {
-            "id": "kitsu:50355",
-            "type": "series",
-            "name": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50355_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "7.12"
-        },
-        {
             "id": "kitsu:50519",
             "type": "series",
             "name": "Thunder 3 (ITA)",
@@ -43,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50760_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.40"
+            "rating": "7.39"
         },
         {
             "id": "kitsu:50797",
@@ -52,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50797_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.81"
+            "rating": "6.76"
         },
         {
             "id": "kitsu:545",
@@ -70,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49265_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.70"
+            "rating": "7.73"
         },
         {
             "id": "kitsu:49235",
@@ -133,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50411_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.36"
+            "rating": "7.37"
         },
         {
             "id": "kitsu:50551",
@@ -151,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.14"
+            "rating": "7.15"
         },
         {
             "id": "kitsu:42337",
@@ -287,42 +314,6 @@
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "7.42"
-        },
-        {
-            "id": "kitsu:13078",
-            "type": "series",
-            "name": "Quanzhi Fashi VII",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13078_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "6.76"
-        },
-        {
-            "id": "kitsu:47746",
-            "type": "series",
-            "name": "Kanojo, Okarishimasu 4 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47746_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "5.50"
-        },
-        {
-            "id": "kitsu:50649",
-            "type": "series",
-            "name": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50649_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "4.77"
-        },
-        {
-            "id": "kitsu:50562",
-            "type": "series",
-            "name": "Sora wa Akai Kawa no Hotori",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50562_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "5.05"
         }
     ]
 }
