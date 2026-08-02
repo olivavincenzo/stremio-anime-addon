@@ -28,19 +28,19 @@
             "rating": "3.95"
         },
         {
-            "id": "kitsu:49427",
+            "id": "kitsu:41243",
             "type": "series",
             "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_5.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41243_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "5.88"
         },
         {
-            "id": "kitsu:41243",
+            "id": "kitsu:49427",
             "type": "series",
             "name": "Kabushikigaisha Magi-Lumière 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41243_Ep_5.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "5.68"
@@ -52,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50761_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.61"
+            "rating": "7.59"
         },
         {
             "id": "kitsu:50179",
@@ -79,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49978_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.38"
+            "rating": "7.37"
         },
         {
             "id": "kitsu:56",
@@ -97,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50694_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "5.38"
+            "rating": "5.39"
         },
         {
             "id": "kitsu:50023",
@@ -115,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49851_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.48"
+            "rating": "6.47"
         },
         {
             "id": "kitsu:45412",
@@ -151,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45657_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.94"
+            "rating": "7.90"
         },
         {
             "id": "kitsu:50483",
@@ -187,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_696_Ep_1209.jpg",
             "description": "Nuovo episodio: Ep 1209",
             "posterShape": "poster",
-            "rating": "7.10"
+            "rating": "7.14"
         },
         {
             "id": "kitsu:42908",
@@ -314,6 +314,15 @@
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "5.57"
+        },
+        {
+            "id": "kitsu:49236",
+            "type": "series",
+            "name": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49236_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "7.88"
         },
         {
             "id": "kitsu:50828",
