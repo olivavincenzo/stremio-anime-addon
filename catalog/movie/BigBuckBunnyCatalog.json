@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:50362",
+            "type": "series",
+            "name": "Meitantei Precure!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50362_Ep_27.jpg",
+            "description": "Nuovo episodio: Ep 27",
+            "posterShape": "poster",
+            "rating": "7.00"
+        },
+        {
             "id": "kitsu:50571",
             "type": "series",
             "name": "Onegai AiPri",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_1945_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.10"
+            "rating": "7.07"
         },
         {
             "id": "kitsu:48880",
@@ -136,19 +145,19 @@
             "rating": "4.01"
         },
         {
-            "id": "kitsu:41243",
+            "id": "kitsu:49427",
             "type": "series",
             "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41243_Ep_5.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "5.88"
         },
         {
-            "id": "kitsu:49427",
+            "id": "kitsu:41243",
             "type": "series",
             "name": "Kabushikigaisha Magi-Lumière 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_5.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41243_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "5.68"
@@ -188,15 +197,6 @@
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "7.35"
-        },
-        {
-            "id": "kitsu:56",
-            "type": "series",
-            "name": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_56_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.63"
         },
         {
             "id": "kitsu:50694",
@@ -286,7 +286,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49656_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.76"
+            "rating": "7.75"
         },
         {
             "id": "kitsu:696",
@@ -314,15 +314,6 @@
             "description": "Nuovo episodio: Ep 18",
             "posterShape": "poster",
             "rating": "5.90"
-        },
-        {
-            "id": "kitsu:49361",
-            "type": "series",
-            "name": "Mairimashita! Iruma-kun 4",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49361_Ep_18.jpg",
-            "description": "Nuovo episodio: Ep 18",
-            "posterShape": "poster",
-            "rating": "7.93"
         }
     ]
 }
