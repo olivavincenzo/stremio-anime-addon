@@ -7,7 +7,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50480_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.75"
+            "rating": "6.74"
         },
         {
             "id": "kitsu:50519",
@@ -26,15 +26,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.80"
-        },
-        {
-            "id": "kitsu:50769",
-            "type": "series",
-            "name": "Perfect Addiction",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50769_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "5.57"
         },
         {
             "id": "kitsu:49995",
@@ -106,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13078_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.80"
+            "rating": "6.83"
         },
         {
             "id": "kitsu:50649",
@@ -116,6 +107,15 @@
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "4.78"
+        },
+        {
+            "id": "kitsu:8478",
+            "type": "series",
+            "name": "Onaji Semi no Someya-san ga Sexy Joyuu datta Hanashi.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8478_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.21"
         },
         {
             "id": "kitsu:50055",
@@ -143,15 +143,6 @@
             "description": "Nuovo episodio: Ep 33",
             "posterShape": "poster",
             "rating": "4.46"
-        },
-        {
-            "id": "kitsu:50622",
-            "type": "series",
-            "name": "Yoroi Shin Den Samurai Troopers Part 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50622_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "5.98"
         },
         {
             "id": "kitsu:50805",
@@ -226,15 +217,6 @@
             "rating": "7.61"
         },
         {
-            "id": "kitsu:50108",
-            "type": "series",
-            "name": "Liar Game",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50108_Ep_18.jpg",
-            "description": "Nuovo episodio: Ep 18",
-            "posterShape": "poster",
-            "rating": "5.89"
-        },
-        {
             "id": "kitsu:50181",
             "type": "series",
             "name": "Grand Blue Dreaming 3",
@@ -268,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50766_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.14"
+            "rating": "7.15"
         },
         {
             "id": "kitsu:50690",
@@ -278,15 +260,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "5.89"
-        },
-        {
-            "id": "kitsu:47989",
-            "type": "series",
-            "name": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47989_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.66"
         },
         {
             "id": "kitsu:49410",
