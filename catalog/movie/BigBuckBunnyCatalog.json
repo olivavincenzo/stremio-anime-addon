@@ -1,13 +1,31 @@
 {
     "metas": [
         {
+            "id": "kitsu:50049",
+            "type": "series",
+            "name": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50049_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.28"
+        },
+        {
+            "id": "kitsu:42908",
+            "type": "series",
+            "name": "Xing Chen Bian 7",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_42908_Ep_13.jpg",
+            "description": "Nuovo episodio: Ep 13",
+            "posterShape": "poster",
+            "rating": "7.10"
+        },
+        {
             "id": "kitsu:50828",
             "type": "series",
             "name": "Bai Ri Cheng Wang",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50828_Ep_14.jpg",
             "description": "Nuovo episodio: Ep 14",
             "posterShape": "poster",
-            "rating": "6.58"
+            "rating": "6.55"
         },
         {
             "id": "kitsu:49892",
@@ -34,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50551_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.34"
+            "rating": "7.22"
         },
         {
             "id": "kitsu:50040",
@@ -142,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49995_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.55"
+            "rating": "7.50"
         },
         {
             "id": "kitsu:50613",
@@ -178,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49913_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.96"
+            "rating": "6.94"
         },
         {
             "id": "kitsu:50154",
@@ -287,24 +305,6 @@
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "6.25"
-        },
-        {
-            "id": "kitsu:42908",
-            "type": "series",
-            "name": "Xing Chen Bian 7",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_42908_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "7.10"
-        },
-        {
-            "id": "kitsu:44021",
-            "type": "series",
-            "name": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44021_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "5.72"
         }
     ]
 }
