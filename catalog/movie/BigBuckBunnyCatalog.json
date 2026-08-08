@@ -7,7 +7,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50279_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.74"
+            "rating": "7.46"
         },
         {
             "id": "kitsu:50760",
@@ -178,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50480_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.67"
+            "rating": "6.68"
         },
         {
             "id": "kitsu:50519",
@@ -237,11 +237,11 @@
         {
             "id": "kitsu:49866",
             "type": "series",
-            "name": "Star Wars: Visions - Kyuuninme no Jedi",
+            "name": "Star Wars: Visions - Kyuuninme no Jedi (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49866_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.55"
+            "rating": "5.90"
         },
         {
             "id": "kitsu:49913",
