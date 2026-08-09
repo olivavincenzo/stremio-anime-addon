@@ -39,11 +39,11 @@
         {
             "id": "kitsu:49427",
             "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2",
+            "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.60"
+            "rating": "5.94"
         },
         {
             "id": "kitsu:49978",
@@ -91,6 +91,15 @@
             "rating": "6.80"
         },
         {
+            "id": "kitsu:41949",
+            "type": "series",
+            "name": "The Ribbon Hero (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41949_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "6.79"
+        },
+        {
             "id": "kitsu:50765",
             "type": "series",
             "name": "The Ribbon Hero",
@@ -124,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48293_Ep_17.jpg",
             "description": "Nuovo episodio: Ep 17",
             "posterShape": "poster",
-            "rating": "7.69"
+            "rating": "7.67"
         },
         {
             "id": "kitsu:50483",
@@ -226,6 +235,15 @@
             "rating": "4.50"
         },
         {
+            "id": "kitsu:49235",
+            "type": "series",
+            "name": "Tensei shitara Slime Datta Ken 4 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_15.jpg",
+            "description": "Nuovo episodio: Ep 15",
+            "posterShape": "poster",
+            "rating": "8.14"
+        },
+        {
             "id": "kitsu:50354",
             "type": "series",
             "name": "Kami no Shizuku",
@@ -233,15 +251,6 @@
             "description": "Nuovo episodio: Ep 18",
             "posterShape": "poster",
             "rating": "4.05"
-        },
-        {
-            "id": "kitsu:49235",
-            "type": "series",
-            "name": "Tensei shitara Slime Datta Ken 4",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_17.jpg",
-            "description": "Nuovo episodio: Ep 17",
-            "posterShape": "poster",
-            "rating": "8.02"
         },
         {
             "id": "kitsu:50049",
