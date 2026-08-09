@@ -136,15 +136,6 @@
             "rating": "5.94"
         },
         {
-            "id": "kitsu:49427",
-            "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "5.64"
-        },
-        {
             "id": "kitsu:49978",
             "type": "series",
             "name": "Oni no Hanayome",
@@ -152,6 +143,15 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "7.40"
+        },
+        {
+            "id": "kitsu:56",
+            "type": "series",
+            "name": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_56_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.59"
         },
         {
             "id": "kitsu:50023",
