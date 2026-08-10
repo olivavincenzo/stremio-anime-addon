@@ -52,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48880_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.09"
+            "rating": "5.13"
         },
         {
             "id": "kitsu:50079",
@@ -70,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41923_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "4.75"
+            "rating": "4.76"
         },
         {
             "id": "kitsu:50272",
@@ -170,15 +170,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "5.94"
-        },
-        {
-            "id": "kitsu:41243",
-            "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41243_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "5.64"
         },
         {
             "id": "kitsu:49978",
@@ -295,7 +286,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49656_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.69"
+            "rating": "7.68"
         },
         {
             "id": "kitsu:50571",
