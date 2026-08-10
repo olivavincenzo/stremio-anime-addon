@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:50108",
+            "type": "series",
+            "name": "Liar Game",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50108_Ep_19.jpg",
+            "description": "Nuovo episodio: Ep 19",
+            "posterShape": "poster",
+            "rating": "5.83"
+        },
+        {
             "id": "kitsu:50181",
             "type": "series",
             "name": "Grand Blue Dreaming 3",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50181_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "8.80"
+            "rating": "8.81"
         },
         {
             "id": "kitsu:47988",
@@ -34,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50766_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.16"
+            "rating": "7.14"
         },
         {
             "id": "kitsu:50690",
@@ -52,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47989_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.65"
+            "rating": "6.64"
         },
         {
             "id": "kitsu:49410",
@@ -61,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49410_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.09"
+            "rating": "7.10"
         },
         {
             "id": "kitsu:50350",
@@ -70,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50350_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.18"
+            "rating": "7.17"
         },
         {
             "id": "kitsu:44814",
@@ -97,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49002_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.61"
+            "rating": "7.64"
         },
         {
             "id": "kitsu:1945",
@@ -106,16 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_1945_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.29"
-        },
-        {
-            "id": "kitsu:12",
-            "type": "series",
-            "name": "One Piece",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12_Ep_1173.jpg",
-            "description": "Nuovo episodio: Ep 1173",
-            "posterShape": "poster",
-            "rating": "8.39"
+            "rating": "7.27"
         },
         {
             "id": "kitsu:47342",
@@ -151,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41923_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "4.74"
+            "rating": "4.71"
         },
         {
             "id": "kitsu:50272",
@@ -187,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50801_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.39"
+            "rating": "5.37"
         },
         {
             "id": "kitsu:50634",
@@ -196,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50634_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "8.50"
+            "rating": "8.51"
         },
         {
             "id": "kitsu:50258",
