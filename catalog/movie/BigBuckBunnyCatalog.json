@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:50649",
+            "type": "series",
+            "name": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50649_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "4.82"
+        },
+        {
+            "id": "kitsu:50048",
+            "type": "series",
+            "name": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50048_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "6.91"
+        },
+        {
             "id": "kitsu:49607",
             "type": "series",
             "name": "Kimi ga Shinu made Koi wo Shitai",
@@ -62,15 +80,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "6.55"
-        },
-        {
-            "id": "kitsu:50766",
-            "type": "series",
-            "name": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50766_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.11"
         },
         {
             "id": "kitsu:50690",
@@ -282,11 +291,11 @@
         {
             "id": "kitsu:49427",
             "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
+            "name": "Kabushikigaisha Magi-Lumière 2",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.94"
+            "rating": "5.64"
         },
         {
             "id": "kitsu:49978",
@@ -305,24 +314,6 @@
             "description": "Nuovo episodio: Ep 15",
             "posterShape": "poster",
             "rating": "7.39"
-        },
-        {
-            "id": "kitsu:49851",
-            "type": "series",
-            "name": "Tenmaku no Jaadugar",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49851_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "6.40"
-        },
-        {
-            "id": "kitsu:50694",
-            "type": "series",
-            "name": "Grow Up Show: Himawari no Circus-dan",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50694_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "5.39"
         }
     ]
 }
