@@ -79,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49410_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.09"
+            "rating": "7.10"
         },
         {
             "id": "kitsu:50350",
@@ -264,11 +264,11 @@
         {
             "id": "kitsu:41243",
             "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
+            "name": "Kabushikigaisha Magi-Lumière 2",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41243_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.94"
+            "rating": "5.64"
         },
         {
             "id": "kitsu:49978",
