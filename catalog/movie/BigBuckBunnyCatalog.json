@@ -37,6 +37,15 @@
             "rating": "6.57"
         },
         {
+            "id": "kitsu:50766",
+            "type": "series",
+            "name": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50766_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.13"
+        },
+        {
             "id": "kitsu:50690",
             "type": "series",
             "name": "World Is Dancing",
@@ -106,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_1945_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.33"
+            "rating": "7.34"
         },
         {
             "id": "kitsu:12",
@@ -154,15 +163,6 @@
             "rating": "4.71"
         },
         {
-            "id": "kitsu:50272",
-            "type": "series",
-            "name": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50272_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.22"
-        },
-        {
             "id": "kitsu:50139",
             "type": "series",
             "name": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
@@ -199,15 +199,6 @@
             "rating": "8.51"
         },
         {
-            "id": "kitsu:50258",
-            "type": "series",
-            "name": "Let's Go Kaiki-gumi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50258_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "4.08"
-        },
-        {
             "id": "kitsu:50055",
             "type": "series",
             "name": "Ibitte Konai Gibo to Gishi",
@@ -215,15 +206,6 @@
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "6.74"
-        },
-        {
-            "id": "kitsu:50179",
-            "type": "series",
-            "name": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50179_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "7.19"
         },
         {
             "id": "kitsu:50767",
@@ -246,11 +228,11 @@
         {
             "id": "kitsu:49427",
             "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
+            "name": "Kabushikigaisha Magi-Lumière 2",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.94"
+            "rating": "5.64"
         },
         {
             "id": "kitsu:49978",
