@@ -7,7 +7,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50622_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.98"
+            "rating": "5.92"
         },
         {
             "id": "kitsu:10229",
@@ -16,7 +16,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10229_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.91"
+            "rating": "6.94"
         },
         {
             "id": "kitsu:50805",
@@ -25,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50805_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.10"
+            "rating": "7.07"
         },
         {
             "id": "kitsu:50649",
@@ -43,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50048_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.87"
+            "rating": "6.88"
         },
         {
             "id": "kitsu:49607",
@@ -125,6 +125,15 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "5.77"
+        },
+        {
+            "id": "kitsu:47989",
+            "type": "series",
+            "name": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47989_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.64"
         },
         {
             "id": "kitsu:49410",
@@ -271,31 +280,13 @@
             "rating": "4.08"
         },
         {
-            "id": "kitsu:50055",
+            "id": "kitsu:50767",
             "type": "series",
-            "name": "Ibitte Konai Gibo to Gishi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50055_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.71"
-        },
-        {
-            "id": "kitsu:50179",
-            "type": "series",
-            "name": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50179_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "7.17"
-        },
-        {
-            "id": "kitsu:50761",
-            "type": "series",
-            "name": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50761_Ep_6.jpg",
+            "name": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50767_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.64"
+            "rating": "6.67"
         }
     ]
 }
