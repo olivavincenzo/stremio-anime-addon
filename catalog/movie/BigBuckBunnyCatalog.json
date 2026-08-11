@@ -34,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47988_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.20"
+            "rating": "6.21"
         },
         {
             "id": "kitsu:50768",
@@ -52,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50766_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.14"
+            "rating": "7.13"
         },
         {
             "id": "kitsu:50690",
@@ -97,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44814_Ep_34.jpg",
             "description": "Nuovo episodio: Ep 34",
             "posterShape": "poster",
-            "rating": "4.46"
+            "rating": "4.32"
         },
         {
             "id": "kitsu:50362",
@@ -118,19 +118,28 @@
             "rating": "7.64"
         },
         {
+            "id": "kitsu:1945",
+            "type": "series",
+            "name": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_1945_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "7.34"
+        },
+        {
             "id": "kitsu:12",
             "type": "series",
             "name": "One Piece",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12_Ep_1173.jpg",
             "description": "Nuovo episodio: Ep 1173",
             "posterShape": "poster",
-            "rating": "8.39"
+            "rating": "8.38"
         },
         {
-            "id": "kitsu:47929",
+            "id": "kitsu:47342",
             "type": "series",
             "name": "Azur Lane: Bisoku Zenshin! Ni!!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47929_Ep_6.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47342_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "6.26"
@@ -179,6 +188,15 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "5.91"
+        },
+        {
+            "id": "kitsu:49700",
+            "type": "series",
+            "name": "Digimon Beatbreak",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_42.jpg",
+            "description": "Nuovo episodio: Ep 42",
+            "posterShape": "poster",
+            "rating": "4.79"
         },
         {
             "id": "kitsu:50801",
@@ -244,10 +262,10 @@
             "rating": "7.64"
         },
         {
-            "id": "kitsu:49427",
+            "id": "kitsu:41243",
             "type": "series",
             "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_6.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41243_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "5.94"
@@ -286,7 +304,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50694_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.42"
+            "rating": "5.44"
         },
         {
             "id": "kitsu:45412",
