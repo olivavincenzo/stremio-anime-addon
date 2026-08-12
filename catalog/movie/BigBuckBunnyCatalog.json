@@ -79,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50828_Ep_15.jpg",
             "description": "Nuovo episodio: Ep 15",
             "posterShape": "poster",
-            "rating": "6.54"
+            "rating": "6.52"
         },
         {
             "id": "kitsu:50108",
@@ -98,6 +98,15 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "8.76"
+        },
+        {
+            "id": "kitsu:47988",
+            "type": "series",
+            "name": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47988_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.21"
         },
         {
             "id": "kitsu:50768",
@@ -181,10 +190,28 @@
             "rating": "7.81"
         },
         {
-            "id": "kitsu:47929",
+            "id": "kitsu:1945",
+            "type": "series",
+            "name": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_1945_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "7.33"
+        },
+        {
+            "id": "kitsu:12",
+            "type": "series",
+            "name": "One Piece",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12_Ep_1173.jpg",
+            "description": "Nuovo episodio: Ep 1173",
+            "posterShape": "poster",
+            "rating": "8.38"
+        },
+        {
+            "id": "kitsu:47342",
             "type": "series",
             "name": "Azur Lane: Bisoku Zenshin! Ni!!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47929_Ep_6.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47342_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "6.26"
