@@ -1,13 +1,49 @@
 {
     "metas": [
         {
+            "id": "kitsu:49183",
+            "type": "series",
+            "name": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.04"
+        },
+        {
+            "id": "kitsu:50040",
+            "type": "series",
+            "name": "Super no Ura de Yani Suu Futari",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50040_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "8.45"
+        },
+        {
+            "id": "kitsu:42337",
+            "type": "series",
+            "name": "Mebius Dust",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_42337_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "4.35"
+        },
+        {
+            "id": "kitsu:50793",
+            "type": "series",
+            "name": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50793_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.22"
+        },
+        {
             "id": "kitsu:50137",
             "type": "series",
             "name": "BanG Dream! Yume∞Mita",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50137_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.87"
+            "rating": "6.90"
         },
         {
             "id": "kitsu:50328",
@@ -19,31 +55,13 @@
             "rating": "7.49"
         },
         {
-            "id": "kitsu:50751",
-            "type": "series",
-            "name": "Reiwa no Dara-san",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50751_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "5.96"
-        },
-        {
             "id": "kitsu:49892",
             "type": "series",
             "name": "Kun Tun Tianxia Zhi Zhang Men Guilai",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49892_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.90"
-        },
-        {
-            "id": "kitsu:50769",
-            "type": "series",
-            "name": "Perfect Addiction",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50769_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "5.60"
+            "rating": "6.98"
         },
         {
             "id": "kitsu:50279",
@@ -52,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50279_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.17"
+            "rating": "7.24"
         },
         {
             "id": "kitsu:50480",
@@ -66,11 +84,11 @@
         {
             "id": "kitsu:50519",
             "type": "series",
-            "name": "Thunder 3 (ITA)",
+            "name": "Thunder 3",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50519_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "4.10"
+            "rating": "4.60"
         },
         {
             "id": "kitsu:49995",
@@ -79,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49995_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.48"
+            "rating": "7.49"
         },
         {
             "id": "kitsu:50109",
@@ -262,15 +280,6 @@
             "rating": "6.54"
         },
         {
-            "id": "kitsu:50766",
-            "type": "series",
-            "name": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50766_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.08"
-        },
-        {
             "id": "kitsu:50690",
             "type": "series",
             "name": "World Is Dancing",
@@ -287,42 +296,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "6.63"
-        },
-        {
-            "id": "kitsu:49410",
-            "type": "series",
-            "name": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49410_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.11"
-        },
-        {
-            "id": "kitsu:50350",
-            "type": "series",
-            "name": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50350_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.20"
-        },
-        {
-            "id": "kitsu:44814",
-            "type": "series",
-            "name": "Waccha PriMagi!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44814_Ep_34.jpg",
-            "description": "Nuovo episodio: Ep 34",
-            "posterShape": "poster",
-            "rating": "4.19"
-        },
-        {
-            "id": "kitsu:50362",
-            "type": "series",
-            "name": "Meitantei Precure!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50362_Ep_28.jpg",
-            "description": "Nuovo episodio: Ep 28",
-            "posterShape": "poster",
-            "rating": "6.79"
         }
     ]
 }
