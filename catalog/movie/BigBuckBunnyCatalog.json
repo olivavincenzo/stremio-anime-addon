@@ -43,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_42337_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "4.35"
+            "rating": "4.32"
         },
         {
             "id": "kitsu:50793",
@@ -88,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49892_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.98"
+            "rating": "6.97"
         },
         {
             "id": "kitsu:50769",
@@ -97,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50769_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.56"
+            "rating": "5.58"
         },
         {
             "id": "kitsu:50279",
@@ -226,6 +226,15 @@
             "rating": "7.03"
         },
         {
+            "id": "kitsu:25",
+            "type": "series",
+            "name": "Koukaku Kidoutai (TV)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_25_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.17"
+        },
+        {
             "id": "kitsu:50805",
             "type": "series",
             "name": "Tefuda ga Oome no Victoria",
@@ -305,15 +314,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "6.20"
-        },
-        {
-            "id": "kitsu:50768",
-            "type": "series",
-            "name": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50768_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "6.54"
         }
     ]
 }
