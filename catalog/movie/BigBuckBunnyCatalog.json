@@ -52,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50109_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.71"
+            "rating": "6.69"
         },
         {
             "id": "kitsu:50613",
@@ -79,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50154_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.35"
+            "rating": "7.34"
         },
         {
             "id": "kitsu:49746",
@@ -106,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44778_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "8.77"
+            "rating": "8.78"
         },
         {
             "id": "kitsu:50562",
@@ -127,22 +127,13 @@
             "rating": "5.91"
         },
         {
-            "id": "kitsu:25",
-            "type": "series",
-            "name": "Koukaku Kidoutai (TV) (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_25_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.03"
-        },
-        {
             "id": "kitsu:10229",
             "type": "series",
-            "name": "Koukaku Kidoutai (TV)",
+            "name": "Koukaku Kidoutai (TV) (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10229_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.17"
+            "rating": "7.03"
         },
         {
             "id": "kitsu:50805",
@@ -271,6 +262,15 @@
             "rating": "7.11"
         },
         {
+            "id": "kitsu:50350",
+            "type": "series",
+            "name": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50350_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.21"
+        },
+        {
             "id": "kitsu:44814",
             "type": "series",
             "name": "Waccha PriMagi!",
@@ -298,13 +298,13 @@
             "rating": "7.81"
         },
         {
-            "id": "kitsu:12",
+            "id": "kitsu:1945",
             "type": "series",
-            "name": "One Piece",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12_Ep_1173.jpg",
-            "description": "Nuovo episodio: Ep 1173",
+            "name": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_1945_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.38"
+            "rating": "7.36"
         },
         {
             "id": "kitsu:47342",
