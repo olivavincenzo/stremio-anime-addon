@@ -34,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.05"
+            "rating": "7.06"
         },
         {
             "id": "kitsu:50040",
@@ -129,11 +129,11 @@
         {
             "id": "kitsu:50519",
             "type": "series",
-            "name": "Thunder 3 (ITA)",
+            "name": "Thunder 3",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50519_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "4.10"
+            "rating": "4.60"
         },
         {
             "id": "kitsu:49995",
@@ -178,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50154_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.38"
+            "rating": "7.36"
         },
         {
             "id": "kitsu:49746",
@@ -226,13 +226,22 @@
             "rating": "5.91"
         },
         {
-            "id": "kitsu:10229",
+            "id": "kitsu:25",
             "type": "series",
             "name": "Koukaku Kidoutai (TV) (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_25_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.06"
+        },
+        {
+            "id": "kitsu:10229",
+            "type": "series",
+            "name": "Koukaku Kidoutai (TV)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10229_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.03"
+            "rating": "7.17"
         },
         {
             "id": "kitsu:50805",
@@ -268,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49607_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.23"
+            "rating": "6.22"
         },
         {
             "id": "kitsu:44021",
