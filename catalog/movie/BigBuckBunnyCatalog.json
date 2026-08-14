@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:50828",
+            "type": "series",
+            "name": "Bai Ri Cheng Wang",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50828_Ep_16.jpg",
+            "description": "Nuovo episodio: Ep 16",
+            "posterShape": "poster",
+            "rating": "6.52"
+        },
+        {
             "id": "kitsu:50411",
             "type": "series",
             "name": "Otome Kaijuu Caraméliser",
@@ -79,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50751_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.01"
+            "rating": "6.00"
         },
         {
             "id": "kitsu:49892",
@@ -271,15 +280,6 @@
             "rating": "5.72"
         },
         {
-            "id": "kitsu:50828",
-            "type": "series",
-            "name": "Bai Ri Cheng Wang",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50828_Ep_15.jpg",
-            "description": "Nuovo episodio: Ep 15",
-            "posterShape": "poster",
-            "rating": "6.52"
-        },
-        {
             "id": "kitsu:50108",
             "type": "series",
             "name": "Liar Game",
@@ -305,15 +305,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "6.21"
-        },
-        {
-            "id": "kitsu:50768",
-            "type": "series",
-            "name": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50768_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "6.54"
         }
     ]
 }
