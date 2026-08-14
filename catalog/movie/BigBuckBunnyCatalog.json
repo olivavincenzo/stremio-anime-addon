@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:50760",
+            "type": "series",
+            "name": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50760_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.53"
+        },
+        {
+            "id": "kitsu:50797",
+            "type": "series",
+            "name": "Uchi no Otouto-domo ga Sumimasen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50797_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "6.68"
+        },
+        {
+            "id": "kitsu:49889",
+            "type": "series",
+            "name": "Shiguang Dailiren III",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49889_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "6.83"
+        },
+        {
             "id": "kitsu:49265",
             "type": "series",
             "name": "Nige Jouzu no Wakagimi 2",
@@ -16,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_16.jpg",
             "description": "Nuovo episodio: Ep 16",
             "posterShape": "poster",
-            "rating": "8.13"
+            "rating": "8.11"
         },
         {
             "id": "kitsu:50354",
@@ -64,15 +91,6 @@
             "rating": "7.34"
         },
         {
-            "id": "kitsu:49183",
-            "type": "series",
-            "name": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.07"
-        },
-        {
             "id": "kitsu:50040",
             "type": "series",
             "name": "Super no Ura de Yani Suu Futari",
@@ -89,24 +107,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "4.32"
-        },
-        {
-            "id": "kitsu:50793",
-            "type": "series",
-            "name": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50793_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "7.24"
-        },
-        {
-            "id": "kitsu:50137",
-            "type": "series",
-            "name": "BanG Dream! Yume∞Mita",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50137_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "6.78"
         },
         {
             "id": "kitsu:50328",
@@ -174,11 +174,11 @@
         {
             "id": "kitsu:49995",
             "type": "series",
-            "name": "Katainaka no Ossan, Kensei ni Naru II (ITA)",
+            "name": "Katainaka no Ossan, Kensei ni Naru II",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49995_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.48"
+            "rating": "7.87"
         },
         {
             "id": "kitsu:50109",
@@ -197,15 +197,6 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "6.88"
-        },
-        {
-            "id": "kitsu:46925",
-            "type": "series",
-            "name": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46925_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.44"
         },
         {
             "id": "kitsu:50154",
@@ -269,42 +260,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "7.06"
-        },
-        {
-            "id": "kitsu:10229",
-            "type": "series",
-            "name": "Koukaku Kidoutai (TV)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10229_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.17"
-        },
-        {
-            "id": "kitsu:50805",
-            "type": "series",
-            "name": "Tefuda ga Oome no Victoria",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50805_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.02"
-        },
-        {
-            "id": "kitsu:50649",
-            "type": "series",
-            "name": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50649_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "4.86"
-        },
-        {
-            "id": "kitsu:50048",
-            "type": "series",
-            "name": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50048_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "6.83"
         }
     ]
 }
