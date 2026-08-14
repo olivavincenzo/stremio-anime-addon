@@ -1,13 +1,31 @@
 {
     "metas": [
         {
+            "id": "kitsu:49265",
+            "type": "series",
+            "name": "Nige Jouzu no Wakagimi 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49265_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.48"
+        },
+        {
             "id": "kitsu:49235",
             "type": "series",
-            "name": "Tensei shitara Slime Datta Ken 4",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_18.jpg",
-            "description": "Nuovo episodio: Ep 18",
+            "name": "Tensei shitara Slime Datta Ken 4 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_16.jpg",
+            "description": "Nuovo episodio: Ep 16",
             "posterShape": "poster",
-            "rating": "8.03"
+            "rating": "8.13"
+        },
+        {
+            "id": "kitsu:50354",
+            "type": "series",
+            "name": "Kami no Shizuku",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50354_Ep_19.jpg",
+            "description": "Nuovo episodio: Ep 19",
+            "posterShape": "poster",
+            "rating": "4.02"
         },
         {
             "id": "kitsu:50049",
@@ -70,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_42337_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "4.33"
+            "rating": "4.32"
         },
         {
             "id": "kitsu:50793",
@@ -142,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50480_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.68"
+            "rating": "6.67"
         },
         {
             "id": "kitsu:50519",
@@ -156,11 +174,11 @@
         {
             "id": "kitsu:49995",
             "type": "series",
-            "name": "Katainaka no Ossan, Kensei ni Naru II",
+            "name": "Katainaka no Ossan, Kensei ni Naru II (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49995_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.87"
+            "rating": "7.48"
         },
         {
             "id": "kitsu:50109",
@@ -244,13 +262,22 @@
             "rating": "5.91"
         },
         {
-            "id": "kitsu:10229",
+            "id": "kitsu:25",
             "type": "series",
             "name": "Koukaku Kidoutai (TV) (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10229_Ep_6.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_25_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "7.06"
+        },
+        {
+            "id": "kitsu:10229",
+            "type": "series",
+            "name": "Koukaku Kidoutai (TV)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10229_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.17"
         },
         {
             "id": "kitsu:50805",
@@ -278,24 +305,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.83"
-        },
-        {
-            "id": "kitsu:49607",
-            "type": "series",
-            "name": "Kimi ga Shinu made Koi wo Shitai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49607_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "6.22"
-        },
-        {
-            "id": "kitsu:44021",
-            "type": "series",
-            "name": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44021_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "5.72"
         }
     ]
 }
