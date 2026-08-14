@@ -97,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49892_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.97"
+            "rating": "6.99"
         },
         {
             "id": "kitsu:50769",
@@ -296,6 +296,15 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "8.77"
+        },
+        {
+            "id": "kitsu:47988",
+            "type": "series",
+            "name": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47988_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.21"
         }
     ]
 }
