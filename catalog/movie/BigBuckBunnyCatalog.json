@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:13209",
+            "type": "series",
+            "name": "Black Clover (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13209_Ep_102.jpg",
+            "description": "Nuovo episodio: Ep 102",
+            "posterShape": "poster",
+            "rating": "7.81"
+        },
+        {
             "id": "kitsu:50760",
             "type": "series",
             "name": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2",
@@ -25,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49889_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.25"
+            "rating": "7.22"
         },
         {
             "id": "kitsu:49265",
@@ -55,13 +64,22 @@
             "rating": "4.02"
         },
         {
+            "id": "kitsu:50555",
+            "type": "series",
+            "name": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50555_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "6.96"
+        },
+        {
             "id": "kitsu:50049",
             "type": "series",
             "name": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50049_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.26"
+            "rating": "7.25"
         },
         {
             "id": "kitsu:50828",
@@ -79,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50411_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.13"
+            "rating": "7.14"
         },
         {
             "id": "kitsu:50551",
@@ -151,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50751_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.00"
+            "rating": "6.01"
         },
         {
             "id": "kitsu:49892",
@@ -287,15 +305,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "5.91"
-        },
-        {
-            "id": "kitsu:10229",
-            "type": "series",
-            "name": "Koukaku Kidoutai (TV) (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10229_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.06"
         }
     ]
 }
