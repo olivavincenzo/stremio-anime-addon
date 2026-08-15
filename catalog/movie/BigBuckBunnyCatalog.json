@@ -52,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49444_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.67"
+            "rating": "8.68"
         },
         {
             "id": "kitsu:50483",
@@ -88,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49361_Ep_19.jpg",
             "description": "Nuovo episodio: Ep 19",
             "posterShape": "poster",
-            "rating": "7.94"
+            "rating": "7.93"
         },
         {
             "id": "kitsu:13698",
@@ -142,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49889_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.95"
+            "rating": "7.09"
         },
         {
             "id": "kitsu:49265",
@@ -208,15 +208,6 @@
             "rating": "7.33"
         },
         {
-            "id": "kitsu:49183",
-            "type": "series",
-            "name": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.07"
-        },
-        {
             "id": "kitsu:50040",
             "type": "series",
             "name": "Super no Ura de Yani Suu Futari",
@@ -260,6 +251,15 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "7.43"
+        },
+        {
+            "id": "kitsu:50751",
+            "type": "series",
+            "name": "Reiwa no Dara-san",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50751_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "6.00"
         },
         {
             "id": "kitsu:50769",
