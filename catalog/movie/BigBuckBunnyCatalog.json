@@ -10,6 +10,15 @@
             "rating": "7.65"
         },
         {
+            "id": "kitsu:49978",
+            "type": "series",
+            "name": "Oni no Hanayome",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49978_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.43"
+        },
+        {
             "id": "kitsu:50694",
             "type": "series",
             "name": "Grow Up Show: Himawari no Circus-dan",
@@ -19,13 +28,13 @@
             "rating": "5.48"
         },
         {
-            "id": "kitsu:50023",
+            "id": "kitsu:50483",
             "type": "series",
-            "name": "Yomi no Tsugai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50023_Ep_19.jpg",
-            "description": "Nuovo episodio: Ep 19",
+            "name": "Iwamoto-senpai no Suisen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50483_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.75"
+            "rating": "5.08"
         },
         {
             "id": "kitsu:49361",
@@ -37,22 +46,13 @@
             "rating": "7.93"
         },
         {
-            "id": "kitsu:49892",
+            "id": "kitsu:50797",
             "type": "series",
-            "name": "Kun Tun Tianxia Zhi Zhang Men Guilai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49892_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
+            "name": "Uchi no Otouto-domo ga Sumimasen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50797_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.03"
-        },
-        {
-            "id": "kitsu:13209",
-            "type": "series",
-            "name": "Black Clover (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13209_Ep_102.jpg",
-            "description": "Nuovo episodio: Ep 102",
-            "posterShape": "poster",
-            "rating": "7.78"
+            "rating": "6.65"
         },
         {
             "id": "kitsu:49889",
@@ -61,43 +61,34 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49889_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.09"
+            "rating": "7.13"
         },
         {
-            "id": "kitsu:50793",
+            "id": "kitsu:49265",
             "type": "series",
-            "name": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50793_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
+            "name": "Nige Jouzu no Wakagimi 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49265_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.22"
+            "rating": "7.44"
         },
         {
-            "id": "kitsu:50137",
+            "id": "kitsu:49235",
             "type": "series",
-            "name": "BanG Dream! Yume∞Mita",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50137_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
+            "name": "Tensei shitara Slime Datta Ken 4",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_18.jpg",
+            "description": "Nuovo episodio: Ep 18",
             "posterShape": "poster",
-            "rating": "6.78"
+            "rating": "8.05"
         },
         {
-            "id": "kitsu:50328",
+            "id": "kitsu:50551",
             "type": "series",
-            "name": "Bungo Stray Dogs Wan! 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50328_Ep_7.jpg",
+            "name": "Yani Neko",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50551_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.43"
-        },
-        {
-            "id": "kitsu:50751",
-            "type": "series",
-            "name": "Reiwa no Dara-san",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50751_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "6.00"
+            "rating": "7.20"
         }
     ]
 }
