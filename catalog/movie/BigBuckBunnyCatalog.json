@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:45412",
+            "type": "series",
+            "name": "Mao",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45412_Ep_20.jpg",
+            "description": "Nuovo episodio: Ep 20",
+            "posterShape": "poster",
+            "rating": "6.79"
+        },
+        {
             "id": "kitsu:49585",
             "type": "series",
             "name": "Neko to Ryuu",
@@ -17,15 +26,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "7.63"
-        },
-        {
-            "id": "kitsu:49427",
-            "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "6.06"
         },
         {
             "id": "kitsu:50767",
@@ -109,15 +109,6 @@
             "rating": "5.08"
         },
         {
-            "id": "kitsu:45657",
-            "type": "series",
-            "name": "Black Torch (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45657_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.77"
-        },
-        {
             "id": "kitsu:49656",
             "type": "series",
             "name": "Black Torch",
@@ -154,31 +145,13 @@
             "rating": "7.04"
         },
         {
-            "id": "kitsu:13209",
-            "type": "series",
-            "name": "Black Clover (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13209_Ep_102.jpg",
-            "description": "Nuovo episodio: Ep 102",
-            "posterShape": "poster",
-            "rating": "7.78"
-        },
-        {
-            "id": "kitsu:50760",
-            "type": "series",
-            "name": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50760_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.52"
-        },
-        {
             "id": "kitsu:50797",
             "type": "series",
             "name": "Uchi no Otouto-domo ga Sumimasen",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50797_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.65"
+            "rating": "6.67"
         },
         {
             "id": "kitsu:49889",
@@ -199,15 +172,6 @@
             "rating": "7.44"
         },
         {
-            "id": "kitsu:49235",
-            "type": "series",
-            "name": "Tensei shitara Slime Datta Ken 4 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_16.jpg",
-            "description": "Nuovo episodio: Ep 16",
-            "posterShape": "poster",
-            "rating": "8.08"
-        },
-        {
             "id": "kitsu:50354",
             "type": "series",
             "name": "Kami no Shizuku",
@@ -217,13 +181,22 @@
             "rating": "4.05"
         },
         {
+            "id": "kitsu:49235",
+            "type": "series",
+            "name": "Tensei shitara Slime Datta Ken 4",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_18.jpg",
+            "description": "Nuovo episodio: Ep 18",
+            "posterShape": "poster",
+            "rating": "8.05"
+        },
+        {
             "id": "kitsu:50049",
             "type": "series",
             "name": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50049_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.25"
+            "rating": "7.24"
         },
         {
             "id": "kitsu:50828",
@@ -296,15 +269,6 @@
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
             "rating": "6.78"
-        },
-        {
-            "id": "kitsu:50328",
-            "type": "series",
-            "name": "Bungo Stray Dogs Wan! 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50328_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.43"
         }
     ]
 }
