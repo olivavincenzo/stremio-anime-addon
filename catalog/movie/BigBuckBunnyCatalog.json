@@ -7,7 +7,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49444_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.66"
+            "rating": "8.68"
         },
         {
             "id": "kitsu:50483",
@@ -34,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49656_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.69"
+            "rating": "7.68"
         },
         {
             "id": "kitsu:49361",
@@ -73,6 +73,15 @@
             "rating": "7.79"
         },
         {
+            "id": "kitsu:50760",
+            "type": "series",
+            "name": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50760_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.53"
+        },
+        {
             "id": "kitsu:50797",
             "type": "series",
             "name": "Uchi no Otouto-domo ga Sumimasen",
@@ -85,8 +94,8 @@
             "id": "kitsu:49889",
             "type": "series",
             "name": "Shiguang Dailiren III",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49889_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49889_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
             "rating": "6.95"
         },
@@ -106,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_16.jpg",
             "description": "Nuovo episodio: Ep 16",
             "posterShape": "poster",
-            "rating": "8.11"
+            "rating": "8.12"
         },
         {
             "id": "kitsu:50354",
@@ -255,11 +264,11 @@
         {
             "id": "kitsu:49995",
             "type": "series",
-            "name": "Katainaka no Ossan, Kensei ni Naru II (ITA)",
+            "name": "Katainaka no Ossan, Kensei ni Naru II",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49995_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.48"
+            "rating": "7.87"
         },
         {
             "id": "kitsu:50109",
