@@ -52,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49889_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.05"
+            "rating": "6.95"
         },
         {
             "id": "kitsu:49265",
@@ -215,15 +215,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "4.10"
-        },
-        {
-            "id": "kitsu:49119",
-            "type": "series",
-            "name": "Katainaka no Ossan, Kensei ni Naru II (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49119_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.48"
         },
         {
             "id": "kitsu:49995",
