@@ -28,6 +28,15 @@
             "rating": "7.63"
         },
         {
+            "id": "kitsu:49427",
+            "type": "series",
+            "name": "Kabushikigaisha Magi-Lumière 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "5.64"
+        },
+        {
             "id": "kitsu:50767",
             "type": "series",
             "name": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
@@ -109,13 +118,22 @@
             "rating": "5.08"
         },
         {
+            "id": "kitsu:45657",
+            "type": "series",
+            "name": "Black Torch (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45657_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.77"
+        },
+        {
             "id": "kitsu:49656",
             "type": "series",
             "name": "Black Torch",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49656_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.68"
+            "rating": "7.69"
         },
         {
             "id": "kitsu:49361",
@@ -145,6 +163,15 @@
             "rating": "7.04"
         },
         {
+            "id": "kitsu:13209",
+            "type": "series",
+            "name": "Black Clover (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13209_Ep_102.jpg",
+            "description": "Nuovo episodio: Ep 102",
+            "posterShape": "poster",
+            "rating": "7.78"
+        },
+        {
             "id": "kitsu:50797",
             "type": "series",
             "name": "Uchi no Otouto-domo ga Sumimasen",
@@ -163,13 +190,13 @@
             "rating": "7.24"
         },
         {
-            "id": "kitsu:49265",
+            "id": "kitsu:49235",
             "type": "series",
-            "name": "Nige Jouzu no Wakagimi 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49265_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
+            "name": "Tensei shitara Slime Datta Ken 4 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_16.jpg",
+            "description": "Nuovo episodio: Ep 16",
             "posterShape": "poster",
-            "rating": "7.44"
+            "rating": "8.08"
         },
         {
             "id": "kitsu:50354",
@@ -179,15 +206,6 @@
             "description": "Nuovo episodio: Ep 19",
             "posterShape": "poster",
             "rating": "4.05"
-        },
-        {
-            "id": "kitsu:49235",
-            "type": "series",
-            "name": "Tensei shitara Slime Datta Ken 4",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_18.jpg",
-            "description": "Nuovo episodio: Ep 18",
-            "posterShape": "poster",
-            "rating": "8.05"
         },
         {
             "id": "kitsu:50049",
