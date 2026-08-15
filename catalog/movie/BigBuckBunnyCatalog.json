@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:13698",
+            "type": "series",
+            "name": "Rilakkuma",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13698_Ep_20.jpg",
+            "description": "Nuovo episodio: Ep 20",
+            "posterShape": "poster",
+            "rating": "5.90"
+        },
+        {
             "id": "kitsu:49892",
             "type": "series",
             "name": "Kun Tun Tianxia Zhi Zhang Men Guilai",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49892_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.01"
+            "rating": "7.02"
         },
         {
             "id": "kitsu:13209",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13209_Ep_102.jpg",
             "description": "Nuovo episodio: Ep 102",
             "posterShape": "poster",
-            "rating": "7.82"
+            "rating": "7.81"
         },
         {
             "id": "kitsu:50760",
@@ -241,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46925_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.46"
+            "rating": "7.44"
         },
         {
             "id": "kitsu:50154",
@@ -260,6 +269,15 @@
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
             "rating": "8.83"
+        },
+        {
+            "id": "kitsu:49913",
+            "type": "series",
+            "name": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49913_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "6.88"
         },
         {
             "id": "kitsu:44778",
