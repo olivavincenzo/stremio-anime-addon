@@ -1,31 +1,13 @@
 {
     "metas": [
         {
-            "id": "kitsu:50665",
-            "type": "series",
-            "name": "Re:Zero kara Hajimeru Break Time 4",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50665_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "6.90"
-        },
-        {
-            "id": "kitsu:49700",
-            "type": "series",
-            "name": "Digimon Beatbreak",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_43.jpg",
-            "description": "Nuovo episodio: Ep 43",
-            "posterShape": "poster",
-            "rating": "4.79"
-        },
-        {
             "id": "kitsu:50801",
             "type": "series",
             "name": "Tetsunabe no Jan!",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50801_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "5.38"
+            "rating": "5.36"
         },
         {
             "id": "kitsu:50258",
@@ -34,7 +16,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50258_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "4.08"
+            "rating": "4.07"
         },
         {
             "id": "kitsu:50634",
@@ -53,15 +35,6 @@
             "description": "Nuovo episodio: Ep 60",
             "posterShape": "poster",
             "rating": "6.84"
-        },
-        {
-            "id": "kitsu:50023",
-            "type": "series",
-            "name": "Yomi no Tsugai (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50023_Ep_16.jpg",
-            "description": "Nuovo episodio: Ep 16",
-            "posterShape": "poster",
-            "rating": "7.42"
         },
         {
             "id": "kitsu:45412",
@@ -91,22 +64,13 @@
             "rating": "7.60"
         },
         {
-            "id": "kitsu:49427",
-            "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "6.06"
-        },
-        {
             "id": "kitsu:50767",
             "type": "series",
             "name": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50767_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.64"
+            "rating": "6.65"
         },
         {
             "id": "kitsu:50179",
@@ -127,15 +91,6 @@
             "rating": "7.47"
         },
         {
-            "id": "kitsu:56",
-            "type": "series",
-            "name": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_56_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "6.49"
-        },
-        {
             "id": "kitsu:50694",
             "type": "series",
             "name": "Grow Up Show: Himawari no Circus-dan",
@@ -151,7 +106,16 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49851_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.43"
+            "rating": "6.41"
+        },
+        {
+            "id": "kitsu:50023",
+            "type": "series",
+            "name": "Yomi no Tsugai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50023_Ep_19.jpg",
+            "description": "Nuovo episodio: Ep 19",
+            "posterShape": "poster",
+            "rating": "7.75"
         },
         {
             "id": "kitsu:48293",
@@ -223,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49892_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.04"
+            "rating": "7.02"
         },
         {
             "id": "kitsu:13209",
@@ -232,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13209_Ep_102.jpg",
             "description": "Nuovo episodio: Ep 102",
             "posterShape": "poster",
-            "rating": "7.76"
+            "rating": "7.77"
         },
         {
             "id": "kitsu:50760",
@@ -259,7 +223,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49889_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.39"
+            "rating": "7.17"
         },
         {
             "id": "kitsu:49265",
@@ -305,15 +269,6 @@
             "description": "Nuovo episodio: Ep 16",
             "posterShape": "poster",
             "rating": "6.54"
-        },
-        {
-            "id": "kitsu:50411",
-            "type": "series",
-            "name": "Otome Kaijuu Caraméliser",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50411_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.13"
         }
     ]
 }
