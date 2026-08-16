@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:50079",
+            "type": "series",
+            "name": "Kuroneko to Majo no Kyoushitsu",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50079_Ep_19.jpg",
+            "description": "Nuovo episodio: Ep 19",
+            "posterShape": "poster",
+            "rating": "6.43"
+        },
+        {
             "id": "kitsu:41923",
             "type": "series",
             "name": "Nijusseiki Denki Mokuroku: Eureka Evrika (ITA)",
@@ -91,15 +100,6 @@
             "rating": "7.43"
         },
         {
-            "id": "kitsu:45412",
-            "type": "series",
-            "name": "Mao",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45412_Ep_20.jpg",
-            "description": "Nuovo episodio: Ep 20",
-            "posterShape": "poster",
-            "rating": "6.76"
-        },
-        {
             "id": "kitsu:49585",
             "type": "series",
             "name": "Neko to Ryuu",
@@ -116,15 +116,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "7.60"
-        },
-        {
-            "id": "kitsu:49427",
-            "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "6.06"
         },
         {
             "id": "kitsu:41243",
@@ -160,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49978_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.47"
+            "rating": "7.46"
         },
         {
             "id": "kitsu:50694",
@@ -251,15 +242,6 @@
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "7.02"
-        },
-        {
-            "id": "kitsu:13209",
-            "type": "series",
-            "name": "Black Clover (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13209_Ep_102.jpg",
-            "description": "Nuovo episodio: Ep 102",
-            "posterShape": "poster",
-            "rating": "7.76"
         },
         {
             "id": "kitsu:50760",
