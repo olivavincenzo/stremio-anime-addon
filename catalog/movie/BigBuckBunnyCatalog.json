@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:13051",
+            "type": "series",
+            "name": "Boruto: Naruto Next Generations (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13051_Ep_60.jpg",
+            "description": "Nuovo episodio: Ep 60",
+            "posterShape": "poster",
+            "rating": "6.84"
+        },
+        {
             "id": "kitsu:50023",
             "type": "series",
             "name": "Yomi no Tsugai (ITA)",
@@ -37,10 +46,10 @@
             "rating": "7.63"
         },
         {
-            "id": "kitsu:41243",
+            "id": "kitsu:49427",
             "type": "series",
             "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41243_Ep_7.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.06"
@@ -133,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49656_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.68"
+            "rating": "7.70"
         },
         {
             "id": "kitsu:49361",
@@ -260,15 +269,6 @@
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "7.33"
-        },
-        {
-            "id": "kitsu:49183",
-            "type": "series",
-            "name": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.08"
         },
         {
             "id": "kitsu:50040",
