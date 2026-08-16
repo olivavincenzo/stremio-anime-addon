@@ -1,6 +1,51 @@
 {
     "metas": [
         {
+            "id": "kitsu:41923",
+            "type": "series",
+            "name": "Nijusseiki Denki Mokuroku: Eureka Evrika (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41923_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "4.80"
+        },
+        {
+            "id": "kitsu:50272",
+            "type": "series",
+            "name": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50272_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.22"
+        },
+        {
+            "id": "kitsu:50139",
+            "type": "series",
+            "name": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50139_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "5.91"
+        },
+        {
+            "id": "kitsu:50665",
+            "type": "series",
+            "name": "Re:Zero kara Hajimeru Break Time 4",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50665_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "7.00"
+        },
+        {
+            "id": "kitsu:49700",
+            "type": "series",
+            "name": "Digimon Beatbreak",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_43.jpg",
+            "description": "Nuovo episodio: Ep 43",
+            "posterShape": "poster",
+            "rating": "4.79"
+        },
+        {
             "id": "kitsu:50801",
             "type": "series",
             "name": "Tetsunabe no Jan!",
@@ -16,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50258_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "4.07"
+            "rating": "4.09"
         },
         {
             "id": "kitsu:50634",
@@ -35,6 +80,15 @@
             "description": "Nuovo episodio: Ep 60",
             "posterShape": "poster",
             "rating": "6.84"
+        },
+        {
+            "id": "kitsu:50023",
+            "type": "series",
+            "name": "Yomi no Tsugai (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50023_Ep_16.jpg",
+            "description": "Nuovo episodio: Ep 16",
+            "posterShape": "poster",
+            "rating": "7.42"
         },
         {
             "id": "kitsu:45412",
@@ -64,13 +118,22 @@
             "rating": "7.60"
         },
         {
+            "id": "kitsu:49427",
+            "type": "series",
+            "name": "Kabushikigaisha Magi-Lumière 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "5.64"
+        },
+        {
             "id": "kitsu:50767",
             "type": "series",
             "name": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50767_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.65"
+            "rating": "6.66"
         },
         {
             "id": "kitsu:50179",
@@ -91,6 +154,15 @@
             "rating": "7.47"
         },
         {
+            "id": "kitsu:56",
+            "type": "series",
+            "name": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_56_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "6.49"
+        },
+        {
             "id": "kitsu:50694",
             "type": "series",
             "name": "Grow Up Show: Himawari no Circus-dan",
@@ -107,15 +179,6 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "6.41"
-        },
-        {
-            "id": "kitsu:50023",
-            "type": "series",
-            "name": "Yomi no Tsugai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50023_Ep_19.jpg",
-            "description": "Nuovo episodio: Ep 19",
-            "posterShape": "poster",
-            "rating": "7.75"
         },
         {
             "id": "kitsu:48293",
@@ -143,15 +206,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "5.07"
-        },
-        {
-            "id": "kitsu:45657",
-            "type": "series",
-            "name": "Black Torch (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45657_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.79"
         },
         {
             "id": "kitsu:49656",
@@ -196,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13209_Ep_102.jpg",
             "description": "Nuovo episodio: Ep 102",
             "posterShape": "poster",
-            "rating": "7.77"
+            "rating": "7.76"
         },
         {
             "id": "kitsu:50760",
@@ -223,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49889_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.17"
+            "rating": "7.39"
         },
         {
             "id": "kitsu:49265",
@@ -235,10 +289,10 @@
             "rating": "7.44"
         },
         {
-            "id": "kitsu:49235",
+            "id": "kitsu:42196",
             "type": "series",
             "name": "Tensei shitara Slime Datta Ken 4 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_16.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_42196_Ep_16.jpg",
             "description": "Nuovo episodio: Ep 16",
             "posterShape": "poster",
             "rating": "8.11"
@@ -253,22 +307,13 @@
             "rating": "4.05"
         },
         {
-            "id": "kitsu:50049",
+            "id": "kitsu:49235",
             "type": "series",
-            "name": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50049_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
+            "name": "Tensei shitara Slime Datta Ken 4",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_18.jpg",
+            "description": "Nuovo episodio: Ep 18",
             "posterShape": "poster",
-            "rating": "7.24"
-        },
-        {
-            "id": "kitsu:50828",
-            "type": "series",
-            "name": "Bai Ri Cheng Wang",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50828_Ep_16.jpg",
-            "description": "Nuovo episodio: Ep 16",
-            "posterShape": "poster",
-            "rating": "6.54"
+            "rating": "8.05"
         }
     ]
 }
