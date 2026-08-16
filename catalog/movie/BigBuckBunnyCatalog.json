@@ -1,15 +1,6 @@
 {
     "metas": [
         {
-            "id": "kitsu:13051",
-            "type": "series",
-            "name": "Boruto: Naruto Next Generations (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13051_Ep_60.jpg",
-            "description": "Nuovo episodio: Ep 60",
-            "posterShape": "poster",
-            "rating": "6.84"
-        },
-        {
             "id": "kitsu:50023",
             "type": "series",
             "name": "Yomi no Tsugai (ITA)",
@@ -46,22 +37,13 @@
             "rating": "7.63"
         },
         {
-            "id": "kitsu:49427",
-            "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "6.06"
-        },
-        {
             "id": "kitsu:41243",
             "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2",
+            "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41243_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "5.64"
+            "rating": "6.06"
         },
         {
             "id": "kitsu:50767",
