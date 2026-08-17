@@ -10,15 +10,6 @@
             "rating": "6.90"
         },
         {
-            "id": "kitsu:49689",
-            "type": "series",
-            "name": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49689_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "6.33"
-        },
-        {
             "id": "kitsu:49002",
             "type": "series",
             "name": "Mushoku Tensei III: Isekai Ittara Honki Dasu (ITA)",
@@ -133,7 +124,16 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50634_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "8.53"
+            "rating": "8.54"
+        },
+        {
+            "id": "kitsu:13051",
+            "type": "series",
+            "name": "Boruto: Naruto Next Generations (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13051_Ep_60.jpg",
+            "description": "Nuovo episodio: Ep 60",
+            "posterShape": "poster",
+            "rating": "6.76"
         },
         {
             "id": "kitsu:50023",
@@ -179,15 +179,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.06"
-        },
-        {
-            "id": "kitsu:41243",
-            "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41243_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "5.64"
         },
         {
             "id": "kitsu:50767",
@@ -250,7 +241,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49444_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.73"
+            "rating": "8.74"
         },
         {
             "id": "kitsu:50483",
