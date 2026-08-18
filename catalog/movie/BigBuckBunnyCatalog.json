@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:50279",
+            "type": "series",
+            "name": "Yi Nian Yong Heng: Wanjie Ji",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50279_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "7.26"
+        },
+        {
             "id": "kitsu:50828",
             "type": "series",
             "name": "Bai Ri Cheng Wang",
@@ -226,22 +235,13 @@
             "rating": "4.10"
         },
         {
-            "id": "kitsu:50634",
+            "id": "kitsu:6230",
             "type": "series",
             "name": "Seihantai na Kimi to Boku 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50634_Ep_7.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_6230_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "8.56"
-        },
-        {
-            "id": "kitsu:13051",
-            "type": "series",
-            "name": "Boruto: Naruto Next Generations (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13051_Ep_60.jpg",
-            "description": "Nuovo episodio: Ep 60",
-            "posterShape": "poster",
-            "rating": "6.75"
         },
         {
             "id": "kitsu:50023",
