@@ -97,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50350_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.27"
+            "rating": "7.29"
         },
         {
             "id": "kitsu:50362",
@@ -314,6 +314,15 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "7.46"
+        },
+        {
+            "id": "kitsu:56",
+            "type": "series",
+            "name": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_56_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "6.49"
         }
     ]
 }
