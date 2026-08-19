@@ -12,11 +12,11 @@
         {
             "id": "kitsu:50519",
             "type": "series",
-            "name": "Thunder 3",
+            "name": "Thunder 3 (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50519_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "4.60"
+            "rating": "4.55"
         },
         {
             "id": "kitsu:50571",
@@ -34,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50109_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.68"
+            "rating": "6.67"
         },
         {
             "id": "kitsu:50613",
@@ -48,11 +48,11 @@
         {
             "id": "kitsu:49995",
             "type": "series",
-            "name": "Katainaka no Ossan, Kensei ni Naru II (ITA)",
+            "name": "Katainaka no Ossan, Kensei ni Naru II",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49995_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.51"
+            "rating": "7.80"
         },
         {
             "id": "kitsu:46925",
@@ -62,15 +62,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "7.49"
-        },
-        {
-            "id": "kitsu:49913",
-            "type": "series",
-            "name": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49913_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "6.85"
         },
         {
             "id": "kitsu:49746",
@@ -136,13 +127,22 @@
             "rating": "7.04"
         },
         {
-            "id": "kitsu:10229",
+            "id": "kitsu:25",
             "type": "series",
             "name": "Koukaku Kidoutai (TV) (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10229_Ep_7.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_25_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "7.09"
+        },
+        {
+            "id": "kitsu:10229",
+            "type": "series",
+            "name": "Koukaku Kidoutai (TV)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10229_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.17"
         },
         {
             "id": "kitsu:50048",
@@ -206,15 +206,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "8.78"
-        },
-        {
-            "id": "kitsu:47988",
-            "type": "series",
-            "name": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47988_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "6.22"
         },
         {
             "id": "kitsu:50768",
