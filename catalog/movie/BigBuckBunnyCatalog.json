@@ -46,13 +46,13 @@
             "rating": "6.90"
         },
         {
-            "id": "kitsu:49119",
+            "id": "kitsu:49995",
             "type": "series",
-            "name": "Katainaka no Ossan, Kensei ni Naru II",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49119_Ep_7.jpg",
+            "name": "Katainaka no Ossan, Kensei ni Naru II (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49995_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.80"
+            "rating": "7.52"
         },
         {
             "id": "kitsu:46925",
@@ -118,6 +118,15 @@
             "rating": "4.89"
         },
         {
+            "id": "kitsu:50622",
+            "type": "series",
+            "name": "Yoroi Shin Den Samurai Troopers Part 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50622_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "5.90"
+        },
+        {
             "id": "kitsu:50805",
             "type": "series",
             "name": "Tefuda ga Oome no Victoria",
@@ -129,11 +138,20 @@
         {
             "id": "kitsu:10229",
             "type": "series",
-            "name": "Koukaku Kidoutai (TV)",
+            "name": "Koukaku Kidoutai (TV) (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10229_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.17"
+            "rating": "7.07"
+        },
+        {
+            "id": "kitsu:50048",
+            "type": "series",
+            "name": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50048_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "6.82"
         },
         {
             "id": "kitsu:49607",
@@ -170,6 +188,15 @@
             "description": "Nuovo episodio: Ep 17",
             "posterShape": "poster",
             "rating": "6.54"
+        },
+        {
+            "id": "kitsu:50108",
+            "type": "series",
+            "name": "Liar Game",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50108_Ep_20.jpg",
+            "description": "Nuovo episodio: Ep 20",
+            "posterShape": "poster",
+            "rating": "5.84"
         },
         {
             "id": "kitsu:50181",
@@ -244,6 +271,15 @@
             "rating": "6.77"
         },
         {
+            "id": "kitsu:50350",
+            "type": "series",
+            "name": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50350_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.27"
+        },
+        {
             "id": "kitsu:50362",
             "type": "series",
             "name": "Meitantei Precure!",
@@ -269,6 +305,15 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.18"
+        },
+        {
+            "id": "kitsu:12",
+            "type": "series",
+            "name": "One Piece",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12_Ep_1174.jpg",
+            "description": "Nuovo episodio: Ep 1174",
+            "posterShape": "poster",
+            "rating": "8.38"
         }
     ]
 }
