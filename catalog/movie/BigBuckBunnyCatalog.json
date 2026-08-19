@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:44778",
+            "type": "series",
+            "name": "Youjo Senki 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44778_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "8.85"
+        },
+        {
             "id": "kitsu:50154",
             "type": "series",
             "name": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50805_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.02"
+            "rating": "7.03"
         },
         {
             "id": "kitsu:10229",
@@ -79,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44021_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "5.82"
+            "rating": "5.83"
         },
         {
             "id": "kitsu:50279",
@@ -169,7 +178,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47989_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.59"
+            "rating": "6.60"
         },
         {
             "id": "kitsu:50055",
@@ -314,15 +323,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "4.10"
-        },
-        {
-            "id": "kitsu:50634",
-            "type": "series",
-            "name": "Seihantai na Kimi to Boku 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50634_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "8.54"
         }
     ]
 }
