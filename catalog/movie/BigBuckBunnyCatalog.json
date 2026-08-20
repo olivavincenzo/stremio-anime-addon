@@ -1,60 +1,6 @@
 {
     "metas": [
         {
-            "id": "kitsu:49995",
-            "type": "series",
-            "name": "Katainaka no Ossan, Kensei ni Naru II",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49995_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.80"
-        },
-        {
-            "id": "kitsu:46925",
-            "type": "series",
-            "name": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46925_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.53"
-        },
-        {
-            "id": "kitsu:49746",
-            "type": "series",
-            "name": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49746_Ep_13.jpg",
-            "description": "Nuovo episodio: Ep 13",
-            "posterShape": "poster",
-            "rating": "8.80"
-        },
-        {
-            "id": "kitsu:44778",
-            "type": "series",
-            "name": "Youjo Senki 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44778_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "8.86"
-        },
-        {
-            "id": "kitsu:50562",
-            "type": "series",
-            "name": "Sora wa Akai Kawa no Hotori",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50562_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "5.20"
-        },
-        {
-            "id": "kitsu:50649",
-            "type": "series",
-            "name": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50649_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "4.89"
-        },
-        {
             "id": "kitsu:50622",
             "type": "series",
             "name": "Yoroi Shin Den Samurai Troopers Part 2",
@@ -62,87 +8,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "5.90"
-        },
-        {
-            "id": "kitsu:50805",
-            "type": "series",
-            "name": "Tefuda ga Oome no Victoria",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50805_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.05"
-        },
-        {
-            "id": "kitsu:25",
-            "type": "series",
-            "name": "Koukaku Kidoutai (TV) (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_25_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.07"
-        },
-        {
-            "id": "kitsu:50048",
-            "type": "series",
-            "name": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50048_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "6.82"
-        },
-        {
-            "id": "kitsu:49607",
-            "type": "series",
-            "name": "Kimi ga Shinu made Koi wo Shitai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49607_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "6.21"
-        },
-        {
-            "id": "kitsu:44021",
-            "type": "series",
-            "name": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44021_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "5.82"
-        },
-        {
-            "id": "kitsu:50279",
-            "type": "series",
-            "name": "Yi Nian Yong Heng: Wanjie Ji",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50279_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "7.31"
-        },
-        {
-            "id": "kitsu:50828",
-            "type": "series",
-            "name": "Bai Ri Cheng Wang",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50828_Ep_17.jpg",
-            "description": "Nuovo episodio: Ep 17",
-            "posterShape": "poster",
-            "rating": "6.54"
-        },
-        {
-            "id": "kitsu:50108",
-            "type": "series",
-            "name": "Liar Game",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50108_Ep_20.jpg",
-            "description": "Nuovo episodio: Ep 20",
-            "posterShape": "poster",
-            "rating": "5.85"
-        },
-        {
-            "id": "kitsu:50181",
-            "type": "series",
-            "name": "Grand Blue Dreaming 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50181_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "8.79"
         },
         {
             "id": "kitsu:50768",
@@ -154,13 +19,13 @@
             "rating": "6.51"
         },
         {
-            "id": "kitsu:50766",
+            "id": "kitsu:50690",
             "type": "series",
-            "name": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50766_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
+            "name": "World Is Dancing",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50690_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.10"
+            "rating": "5.89"
         },
         {
             "id": "kitsu:49410",
@@ -179,6 +44,15 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.60"
+        },
+        {
+            "id": "kitsu:50055",
+            "type": "series",
+            "name": "Ibitte Konai Gibo to Gishi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50055_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.77"
         }
     ]
 }
