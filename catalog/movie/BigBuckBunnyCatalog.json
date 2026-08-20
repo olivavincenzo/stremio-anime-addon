@@ -10,22 +10,13 @@
             "rating": "7.13"
         },
         {
-            "id": "kitsu:50775",
-            "type": "series",
-            "name": "Sword Art Online: Unanswered//butterfly",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50775_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "6.08"
-        },
-        {
             "id": "kitsu:50551",
             "type": "series",
             "name": "Yani Neko (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50551_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.40"
+            "rating": "7.43"
         },
         {
             "id": "kitsu:49183",
@@ -34,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.11"
+            "rating": "7.12"
         },
         {
             "id": "kitsu:50040",
@@ -82,15 +73,6 @@
             "rating": "5.64"
         },
         {
-            "id": "kitsu:50751",
-            "type": "series",
-            "name": "Reiwa no Dara-san",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50751_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "6.05"
-        },
-        {
             "id": "kitsu:49892",
             "type": "series",
             "name": "Kun Tun Tianxia Zhi Zhang Men Guilai",
@@ -98,6 +80,15 @@
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "6.98"
+        },
+        {
+            "id": "kitsu:50328",
+            "type": "series",
+            "name": "Bungo Stray Dogs Wan! 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50328_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.36"
         },
         {
             "id": "kitsu:44814",
@@ -118,15 +109,6 @@
             "rating": "6.69"
         },
         {
-            "id": "kitsu:50571",
-            "type": "series",
-            "name": "Onegai AiPri",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50571_Ep_19.jpg",
-            "description": "Nuovo episodio: Ep 19",
-            "posterShape": "poster",
-            "rating": "5.53"
-        },
-        {
             "id": "kitsu:50109",
             "type": "series",
             "name": "Lv999 no Murabito",
@@ -142,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50613_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.92"
+            "rating": "6.89"
         },
         {
             "id": "kitsu:49995",
@@ -278,15 +260,6 @@
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "7.31"
-        },
-        {
-            "id": "kitsu:50828",
-            "type": "series",
-            "name": "Bai Ri Cheng Wang",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50828_Ep_17.jpg",
-            "description": "Nuovo episodio: Ep 17",
-            "posterShape": "poster",
-            "rating": "6.54"
         },
         {
             "id": "kitsu:50181",
