@@ -7,7 +7,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50828_Ep_18.jpg",
             "description": "Nuovo episodio: Ep 18",
             "posterShape": "poster",
-            "rating": "6.57"
+            "rating": "6.54"
         },
         {
             "id": "kitsu:49889",
@@ -206,15 +206,6 @@
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
             "rating": "6.82"
-        },
-        {
-            "id": "kitsu:49746",
-            "type": "series",
-            "name": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49746_Ep_13.jpg",
-            "description": "Nuovo episodio: Ep 13",
-            "posterShape": "poster",
-            "rating": "8.79"
         },
         {
             "id": "kitsu:44778",
