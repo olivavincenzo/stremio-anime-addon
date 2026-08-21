@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:49889",
+            "type": "series",
+            "name": "Shiguang Dailiren III",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49889_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "7.76"
+        },
+        {
             "id": "kitsu:50411",
             "type": "series",
             "name": "Otome Kaijuu Caraméliser",
@@ -314,15 +323,6 @@
             "description": "Nuovo episodio: Ep 20",
             "posterShape": "poster",
             "rating": "5.86"
-        },
-        {
-            "id": "kitsu:50181",
-            "type": "series",
-            "name": "Grand Blue Dreaming 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50181_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "8.78"
         }
     ]
 }
