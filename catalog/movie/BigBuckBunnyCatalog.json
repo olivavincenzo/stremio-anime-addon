@@ -28,13 +28,22 @@
             "rating": "7.10"
         },
         {
+            "id": "kitsu:50775",
+            "type": "series",
+            "name": "Sword Art Online: Unanswered//butterfly",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50775_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "5.49"
+        },
+        {
             "id": "kitsu:50551",
             "type": "series",
-            "name": "Yani Neko",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50551_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
+            "name": "Yani Neko (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50551_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.24"
+            "rating": "7.42"
         },
         {
             "id": "kitsu:49183",
@@ -138,11 +147,11 @@
         {
             "id": "kitsu:50519",
             "type": "series",
-            "name": "Thunder 3",
+            "name": "Thunder 3 (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50519_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "4.60"
+            "rating": "4.71"
         },
         {
             "id": "kitsu:50571",
@@ -199,6 +208,15 @@
             "rating": "6.82"
         },
         {
+            "id": "kitsu:49746",
+            "type": "series",
+            "name": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49746_Ep_13.jpg",
+            "description": "Nuovo episodio: Ep 13",
+            "posterShape": "poster",
+            "rating": "8.79"
+        },
+        {
             "id": "kitsu:44778",
             "type": "series",
             "name": "Youjo Senki 2",
@@ -253,10 +271,10 @@
             "rating": "7.04"
         },
         {
-            "id": "kitsu:25",
+            "id": "kitsu:10229",
             "type": "series",
             "name": "Koukaku Kidoutai (TV) (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_25_Ep_7.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10229_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "7.14"
