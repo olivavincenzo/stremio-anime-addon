@@ -226,6 +226,15 @@
             "rating": "7.47"
         },
         {
+            "id": "kitsu:44814",
+            "type": "series",
+            "name": "Waccha PriMagi!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44814_Ep_35.jpg",
+            "description": "Nuovo episodio: Ep 35",
+            "posterShape": "poster",
+            "rating": "4.46"
+        },
+        {
             "id": "kitsu:50480",
             "type": "series",
             "name": "Dogulwang",
