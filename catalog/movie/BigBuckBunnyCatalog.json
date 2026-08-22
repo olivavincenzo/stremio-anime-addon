@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:49444",
+            "type": "series",
+            "name": "Bleach: Thousand-Year Blood War - The Calamity",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49444_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "8.75"
+        },
+        {
+            "id": "kitsu:49892",
+            "type": "series",
+            "name": "Kun Tun Tianxia Zhi Zhang Men Guilai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49892_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.99"
+        },
+        {
+            "id": "kitsu:50483",
+            "type": "series",
+            "name": "Iwamoto-senpai no Suisen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50483_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "5.05"
+        },
+        {
             "id": "kitsu:45657",
             "type": "series",
             "name": "Black Torch (ITA)",
@@ -55,13 +82,31 @@
             "rating": "6.03"
         },
         {
+            "id": "kitsu:50760",
+            "type": "series",
+            "name": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50760_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.49"
+        },
+        {
+            "id": "kitsu:50571",
+            "type": "series",
+            "name": "Onegai AiPri",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50571_Ep_20.jpg",
+            "description": "Nuovo episodio: Ep 20",
+            "posterShape": "poster",
+            "rating": "5.53"
+        },
+        {
             "id": "kitsu:50797",
             "type": "series",
             "name": "Uchi no Otouto-domo ga Sumimasen",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50797_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.78"
+            "rating": "6.80"
         },
         {
             "id": "kitsu:49265",
@@ -163,6 +208,15 @@
             "rating": "7.49"
         },
         {
+            "id": "kitsu:49183",
+            "type": "series",
+            "name": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.09"
+        },
+        {
             "id": "kitsu:50040",
             "type": "series",
             "name": "Super no Ura de Yani Suu Futari",
@@ -217,15 +271,6 @@
             "rating": "6.07"
         },
         {
-            "id": "kitsu:49892",
-            "type": "series",
-            "name": "Kun Tun Tianxia Zhi Zhang Men Guilai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49892_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.99"
-        },
-        {
             "id": "kitsu:50328",
             "type": "series",
             "name": "Bungo Stray Dogs Wan! 2",
@@ -255,11 +300,11 @@
         {
             "id": "kitsu:50519",
             "type": "series",
-            "name": "Thunder 3",
+            "name": "Thunder 3 (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50519_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "4.60"
+            "rating": "4.74"
         },
         {
             "id": "kitsu:50109",
@@ -269,24 +314,6 @@
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
             "rating": "6.69"
-        },
-        {
-            "id": "kitsu:50613",
-            "type": "series",
-            "name": "Hanazakari no Kimitachi e 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50613_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "6.90"
-        },
-        {
-            "id": "kitsu:49995",
-            "type": "series",
-            "name": "Katainaka no Ossan, Kensei ni Naru II (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49995_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.52"
         }
     ]
 }
