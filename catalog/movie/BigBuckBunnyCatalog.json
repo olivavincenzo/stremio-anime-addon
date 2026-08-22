@@ -1,22 +1,13 @@
 {
     "metas": [
         {
-            "id": "kitsu:49427",
-            "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "6.06"
-        },
-        {
             "id": "kitsu:41243",
             "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2",
+            "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41243_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.64"
+            "rating": "6.06"
         },
         {
             "id": "kitsu:50761",
@@ -25,7 +16,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50761_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.64"
+            "rating": "7.63"
         },
         {
             "id": "kitsu:50179",
@@ -53,6 +44,15 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "7.43"
+        },
+        {
+            "id": "kitsu:56",
+            "type": "series",
+            "name": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_56_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "6.50"
         },
         {
             "id": "kitsu:50694",
@@ -97,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49444_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.79"
+            "rating": "8.80"
         },
         {
             "id": "kitsu:49892",
