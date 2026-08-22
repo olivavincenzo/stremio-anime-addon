@@ -52,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49656_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.62"
+            "rating": "7.64"
         },
         {
             "id": "kitsu:696",
@@ -235,15 +235,6 @@
             "rating": "7.11"
         },
         {
-            "id": "kitsu:42337",
-            "type": "series",
-            "name": "Mebius Dust",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_42337_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "4.39"
-        },
-        {
             "id": "kitsu:50137",
             "type": "series",
             "name": "BanG Dream! Yume∞Mita",
@@ -296,15 +287,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.68"
-        },
-        {
-            "id": "kitsu:50519",
-            "type": "series",
-            "name": "Thunder 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50519_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "4.74"
         },
         {
             "id": "kitsu:50109",
