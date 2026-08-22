@@ -43,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49444_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.81"
+            "rating": "8.82"
         },
         {
             "id": "kitsu:49892",
@@ -52,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49892_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.99"
+            "rating": "7.01"
         },
         {
             "id": "kitsu:50483",
@@ -79,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49585_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "8.16"
+            "rating": "8.14"
         },
         {
             "id": "kitsu:49656",
@@ -107,15 +107,6 @@
             "description": "Nuovo episodio: Ep 19",
             "posterShape": "poster",
             "rating": "7.73"
-        },
-        {
-            "id": "kitsu:13698",
-            "type": "series",
-            "name": "Rilakkuma",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13698_Ep_21.jpg",
-            "description": "Nuovo episodio: Ep 21",
-            "posterShape": "poster",
-            "rating": "6.03"
         },
         {
             "id": "kitsu:50760",
@@ -314,15 +305,6 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "7.47"
-        },
-        {
-            "id": "kitsu:44814",
-            "type": "series",
-            "name": "Waccha PriMagi!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44814_Ep_35.jpg",
-            "description": "Nuovo episodio: Ep 35",
-            "posterShape": "poster",
-            "rating": "4.46"
         },
         {
             "id": "kitsu:50480",
