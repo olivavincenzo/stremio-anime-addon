@@ -19,15 +19,6 @@
             "rating": "6.03"
         },
         {
-            "id": "kitsu:50760",
-            "type": "series",
-            "name": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50760_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "7.49"
-        },
-        {
             "id": "kitsu:50571",
             "type": "series",
             "name": "Onegai AiPri",
@@ -91,15 +82,6 @@
             "rating": "7.24"
         },
         {
-            "id": "kitsu:49871",
-            "type": "series",
-            "name": "Yu-Gi-Oh! Card Game: The Chronicles",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49871_Ep_17.jpg",
-            "description": "Nuovo episodio: Ep 17",
-            "posterShape": "poster",
-            "rating": "5.91"
-        },
-        {
             "id": "kitsu:50828",
             "type": "series",
             "name": "Bai Ri Cheng Wang",
@@ -124,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50411_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.12"
+            "rating": "7.13"
         },
         {
             "id": "kitsu:50775",
@@ -142,7 +124,16 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50551_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.46"
+            "rating": "7.49"
+        },
+        {
+            "id": "kitsu:49183",
+            "type": "series",
+            "name": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.09"
         },
         {
             "id": "kitsu:50040",
@@ -181,6 +172,33 @@
             "rating": "6.78"
         },
         {
+            "id": "kitsu:50769",
+            "type": "series",
+            "name": "Perfect Addiction",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50769_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "5.68"
+        },
+        {
+            "id": "kitsu:50751",
+            "type": "series",
+            "name": "Reiwa no Dara-san",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50751_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "6.07"
+        },
+        {
+            "id": "kitsu:49892",
+            "type": "series",
+            "name": "Kun Tun Tianxia Zhi Zhang Men Guilai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49892_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "6.99"
+        },
+        {
             "id": "kitsu:50328",
             "type": "series",
             "name": "Bungo Stray Dogs Wan! 2",
@@ -188,6 +206,15 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "7.47"
+        },
+        {
+            "id": "kitsu:44814",
+            "type": "series",
+            "name": "Waccha PriMagi!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44814_Ep_35.jpg",
+            "description": "Nuovo episodio: Ep 35",
+            "posterShape": "poster",
+            "rating": "4.46"
         },
         {
             "id": "kitsu:50480",
@@ -214,7 +241,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50109_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.70"
+            "rating": "6.69"
         },
         {
             "id": "kitsu:50613",
