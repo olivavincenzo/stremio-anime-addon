@@ -1,6 +1,42 @@
 {
     "metas": [
         {
+            "id": "kitsu:50694",
+            "type": "series",
+            "name": "Grow Up Show: Himawari no Circus-dan",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50694_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "5.45"
+        },
+        {
+            "id": "kitsu:49851",
+            "type": "series",
+            "name": "Tenmaku no Jaadugar",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49851_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "6.41"
+        },
+        {
+            "id": "kitsu:50023",
+            "type": "series",
+            "name": "Yomi no Tsugai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50023_Ep_20.jpg",
+            "description": "Nuovo episodio: Ep 20",
+            "posterShape": "poster",
+            "rating": "7.74"
+        },
+        {
+            "id": "kitsu:45412",
+            "type": "series",
+            "name": "Mao",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45412_Ep_21.jpg",
+            "description": "Nuovo episodio: Ep 21",
+            "posterShape": "poster",
+            "rating": "6.77"
+        },
+        {
             "id": "kitsu:49444",
             "type": "series",
             "name": "Bleach: Thousand-Year Blood War - The Calamity",
@@ -145,22 +181,13 @@
             "rating": "8.04"
         },
         {
-            "id": "kitsu:50555",
-            "type": "series",
-            "name": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50555_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "6.92"
-        },
-        {
             "id": "kitsu:50049",
             "type": "series",
             "name": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50049_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.23"
+            "rating": "7.24"
         },
         {
             "id": "kitsu:49871",
@@ -187,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49889_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.74"
+            "rating": "7.67"
         },
         {
             "id": "kitsu:50411",
@@ -215,15 +242,6 @@
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "7.49"
-        },
-        {
-            "id": "kitsu:49183",
-            "type": "series",
-            "name": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "7.09"
         },
         {
             "id": "kitsu:50040",
@@ -305,24 +323,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.68"
-        },
-        {
-            "id": "kitsu:50519",
-            "type": "series",
-            "name": "Thunder 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50519_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "4.74"
-        },
-        {
-            "id": "kitsu:50109",
-            "type": "series",
-            "name": "Lv999 no Murabito",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50109_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "6.69"
         }
     ]
 }
