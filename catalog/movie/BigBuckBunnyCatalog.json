@@ -7,7 +7,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49444_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.75"
+            "rating": "8.77"
         },
         {
             "id": "kitsu:49892",
@@ -25,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50483_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.05"
+            "rating": "5.03"
         },
         {
             "id": "kitsu:45657",
@@ -145,6 +145,15 @@
             "rating": "8.04"
         },
         {
+            "id": "kitsu:50555",
+            "type": "series",
+            "name": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50555_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "6.93"
+        },
+        {
             "id": "kitsu:50049",
             "type": "series",
             "name": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
@@ -235,6 +244,15 @@
             "rating": "7.11"
         },
         {
+            "id": "kitsu:42337",
+            "type": "series",
+            "name": "Mebius Dust",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_42337_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "4.39"
+        },
+        {
             "id": "kitsu:50137",
             "type": "series",
             "name": "BanG Dream! Yume∞Mita",
@@ -287,6 +305,15 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.68"
+        },
+        {
+            "id": "kitsu:50519",
+            "type": "series",
+            "name": "Thunder 3 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50519_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "4.74"
         },
         {
             "id": "kitsu:50109",
