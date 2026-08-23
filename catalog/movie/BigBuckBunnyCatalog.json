@@ -1,13 +1,22 @@
 {
     "metas": [
         {
-            "id": "kitsu:50079",
+            "id": "kitsu:47929",
             "type": "series",
-            "name": "Kuroneko to Majo no Kyoushitsu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50079_Ep_20.jpg",
-            "description": "Nuovo episodio: Ep 20",
+            "name": "Azur Lane: Bisoku Zenshin! Ni!!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47929_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.43"
+            "rating": "6.18"
+        },
+        {
+            "id": "kitsu:48880",
+            "type": "series",
+            "name": "Sayonara Lara",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48880_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "5.46"
         },
         {
             "id": "kitsu:49002",
@@ -16,16 +25,16 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49002_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "8.39"
+            "rating": "8.38"
         },
         {
             "id": "kitsu:41923",
             "type": "series",
-            "name": "Nijusseiki Denki Mokuroku: Eureka Evrika (ITA)",
+            "name": "Nijusseiki Denki Mokuroku: Eureka Evrika",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41923_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "4.82"
+            "rating": "5.57"
         },
         {
             "id": "kitsu:50272",
@@ -84,17 +93,8 @@
         {
             "id": "kitsu:49427",
             "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "6.11"
-        },
-        {
-            "id": "kitsu:41243",
-            "type": "series",
             "name": "Kabushikigaisha Magi-Lumière 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41243_Ep_8.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "5.64"
@@ -116,15 +116,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.97"
-        },
-        {
-            "id": "kitsu:50767",
-            "type": "series",
-            "name": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50767_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "6.70"
         },
         {
             "id": "kitsu:49978",
