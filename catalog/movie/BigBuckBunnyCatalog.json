@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:50272",
+            "type": "series",
+            "name": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50272_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.27"
+        },
+        {
             "id": "kitsu:50139",
             "type": "series",
             "name": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
@@ -46,22 +55,13 @@
             "rating": "8.52"
         },
         {
-            "id": "kitsu:41243",
-            "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41243_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "6.11"
-        },
-        {
             "id": "kitsu:49427",
             "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2",
+            "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.64"
+            "rating": "6.11"
         },
         {
             "id": "kitsu:50761",
@@ -98,6 +98,15 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "7.39"
+        },
+        {
+            "id": "kitsu:56",
+            "type": "series",
+            "name": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_56_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "6.50"
         },
         {
             "id": "kitsu:50694",
@@ -142,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49444_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.85"
+            "rating": "8.86"
         },
         {
             "id": "kitsu:49892",
@@ -332,15 +341,6 @@
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
             "rating": "5.60"
-        },
-        {
-            "id": "kitsu:50551",
-            "type": "series",
-            "name": "Yani Neko (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50551_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.49"
         }
     ]
 }
