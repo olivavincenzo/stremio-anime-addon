@@ -7,7 +7,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50055_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.78"
+            "rating": "6.79"
         },
         {
             "id": "kitsu:50108",
@@ -43,16 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50768_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.53"
-        },
-        {
-            "id": "kitsu:50766",
-            "type": "series",
-            "name": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50766_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "7.13"
+            "rating": "6.54"
         },
         {
             "id": "kitsu:50690",
@@ -109,15 +100,6 @@
             "rating": "7.00"
         },
         {
-            "id": "kitsu:1945",
-            "type": "series",
-            "name": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_1945_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "7.04"
-        },
-        {
             "id": "kitsu:12",
             "type": "series",
             "name": "One Piece",
@@ -134,6 +116,15 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "6.09"
+        },
+        {
+            "id": "kitsu:1945",
+            "type": "series",
+            "name": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_1945_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.44"
         },
         {
             "id": "kitsu:48880",
@@ -160,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49002_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "8.38"
+            "rating": "8.39"
         },
         {
             "id": "kitsu:41923",
@@ -295,7 +286,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49851_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.45"
+            "rating": "6.43"
         },
         {
             "id": "kitsu:50023",
@@ -304,7 +295,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50023_Ep_20.jpg",
             "description": "Nuovo episodio: Ep 20",
             "posterShape": "poster",
-            "rating": "7.74"
+            "rating": "7.73"
         },
         {
             "id": "kitsu:45412",
@@ -313,7 +304,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45412_Ep_21.jpg",
             "description": "Nuovo episodio: Ep 21",
             "posterShape": "poster",
-            "rating": "6.78"
+            "rating": "6.79"
         },
         {
             "id": "kitsu:49444",
