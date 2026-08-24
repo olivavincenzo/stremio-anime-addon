@@ -1,13 +1,40 @@
 {
     "metas": [
         {
+            "id": "kitsu:50768",
+            "type": "series",
+            "name": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50768_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "6.53"
+        },
+        {
+            "id": "kitsu:50766",
+            "type": "series",
+            "name": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50766_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.10"
+        },
+        {
+            "id": "kitsu:50690",
+            "type": "series",
+            "name": "World Is Dancing",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50690_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "5.87"
+        },
+        {
             "id": "kitsu:49410",
             "type": "series",
             "name": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49410_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.00"
+            "rating": "6.99"
         },
         {
             "id": "kitsu:47989",
@@ -16,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47989_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.62"
+            "rating": "6.65"
         },
         {
             "id": "kitsu:50350",
@@ -52,16 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_1945_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.26"
-        },
-        {
-            "id": "kitsu:12",
-            "type": "series",
-            "name": "One Piece",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12_Ep_1175.jpg",
-            "description": "Nuovo episodio: Ep 1175",
-            "posterShape": "poster",
-            "rating": "8.38"
+            "rating": "7.04"
         },
         {
             "id": "kitsu:47342",
@@ -142,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50258_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "4.10"
+            "rating": "4.12"
         },
         {
             "id": "kitsu:50801",
@@ -152,15 +170,6 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "5.48"
-        },
-        {
-            "id": "kitsu:50634",
-            "type": "series",
-            "name": "Seihantai na Kimi to Boku 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50634_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "8.50"
         },
         {
             "id": "kitsu:49427",
@@ -178,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50761_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.62"
+            "rating": "7.63"
         },
         {
             "id": "kitsu:50179",
@@ -295,34 +304,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49656_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.61"
-        },
-        {
-            "id": "kitsu:696",
-            "type": "series",
-            "name": "Case Closed (AG)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_696_Ep_1210.jpg",
-            "description": "Nuovo episodio: Ep 1210",
-            "posterShape": "poster",
-            "rating": "7.21"
-        },
-        {
-            "id": "kitsu:48293",
-            "type": "series",
-            "name": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48293_Ep_19.jpg",
-            "description": "Nuovo episodio: Ep 19",
-            "posterShape": "poster",
-            "rating": "7.71"
-        },
-        {
-            "id": "kitsu:13698",
-            "type": "series",
-            "name": "Rilakkuma",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13698_Ep_21.jpg",
-            "description": "Nuovo episodio: Ep 21",
-            "posterShape": "poster",
-            "rating": "6.03"
+            "rating": "7.62"
         }
     ]
 }
