@@ -10,6 +10,15 @@
             "rating": "7.00"
         },
         {
+            "id": "kitsu:1945",
+            "type": "series",
+            "name": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_1945_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "7.05"
+        },
+        {
             "id": "kitsu:12",
             "type": "series",
             "name": "One Piece",
@@ -26,15 +35,6 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "6.18"
-        },
-        {
-            "id": "kitsu:1945",
-            "type": "series",
-            "name": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_1945_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "7.46"
         },
         {
             "id": "kitsu:48880",
@@ -136,15 +136,6 @@
             "rating": "6.11"
         },
         {
-            "id": "kitsu:50761",
-            "type": "series",
-            "name": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50761_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "7.63"
-        },
-        {
             "id": "kitsu:50179",
             "type": "series",
             "name": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
@@ -152,15 +143,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.97"
-        },
-        {
-            "id": "kitsu:50767",
-            "type": "series",
-            "name": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50767_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "6.70"
         },
         {
             "id": "kitsu:49978",
@@ -179,15 +161,6 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "5.45"
-        },
-        {
-            "id": "kitsu:49851",
-            "type": "series",
-            "name": "Tenmaku no Jaadugar",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49851_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "6.44"
         },
         {
             "id": "kitsu:50023",
@@ -214,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49444_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.86"
+            "rating": "8.87"
         },
         {
             "id": "kitsu:49892",
@@ -251,78 +224,6 @@
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
             "rating": "8.13"
-        },
-        {
-            "id": "kitsu:49656",
-            "type": "series",
-            "name": "Black Torch",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49656_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "7.62"
-        },
-        {
-            "id": "kitsu:696",
-            "type": "series",
-            "name": "Case Closed (AG)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_696_Ep_1210.jpg",
-            "description": "Nuovo episodio: Ep 1210",
-            "posterShape": "poster",
-            "rating": "7.21"
-        },
-        {
-            "id": "kitsu:48293",
-            "type": "series",
-            "name": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48293_Ep_19.jpg",
-            "description": "Nuovo episodio: Ep 19",
-            "posterShape": "poster",
-            "rating": "7.71"
-        },
-        {
-            "id": "kitsu:13698",
-            "type": "series",
-            "name": "Rilakkuma",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13698_Ep_21.jpg",
-            "description": "Nuovo episodio: Ep 21",
-            "posterShape": "poster",
-            "rating": "6.03"
-        },
-        {
-            "id": "kitsu:50760",
-            "type": "series",
-            "name": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50760_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "7.47"
-        },
-        {
-            "id": "kitsu:50571",
-            "type": "series",
-            "name": "Onegai AiPri",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50571_Ep_20.jpg",
-            "description": "Nuovo episodio: Ep 20",
-            "posterShape": "poster",
-            "rating": "5.31"
-        },
-        {
-            "id": "kitsu:50797",
-            "type": "series",
-            "name": "Uchi no Otouto-domo ga Sumimasen",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50797_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "6.80"
-        },
-        {
-            "id": "kitsu:49265",
-            "type": "series",
-            "name": "Nige Jouzu no Wakagimi 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49265_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.44"
         }
     ]
 }
