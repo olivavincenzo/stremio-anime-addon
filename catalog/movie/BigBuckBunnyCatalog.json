@@ -1,94 +1,13 @@
 {
     "metas": [
         {
-            "id": "kitsu:50139",
+            "id": "kitsu:50483",
             "type": "series",
-            "name": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50139_Ep_8.jpg",
+            "name": "Iwamoto-senpai no Suisen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50483_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.91"
-        },
-        {
-            "id": "kitsu:49700",
-            "type": "series",
-            "name": "Digimon Beatbreak",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_44.jpg",
-            "description": "Nuovo episodio: Ep 44",
-            "posterShape": "poster",
-            "rating": "4.79"
-        },
-        {
-            "id": "kitsu:50258",
-            "type": "series",
-            "name": "Let's Go Kaiki-gumi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50258_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "4.10"
-        },
-        {
-            "id": "kitsu:50801",
-            "type": "series",
-            "name": "Tetsunabe no Jan!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50801_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "5.48"
-        },
-        {
-            "id": "kitsu:50634",
-            "type": "series",
-            "name": "Seihantai na Kimi to Boku 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50634_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "8.50"
-        },
-        {
-            "id": "kitsu:49427",
-            "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "5.64"
-        },
-        {
-            "id": "kitsu:50179",
-            "type": "series",
-            "name": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50179_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "6.96"
-        },
-        {
-            "id": "kitsu:50694",
-            "type": "series",
-            "name": "Grow Up Show: Himawari no Circus-dan",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50694_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "5.45"
-        },
-        {
-            "id": "kitsu:49585",
-            "type": "series",
-            "name": "Neko to Ryuu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49585_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "8.13"
-        },
-        {
-            "id": "kitsu:48293",
-            "type": "series",
-            "name": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48293_Ep_19.jpg",
-            "description": "Nuovo episodio: Ep 19",
-            "posterShape": "poster",
-            "rating": "7.71"
+            "rating": "5.03"
         }
     ]
 }
