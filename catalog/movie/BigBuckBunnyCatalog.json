@@ -28,22 +28,13 @@
             "rating": "5.82"
         },
         {
-            "id": "kitsu:25",
-            "type": "series",
-            "name": "Koukaku Kidoutai (TV) (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_25_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "7.12"
-        },
-        {
             "id": "kitsu:10229",
             "type": "series",
-            "name": "Koukaku Kidoutai (TV)",
+            "name": "Koukaku Kidoutai (TV) (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10229_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.15"
+            "rating": "7.12"
         },
         {
             "id": "kitsu:50805",
@@ -61,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50048_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.83"
+            "rating": "6.82"
         },
         {
             "id": "kitsu:49607",
@@ -118,6 +109,15 @@
             "rating": "8.80"
         },
         {
+            "id": "kitsu:47988",
+            "type": "series",
+            "name": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47988_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "6.23"
+        },
+        {
             "id": "kitsu:50768",
             "type": "series",
             "name": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
@@ -125,6 +125,15 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "6.54"
+        },
+        {
+            "id": "kitsu:50766",
+            "type": "series",
+            "name": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50766_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.13"
         },
         {
             "id": "kitsu:50690",
@@ -181,15 +190,6 @@
             "rating": "7.00"
         },
         {
-            "id": "kitsu:1945",
-            "type": "series",
-            "name": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_1945_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "7.30"
-        },
-        {
             "id": "kitsu:12",
             "type": "series",
             "name": "One Piece",
@@ -199,10 +199,10 @@
             "rating": "8.38"
         },
         {
-            "id": "kitsu:47929",
+            "id": "kitsu:47342",
             "type": "series",
             "name": "Azur Lane: Bisoku Zenshin! Ni!!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47929_Ep_8.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47342_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "6.09"
