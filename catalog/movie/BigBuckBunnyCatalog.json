@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:50649",
+            "type": "series",
+            "name": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50649_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "4.89"
+        },
+        {
             "id": "kitsu:50562",
             "type": "series",
             "name": "Sora wa Akai Kawa no Hotori",
@@ -16,16 +25,25 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50622_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.90"
+            "rating": "5.82"
+        },
+        {
+            "id": "kitsu:25",
+            "type": "series",
+            "name": "Koukaku Kidoutai (TV) (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_25_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.12"
         },
         {
             "id": "kitsu:10229",
             "type": "series",
-            "name": "Koukaku Kidoutai (TV) (ITA)",
+            "name": "Koukaku Kidoutai (TV)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10229_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.12"
+            "rating": "7.15"
         },
         {
             "id": "kitsu:50805",
@@ -79,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50055_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.78"
+            "rating": "6.79"
         },
         {
             "id": "kitsu:50108",
@@ -151,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47989_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.66"
+            "rating": "6.65"
         },
         {
             "id": "kitsu:50350",
@@ -179,6 +197,15 @@
             "description": "Nuovo episodio: Ep 30",
             "posterShape": "poster",
             "rating": "7.00"
+        },
+        {
+            "id": "kitsu:1945",
+            "type": "series",
+            "name": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_1945_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "7.30"
         },
         {
             "id": "kitsu:12",
@@ -241,7 +268,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50272_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.27"
+            "rating": "7.28"
         },
         {
             "id": "kitsu:50139",
@@ -271,15 +298,6 @@
             "rating": "4.12"
         },
         {
-            "id": "kitsu:50801",
-            "type": "series",
-            "name": "Tetsunabe no Jan!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50801_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "5.49"
-        },
-        {
             "id": "kitsu:50634",
             "type": "series",
             "name": "Seihantai na Kimi to Boku 2",
@@ -289,13 +307,13 @@
             "rating": "8.52"
         },
         {
-            "id": "kitsu:41243",
+            "id": "kitsu:49427",
             "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41243_Ep_8.jpg",
+            "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.74"
+            "rating": "6.05"
         },
         {
             "id": "kitsu:50761",
@@ -305,15 +323,6 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "7.62"
-        },
-        {
-            "id": "kitsu:50179",
-            "type": "series",
-            "name": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50179_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "6.92"
         }
     ]
 }
