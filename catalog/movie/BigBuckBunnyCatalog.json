@@ -7,7 +7,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50649_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "4.89"
+            "rating": "4.93"
         },
         {
             "id": "kitsu:50562",
@@ -28,22 +28,13 @@
             "rating": "5.82"
         },
         {
-            "id": "kitsu:25",
-            "type": "series",
-            "name": "Koukaku Kidoutai (TV) (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_25_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "7.12"
-        },
-        {
             "id": "kitsu:10229",
             "type": "series",
-            "name": "Koukaku Kidoutai (TV)",
+            "name": "Koukaku Kidoutai (TV) (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10229_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.15"
+            "rating": "7.12"
         },
         {
             "id": "kitsu:50805",
@@ -98,15 +89,6 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.79"
-        },
-        {
-            "id": "kitsu:50108",
-            "type": "series",
-            "name": "Liar Game",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50108_Ep_21.jpg",
-            "description": "Nuovo episodio: Ep 21",
-            "posterShape": "poster",
-            "rating": "5.84"
         },
         {
             "id": "kitsu:50181",
@@ -208,15 +190,6 @@
             "rating": "7.30"
         },
         {
-            "id": "kitsu:12",
-            "type": "series",
-            "name": "One Piece",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12_Ep_1175.jpg",
-            "description": "Nuovo episodio: Ep 1175",
-            "posterShape": "poster",
-            "rating": "8.38"
-        },
-        {
             "id": "kitsu:47342",
             "type": "series",
             "name": "Azur Lane: Bisoku Zenshin! Ni!!",
@@ -280,15 +253,6 @@
             "rating": "5.91"
         },
         {
-            "id": "kitsu:49700",
-            "type": "series",
-            "name": "Digimon Beatbreak",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_44.jpg",
-            "description": "Nuovo episodio: Ep 44",
-            "posterShape": "poster",
-            "rating": "4.79"
-        },
-        {
             "id": "kitsu:50258",
             "type": "series",
             "name": "Let's Go Kaiki-gumi",
@@ -296,6 +260,15 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "4.12"
+        },
+        {
+            "id": "kitsu:50801",
+            "type": "series",
+            "name": "Tetsunabe no Jan!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50801_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "5.49"
         },
         {
             "id": "kitsu:50634",
@@ -314,6 +287,15 @@
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
             "rating": "6.05"
+        },
+        {
+            "id": "kitsu:41243",
+            "type": "series",
+            "name": "Kabushikigaisha Magi-Lumière 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41243_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "5.74"
         },
         {
             "id": "kitsu:50761",
