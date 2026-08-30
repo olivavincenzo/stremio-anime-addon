@@ -43,7 +43,16 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49978_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.32"
+            "rating": "7.31"
+        },
+        {
+            "id": "kitsu:56",
+            "type": "series",
+            "name": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_56_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "6.49"
         },
         {
             "id": "kitsu:50694",
@@ -91,6 +100,15 @@
             "rating": "7.24"
         },
         {
+            "id": "kitsu:2513",
+            "type": "series",
+            "name": "Ushiro no Shoumen Kamui-san",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_2513_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "6.37"
+        },
+        {
             "id": "kitsu:50483",
             "type": "series",
             "name": "Iwamoto-senpai no Suisen",
@@ -136,6 +154,24 @@
             "rating": "7.88"
         },
         {
+            "id": "kitsu:13698",
+            "type": "series",
+            "name": "Rilakkuma",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13698_Ep_22.jpg",
+            "description": "Nuovo episodio: Ep 22",
+            "posterShape": "poster",
+            "rating": "6.03"
+        },
+        {
+            "id": "kitsu:49892",
+            "type": "series",
+            "name": "Kun Tun Tianxia Zhi Zhang Men Guilai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49892_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.04"
+        },
+        {
             "id": "kitsu:10089",
             "type": "series",
             "name": "Boruto: Naruto the Movie (ITA)",
@@ -160,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50769_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "5.72"
+            "rating": "5.73"
         },
         {
             "id": "kitsu:50797",
@@ -169,7 +205,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50797_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.73"
+            "rating": "6.72"
         },
         {
             "id": "kitsu:49265",
@@ -241,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50411_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.14"
+            "rating": "7.13"
         },
         {
             "id": "kitsu:45570",
@@ -260,6 +296,15 @@
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "7.41"
+        },
+        {
+            "id": "kitsu:49183",
+            "type": "series",
+            "name": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "7.04"
         },
         {
             "id": "kitsu:50040",
