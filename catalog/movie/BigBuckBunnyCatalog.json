@@ -10,31 +10,49 @@
             "rating": "5.22"
         },
         {
-            "id": "kitsu:25",
+            "id": "kitsu:50805",
             "type": "series",
-            "name": "Koukaku Kidoutai (TV) (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_25_Ep_9.jpg",
+            "name": "Tefuda ga Oome no Victoria",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50805_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.06"
+            "rating": "7.22"
         },
         {
-            "id": "kitsu:10229",
+            "id": "kitsu:49607",
             "type": "series",
-            "name": "Koukaku Kidoutai (TV)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10229_Ep_9.jpg",
+            "name": "Kimi ga Shinu made Koi wo Shitai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49607_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.11"
+            "rating": "6.38"
         },
         {
-            "id": "kitsu:44536",
+            "id": "kitsu:44021",
             "type": "series",
-            "name": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44536_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
+            "name": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44021_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.76"
+            "rating": "5.86"
+        },
+        {
+            "id": "kitsu:41442",
+            "type": "series",
+            "name": "Ushiro no Shoumen Kamui-san",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41442_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.34"
+        },
+        {
+            "id": "kitsu:50108",
+            "type": "series",
+            "name": "Liar Game",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50108_Ep_22.jpg",
+            "description": "Nuovo episodio: Ep 22",
+            "posterShape": "poster",
+            "rating": "5.84"
         },
         {
             "id": "kitsu:50181",
@@ -46,22 +64,31 @@
             "rating": "8.75"
         },
         {
-            "id": "kitsu:47989",
+            "id": "kitsu:50768",
             "type": "series",
-            "name": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47989_Ep_9.jpg",
+            "name": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50768_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.66"
+            "rating": "6.53"
         },
         {
-            "id": "kitsu:47929",
+            "id": "kitsu:49410",
             "type": "series",
-            "name": "Azur Lane: Bisoku Zenshin! Ni!!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47929_Ep_9.jpg",
+            "name": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49410_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.09"
+            "rating": "6.93"
+        },
+        {
+            "id": "kitsu:50362",
+            "type": "series",
+            "name": "Meitantei Precure!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50362_Ep_31.jpg",
+            "description": "Nuovo episodio: Ep 31",
+            "posterShape": "poster",
+            "rating": "7.00"
         },
         {
             "id": "kitsu:48880",
@@ -79,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49002_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "8.34"
+            "rating": "8.35"
         },
         {
             "id": "kitsu:50079",
@@ -100,15 +127,6 @@
             "rating": "5.67"
         },
         {
-            "id": "kitsu:50272",
-            "type": "series",
-            "name": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50272_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "7.23"
-        },
-        {
             "id": "kitsu:50139",
             "type": "series",
             "name": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
@@ -118,6 +136,15 @@
             "rating": "5.91"
         },
         {
+            "id": "kitsu:50571",
+            "type": "series",
+            "name": "Onegai AiPri",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50571_Ep_21.jpg",
+            "description": "Nuovo episodio: Ep 21",
+            "posterShape": "poster",
+            "rating": "5.06"
+        },
+        {
             "id": "kitsu:50801",
             "type": "series",
             "name": "Tetsunabe no Jan!",
@@ -125,6 +152,24 @@
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
             "rating": "5.54"
+        },
+        {
+            "id": "kitsu:50258",
+            "type": "series",
+            "name": "Let's Go Kaiki-gumi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50258_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "4.13"
+        },
+        {
+            "id": "kitsu:50761",
+            "type": "series",
+            "name": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50761_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "7.61"
         }
     ]
 }
