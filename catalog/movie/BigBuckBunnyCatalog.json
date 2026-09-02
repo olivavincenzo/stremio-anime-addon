@@ -1,6 +1,69 @@
 {
     "metas": [
         {
+            "id": "kitsu:50480",
+            "type": "series",
+            "name": "Dogulwang",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50480_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "6.69"
+        },
+        {
+            "id": "kitsu:50519",
+            "type": "series",
+            "name": "Thunder 3 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50519_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "4.74"
+        },
+        {
+            "id": "kitsu:50613",
+            "type": "series",
+            "name": "Hanazakari no Kimitachi e 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50613_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "6.96"
+        },
+        {
+            "id": "kitsu:50109",
+            "type": "series",
+            "name": "Lv999 no Murabito",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50109_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "6.68"
+        },
+        {
+            "id": "kitsu:49995",
+            "type": "series",
+            "name": "Katainaka no Ossan, Kensei ni Naru II (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49995_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "7.48"
+        },
+        {
+            "id": "kitsu:46925",
+            "type": "series",
+            "name": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46925_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "7.39"
+        },
+        {
+            "id": "kitsu:49746",
+            "type": "series",
+            "name": "Re:Zero kara Hajimeru Isekai Seikatsu 4 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49746_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "8.29"
+        },
+        {
             "id": "kitsu:49913",
             "type": "series",
             "name": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
@@ -10,22 +73,13 @@
             "rating": "6.81"
         },
         {
-            "id": "kitsu:49746",
-            "type": "series",
-            "name": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49746_Ep_15.jpg",
-            "description": "Nuovo episodio: Ep 15",
-            "posterShape": "poster",
-            "rating": "8.80"
-        },
-        {
             "id": "kitsu:44778",
             "type": "series",
             "name": "Youjo Senki 2",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44778_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "8.83"
+            "rating": "8.84"
         },
         {
             "id": "kitsu:50649",
@@ -34,7 +88,16 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50649_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "4.93"
+            "rating": "4.96"
+        },
+        {
+            "id": "kitsu:50279",
+            "type": "series",
+            "name": "Yi Nian Yong Heng: Wanjie Ji",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50279_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.54"
         },
         {
             "id": "kitsu:50154",
@@ -52,13 +115,22 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45570_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "5.81"
+            "rating": "5.88"
         },
         {
-            "id": "kitsu:12313",
+            "id": "kitsu:50622",
+            "type": "series",
+            "name": "Yoroi Shin Den Samurai Troopers Part 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50622_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "5.76"
+        },
+        {
+            "id": "kitsu:50665",
             "type": "series",
             "name": "Re:Zero kara Hajimeru Break Time 4",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12313_Ep_14.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50665_Ep_14.jpg",
             "description": "Nuovo episodio: Ep 14",
             "posterShape": "poster",
             "rating": "7.02"
@@ -70,16 +142,61 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50562_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "5.24"
+            "rating": "5.25"
         },
         {
             "id": "kitsu:10229",
             "type": "series",
-            "name": "Koukaku Kidoutai (TV)",
+            "name": "Koukaku Kidoutai (TV) (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10229_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.11"
+            "rating": "7.03"
+        },
+        {
+            "id": "kitsu:50805",
+            "type": "series",
+            "name": "Tefuda ga Oome no Victoria",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50805_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "7.25"
+        },
+        {
+            "id": "kitsu:50048",
+            "type": "series",
+            "name": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50048_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "6.83"
+        },
+        {
+            "id": "kitsu:49607",
+            "type": "series",
+            "name": "Kimi ga Shinu made Koi wo Shitai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49607_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "6.40"
+        },
+        {
+            "id": "kitsu:44021",
+            "type": "series",
+            "name": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44021_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "5.86"
+        },
+        {
+            "id": "kitsu:50828",
+            "type": "series",
+            "name": "Bai Ri Cheng Wang",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50828_Ep_21.jpg",
+            "description": "Nuovo episodio: Ep 21",
+            "posterShape": "poster",
+            "rating": "6.51"
         },
         {
             "id": "kitsu:44536",
@@ -97,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41442_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.35"
+            "rating": "6.36"
         },
         {
             "id": "kitsu:50108",
@@ -115,7 +232,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50181_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "8.76"
+            "rating": "8.75"
         },
         {
             "id": "kitsu:47988",
@@ -127,6 +244,15 @@
             "rating": "6.22"
         },
         {
+            "id": "kitsu:50768",
+            "type": "series",
+            "name": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50768_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "6.54"
+        },
+        {
             "id": "kitsu:50766",
             "type": "series",
             "name": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
@@ -136,22 +262,49 @@
             "rating": "7.11"
         },
         {
-            "id": "kitsu:49002",
+            "id": "kitsu:50690",
             "type": "series",
-            "name": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49002_Ep_10.jpg",
+            "name": "World Is Dancing",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50690_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "8.35"
+            "rating": "5.93"
         },
         {
-            "id": "kitsu:41923",
+            "id": "kitsu:47989",
             "type": "series",
-            "name": "Nijusseiki Denki Mokuroku: Eureka Evrika",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41923_Ep_9.jpg",
+            "name": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47989_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "5.69"
+            "rating": "6.65"
+        },
+        {
+            "id": "kitsu:49410",
+            "type": "series",
+            "name": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49410_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "6.93"
+        },
+        {
+            "id": "kitsu:50350",
+            "type": "series",
+            "name": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50350_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "7.38"
+        },
+        {
+            "id": "kitsu:50362",
+            "type": "series",
+            "name": "Meitantei Precure!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50362_Ep_31.jpg",
+            "description": "Nuovo episodio: Ep 31",
+            "posterShape": "poster",
+            "rating": "7.00"
         }
     ]
 }
