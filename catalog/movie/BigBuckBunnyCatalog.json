@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:50828",
+            "type": "series",
+            "name": "Bai Ri Cheng Wang",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50828_Ep_22.jpg",
+            "description": "Nuovo episodio: Ep 22",
+            "posterShape": "poster",
+            "rating": "6.48"
+        },
+        {
+            "id": "kitsu:49889",
+            "type": "series",
+            "name": "Shiguang Dailiren III",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49889_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.98"
+        },
+        {
             "id": "kitsu:50769",
             "type": "series",
             "name": "Perfect Addiction",
@@ -43,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "7.06"
+            "rating": "7.07"
         },
         {
             "id": "kitsu:50040",
@@ -97,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50751_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.12"
+            "rating": "6.11"
         },
         {
             "id": "kitsu:49892",
@@ -106,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49892_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.07"
+            "rating": "7.05"
         },
         {
             "id": "kitsu:45570",
@@ -232,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50279_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.59"
+            "rating": "7.46"
         },
         {
             "id": "kitsu:50154",
@@ -251,15 +269,6 @@
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
             "rating": "5.76"
-        },
-        {
-            "id": "kitsu:50562",
-            "type": "series",
-            "name": "Sora wa Akai Kawa no Hotori",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50562_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "5.27"
         }
     ]
 }
