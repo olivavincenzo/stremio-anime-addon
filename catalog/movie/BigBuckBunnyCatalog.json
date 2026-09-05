@@ -16,7 +16,34 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49892_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "7.04"
+            "rating": "7.05"
+        },
+        {
+            "id": "kitsu:50760",
+            "type": "series",
+            "name": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50760_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "7.44"
+        },
+        {
+            "id": "kitsu:50797",
+            "type": "series",
+            "name": "Uchi no Otouto-domo ga Sumimasen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50797_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "6.75"
+        },
+        {
+            "id": "kitsu:49265",
+            "type": "series",
+            "name": "Nige Jouzu no Wakagimi 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49265_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.44"
         },
         {
             "id": "kitsu:50244",
@@ -25,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50244_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "4.62"
+            "rating": "4.66"
         },
         {
             "id": "kitsu:50354",
@@ -73,6 +100,33 @@
             "rating": "5.62"
         },
         {
+            "id": "kitsu:7310",
+            "type": "series",
+            "name": "One Room Jogyo-nim",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_7310_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "6.10"
+        },
+        {
+            "id": "kitsu:12758",
+            "type": "series",
+            "name": "One Room Jogyo-nim",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12758_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.10"
+        },
+        {
+            "id": "kitsu:50411",
+            "type": "series",
+            "name": "Otome Kaijuu Caraméliser",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50411_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "7.14"
+        },
+        {
             "id": "kitsu:50551",
             "type": "series",
             "name": "Yani Neko (ITA)",
@@ -82,31 +136,49 @@
             "rating": "7.42"
         },
         {
-            "id": "kitsu:50137",
+            "id": "kitsu:50040",
             "type": "series",
-            "name": "BanG Dream! Yume∞Mita",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50137_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
+            "name": "Super no Ura de Yani Suu Futari",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50040_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.63"
+            "rating": "8.48"
         },
         {
-            "id": "kitsu:50328",
+            "id": "kitsu:42337",
             "type": "series",
-            "name": "Bungo Stray Dogs Wan! 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50328_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
+            "name": "Mebius Dust",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_42337_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.20"
+            "rating": "4.47"
         },
         {
-            "id": "kitsu:50751",
+            "id": "kitsu:45570",
             "type": "series",
-            "name": "Reiwa no Dara-san",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50751_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
+            "name": "Biao Ren",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45570_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.12"
+            "rating": "5.92"
+        },
+        {
+            "id": "kitsu:42216",
+            "type": "series",
+            "name": "Dropout Idol Fruit Tart",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_42216_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "6.40"
+        },
+        {
+            "id": "kitsu:50665",
+            "type": "series",
+            "name": "Re:Zero kara Hajimeru Break Time 4",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50665_Ep_15.jpg",
+            "description": "Nuovo episodio: Ep 15",
+            "posterShape": "poster",
+            "rating": "7.02"
         },
         {
             "id": "kitsu:50480",
@@ -120,11 +192,20 @@
         {
             "id": "kitsu:50519",
             "type": "series",
-            "name": "Thunder 3 (ITA)",
+            "name": "Thunder 3",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50519_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "4.74"
+            "rating": "4.68"
+        },
+        {
+            "id": "kitsu:50613",
+            "type": "series",
+            "name": "Hanazakari no Kimitachi e 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50613_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "6.87"
         },
         {
             "id": "kitsu:50109",
@@ -143,6 +224,15 @@
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
             "rating": "7.82"
+        },
+        {
+            "id": "kitsu:46925",
+            "type": "series",
+            "name": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46925_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "7.37"
         }
     ]
 }
