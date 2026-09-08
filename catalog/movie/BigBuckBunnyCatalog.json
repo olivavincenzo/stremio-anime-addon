@@ -1,6 +1,15 @@
 {
     "metas": [
         {
+            "id": "kitsu:50690",
+            "type": "series",
+            "name": "World Is Dancing",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50690_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "5.92"
+        },
+        {
             "id": "kitsu:50954",
             "type": "series",
             "name": "Ushiro no Shoumen Kamui-san",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50181_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "8.76"
+            "rating": "8.75"
         },
         {
             "id": "kitsu:47988",
@@ -46,31 +55,13 @@
             "rating": "6.66"
         },
         {
-            "id": "kitsu:44423",
+            "id": "kitsu:49410",
             "type": "series",
             "name": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44423_Ep_10.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49410_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
             "rating": "6.90"
-        },
-        {
-            "id": "kitsu:50350",
-            "type": "series",
-            "name": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50350_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "7.38"
-        },
-        {
-            "id": "kitsu:50362",
-            "type": "series",
-            "name": "Meitantei Precure!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50362_Ep_32.jpg",
-            "description": "Nuovo episodio: Ep 32",
-            "posterShape": "poster",
-            "rating": "7.00"
         },
         {
             "id": "kitsu:44814",
@@ -109,6 +100,15 @@
             "rating": "8.38"
         },
         {
+            "id": "kitsu:1945",
+            "type": "series",
+            "name": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_1945_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.71"
+        },
+        {
             "id": "kitsu:48880",
             "type": "series",
             "name": "Sayonara Lara",
@@ -124,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49002_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.87"
+            "rating": "7.85"
         },
         {
             "id": "kitsu:50079",
@@ -138,11 +138,11 @@
         {
             "id": "kitsu:41923",
             "type": "series",
-            "name": "Nijusseiki Denki Mokuroku: Eureka Evrika (ITA)",
+            "name": "Nijusseiki Denki Mokuroku: Eureka Evrika",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41923_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "5.11"
+            "rating": "5.72"
         },
         {
             "id": "kitsu:50272",
@@ -151,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50272_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "7.24"
+            "rating": "7.25"
         },
         {
             "id": "kitsu:50139",
@@ -170,15 +170,6 @@
             "description": "Nuovo episodio: Ep 46",
             "posterShape": "poster",
             "rating": "4.80"
-        },
-        {
-            "id": "kitsu:50801",
-            "type": "series",
-            "name": "Tetsunabe no Jan!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50801_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "5.54"
         },
         {
             "id": "kitsu:50258",
@@ -208,13 +199,13 @@
             "rating": "7.61"
         },
         {
-            "id": "kitsu:49427",
+            "id": "kitsu:41243",
             "type": "series",
-            "name": "Kabushikigaisha Magi-Lumière 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49427_Ep_9.jpg",
+            "name": "Kabushikigaisha Magi-Lumière 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_41243_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.08"
+            "rating": "5.74"
         },
         {
             "id": "kitsu:50179",
@@ -224,15 +215,6 @@
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
             "rating": "6.89"
-        },
-        {
-            "id": "kitsu:50767",
-            "type": "series",
-            "name": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50767_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "6.69"
         },
         {
             "id": "kitsu:49978",
