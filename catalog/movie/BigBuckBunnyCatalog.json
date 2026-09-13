@@ -1,6 +1,69 @@
 {
     "metas": [
         {
+            "id": "kitsu:47342",
+            "type": "series",
+            "name": "Azur Lane: Bisoku Zenshin! Ni!!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47342_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "6.13"
+        },
+        {
+            "id": "kitsu:12",
+            "type": "series",
+            "name": "One Piece",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12_Ep_1178.jpg",
+            "description": "Nuovo episodio: Ep 1178",
+            "posterShape": "poster",
+            "rating": "8.38"
+        },
+        {
+            "id": "kitsu:50921",
+            "type": "series",
+            "name": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50921_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.48"
+        },
+        {
+            "id": "kitsu:10233",
+            "type": "series",
+            "name": "Onaji Semi no Someya-san ga Sexy Joyuu datta Hanashi.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_10233_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "6.35"
+        },
+        {
+            "id": "kitsu:48880",
+            "type": "series",
+            "name": "Sayonara Lara",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48880_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "5.58"
+        },
+        {
+            "id": "kitsu:49002",
+            "type": "series",
+            "name": "Mushoku Tensei III: Isekai Ittara Honki Dasu (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49002_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "7.85"
+        },
+        {
+            "id": "kitsu:50079",
+            "type": "series",
+            "name": "Kuroneko to Majo no Kyoushitsu",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50079_Ep_23.jpg",
+            "description": "Nuovo episodio: Ep 23",
+            "posterShape": "poster",
+            "rating": "6.44"
+        },
+        {
             "id": "kitsu:41923",
             "type": "series",
             "name": "Nijusseiki Denki Mokuroku: Eureka Evrika (ITA)",
@@ -25,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50139_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "5.94"
+            "rating": "5.93"
         },
         {
             "id": "kitsu:50801",
@@ -61,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49700_Ep_47.jpg",
             "description": "Nuovo episodio: Ep 47",
             "posterShape": "poster",
-            "rating": "4.80"
+            "rating": "4.82"
         },
         {
             "id": "kitsu:49444",
@@ -70,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49444_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "8.72"
+            "rating": "8.73"
         },
         {
             "id": "kitsu:50761",
@@ -106,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50767_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "6.71"
+            "rating": "6.75"
         },
         {
             "id": "kitsu:49978",
@@ -178,7 +241,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45657_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.64"
+            "rating": "7.62"
         },
         {
             "id": "kitsu:49585",
@@ -187,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49585_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "8.20"
+            "rating": "8.21"
         },
         {
             "id": "kitsu:49656",
@@ -214,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49361_Ep_22.jpg",
             "description": "Nuovo episodio: Ep 22",
             "posterShape": "poster",
-            "rating": "7.90"
+            "rating": "7.89"
         },
         {
             "id": "kitsu:50452",
@@ -233,87 +296,6 @@
             "description": "Nuovo episodio: Ep 21",
             "posterShape": "poster",
             "rating": "7.70"
-        },
-        {
-            "id": "kitsu:13698",
-            "type": "series",
-            "name": "Rilakkuma",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13698_Ep_24.jpg",
-            "description": "Nuovo episodio: Ep 24",
-            "posterShape": "poster",
-            "rating": "6.12"
-        },
-        {
-            "id": "kitsu:49892",
-            "type": "series",
-            "name": "Kun Tun Tianxia Zhi Zhang Men Guilai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49892_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "7.19"
-        },
-        {
-            "id": "kitsu:50760",
-            "type": "series",
-            "name": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50760_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "7.44"
-        },
-        {
-            "id": "kitsu:50797",
-            "type": "series",
-            "name": "Uchi no Otouto-domo ga Sumimasen",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50797_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "6.76"
-        },
-        {
-            "id": "kitsu:49265",
-            "type": "series",
-            "name": "Nige Jouzu no Wakagimi 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49265_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "7.45"
-        },
-        {
-            "id": "kitsu:44814",
-            "type": "series",
-            "name": "Waccha PriMagi!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44814_Ep_38.jpg",
-            "description": "Nuovo episodio: Ep 38",
-            "posterShape": "poster",
-            "rating": "4.46"
-        },
-        {
-            "id": "kitsu:49235",
-            "type": "series",
-            "name": "Tensei shitara Slime Datta Ken 4 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_19.jpg",
-            "description": "Nuovo episodio: Ep 19",
-            "posterShape": "poster",
-            "rating": "8.07"
-        },
-        {
-            "id": "kitsu:50244",
-            "type": "series",
-            "name": "Kore Kaite Shine",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50244_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "4.68"
-        },
-        {
-            "id": "kitsu:50354",
-            "type": "series",
-            "name": "Kami no Shizuku",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50354_Ep_23.jpg",
-            "description": "Nuovo episodio: Ep 23",
-            "posterShape": "poster",
-            "rating": "4.05"
         }
     ]
 }
