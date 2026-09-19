@@ -1,6 +1,33 @@
 {
     "metas": [
         {
+            "id": "kitsu:696",
+            "type": "series",
+            "name": "Case Closed (AG)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_696_Ep_1213.jpg",
+            "description": "Nuovo episodio: Ep 1213",
+            "posterShape": "poster",
+            "rating": "7.28"
+        },
+        {
+            "id": "kitsu:50452",
+            "type": "series",
+            "name": "Kaijuu 8-gou: Narumi no Heijitsu",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50452_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "6.95"
+        },
+        {
+            "id": "kitsu:48293",
+            "type": "series",
+            "name": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48293_Ep_22.jpg",
+            "description": "Nuovo episodio: Ep 22",
+            "posterShape": "poster",
+            "rating": "7.68"
+        },
+        {
             "id": "kitsu:13698",
             "type": "series",
             "name": "Rilakkuma",
@@ -25,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50760_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.46"
+            "rating": "7.45"
         },
         {
             "id": "kitsu:50797",
@@ -97,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50049_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.14"
+            "rating": "7.16"
         },
         {
             "id": "kitsu:49889",
@@ -142,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50665_Ep_17.jpg",
             "description": "Nuovo episodio: Ep 17",
             "posterShape": "poster",
-            "rating": "6.93"
+            "rating": "6.85"
         },
         {
             "id": "kitsu:50040",
@@ -205,7 +232,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50769_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "5.73"
+            "rating": "5.76"
         },
         {
             "id": "kitsu:45570",
@@ -268,7 +295,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49995_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.34"
+            "rating": "7.37"
         },
         {
             "id": "kitsu:46925",
@@ -286,25 +313,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49746_Ep_14.jpg",
             "description": "Nuovo episodio: Ep 14",
             "posterShape": "poster",
-            "rating": "8.26"
-        },
-        {
-            "id": "kitsu:44778",
-            "type": "series",
-            "name": "Youjo Senki 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44778_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "8.77"
-        },
-        {
-            "id": "kitsu:50154",
-            "type": "series",
-            "name": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50154_Ep_11.jpg",
-            "description": "Nuovo episodio: Ep 11",
-            "posterShape": "poster",
-            "rating": "7.45"
+            "rating": "8.24"
         }
     ]
 }
