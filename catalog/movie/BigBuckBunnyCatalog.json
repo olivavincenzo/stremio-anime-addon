@@ -1,13 +1,40 @@
 {
     "metas": [
         {
+            "id": "kitsu:50040",
+            "type": "series",
+            "name": "Super no Ura de Yani Suu Futari",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50040_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "8.41"
+        },
+        {
+            "id": "kitsu:50551",
+            "type": "series",
+            "name": "Yani Neko (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50551_Ep_10.jpg",
+            "description": "Nuovo episodio: Ep 10",
+            "posterShape": "poster",
+            "rating": "7.20"
+        },
+        {
+            "id": "kitsu:50751",
+            "type": "series",
+            "name": "Reiwa no Dara-san",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50751_Ep_13.jpg",
+            "description": "Nuovo episodio: Ep 13",
+            "posterShape": "poster",
+            "rating": "6.28"
+        },
+        {
             "id": "kitsu:50769",
             "type": "series",
             "name": "Perfect Addiction",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50769_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.87"
+            "rating": "5.88"
         },
         {
             "id": "kitsu:50649",
@@ -16,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50649_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.06"
+            "rating": "5.07"
         },
         {
             "id": "kitsu:45570",
@@ -25,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45570_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.40"
+            "rating": "6.39"
         },
         {
             "id": "kitsu:12",
@@ -43,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50154_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.37"
+            "rating": "7.36"
         },
         {
             "id": "kitsu:48108",
@@ -52,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48108_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.18"
+            "rating": "7.05"
         },
         {
             "id": "kitsu:50665",
@@ -70,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49995_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.46"
+            "rating": "7.45"
         },
         {
             "id": "kitsu:46925",
@@ -79,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46925_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.45"
+            "rating": "7.43"
         },
         {
             "id": "kitsu:50055",
@@ -124,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13209_Ep_120.jpg",
             "description": "Nuovo episodio: Ep 120",
             "posterShape": "poster",
-            "rating": "7.82"
+            "rating": "7.79"
         },
         {
             "id": "kitsu:50562",
@@ -160,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50279_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "7.57"
+            "rating": "7.61"
         },
         {
             "id": "kitsu:44021",
@@ -196,7 +223,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47988_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.36"
+            "rating": "6.37"
         },
         {
             "id": "kitsu:50866",
@@ -269,24 +296,6 @@
             "description": "Nuovo episodio: Ep 34",
             "posterShape": "poster",
             "rating": "7.00"
-        },
-        {
-            "id": "kitsu:47342",
-            "type": "series",
-            "name": "Azur Lane: Bisoku Zenshin! Ni!!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47342_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "6.04"
-        },
-        {
-            "id": "kitsu:49002",
-            "type": "series",
-            "name": "Mushoku Tensei III: Isekai Ittara Honki Dasu (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49002_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "7.84"
         }
     ]
 }
