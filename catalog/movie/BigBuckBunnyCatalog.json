@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:42337",
+            "type": "series",
+            "name": "Mebius Dust",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_42337_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "4.68"
+        },
+        {
+            "id": "kitsu:49183",
+            "type": "series",
+            "name": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_13.jpg",
+            "description": "Nuovo episodio: Ep 13",
+            "posterShape": "poster",
+            "rating": "7.18"
+        },
+        {
             "id": "kitsu:50040",
             "type": "series",
             "name": "Super no Ura de Yani Suu Futari",
@@ -16,7 +34,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50551_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "7.20"
+            "rating": "7.27"
         },
         {
             "id": "kitsu:50751",
@@ -25,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50751_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "6.28"
+            "rating": "6.37"
         },
         {
             "id": "kitsu:50769",
@@ -34,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50769_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.88"
+            "rating": "5.86"
         },
         {
             "id": "kitsu:50649",
@@ -43,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50649_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.07"
+            "rating": "5.08"
         },
         {
             "id": "kitsu:45570",
@@ -70,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50154_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.36"
+            "rating": "7.37"
         },
         {
             "id": "kitsu:48108",
@@ -97,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49995_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.45"
+            "rating": "7.51"
         },
         {
             "id": "kitsu:46925",
@@ -106,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46925_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.43"
+            "rating": "7.44"
         },
         {
             "id": "kitsu:50055",
@@ -196,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44021_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.12"
+            "rating": "6.13"
         },
         {
             "id": "kitsu:50108",
@@ -214,7 +232,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50181_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "8.61"
+            "rating": "8.62"
         },
         {
             "id": "kitsu:47988",
@@ -241,7 +259,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50768_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.48"
+            "rating": "6.49"
         },
         {
             "id": "kitsu:50766",
@@ -277,25 +295,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47989_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.70"
-        },
-        {
-            "id": "kitsu:50350",
-            "type": "series",
-            "name": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50350_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "7.78"
-        },
-        {
-            "id": "kitsu:50362",
-            "type": "series",
-            "name": "Meitantei Precure!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50362_Ep_34.jpg",
-            "description": "Nuovo episodio: Ep 34",
-            "posterShape": "poster",
-            "rating": "7.00"
+            "rating": "6.71"
         }
     ]
 }
