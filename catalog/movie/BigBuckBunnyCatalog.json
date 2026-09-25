@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:50551",
+            "type": "series",
+            "name": "Yani Neko",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50551_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "7.28"
+        },
+        {
+            "id": "kitsu:49889",
+            "type": "series",
+            "name": "Shiguang Dailiren III",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49889_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.89"
+        },
+        {
             "id": "kitsu:42337",
             "type": "series",
             "name": "Mebius Dust",
@@ -28,22 +46,13 @@
             "rating": "8.41"
         },
         {
-            "id": "kitsu:50551",
-            "type": "series",
-            "name": "Yani Neko (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50551_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "7.27"
-        },
-        {
             "id": "kitsu:50751",
             "type": "series",
             "name": "Reiwa no Dara-san",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50751_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "6.40"
+            "rating": "6.42"
         },
         {
             "id": "kitsu:50769",
@@ -178,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50562_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.34"
+            "rating": "5.36"
         },
         {
             "id": "kitsu:50622",
@@ -241,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47988_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.37"
+            "rating": "6.38"
         },
         {
             "id": "kitsu:50866",
@@ -250,7 +259,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50866_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "5.17"
+            "rating": "5.22"
         },
         {
             "id": "kitsu:50768",
@@ -278,24 +287,6 @@
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
             "rating": "6.10"
-        },
-        {
-            "id": "kitsu:49410",
-            "type": "series",
-            "name": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49410_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "6.81"
-        },
-        {
-            "id": "kitsu:47989",
-            "type": "series",
-            "name": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_47989_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "6.71"
         }
     ]
 }
