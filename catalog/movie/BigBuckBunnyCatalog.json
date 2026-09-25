@@ -1,13 +1,40 @@
 {
     "metas": [
         {
+            "id": "kitsu:49265",
+            "type": "series",
+            "name": "Nige Jouzu no Wakagimi 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49265_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "7.58"
+        },
+        {
+            "id": "kitsu:49235",
+            "type": "series",
+            "name": "Tensei shitara Slime Datta Ken 4 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_21.jpg",
+            "description": "Nuovo episodio: Ep 21",
+            "posterShape": "poster",
+            "rating": "8.07"
+        },
+        {
+            "id": "kitsu:50244",
+            "type": "series",
+            "name": "Kore Kaite Shine",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50244_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "4.79"
+        },
+        {
             "id": "kitsu:49847",
             "type": "series",
             "name": "Steel Ball Run: JoJo no Kimyou na Bouken (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49847_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "8.31"
+            "rating": "8.25"
         },
         {
             "id": "kitsu:50551",
@@ -16,7 +43,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50551_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.29"
+            "rating": "7.30"
         },
         {
             "id": "kitsu:49889",
@@ -34,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_42337_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "4.70"
+            "rating": "4.69"
         },
         {
             "id": "kitsu:49183",
@@ -52,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50040_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "8.40"
+            "rating": "8.41"
         },
         {
             "id": "kitsu:50751",
@@ -70,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50769_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.81"
+            "rating": "5.78"
         },
         {
             "id": "kitsu:50649",
@@ -79,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50649_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "5.09"
+            "rating": "5.11"
         },
         {
             "id": "kitsu:45570",
@@ -106,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50154_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.37"
+            "rating": "7.38"
         },
         {
             "id": "kitsu:48108",
@@ -169,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44778_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "8.75"
+            "rating": "8.76"
         },
         {
             "id": "kitsu:44814",
@@ -232,7 +259,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44021_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "6.14"
+            "rating": "6.15"
         },
         {
             "id": "kitsu:50108",
@@ -260,24 +287,6 @@
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
             "rating": "6.38"
-        },
-        {
-            "id": "kitsu:50866",
-            "type": "series",
-            "name": "Ghost Meets Gal!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50866_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "5.22"
-        },
-        {
-            "id": "kitsu:50768",
-            "type": "series",
-            "name": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50768_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "6.49"
         }
     ]
 }
