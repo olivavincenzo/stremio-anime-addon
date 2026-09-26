@@ -1,13 +1,22 @@
 {
     "metas": [
         {
+            "id": "kitsu:48293",
+            "type": "series",
+            "name": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48293_Ep_23.jpg",
+            "description": "Nuovo episodio: Ep 23",
+            "posterShape": "poster",
+            "rating": "7.55"
+        },
+        {
             "id": "kitsu:50760",
             "type": "series",
             "name": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50760_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "7.54"
+            "rating": "7.55"
         },
         {
             "id": "kitsu:49265",
@@ -16,7 +25,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49265_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.52"
+            "rating": "7.47"
         },
         {
             "id": "kitsu:49235",
@@ -43,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49847_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "8.27"
+            "rating": "8.28"
         },
         {
             "id": "kitsu:50551",
@@ -52,7 +61,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50551_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.35"
+            "rating": "7.36"
         },
         {
             "id": "kitsu:49889",
@@ -278,15 +287,6 @@
             "description": "Nuovo episodio: Ep 25",
             "posterShape": "poster",
             "rating": "5.95"
-        },
-        {
-            "id": "kitsu:50181",
-            "type": "series",
-            "name": "Grand Blue Dreaming 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50181_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "8.61"
         }
     ]
 }
