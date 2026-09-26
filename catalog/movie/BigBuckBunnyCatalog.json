@@ -1,6 +1,24 @@
 {
     "metas": [
         {
+            "id": "kitsu:50571",
+            "type": "series",
+            "name": "Onegai AiPri",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50571_Ep_25.jpg",
+            "description": "Nuovo episodio: Ep 25",
+            "posterShape": "poster",
+            "rating": "5.06"
+        },
+        {
+            "id": "kitsu:49361",
+            "type": "series",
+            "name": "Mairimashita! Iruma-kun 4",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49361_Ep_24.jpg",
+            "description": "Nuovo episodio: Ep 24",
+            "posterShape": "poster",
+            "rating": "7.86"
+        },
+        {
             "id": "kitsu:48293",
             "type": "series",
             "name": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
@@ -34,7 +52,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49235_Ep_21.jpg",
             "description": "Nuovo episodio: Ep 21",
             "posterShape": "poster",
-            "rating": "8.10"
+            "rating": "8.11"
         },
         {
             "id": "kitsu:50244",
@@ -52,7 +70,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49847_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "8.28"
+            "rating": "8.25"
         },
         {
             "id": "kitsu:50551",
@@ -61,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50551_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.36"
+            "rating": "7.37"
         },
         {
             "id": "kitsu:49889",
@@ -97,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50040_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "8.41"
+            "rating": "8.42"
         },
         {
             "id": "kitsu:50751",
@@ -106,7 +124,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50751_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "6.44"
+            "rating": "6.46"
         },
         {
             "id": "kitsu:50769",
@@ -178,7 +196,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49995_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.51"
+            "rating": "7.52"
         },
         {
             "id": "kitsu:46925",
@@ -232,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13209_Ep_120.jpg",
             "description": "Nuovo episodio: Ep 120",
             "posterShape": "poster",
-            "rating": "7.78"
+            "rating": "7.79"
         },
         {
             "id": "kitsu:50562",
@@ -269,24 +287,6 @@
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
             "rating": "7.61"
-        },
-        {
-            "id": "kitsu:44021",
-            "type": "series",
-            "name": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44021_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "6.13"
-        },
-        {
-            "id": "kitsu:50108",
-            "type": "series",
-            "name": "Liar Game",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50108_Ep_25.jpg",
-            "description": "Nuovo episodio: Ep 25",
-            "posterShape": "poster",
-            "rating": "5.95"
         }
     ]
 }
