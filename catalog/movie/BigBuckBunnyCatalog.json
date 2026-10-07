@@ -1,13 +1,76 @@
 {
     "metas": [
         {
+            "id": "kitsu:12",
+            "type": "series",
+            "name": "One Piece (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12_Ep_938.jpg",
+            "description": "Nuovo episodio: Ep 938",
+            "posterShape": "poster",
+            "rating": "7.97"
+        },
+        {
+            "id": "kitsu:48397",
+            "type": "series",
+            "name": "Kikansha no Mahou wa Tokubetsu desu 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48397_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "7.97"
+        },
+        {
+            "id": "kitsu:8649",
+            "type": "series",
+            "name": "Juuou Mujin Dandivine",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8649_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "5.86"
+        },
+        {
+            "id": "kitsu:49746",
+            "type": "series",
+            "name": "Re:Zero kara Hajimeru Isekai Seikatsu 4 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49746_Ep_17.jpg",
+            "description": "Nuovo episodio: Ep 17",
+            "posterShape": "poster",
+            "rating": "8.22"
+        },
+        {
+            "id": "kitsu:49008",
+            "type": "series",
+            "name": "Magic Knight Rayearth (2026)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49008_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "7.50"
+        },
+        {
+            "id": "kitsu:51007",
+            "type": "series",
+            "name": "Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_51007_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "4.52"
+        },
+        {
+            "id": "kitsu:50697",
+            "type": "series",
+            "name": "Sekai Saikyou no Majo, Hajimemashita",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50697_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "6.91"
+        },
+        {
             "id": "kitsu:46275",
             "type": "series",
             "name": "Tantei wa Mou, Shindeiru. 2",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46275_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.29"
+            "rating": "8.06"
         },
         {
             "id": "kitsu:48651",
@@ -16,7 +79,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48651_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "8.10"
+            "rating": "8.30"
         },
         {
             "id": "kitsu:44814",
@@ -25,7 +88,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44814_Ep_42.jpg",
             "description": "Nuovo episodio: Ep 42",
             "posterShape": "poster",
-            "rating": "4.46"
+            "rating": "4.34"
         },
         {
             "id": "kitsu:50338",
@@ -34,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50338_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "5.87"
+            "rating": "5.57"
         },
         {
             "id": "kitsu:45570",
@@ -43,7 +106,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45570_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "6.58"
+            "rating": "6.59"
         },
         {
             "id": "kitsu:50999",
@@ -52,7 +115,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50999_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "6.67"
+            "rating": "6.50"
         },
         {
             "id": "kitsu:50562",
@@ -70,7 +133,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50966_Ep_0.jpg",
             "description": "Nuovo episodio: Ep 0",
             "posterShape": "poster",
-            "rating": "7.20"
+            "rating": "7.06"
         },
         {
             "id": "kitsu:51014",
@@ -79,7 +142,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_51014_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.74"
+            "rating": "7.76"
         },
         {
             "id": "kitsu:50964",
@@ -88,7 +151,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50964_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "5.62"
+            "rating": "5.54"
         },
         {
             "id": "kitsu:50261",
@@ -97,7 +160,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50261_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "6.05"
+            "rating": "6.08"
         },
         {
             "id": "kitsu:51012",
@@ -106,7 +169,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_51012_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "6.97"
+            "rating": "6.96"
         },
         {
             "id": "kitsu:50279",
@@ -124,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50990_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "6.81"
+            "rating": "6.80"
         },
         {
             "id": "kitsu:50392",
@@ -142,7 +205,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50752_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "6.22"
+            "rating": "6.17"
         },
         {
             "id": "kitsu:50607",
@@ -151,7 +214,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50607_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.39"
+            "rating": "7.38"
         },
         {
             "id": "kitsu:50520",
@@ -160,7 +223,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50520_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.60"
+            "rating": "7.54"
         },
         {
             "id": "kitsu:50041",
@@ -187,7 +250,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_11809_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.10"
+            "rating": "7.19"
         },
         {
             "id": "kitsu:50640",
@@ -196,7 +259,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50640_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "5.65"
+            "rating": "5.61"
         },
         {
             "id": "kitsu:50610",
@@ -205,7 +268,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50610_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "5.98"
+            "rating": "5.93"
         },
         {
             "id": "kitsu:50743",
@@ -232,7 +295,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49002_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.87"
+            "rating": "7.88"
         },
         {
             "id": "kitsu:50208",
@@ -250,7 +313,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49437_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.87"
+            "rating": "7.86"
         },
         {
             "id": "kitsu:50866",
@@ -260,60 +323,6 @@
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
             "rating": "5.47"
-        },
-        {
-            "id": "kitsu:51020",
-            "type": "series",
-            "name": "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_51020_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "7.30"
-        },
-        {
-            "id": "kitsu:50996",
-            "type": "series",
-            "name": "Mahou no Shimai Lulutto Lilly Part 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50996_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "4.25"
-        },
-        {
-            "id": "kitsu:51005",
-            "type": "series",
-            "name": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_51005_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "7.70"
-        },
-        {
-            "id": "kitsu:51021",
-            "type": "series",
-            "name": "Ojisan wa Kawaii Mono ga Osuki.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_51021_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "6.43"
-        },
-        {
-            "id": "kitsu:49444",
-            "type": "series",
-            "name": "Bleach: Thousand-Year Blood War - The Calamity (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49444_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "8.16"
-        },
-        {
-            "id": "kitsu:49752",
-            "type": "series",
-            "name": "Ao no Hako 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49752_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "7.43"
         }
     ]
 }
