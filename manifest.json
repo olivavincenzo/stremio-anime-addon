@@ -1,21 +1,19 @@
 {
-  "id": "com.stremio.nowexample",
-  "version": "0.0.1",
-  "name": "Now.sh Example",
-  "description": "Example Add-on",
+  "id": "com.stremio.animeworld.catalog",
+  "version": "1.0.0",
+  "name": "AnimeWorld Ultime Uscite",
+  "description": "Catalogo degli ultimi episodi anime usciti su AnimeWorld",
   "resources": [
-    "catalog",
-    "meta",
-    "stream"
+    "catalog"
   ],
   "types": [
-    "movie"
+    "series"
   ],
   "catalogs": [
     {
-      "type": "movie",
-      "id": "BigBuckBunnyCatalog",
-      "name": "Test catalogo prova"
+      "type": "series",
+      "id": "AnimeWorldCatalog",
+      "name": "AnimeWorld - Ultimi Episodi"
     }
   ]
 }
