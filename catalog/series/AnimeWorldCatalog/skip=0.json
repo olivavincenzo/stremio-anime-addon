@@ -1,13 +1,83 @@
 {
     "metas": [
         {
+            "id": "tt15483602",
+            "type": "series",
+            "name": "Tensei shitara Ken deshita 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15483602_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "8.16",
+            "imdb_id": "tt15483602"
+        },
+        {
+            "id": "tt41293320",
+            "type": "series",
+            "name": "Uchi no Otouto-domo ga Sumimasen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41293320_Ep_15.jpg",
+            "description": "Nuovo episodio: Ep 15",
+            "posterShape": "poster",
+            "rating": "6.88",
+            "imdb_id": "tt41293320"
+        },
+        {
+            "id": "tt32344704",
+            "type": "series",
+            "name": "Tougen Anki: Nikko Kegon no Taki-hen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32344704_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "7.32",
+            "imdb_id": "tt32344704"
+        },
+        {
+            "id": "tt39394153",
+            "type": "series",
+            "name": "Hotaru no Yomeiri",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39394153_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "8.13",
+            "imdb_id": "tt39394153"
+        },
+        {
+            "id": "tt9054364",
+            "type": "series",
+            "name": "Tensei shitara Slime Datta Ken 4 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt9054364_Ep_24.jpg",
+            "description": "Nuovo episodio: Ep 24",
+            "posterShape": "poster",
+            "rating": "8.12",
+            "imdb_id": "tt9054364"
+        },
+        {
+            "id": "tt41295083",
+            "type": "series",
+            "name": "Toaru Anbu no Item",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41295083_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "6.68",
+            "imdb_id": "tt41295083"
+        },
+        {
+            "id": "tt26743760",
+            "type": "series",
+            "name": "Kusuriya no Hitorigoto 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt26743760_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "8.71",
+            "imdb_id": "tt26743760"
+        },
+        {
             "id": "tt43650242",
             "type": "series",
             "name": "Seitokai ni mo Ana wa Aru!",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650242_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.39",
+            "rating": "7.38",
             "imdb_id": "tt43650242"
         },
         {
@@ -17,7 +87,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt2359704_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.30",
+            "rating": "8.32",
             "imdb_id": "tt2359704"
         },
         {
@@ -27,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13196080_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.55",
+            "rating": "7.51",
             "imdb_id": "tt13196080"
         },
         {
@@ -37,7 +107,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt14976292_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "8.11",
+            "rating": "8.13",
             "imdb_id": "tt14976292"
         },
         {
@@ -47,7 +117,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28259824_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "6.76",
+            "rating": "6.54",
             "imdb_id": "tt28259824"
         },
         {
@@ -57,7 +127,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt25531288_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.61",
+            "rating": "7.59",
             "imdb_id": "tt25531288"
         },
         {
@@ -67,7 +137,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39551330_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.50",
+            "rating": "7.49",
             "imdb_id": "tt39551330"
         },
         {
@@ -87,7 +157,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39123061_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.54",
+            "rating": "8.56",
             "imdb_id": "tt39123061"
         },
         {
@@ -147,7 +217,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28313387_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.87",
+            "rating": "7.85",
             "imdb_id": "tt28313387"
         },
         {
@@ -207,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691408_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.17",
+            "rating": "7.20",
             "imdb_id": "tt43691408"
         },
         {
@@ -217,7 +287,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt46653736_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.11",
+            "rating": "7.14",
             "imdb_id": "tt46653736"
         },
         {
@@ -227,7 +297,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt29485149_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.83",
+            "rating": "6.81",
             "imdb_id": "tt29485149"
         },
         {
@@ -237,7 +307,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt7441658_Ep_138.jpg",
             "description": "Nuovo episodio: Ep 138",
             "posterShape": "poster",
-            "rating": "7.81",
+            "rating": "7.83",
             "imdb_id": "tt7441658"
         },
         {
@@ -247,68 +317,8 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39240299_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.00",
+            "rating": "6.09",
             "imdb_id": "tt39240299"
-        },
-        {
-            "id": "tt36986811",
-            "type": "series",
-            "name": "Kizu darake Seijo yori Houfuku wo Komete 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt36986811_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "6.20",
-            "imdb_id": "tt36986811"
-        },
-        {
-            "id": "tt39390769",
-            "type": "series",
-            "name": "Dark Machine: The Animation",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39390769_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "5.56",
-            "imdb_id": "tt39390769"
-        },
-        {
-            "id": "tt21030032",
-            "type": "series",
-            "name": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt21030032_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "6.19",
-            "imdb_id": "tt21030032"
-        },
-        {
-            "id": "tt43650323",
-            "type": "series",
-            "name": "Dark Summoner to Dekiteiru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650323_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "6.83",
-            "imdb_id": "tt43650323"
-        },
-        {
-            "id": "tt41278592",
-            "type": "series",
-            "name": "Sora wa Akai Kawa no Hotori",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41278592_Ep_15.jpg",
-            "description": "Nuovo episodio: Ep 15",
-            "posterShape": "poster",
-            "rating": "5.56",
-            "imdb_id": "tt41278592"
-        },
-        {
-            "id": "tt41296544",
-            "type": "series",
-            "name": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41296544_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "7.70",
-            "imdb_id": "tt41296544"
         }
     ]
 }
