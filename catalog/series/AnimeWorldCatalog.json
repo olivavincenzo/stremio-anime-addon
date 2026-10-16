@@ -1,283 +1,314 @@
 {
     "metas": [
         {
-            "id": "kitsu:49877",
+            "id": "tt43650242",
             "type": "series",
             "name": "Seitokai ni mo Ana wa Aru!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49877_Ep_2.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650242_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.44"
+            "rating": "7.44",
+            "imdb_id": "tt43650242"
         },
         {
-            "id": "kitsu:49847",
+            "id": "tt2359704",
             "type": "series",
             "name": "Steel Ball Run: JoJo no Kimyou na Bouken (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49847_Ep_5.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt2359704_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.30"
+            "rating": "8.30",
+            "imdb_id": "tt2359704"
         },
         {
-            "id": "kitsu:48960",
+            "id": "tt13196080",
             "type": "series",
             "name": "Tokyo Revengers: Santen Sensou-hen (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48960_Ep_3.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13196080_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.44"
+            "rating": "7.55",
+            "imdb_id": "tt13196080"
         },
         {
-            "id": "kitsu:49889",
+            "id": "tt14976292",
             "type": "series",
             "name": "Shiguang Dailiren III",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49889_Ep_11.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt14976292_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "8.07"
+            "rating": "8.11",
+            "imdb_id": "tt14976292"
         },
         {
-            "id": "kitsu:45570",
+            "id": "tt28259824",
             "type": "series",
             "name": "Biao Ren Er",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_45570_Ep_1.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28259824_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "6.70"
+            "rating": "6.76",
+            "imdb_id": "tt28259824"
         },
         {
-            "id": "kitsu:50723",
+            "id": "tt25531288",
             "type": "series",
             "name": "Hyouken no Majutsushi ga Sekai wo Suberu 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50723_Ep_2.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt25531288_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.63"
+            "rating": "7.61",
+            "imdb_id": "tt25531288"
         },
         {
-            "id": "kitsu:50551",
+            "id": "tt39551330",
             "type": "series",
             "name": "Yani Neko (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50551_Ep_12.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39551330_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.48"
+            "rating": "7.49",
+            "imdb_id": "tt39551330"
         },
         {
-            "id": "kitsu:49183",
+            "id": "tt33334216",
             "type": "series",
             "name": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49183_Ep_16.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt33334216_Ep_16.jpg",
             "description": "Nuovo episodio: Ep 16",
             "posterShape": "poster",
-            "rating": "7.23"
+            "rating": "7.24",
+            "imdb_id": "tt33334216"
         },
         {
-            "id": "kitsu:50827",
+            "id": "tt39123061",
             "type": "series",
             "name": "Koori no Jouheki 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50827_Ep_3.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39123061_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.58"
+            "rating": "8.54",
+            "imdb_id": "tt39123061"
         },
         {
-            "id": "kitsu:50987",
+            "id": "tt43119470",
             "type": "series",
             "name": "FX Senshi Kurumi-chan",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50987_Ep_3.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43119470_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.36"
+            "rating": "6.36",
+            "imdb_id": "tt43119470"
         },
         {
-            "id": "kitsu:12",
+            "id": "tt0388629",
             "type": "series",
             "name": "One Piece (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_12_Ep_940.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0388629_Ep_940.jpg",
             "description": "Nuovo episodio: Ep 940",
             "posterShape": "poster",
-            "rating": "7.97"
+            "rating": "7.97",
+            "imdb_id": "tt0388629"
         },
         {
-            "id": "kitsu:8649",
+            "id": "tt4219158",
             "type": "series",
             "name": "Juuou Mujin Dandivine",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_8649_Ep_2.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt4219158_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "5.63"
+            "rating": "5.63",
+            "imdb_id": "tt4219158"
         },
         {
-            "id": "kitsu:50638",
+            "id": "tt39104949",
             "type": "series",
             "name": "Zi Jin: Yu Miao Fang",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50638_Ep_5.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39104949_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "5.42"
+            "rating": "5.44",
+            "imdb_id": "tt39104949"
         },
         {
-            "id": "kitsu:44814",
+            "id": "tt14924976",
             "type": "series",
             "name": "Waccha PriMagi!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_44814_Ep_43.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt14924976_Ep_43.jpg",
             "description": "Nuovo episodio: Ep 43",
             "posterShape": "poster",
-            "rating": "4.34"
+            "rating": "4.34",
+            "imdb_id": "tt14924976"
         },
         {
-            "id": "kitsu:48397",
+            "id": "tt28313387",
             "type": "series",
             "name": "Kikansha no Mahou wa Tokubetsu desu 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48397_Ep_2.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28313387_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.89"
+            "rating": "7.87",
+            "imdb_id": "tt28313387"
         },
         {
-            "id": "kitsu:51007",
+            "id": "tt45257943",
             "type": "series",
             "name": "Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_51007_Ep_3.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt45257943_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "4.62"
+            "rating": "4.62",
+            "imdb_id": "tt45257943"
         },
         {
-            "id": "kitsu:49008",
+            "id": "tt32813343",
             "type": "series",
             "name": "Magic Knight Rayearth (2026)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49008_Ep_2.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32813343_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.65"
+            "rating": "6.65",
+            "imdb_id": "tt32813343"
         },
         {
-            "id": "kitsu:49746",
+            "id": "tt5607616",
             "type": "series",
             "name": "Re:Zero kara Hajimeru Isekai Seikatsu 4 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_49746_Ep_18.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt5607616_Ep_18.jpg",
             "description": "Nuovo episodio: Ep 18",
             "posterShape": "poster",
-            "rating": "8.18"
+            "rating": "8.18",
+            "imdb_id": "tt5607616"
         },
         {
-            "id": "kitsu:46275",
+            "id": "tt13884052",
             "type": "series",
             "name": "Tantei wa Mou, Shindeiru. 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_46275_Ep_2.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13884052_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.67"
+            "rating": "7.68",
+            "imdb_id": "tt13884052"
         },
         {
-            "id": "kitsu:48651",
+            "id": "tt27524116",
             "type": "series",
             "name": "Sasaki to Pii-chan 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48651_Ep_2.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt27524116_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.99"
+            "rating": "7.99",
+            "imdb_id": "tt27524116"
         },
         {
-            "id": "kitsu:50697",
+            "id": "tt43691408",
             "type": "series",
             "name": "Sekai Saikyou no Majo, Hajimemashita",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50697_Ep_2.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691408_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.22"
+            "rating": "7.20",
+            "imdb_id": "tt43691408"
         },
         {
-            "id": "kitsu:51064",
+            "id": "tt46653736",
             "type": "series",
             "name": "Aoki Denshou Welsh & Shedar",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_51064_Ep_1.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt46653736_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.11"
+            "rating": "7.11",
+            "imdb_id": "tt46653736"
         },
         {
-            "id": "kitsu:48108",
+            "id": "tt29485149",
             "type": "series",
             "name": "Dragon Ball Daima (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_48108_Ep_10.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt29485149_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "6.83"
+            "rating": "6.83",
+            "imdb_id": "tt29485149"
         },
         {
-            "id": "kitsu:13209",
+            "id": "tt7441658",
             "type": "series",
             "name": "Black Clover (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_13209_Ep_138.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt7441658_Ep_138.jpg",
             "description": "Nuovo episodio: Ep 138",
             "posterShape": "poster",
-            "rating": "7.81"
+            "rating": "7.81",
+            "imdb_id": "tt7441658"
         },
         {
-            "id": "kitsu:50338",
+            "id": "tt39240299",
             "type": "series",
             "name": "Mahou Shoujo Ikusei Keikaku: Restart",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50338_Ep_2.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39240299_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.00"
+            "rating": "6.00",
+            "imdb_id": "tt39240299"
         },
         {
-            "id": "kitsu:50028",
+            "id": "tt36986811",
             "type": "series",
             "name": "Kizu darake Seijo yori Houfuku wo Komete 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50028_Ep_2.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt36986811_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.13"
+            "rating": "6.13",
+            "imdb_id": "tt36986811"
         },
         {
-            "id": "kitsu:50986",
+            "id": "tt39390769",
             "type": "series",
             "name": "Dark Machine: The Animation",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50986_Ep_1.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39390769_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "5.56"
+            "rating": "5.56",
+            "imdb_id": "tt39390769"
         },
         {
-            "id": "kitsu:51002",
+            "id": "tt21030032",
             "type": "series",
             "name": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_51002_Ep_2.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt21030032_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.19"
+            "rating": "6.19",
+            "imdb_id": "tt21030032"
         },
         {
-            "id": "kitsu:50990",
+            "id": "tt43650323",
             "type": "series",
             "name": "Dark Summoner to Dekiteiru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50990_Ep_2.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650323_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.83"
+            "rating": "6.83",
+            "imdb_id": "tt43650323"
         },
         {
-            "id": "kitsu:50562",
+            "id": "tt41278592",
             "type": "series",
             "name": "Sora wa Akai Kawa no Hotori",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50562_Ep_15.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41278592_Ep_15.jpg",
             "description": "Nuovo episodio: Ep 15",
             "posterShape": "poster",
-            "rating": "5.56"
+            "rating": "5.56",
+            "imdb_id": "tt41278592"
         },
         {
-            "id": "kitsu:50764",
+            "id": "tt41296544",
             "type": "series",
             "name": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50764_Ep_2.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41296544_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.68"
+            "rating": "7.67",
+            "imdb_id": "tt41296544"
         }
     ]
 }

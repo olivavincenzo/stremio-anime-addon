@@ -1,6 +1,6 @@
 {
   "id": "com.stremio.animeworld.catalog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "AnimeWorld Ultime Uscite",
   "description": "Catalogo degli ultimi episodi anime usciti su AnimeWorld",
   "resources": [
@@ -9,11 +9,21 @@
   "types": [
     "series"
   ],
+  "idPrefixes": [
+    "tt",
+    "kitsu"
+  ],
   "catalogs": [
     {
       "type": "series",
       "id": "AnimeWorldCatalog",
-      "name": "AnimeWorld - Ultimi Episodi"
+      "name": "AnimeWorld - Ultimi Episodi",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
     }
   ]
 }

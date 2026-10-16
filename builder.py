@@ -67,6 +67,12 @@ def prepare_environment():
 # 2. FUNZIONI DI UTILITÀ
 # ==========================================
 
+def clean_title(title):
+    if not title: return ""
+    title = re.sub(r'[\(\[\{]\s*(ITA|SUB ITA|SUB-ITA|DUB|SUB)\s*[\)\]\}]', '', title, flags=re.IGNORECASE)
+    title = re.sub(r'\s+', ' ', title)
+    return title.strip()
+
 def convert_roman_to_arabic(title):
     if not title: return ""
     roman_map = {'I': '1', 'II': '2', 'III': '3', 'IV': '4', 'V': '5', 'VI': '6', 'VII': '7', 'VIII': '8', 'IX': '9', 'X': '10'}
@@ -104,7 +110,7 @@ def add_episode_badge(image_url, episode_text, file_name, rating):
         draw = ImageDraw.Draw(img)
 
         # CARICO LA STELLA PNG
-        star_path = "assets/star.png"
+        star_path = os.path.join(BASE_DIR, "assets", "star.png")
         star_icon = Image.open(star_path).convert("RGBA")
 
         # Ridimensiono la stella all’altezza del testo
@@ -182,7 +188,7 @@ def add_episode_badge(image_url, episode_text, file_name, rating):
         return image_url
 
 # ==========================================
-# 4. GESTIONE API KITSU
+# 4. GESTIONE API KITSU E RISOLUZIONE IMDB
 # ==========================================
 
 def search_kitsu_id(query):
@@ -208,13 +214,49 @@ def search_kitsu_id(query):
 def cached_kitsu_search(title):
     return search_kitsu_id(title)
 
+@lru_cache(maxsize=256)
+def resolve_imdb_id(kitsu_id, search_title, alt_title=None):
+    """
+    Risolve un anime verso un ID IMDb (tt...) tramite:
+    1. ARM API (Anime Relations Mapping) usando il Kitsu ID
+    2. Cinemeta Series Search
+    3. Cinemeta Movie Search
+    Questo rende l'add-on pienamente compatibile con Nuvio (TMDB/IMDb) e Stremio.
+    """
+    if kitsu_id:
+        kid = kitsu_id.split(':')[-1]
+        try:
+            arm_url = f"https://arm.haglund.dev/api/v2/ids?source=kitsu&id={kid}&include=imdb,themoviedb"
+            res = requests.get(arm_url, timeout=4)
+            if res.status_code == 200:
+                imdb = res.json().get("imdb")
+                if imdb and imdb.startswith("tt"):
+                    return imdb
+        except Exception:
+            pass
+
+    for t in [search_title, alt_title]:
+        if not t:
+            continue
+        for endpoint in ["series", "movie"]:
+            try:
+                cine_url = f"https://v3-cinemeta.strem.io/catalog/{endpoint}/top/search={quote(t)}.json"
+                res = requests.get(cine_url, timeout=4)
+                if res.status_code == 200:
+                    metas = res.json().get("metas", [])
+                    if metas and metas[0].get("id", "").startswith("tt"):
+                        return metas[0]["id"]
+            except Exception:
+                pass
+
+    return None
+
 # ==========================================
 # 5. ELABORAZIONE WORKER
 # ==========================================
 
 def process_single_item(item):
     try:
-
         a_tag = item.select_one('a.poster')
         if not a_tag:
             return None
@@ -225,23 +267,25 @@ def process_single_item(item):
 
         if tooltip_path:
             api_url = "https://www.animeworld.ac/" + tooltip_path.lstrip("/")
-            r = requests.get(api_url, headers={'User-Agent': 'Mozilla/5.0'})
-            tooltip_soup = BeautifulSoup(r.text, "html.parser")
-
-            # --- Estraggo il voto ---
-            for meta in tooltip_soup.select(".meta"):
-                label = meta.select_one("label")
-                if label and "Voto" in label.text:
-                    span = meta.select_one("span")
-                    if span:
-                        rating = span.text.strip()
-                    break
+            try:
+                r = requests.get(api_url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=5)
+                if r.status_code == 200:
+                    tooltip_soup = BeautifulSoup(r.text, "html.parser")
+                    # --- Estraggo il voto ---
+                    for meta in tooltip_soup.select(".meta"):
+                        label = meta.select_one("label")
+                        if label and "Voto" in label.text:
+                            span = meta.select_one("span")
+                            if span:
+                                rating = span.text.strip()
+                            break
+            except Exception:
+                pass
 
         title_tag = item.select_one('.name')
         if not title_tag: return None
         
         english_title = title_tag.get_text(strip=True)
-        print("Titolo in inglese:", english_title)
         japanese_title = title_tag.get("data-jtitle")
         ep_tag = item.select_one('.ep')
         episode = ep_tag.get_text(strip=True) if ep_tag else "?"
@@ -249,29 +293,41 @@ def process_single_item(item):
         original_poster = img_tag['src'] if img_tag else ""
 
         raw_primary = japanese_title if japanese_title else english_title
-        search_title = convert_roman_to_arabic(raw_primary)
+
+        # Pulisci i titoli da tag come (ITA), (SUB ITA) per la ricerca
+        clean_primary = clean_title(raw_primary)
+        clean_eng = clean_title(english_title)
+
+        search_title = convert_roman_to_arabic(clean_primary)
 
         kitsu_id, kitsu_poster = cached_kitsu_search(search_title)
 
-        if not kitsu_id and search_title != raw_primary:
-            kitsu_id, kitsu_poster = cached_kitsu_search(raw_primary)
+        if not kitsu_id and search_title != clean_primary:
+            kitsu_id, kitsu_poster = cached_kitsu_search(clean_primary)
 
-        if not kitsu_id and japanese_title and english_title:
-            english_converted = convert_roman_to_arabic(english_title)
-            if english_converted != search_title:
-                kitsu_id, kitsu_poster = cached_kitsu_search(english_converted)
+        if not kitsu_id and clean_eng:
+            english_converted = convert_roman_to_arabic(clean_eng)
+            kitsu_id, kitsu_poster = cached_kitsu_search(english_converted)
+            if not kitsu_id and english_converted != clean_eng:
+                kitsu_id, kitsu_poster = cached_kitsu_search(clean_eng)
 
-        if not kitsu_id: return None
+        # Risoluzione ID IMDb (tt...)
+        imdb_id = resolve_imdb_id(kitsu_id, search_title, clean_eng)
+
+        # Preferisci ID IMDb (tt...), con fallback su Kitsu
+        final_id = imdb_id if imdb_id else kitsu_id
+        if not final_id:
+            return None
 
         base_poster = kitsu_poster if kitsu_poster else original_poster
         
         episode_text = episode.replace(" ", "_")
-        image_filename = f"{kitsu_id.replace(':', '_')}_{episode_text}.jpg"
+        image_filename = f"{final_id.replace(':', '_')}_{episode_text}.jpg"
         
         final_poster_url = add_episode_badge(base_poster, episode, image_filename, rating)
 
-        return {
-            "id": kitsu_id,
+        meta_obj = {
+            "id": final_id,
             "type": "series",
             "name": raw_primary,
             "poster": final_poster_url,
@@ -279,7 +335,13 @@ def process_single_item(item):
             "posterShape": "poster",
             "rating": rating
         }
-    except Exception:
+        if imdb_id:
+            meta_obj["imdb_id"] = imdb_id
+
+        return meta_obj
+
+    except Exception as e:
+        print(f"Errore item: {e}")
         return None
 
 # ==========================================
@@ -323,10 +385,22 @@ def update_animeworld_catalog():
 
         json_output = {"metas": metas_list}
 
+        # 1. Salva file principale per Stremio standard (/catalog/series/AnimeWorldCatalog.json)
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
             json.dump(json_output, f, ensure_ascii=False, indent=4)
 
-        print(f"SUCCESSO! Salvati {len(metas_list)} elementi.")
+        # 2. Salva percorsi con skip per Nuvio e client con paginazione
+        catalog_folder = os.path.join(output_dir, "AnimeWorldCatalog")
+        os.makedirs(catalog_folder, exist_ok=True)
+
+        with open(os.path.join(catalog_folder, "skip=0.json"), 'w', encoding='utf-8') as f:
+            json.dump(json_output, f, ensure_ascii=False, indent=4)
+
+        for skip_val in [25, 50, 100]:
+            with open(os.path.join(catalog_folder, f"skip={skip_val}.json"), 'w', encoding='utf-8') as f:
+                json.dump({"metas": []}, f, ensure_ascii=False, indent=4)
+
+        print(f"SUCCESSO! Salvati {len(metas_list)} elementi in {OUTPUT_FILE} e {catalog_folder}/skip=0.json.")
         return metas_list
 
     except Exception as e:
