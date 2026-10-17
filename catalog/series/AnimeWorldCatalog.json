@@ -1,13 +1,23 @@
 {
     "metas": [
         {
+            "id": "tt40548570",
+            "type": "series",
+            "name": "Onegai AiPri",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt40548570_Ep_28.jpg",
+            "description": "Nuovo episodio: Ep 28",
+            "posterShape": "poster",
+            "rating": "5.00",
+            "imdb_id": "tt40548570"
+        },
+        {
             "id": "tt6342474",
             "type": "series",
             "name": "Boruto: Naruto Next Generations (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt6342474_Ep_120.jpg",
             "description": "Nuovo episodio: Ep 120",
             "posterShape": "poster",
-            "rating": "6.91",
+            "rating": "6.89",
             "imdb_id": "tt6342474"
         },
         {
@@ -27,7 +37,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15483602_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "8.20",
+            "rating": "8.16",
             "imdb_id": "tt15483602"
         },
         {
@@ -57,7 +67,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39394153_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "8.07",
+            "rating": "8.10",
             "imdb_id": "tt39394153"
         },
         {
@@ -67,7 +77,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt9054364_Ep_24.jpg",
             "description": "Nuovo episodio: Ep 24",
             "posterShape": "poster",
-            "rating": "8.14",
+            "rating": "8.12",
             "imdb_id": "tt9054364"
         },
         {
@@ -77,7 +87,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41295083_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.67",
+            "rating": "6.63",
             "imdb_id": "tt41295083"
         },
         {
@@ -87,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt26743760_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.71",
+            "rating": "8.70",
             "imdb_id": "tt26743760"
         },
         {
@@ -97,7 +107,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650242_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.38",
+            "rating": "7.37",
             "imdb_id": "tt43650242"
         },
         {
@@ -147,7 +157,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt25531288_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.61",
+            "rating": "7.56",
             "imdb_id": "tt25531288"
         },
         {
@@ -167,7 +177,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt33334216_Ep_16.jpg",
             "description": "Nuovo episodio: Ep 16",
             "posterShape": "poster",
-            "rating": "7.23",
+            "rating": "7.24",
             "imdb_id": "tt33334216"
         },
         {
@@ -187,7 +197,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43119470_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.36",
+            "rating": "6.37",
             "imdb_id": "tt43119470"
         },
         {
@@ -277,7 +287,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13884052_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.68",
+            "rating": "7.60",
             "imdb_id": "tt13884052"
         },
         {
