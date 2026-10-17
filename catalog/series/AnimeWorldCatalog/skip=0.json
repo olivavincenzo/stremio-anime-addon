@@ -1,6 +1,56 @@
 {
     "metas": [
         {
+            "id": "tt43650419",
+            "type": "series",
+            "name": "Kashita Maryoku wa \"Revo Barai\" de Kyousei Choushuu",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650419_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "7.33",
+            "imdb_id": "tt43650419"
+        },
+        {
+            "id": "tt32766897",
+            "type": "series",
+            "name": "Ranma ½ (2024) 3 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32766897_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "8.37",
+            "imdb_id": "tt32766897"
+        },
+        {
+            "id": "tt48391033",
+            "type": "series",
+            "name": "Kyoufu Collector",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt48391033_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "5.80",
+            "imdb_id": "tt48391033"
+        },
+        {
+            "id": "tt41296506",
+            "type": "series",
+            "name": "Magical★Explorer",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41296506_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "7.43",
+            "imdb_id": "tt41296506"
+        },
+        {
+            "id": "tt42487863",
+            "type": "series",
+            "name": "Vertex Force",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42487863_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "6.41",
+            "imdb_id": "tt42487863"
+        },
+        {
             "id": "tt44757191",
             "type": "series",
             "name": "Marronnier Oukoku no Shichinin no Kishi (ITA)",
@@ -17,7 +67,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt7441658_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "9.01",
+            "rating": "9.04",
             "imdb_id": "tt7441658"
         },
         {
@@ -27,7 +77,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691424_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.76",
+            "rating": "6.77",
             "imdb_id": "tt43691424"
         },
         {
@@ -47,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42727894_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.39",
+            "rating": "7.40",
             "imdb_id": "tt42727894"
         },
         {
@@ -57,7 +107,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt38939893_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.78",
+            "rating": "7.82",
             "imdb_id": "tt38939893"
         },
         {
@@ -67,7 +117,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt16409202_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.62",
+            "rating": "7.61",
             "imdb_id": "tt16409202"
         },
         {
@@ -97,7 +147,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41153966_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.50",
+            "rating": "7.51",
             "imdb_id": "tt41153966"
         },
         {
@@ -147,7 +197,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15483602_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "8.11",
+            "rating": "8.10",
             "imdb_id": "tt15483602"
         },
         {
@@ -197,7 +247,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41295083_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.44",
+            "rating": "6.40",
             "imdb_id": "tt41295083"
         },
         {
@@ -207,7 +257,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt26743760_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.66",
+            "rating": "8.67",
             "imdb_id": "tt26743760"
         },
         {
@@ -217,7 +267,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650242_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.42",
+            "rating": "7.41",
             "imdb_id": "tt43650242"
         },
         {
@@ -299,56 +349,6 @@
             "posterShape": "poster",
             "rating": "8.60",
             "imdb_id": "tt39123061"
-        },
-        {
-            "id": "tt43119470",
-            "type": "series",
-            "name": "FX Senshi Kurumi-chan",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43119470_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.40",
-            "imdb_id": "tt43119470"
-        },
-        {
-            "id": "tt0388629",
-            "type": "series",
-            "name": "One Piece (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0388629_Ep_940.jpg",
-            "description": "Nuovo episodio: Ep 940",
-            "posterShape": "poster",
-            "rating": "7.97",
-            "imdb_id": "tt0388629"
-        },
-        {
-            "id": "tt4219158",
-            "type": "series",
-            "name": "Juuou Mujin Dandivine",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt4219158_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "5.63",
-            "imdb_id": "tt4219158"
-        },
-        {
-            "id": "tt39104949",
-            "type": "series",
-            "name": "Zi Jin: Yu Miao Fang",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39104949_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "5.46",
-            "imdb_id": "tt39104949"
-        },
-        {
-            "id": "tt14924976",
-            "type": "series",
-            "name": "Waccha PriMagi!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt14924976_Ep_43.jpg",
-            "description": "Nuovo episodio: Ep 43",
-            "posterShape": "poster",
-            "rating": "4.34",
-            "imdb_id": "tt14924976"
         }
     ]
 }
