@@ -7,27 +7,28 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691315_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.05",
+            "rating": "6.00",
             "imdb_id": "tt43691315"
         },
         {
-            "id": "tt1666814",
+            "id": "tt41293157",
             "type": "series",
             "name": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt1666814_Ep_10.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41293157_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "7.45",
-            "imdb_id": "tt1666814"
+            "rating": "7.49",
+            "imdb_id": "tt41293157"
         },
         {
-            "id": "kitsu:50996",
+            "id": "tt38752562",
             "type": "series",
             "name": "Mahou no Shimai Lulutto Lilly Part 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50996_Ep_3.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt38752562_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "4.50"
+            "rating": "4.50",
+            "imdb_id": "tt38752562"
         },
         {
             "id": "tt2398172",
@@ -56,7 +57,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691353_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.83",
+            "rating": "7.84",
             "imdb_id": "tt43691353"
         },
         {
@@ -66,7 +67,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691418_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.23",
+            "rating": "7.20",
             "imdb_id": "tt43691418"
         },
         {
@@ -86,7 +87,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13293588_Ep_14.jpg",
             "description": "Nuovo episodio: Ep 14",
             "posterShape": "poster",
-            "rating": "7.85",
+            "rating": "7.86",
             "imdb_id": "tt13293588"
         },
         {
@@ -116,7 +117,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650265_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.77",
+            "rating": "6.80",
             "imdb_id": "tt43650265"
         },
         {
@@ -136,7 +137,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691343_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.49",
+            "rating": "6.38",
             "imdb_id": "tt43691343"
         },
         {
@@ -146,7 +147,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0434665_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.22",
+            "rating": "8.13",
             "imdb_id": "tt0434665"
         },
         {
@@ -166,7 +167,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15792808_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.33",
+            "rating": "8.32",
             "imdb_id": "tt15792808"
         },
         {
@@ -196,7 +197,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt22008216_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "6.35",
+            "rating": "6.08",
             "imdb_id": "tt22008216"
         },
         {
@@ -236,7 +237,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41296506_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.41",
+            "rating": "7.40",
             "imdb_id": "tt41296506"
         },
         {
@@ -246,7 +247,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42487863_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.32",
+            "rating": "6.35",
             "imdb_id": "tt42487863"
         },
         {
@@ -266,7 +267,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt7441658_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "9.05",
+            "rating": "9.04",
             "imdb_id": "tt7441658"
         },
         {
@@ -286,7 +287,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt33258199_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.63",
+            "rating": "7.66",
             "imdb_id": "tt33258199"
         },
         {
@@ -296,7 +297,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42727894_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.44",
+            "rating": "7.47",
             "imdb_id": "tt42727894"
         },
         {
@@ -306,7 +307,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt38939893_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.85",
+            "rating": "7.86",
             "imdb_id": "tt38939893"
         },
         {
@@ -316,7 +317,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt16409202_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.62",
+            "rating": "7.65",
             "imdb_id": "tt16409202"
         },
         {
