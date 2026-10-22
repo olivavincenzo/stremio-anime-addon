@@ -1,13 +1,23 @@
 {
     "metas": [
         {
+            "id": "tt36986811",
+            "type": "series",
+            "name": "Kizu darake Seijo yori Houfuku wo Komete 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt36986811_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.08",
+            "imdb_id": "tt36986811"
+        },
+        {
             "id": "tt25531288",
             "type": "series",
             "name": "Hyouken no Majutsushi ga Sekai wo Suberu 2",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt25531288_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.52",
+            "rating": "7.53",
             "imdb_id": "tt25531288"
         },
         {
@@ -27,7 +37,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39123061_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.48",
+            "rating": "8.41",
             "imdb_id": "tt39123061"
         },
         {
@@ -37,7 +47,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43119470_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.29",
+            "rating": "6.32",
             "imdb_id": "tt43119470"
         },
         {
@@ -67,7 +77,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42938834_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.88",
+            "rating": "6.75",
             "imdb_id": "tt42938834"
         },
         {
@@ -87,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt4219158_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "5.78",
+            "rating": "5.71",
             "imdb_id": "tt4219158"
         },
         {
@@ -197,7 +207,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt12590266_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "8.51",
+            "rating": "8.47",
             "imdb_id": "tt12590266"
         },
         {
@@ -257,7 +267,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650323_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.89",
+            "rating": "6.90",
             "imdb_id": "tt43650323"
         },
         {
@@ -309,16 +319,6 @@
             "posterShape": "poster",
             "rating": "7.41",
             "imdb_id": "tt43691412"
-        },
-        {
-            "id": "tt43691391",
-            "type": "series",
-            "name": "Choujun! Choujou-senpai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691391_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.42",
-            "imdb_id": "tt43691391"
         }
     ]
 }
