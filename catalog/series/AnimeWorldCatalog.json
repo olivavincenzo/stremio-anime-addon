@@ -1,13 +1,23 @@
 {
     "metas": [
         {
+            "id": "tt43119470",
+            "type": "series",
+            "name": "FX Senshi Kurumi-chan",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43119470_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.29",
+            "imdb_id": "tt43119470"
+        },
+        {
             "id": "tt28259824",
             "type": "series",
             "name": "Biao Ren Er",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28259824_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.33",
+            "rating": "6.56",
             "imdb_id": "tt28259824"
         },
         {
@@ -27,7 +37,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42938834_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.72",
+            "rating": "6.64",
             "imdb_id": "tt42938834"
         },
         {
@@ -47,7 +57,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt4219158_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "5.68",
+            "rating": "5.78",
             "imdb_id": "tt4219158"
         },
         {
@@ -67,7 +77,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28313387_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.64",
+            "rating": "7.63",
             "imdb_id": "tt28313387"
         },
         {
@@ -87,18 +97,18 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32813343_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.77",
+            "rating": "6.78",
             "imdb_id": "tt32813343"
         },
         {
-            "id": "tt39104949",
+            "id": "tt0122090",
             "type": "series",
             "name": "Zi Jin: Yu Miao Fang",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39104949_Ep_6.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0122090_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.57",
-            "imdb_id": "tt39104949"
+            "rating": "5.59",
+            "imdb_id": "tt0122090"
         },
         {
             "id": "tt13884052",
@@ -117,7 +127,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt27524116_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.90",
+            "rating": "7.88",
             "imdb_id": "tt27524116"
         },
         {
@@ -157,7 +167,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt12590266_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "8.33",
+            "rating": "8.49",
             "imdb_id": "tt12590266"
         },
         {
@@ -167,7 +177,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39390769_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "5.66",
+            "rating": "5.60",
             "imdb_id": "tt39390769"
         },
         {
@@ -187,7 +197,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41296544_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.76",
+            "rating": "7.75",
             "imdb_id": "tt41296544"
         },
         {
@@ -211,33 +221,34 @@
             "imdb_id": "tt43650454"
         },
         {
-            "id": "tt43650323",
+            "id": "tt1646971",
             "type": "series",
             "name": "Dark Summoner to Dekiteiru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650323_Ep_3.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt1646971_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.87",
-            "imdb_id": "tt43650323"
+            "rating": "6.89",
+            "imdb_id": "tt1646971"
         },
         {
-            "id": "tt21030032",
+            "id": "tt3530654",
             "type": "series",
             "name": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt21030032_Ep_3.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt3530654_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "6.13",
-            "imdb_id": "tt21030032"
+            "imdb_id": "tt3530654"
         },
         {
-            "id": "kitsu:50279",
+            "id": "tt1386011",
             "type": "series",
             "name": "Yi Nian Yong Heng: Wanjie Ji",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50279_Ep_13.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt1386011_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
-            "rating": "8.02"
+            "rating": "8.02",
+            "imdb_id": "tt1386011"
         },
         {
             "id": "tt35769369",
@@ -266,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691412_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.43",
+            "rating": "7.41",
             "imdb_id": "tt43691412"
         },
         {
@@ -306,7 +317,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650242_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.44",
+            "rating": "7.45",
             "imdb_id": "tt43650242"
         },
         {
@@ -318,16 +329,6 @@
             "posterShape": "poster",
             "rating": "6.39",
             "imdb_id": "tt12044608"
-        },
-        {
-            "id": "tt0434665",
-            "type": "series",
-            "name": "Bleach: Thousand-Year Blood War - The Calamity",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0434665_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "8.55",
-            "imdb_id": "tt0434665"
         }
     ]
 }
