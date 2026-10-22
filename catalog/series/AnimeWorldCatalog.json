@@ -1,6 +1,36 @@
 {
     "metas": [
         {
+            "id": "tt25531288",
+            "type": "series",
+            "name": "Hyouken no Majutsushi ga Sekai wo Suberu 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt25531288_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "7.52",
+            "imdb_id": "tt25531288"
+        },
+        {
+            "id": "tt33334216",
+            "type": "series",
+            "name": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt33334216_Ep_17.jpg",
+            "description": "Nuovo episodio: Ep 17",
+            "posterShape": "poster",
+            "rating": "7.22",
+            "imdb_id": "tt33334216"
+        },
+        {
+            "id": "tt39123061",
+            "type": "series",
+            "name": "Koori no Jouheki 2 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39123061_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "8.48",
+            "imdb_id": "tt39123061"
+        },
+        {
             "id": "tt43119470",
             "type": "series",
             "name": "FX Senshi Kurumi-chan",
@@ -37,7 +67,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42938834_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.64",
+            "rating": "6.88",
             "imdb_id": "tt42938834"
         },
         {
@@ -47,7 +77,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt5607616_Ep_19.jpg",
             "description": "Nuovo episodio: Ep 19",
             "posterShape": "poster",
-            "rating": "8.20",
+            "rating": "8.19",
             "imdb_id": "tt5607616"
         },
         {
@@ -77,7 +107,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28313387_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.63",
+            "rating": "7.62",
             "imdb_id": "tt28313387"
         },
         {
@@ -101,14 +131,14 @@
             "imdb_id": "tt32813343"
         },
         {
-            "id": "tt0122090",
+            "id": "tt39104949",
             "type": "series",
             "name": "Zi Jin: Yu Miao Fang",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0122090_Ep_6.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39104949_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "5.59",
-            "imdb_id": "tt0122090"
+            "imdb_id": "tt39104949"
         },
         {
             "id": "tt13884052",
@@ -137,7 +167,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691408_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.20",
+            "rating": "7.23",
             "imdb_id": "tt43691408"
         },
         {
@@ -167,7 +197,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt12590266_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "8.49",
+            "rating": "8.51",
             "imdb_id": "tt12590266"
         },
         {
@@ -187,7 +217,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41278592_Ep_16.jpg",
             "description": "Nuovo episodio: Ep 16",
             "posterShape": "poster",
-            "rating": "5.53",
+            "rating": "5.55",
             "imdb_id": "tt41278592"
         },
         {
@@ -197,18 +227,18 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41296544_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.75",
+            "rating": "7.73",
             "imdb_id": "tt41296544"
         },
         {
-            "id": "tt5461596",
+            "id": "tt45831796",
             "type": "series",
             "name": "Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt5461596_Ep_3.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt45831796_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.33",
-            "imdb_id": "tt5461596"
+            "rating": "6.34",
+            "imdb_id": "tt45831796"
         },
         {
             "id": "tt43650454",
@@ -221,34 +251,34 @@
             "imdb_id": "tt43650454"
         },
         {
-            "id": "tt1646971",
+            "id": "tt43650323",
             "type": "series",
             "name": "Dark Summoner to Dekiteiru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt1646971_Ep_3.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650323_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "6.89",
-            "imdb_id": "tt1646971"
+            "imdb_id": "tt43650323"
         },
         {
-            "id": "tt3530654",
+            "id": "tt21030032",
             "type": "series",
             "name": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt3530654_Ep_3.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt21030032_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.13",
-            "imdb_id": "tt3530654"
+            "rating": "6.14",
+            "imdb_id": "tt21030032"
         },
         {
-            "id": "tt1386011",
+            "id": "tt13695606",
             "type": "series",
             "name": "Yi Nian Yong Heng: Wanjie Ji",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt1386011_Ep_13.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13695606_Ep_13.jpg",
             "description": "Nuovo episodio: Ep 13",
             "posterShape": "poster",
             "rating": "8.02",
-            "imdb_id": "tt1386011"
+            "imdb_id": "tt13695606"
         },
         {
             "id": "tt35769369",
@@ -257,7 +287,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt35769369_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.77",
+            "rating": "6.78",
             "imdb_id": "tt35769369"
         },
         {
@@ -289,46 +319,6 @@
             "posterShape": "poster",
             "rating": "6.42",
             "imdb_id": "tt43691391"
-        },
-        {
-            "id": "tt43691365",
-            "type": "series",
-            "name": "Shiotaiou no Satou-san ga Ore ni dake Amai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691365_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.02",
-            "imdb_id": "tt43691365"
-        },
-        {
-            "id": "tt32247408",
-            "type": "series",
-            "name": "Yeon-ui Pyeonji",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32247408_Ep_1.jpg",
-            "description": "Nuovo episodio: Ep 1",
-            "posterShape": "poster",
-            "rating": "6.88",
-            "imdb_id": "tt32247408"
-        },
-        {
-            "id": "tt43650242",
-            "type": "series",
-            "name": "Seitokai ni mo Ana wa Aru!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650242_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.45",
-            "imdb_id": "tt43650242"
-        },
-        {
-            "id": "tt12044608",
-            "type": "series",
-            "name": "Ochikobore Fruit Tart",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt12044608_Ep_10.jpg",
-            "description": "Nuovo episodio: Ep 10",
-            "posterShape": "poster",
-            "rating": "6.39",
-            "imdb_id": "tt12044608"
         }
     ]
 }
