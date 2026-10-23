@@ -1,6 +1,56 @@
 {
     "metas": [
         {
+            "id": "tt41293320",
+            "type": "series",
+            "name": "Uchi no Otouto-domo ga Sumimasen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41293320_Ep_16.jpg",
+            "description": "Nuovo episodio: Ep 16",
+            "posterShape": "poster",
+            "rating": "6.92",
+            "imdb_id": "tt41293320"
+        },
+        {
+            "id": "tt32344704",
+            "type": "series",
+            "name": "Tougen Anki: Nikko Kegon no Taki-hen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32344704_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "7.40",
+            "imdb_id": "tt32344704"
+        },
+        {
+            "id": "tt39394153",
+            "type": "series",
+            "name": "Hotaru no Yomeiri",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39394153_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "7.94",
+            "imdb_id": "tt39394153"
+        },
+        {
+            "id": "tt41295083",
+            "type": "series",
+            "name": "Toaru Anbu no Item",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41295083_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "6.45",
+            "imdb_id": "tt41295083"
+        },
+        {
+            "id": "tt26743760",
+            "type": "series",
+            "name": "Kusuriya no Hitorigoto 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt26743760_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "8.68",
+            "imdb_id": "tt26743760"
+        },
+        {
             "id": "tt2359704",
             "type": "series",
             "name": "Steel Ball Run: JoJo no Kimyou na Bouken (ITA)",
@@ -17,7 +67,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt14976292_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "8.07",
+            "rating": "8.10",
             "imdb_id": "tt14976292"
         },
         {
@@ -27,7 +77,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt36986811_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.09",
+            "rating": "5.93",
             "imdb_id": "tt36986811"
         },
         {
@@ -37,7 +87,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt25531288_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.53",
+            "rating": "7.48",
             "imdb_id": "tt25531288"
         },
         {
@@ -57,7 +107,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39123061_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.39",
+            "rating": "8.40",
             "imdb_id": "tt39123061"
         },
         {
@@ -67,7 +117,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43119470_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.31",
+            "rating": "6.34",
             "imdb_id": "tt43119470"
         },
         {
@@ -97,7 +147,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42938834_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.70",
+            "rating": "6.63",
             "imdb_id": "tt42938834"
         },
         {
@@ -127,7 +177,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0388629_Ep_942.jpg",
             "description": "Nuovo episodio: Ep 942",
             "posterShape": "poster",
-            "rating": "7.96",
+            "rating": "7.97",
             "imdb_id": "tt0388629"
         },
         {
@@ -147,7 +197,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15660128_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "4.70",
+            "rating": "4.74",
             "imdb_id": "tt15660128"
         },
         {
@@ -201,14 +251,14 @@
             "imdb_id": "tt43691408"
         },
         {
-            "id": "tt1286785",
+            "id": "tt39240299",
             "type": "series",
             "name": "Mahou Shoujo Ikusei Keikaku: Restart",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt1286785_Ep_3.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39240299_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "6.05",
-            "imdb_id": "tt1286785"
+            "imdb_id": "tt39240299"
         },
         {
             "id": "tt41295113",
@@ -227,18 +277,18 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt12590266_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "8.50",
+            "rating": "8.46",
             "imdb_id": "tt12590266"
         },
         {
-            "id": "tt0372763",
+            "id": "tt39390769",
             "type": "series",
             "name": "Dark Machine: The Animation",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0372763_Ep_2.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39390769_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
             "rating": "5.59",
-            "imdb_id": "tt0372763"
+            "imdb_id": "tt39390769"
         },
         {
             "id": "tt41278592",
@@ -259,56 +309,6 @@
             "posterShape": "poster",
             "rating": "7.73",
             "imdb_id": "tt41296544"
-        },
-        {
-            "id": "tt45831796",
-            "type": "series",
-            "name": "Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt45831796_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.34",
-            "imdb_id": "tt45831796"
-        },
-        {
-            "id": "tt43650454",
-            "type": "series",
-            "name": "Kanojo no Tomodachi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650454_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.33",
-            "imdb_id": "tt43650454"
-        },
-        {
-            "id": "tt43650323",
-            "type": "series",
-            "name": "Dark Summoner to Dekiteiru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650323_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.89",
-            "imdb_id": "tt43650323"
-        },
-        {
-            "id": "tt21030032",
-            "type": "series",
-            "name": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt21030032_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.09",
-            "imdb_id": "tt21030032"
-        },
-        {
-            "id": "tt13695606",
-            "type": "series",
-            "name": "Yi Nian Yong Heng: Wanjie Ji",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13695606_Ep_13.jpg",
-            "description": "Nuovo episodio: Ep 13",
-            "posterShape": "poster",
-            "rating": "8.02",
-            "imdb_id": "tt13695606"
         }
     ]
 }
