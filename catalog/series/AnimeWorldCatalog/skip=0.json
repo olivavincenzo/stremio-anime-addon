@@ -1,13 +1,23 @@
 {
     "metas": [
         {
+            "id": "tt14976292",
+            "type": "series",
+            "name": "Shiguang Dailiren III",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt14976292_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "8.06",
+            "imdb_id": "tt14976292"
+        },
+        {
             "id": "tt36986811",
             "type": "series",
             "name": "Kizu darake Seijo yori Houfuku wo Komete 2",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt36986811_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.02",
+            "rating": "6.00",
             "imdb_id": "tt36986811"
         },
         {
@@ -17,7 +27,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt25531288_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.53",
+            "rating": "7.54",
             "imdb_id": "tt25531288"
         },
         {
@@ -27,7 +37,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt33334216_Ep_17.jpg",
             "description": "Nuovo episodio: Ep 17",
             "posterShape": "poster",
-            "rating": "7.21",
+            "rating": "7.20",
             "imdb_id": "tt33334216"
         },
         {
@@ -47,7 +57,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43119470_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.31",
+            "rating": "6.28",
             "imdb_id": "tt43119470"
         },
         {
@@ -57,7 +67,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28259824_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.56",
+            "rating": "6.64",
             "imdb_id": "tt28259824"
         },
         {
@@ -77,7 +87,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42938834_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.65",
+            "rating": "6.63",
             "imdb_id": "tt42938834"
         },
         {
@@ -97,7 +107,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt4219158_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "5.71",
+            "rating": "5.76",
             "imdb_id": "tt4219158"
         },
         {
@@ -117,7 +127,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28313387_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.62",
+            "rating": "7.61",
             "imdb_id": "tt28313387"
         },
         {
@@ -141,14 +151,14 @@
             "imdb_id": "tt32813343"
         },
         {
-            "id": "tt0122090",
+            "id": "tt39104949",
             "type": "series",
             "name": "Zi Jin: Yu Miao Fang",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0122090_Ep_6.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39104949_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.59",
-            "imdb_id": "tt0122090"
+            "rating": "5.62",
+            "imdb_id": "tt39104949"
         },
         {
             "id": "tt13884052",
@@ -167,7 +177,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt27524116_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.88",
+            "rating": "7.85",
             "imdb_id": "tt27524116"
         },
         {
@@ -177,18 +187,18 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691408_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.25",
+            "rating": "7.24",
             "imdb_id": "tt43691408"
         },
         {
-            "id": "tt1286785",
+            "id": "tt39240299",
             "type": "series",
             "name": "Mahou Shoujo Ikusei Keikaku: Restart",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt1286785_Ep_3.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39240299_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "6.05",
-            "imdb_id": "tt1286785"
+            "imdb_id": "tt39240299"
         },
         {
             "id": "tt41295113",
@@ -217,7 +227,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39390769_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "5.60",
+            "rating": "5.59",
             "imdb_id": "tt39390769"
         },
         {
@@ -257,7 +267,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650454_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.34",
+            "rating": "6.33",
             "imdb_id": "tt43650454"
         },
         {
@@ -267,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650323_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.90",
+            "rating": "6.89",
             "imdb_id": "tt43650323"
         },
         {
@@ -277,7 +287,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt21030032_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.12",
+            "rating": "6.09",
             "imdb_id": "tt21030032"
         },
         {
@@ -309,16 +319,6 @@
             "posterShape": "poster",
             "rating": "4.34",
             "imdb_id": "tt14924976"
-        },
-        {
-            "id": "tt43691412",
-            "type": "series",
-            "name": "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691412_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.41",
-            "imdb_id": "tt43691412"
         }
     ]
 }
