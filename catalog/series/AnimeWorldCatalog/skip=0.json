@@ -1,13 +1,33 @@
 {
     "metas": [
         {
+            "id": "tt9348716",
+            "type": "series",
+            "name": "Rilakkuma",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt9348716_Ep_29.jpg",
+            "description": "Nuovo episodio: Ep 29",
+            "posterShape": "poster",
+            "rating": "6.08",
+            "imdb_id": "tt9348716"
+        },
+        {
+            "id": "tt45373165",
+            "type": "series",
+            "name": "Keroro Gunsou☆",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt45373165_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "5.97",
+            "imdb_id": "tt45373165"
+        },
+        {
             "id": "tt13196080",
             "type": "series",
             "name": "Tokyo Revengers: Santen Sensou-hen (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13196080_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.83",
+            "rating": "7.81",
             "imdb_id": "tt13196080"
         },
         {
@@ -37,7 +57,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39394153_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.93",
+            "rating": "7.92",
             "imdb_id": "tt39394153"
         },
         {
@@ -87,7 +107,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt36986811_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.03",
+            "rating": "5.98",
             "imdb_id": "tt36986811"
         },
         {
@@ -117,7 +137,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39123061_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.42",
+            "rating": "8.38",
             "imdb_id": "tt39123061"
         },
         {
@@ -131,14 +151,14 @@
             "imdb_id": "tt43119470"
         },
         {
-            "id": "tt28259824",
+            "id": "tt32649961",
             "type": "series",
             "name": "Biao Ren Er",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28259824_Ep_3.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32649961_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "6.61",
-            "imdb_id": "tt28259824"
+            "imdb_id": "tt32649961"
         },
         {
             "id": "tt29485149",
@@ -287,18 +307,8 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt12590266_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "8.40",
+            "rating": "8.36",
             "imdb_id": "tt12590266"
-        },
-        {
-            "id": "tt39390769",
-            "type": "series",
-            "name": "Dark Machine: The Animation",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39390769_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "5.59",
-            "imdb_id": "tt39390769"
         }
     ]
 }
