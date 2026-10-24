@@ -1,13 +1,73 @@
 {
     "metas": [
         {
+            "id": "tt41296506",
+            "type": "series",
+            "name": "Magical★Explorer",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41296506_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.39",
+            "imdb_id": "tt41296506"
+        },
+        {
+            "id": "tt42487863",
+            "type": "series",
+            "name": "Vertex Force",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42487863_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.32",
+            "imdb_id": "tt42487863"
+        },
+        {
+            "id": "tt44757191",
+            "type": "series",
+            "name": "Marronnier Oukoku no Shichinin no Kishi (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt44757191_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.79",
+            "imdb_id": "tt44757191"
+        },
+        {
+            "id": "tt7441658",
+            "type": "series",
+            "name": "Black Clover 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt7441658_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "8.96",
+            "imdb_id": "tt7441658"
+        },
+        {
+            "id": "tt43691424",
+            "type": "series",
+            "name": "#Zombie Sagashitemasu",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691424_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.81",
+            "imdb_id": "tt43691424"
+        },
+        {
+            "id": "tt33258199",
+            "type": "series",
+            "name": "Yasei no Last Boss ga Arawareta! 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt33258199_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.64",
+            "imdb_id": "tt33258199"
+        },
+        {
             "id": "tt38939893",
             "type": "series",
             "name": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt38939893_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.88",
+            "rating": "7.87",
             "imdb_id": "tt38939893"
         },
         {
@@ -17,7 +77,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42727894_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.48",
+            "rating": "7.50",
             "imdb_id": "tt42727894"
         },
         {
@@ -37,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41153966_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.52",
+            "rating": "7.49",
             "imdb_id": "tt41153966"
         },
         {
@@ -47,7 +107,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt26743760_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.75",
+            "rating": "7.30",
             "imdb_id": "tt26743760"
         },
         {
@@ -57,7 +117,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39394153_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.90",
+            "rating": "7.89",
             "imdb_id": "tt39394153"
         },
         {
@@ -107,7 +167,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32344704_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.44",
+            "rating": "7.41",
             "imdb_id": "tt32344704"
         },
         {
@@ -237,7 +297,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt4219158_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "5.70",
+            "rating": "5.69",
             "imdb_id": "tt4219158"
         },
         {
@@ -249,76 +309,6 @@
             "posterShape": "poster",
             "rating": "7.97",
             "imdb_id": "tt0388629"
-        },
-        {
-            "id": "tt28313387",
-            "type": "series",
-            "name": "Kikansha no Mahou wa Tokubetsu desu 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28313387_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.60",
-            "imdb_id": "tt28313387"
-        },
-        {
-            "id": "tt15660128",
-            "type": "series",
-            "name": "Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15660128_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "4.74",
-            "imdb_id": "tt15660128"
-        },
-        {
-            "id": "tt32813343",
-            "type": "series",
-            "name": "Magic Knight Rayearth (2026)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32813343_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.75",
-            "imdb_id": "tt32813343"
-        },
-        {
-            "id": "tt39104949",
-            "type": "series",
-            "name": "Zi Jin: Yu Miao Fang",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39104949_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "5.62",
-            "imdb_id": "tt39104949"
-        },
-        {
-            "id": "tt13884052",
-            "type": "series",
-            "name": "Tantei wa Mou, Shindeiru. 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13884052_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.55",
-            "imdb_id": "tt13884052"
-        },
-        {
-            "id": "tt27524116",
-            "type": "series",
-            "name": "Sasaki to Pii-chan 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt27524116_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.85",
-            "imdb_id": "tt27524116"
-        },
-        {
-            "id": "tt43691408",
-            "type": "series",
-            "name": "Sekai Saikyou no Majo, Hajimemashita",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691408_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.24",
-            "imdb_id": "tt43691408"
         }
     ]
 }
