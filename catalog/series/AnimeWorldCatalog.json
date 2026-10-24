@@ -1,6 +1,16 @@
 {
     "metas": [
         {
+            "id": "tt39394153",
+            "type": "series",
+            "name": "Hotaru no Yomeiri",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39394153_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "7.90",
+            "imdb_id": "tt39394153"
+        },
+        {
             "id": "tt9348716",
             "type": "series",
             "name": "Rilakkuma",
@@ -47,18 +57,8 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32344704_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.41",
+            "rating": "7.43",
             "imdb_id": "tt32344704"
-        },
-        {
-            "id": "tt39394153",
-            "type": "series",
-            "name": "Hotaru no Yomeiri",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39394153_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.92",
-            "imdb_id": "tt39394153"
         },
         {
             "id": "tt41295083",
@@ -67,7 +67,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41295083_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.50",
+            "rating": "6.47",
             "imdb_id": "tt41295083"
         },
         {
@@ -77,7 +77,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt26743760_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.70",
+            "rating": "8.67",
             "imdb_id": "tt26743760"
         },
         {
@@ -97,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt14976292_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "8.06",
+            "rating": "8.08",
             "imdb_id": "tt14976292"
         },
         {
@@ -151,14 +151,14 @@
             "imdb_id": "tt43119470"
         },
         {
-            "id": "tt32649961",
+            "id": "tt28259824",
             "type": "series",
             "name": "Biao Ren Er",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32649961_Ep_3.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28259824_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "6.61",
-            "imdb_id": "tt32649961"
+            "imdb_id": "tt28259824"
         },
         {
             "id": "tt29485149",
@@ -237,7 +237,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32813343_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.83",
+            "rating": "6.75",
             "imdb_id": "tt32813343"
         },
         {
