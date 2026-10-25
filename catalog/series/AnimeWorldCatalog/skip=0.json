@@ -1,13 +1,33 @@
 {
     "metas": [
         {
+            "id": "tt43650242",
+            "type": "series",
+            "name": "Seitokai ni mo Ana wa Aru!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650242_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "7.49",
+            "imdb_id": "tt43650242"
+        },
+        {
+            "id": "tt7441658",
+            "type": "series",
+            "name": "Black Clover 2 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt7441658_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "10.00",
+            "imdb_id": "tt7441658"
+        },
+        {
             "id": "tt37105192",
             "type": "series",
             "name": "Yu-Gi-Oh! Card Game: The Chronicles",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt37105192_Ep_19.jpg",
             "description": "Nuovo episodio: Ep 19",
             "posterShape": "poster",
-            "rating": "5.88",
+            "rating": "5.92",
             "imdb_id": "tt37105192"
         },
         {
@@ -27,7 +47,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650419_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.39",
+            "rating": "7.37",
             "imdb_id": "tt43650419"
         },
         {
@@ -57,7 +77,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32766897_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.23",
+            "rating": "8.24",
             "imdb_id": "tt32766897"
         },
         {
@@ -77,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41296506_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.41",
+            "rating": "7.40",
             "imdb_id": "tt41296506"
         },
         {
@@ -97,18 +117,8 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt44757191_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.73",
+            "rating": "6.80",
             "imdb_id": "tt44757191"
-        },
-        {
-            "id": "tt7441658",
-            "type": "series",
-            "name": "Black Clover 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt7441658_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "8.95",
-            "imdb_id": "tt7441658"
         },
         {
             "id": "tt43691424",
@@ -117,7 +127,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691424_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.81",
+            "rating": "6.77",
             "imdb_id": "tt43691424"
         },
         {
@@ -137,7 +147,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt38939893_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.86",
+            "rating": "7.88",
             "imdb_id": "tt38939893"
         },
         {
@@ -147,7 +157,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42727894_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.49",
+            "rating": "7.48",
             "imdb_id": "tt42727894"
         },
         {
@@ -187,7 +197,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39394153_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.86",
+            "rating": "7.88",
             "imdb_id": "tt39394153"
         },
         {
@@ -319,26 +329,6 @@
             "posterShape": "poster",
             "rating": "6.33",
             "imdb_id": "tt43119470"
-        },
-        {
-            "id": "tt28259824",
-            "type": "series",
-            "name": "Biao Ren Er",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28259824_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.61",
-            "imdb_id": "tt28259824"
-        },
-        {
-            "id": "tt29485149",
-            "type": "series",
-            "name": "Dragon Ball Daima (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt29485149_Ep_12.jpg",
-            "description": "Nuovo episodio: Ep 12",
-            "posterShape": "poster",
-            "rating": "6.88",
-            "imdb_id": "tt29485149"
         }
     ]
 }
