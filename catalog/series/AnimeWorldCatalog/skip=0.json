@@ -1,14 +1,64 @@
 {
     "metas": [
         {
-            "id": "tt43650323",
+            "id": "tt43691412",
             "type": "series",
-            "name": "Dark Summoner to Dekiteiru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650323_Ep_4.jpg",
+            "name": "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691412_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.86",
-            "imdb_id": "tt43650323"
+            "rating": "7.39",
+            "imdb_id": "tt43691412"
+        },
+        {
+            "id": "tt43691391",
+            "type": "series",
+            "name": "Choujun! Choujou-senpai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691391_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.47",
+            "imdb_id": "tt43691391"
+        },
+        {
+            "id": "tt43691365",
+            "type": "series",
+            "name": "Shiotaiou no Satou-san ga Ore ni dake Amai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691365_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.99",
+            "imdb_id": "tt43691365"
+        },
+        {
+            "id": "tt41296544",
+            "type": "series",
+            "name": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41296544_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "7.73",
+            "imdb_id": "tt41296544"
+        },
+        {
+            "id": "tt13695606",
+            "type": "series",
+            "name": "Yi Nian Yong Heng: Wanjie Ji",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13695606_Ep_14.jpg",
+            "description": "Nuovo episodio: Ep 14",
+            "posterShape": "poster",
+            "rating": "8.01",
+            "imdb_id": "tt13695606"
+        },
+        {
+            "id": "tt6565702",
+            "type": "series",
+            "name": "Dark Summoner to Dekiteiru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt6565702_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.87",
+            "imdb_id": "tt6565702"
         },
         {
             "id": "tt0434665",
@@ -17,7 +67,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0434665_Ep_10.jpg",
             "description": "Nuovo episodio: Ep 10",
             "posterShape": "poster",
-            "rating": "8.55",
+            "rating": "8.57",
             "imdb_id": "tt0434665"
         },
         {
@@ -27,7 +77,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39181351_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.32",
+            "rating": "7.29",
             "imdb_id": "tt39181351"
         },
         {
@@ -47,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650300_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.61",
+            "rating": "7.63",
             "imdb_id": "tt43650300"
         },
         {
@@ -67,7 +117,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39395275_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.19",
+            "rating": "8.17",
             "imdb_id": "tt39395275"
         },
         {
@@ -77,7 +127,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41293157_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.65",
+            "rating": "7.64",
             "imdb_id": "tt41293157"
         },
         {
@@ -107,18 +157,18 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691353_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.84",
+            "rating": "7.85",
             "imdb_id": "tt43691353"
         },
         {
-            "id": "tt38752562",
+            "id": "tt1951266",
             "type": "series",
             "name": "Mahou no Shimai Lulutto Lilly Part 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt38752562_Ep_4.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt1951266_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "3.90",
-            "imdb_id": "tt38752562"
+            "imdb_id": "tt1951266"
         },
         {
             "id": "tt35995459",
@@ -207,7 +257,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15792808_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.39",
+            "rating": "8.40",
             "imdb_id": "tt15792808"
         },
         {
@@ -237,7 +287,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650242_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.53",
+            "rating": "7.56",
             "imdb_id": "tt43650242"
         },
         {
@@ -259,56 +309,6 @@
             "posterShape": "poster",
             "rating": "5.92",
             "imdb_id": "tt37105192"
-        },
-        {
-            "id": "tt16409202",
-            "type": "series",
-            "name": "Da Wang Rao Ming 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt16409202_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "7.51",
-            "imdb_id": "tt16409202"
-        },
-        {
-            "id": "tt43650419",
-            "type": "series",
-            "name": "Kashita Maryoku wa \"Revo Barai\" de Kyousei Choushuu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650419_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "7.36",
-            "imdb_id": "tt43650419"
-        },
-        {
-            "id": "tt15483602",
-            "type": "series",
-            "name": "Tensei shitara Ken deshita 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15483602_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "8.07",
-            "imdb_id": "tt15483602"
-        },
-        {
-            "id": "tt49410334",
-            "type": "series",
-            "name": "Dreamland",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt49410334_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "6.00",
-            "imdb_id": "tt49410334"
-        },
-        {
-            "id": "tt32766897",
-            "type": "series",
-            "name": "Ranma ½ (2024) 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32766897_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "8.17",
-            "imdb_id": "tt32766897"
         }
     ]
 }
