@@ -1,6 +1,16 @@
 {
     "metas": [
         {
+            "id": "tt43650323",
+            "type": "series",
+            "name": "Dark Summoner to Dekiteiru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650323_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.90",
+            "imdb_id": "tt43650323"
+        },
+        {
             "id": "tt0434665",
             "type": "series",
             "name": "Bleach: Thousand-Year Blood War - The Calamity",
@@ -17,7 +27,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39181351_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.36",
+            "rating": "7.34",
             "imdb_id": "tt39181351"
         },
         {
@@ -27,7 +37,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691383_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.29",
+            "rating": "7.31",
             "imdb_id": "tt43691383"
         },
         {
@@ -37,7 +47,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650300_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.57",
+            "rating": "7.56",
             "imdb_id": "tt43650300"
         },
         {
@@ -87,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt19869172_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.35",
+            "rating": "7.44",
             "imdb_id": "tt19869172"
         },
         {
@@ -97,17 +107,18 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691353_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.80",
+            "rating": "7.82",
             "imdb_id": "tt43691353"
         },
         {
-            "id": "kitsu:50996",
+            "id": "tt38752562",
             "type": "series",
             "name": "Mahou no Shimai Lulutto Lilly Part 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50996_Ep_4.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt38752562_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "3.90"
+            "rating": "3.90",
+            "imdb_id": "tt38752562"
         },
         {
             "id": "tt35995459",
@@ -156,7 +167,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650265_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.85",
+            "rating": "6.86",
             "imdb_id": "tt43650265"
         },
         {
@@ -206,7 +217,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt31131310_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.21",
+            "rating": "8.17",
             "imdb_id": "tt31131310"
         },
         {
@@ -276,7 +287,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15483602_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.04",
+            "rating": "8.06",
             "imdb_id": "tt15483602"
         },
         {
