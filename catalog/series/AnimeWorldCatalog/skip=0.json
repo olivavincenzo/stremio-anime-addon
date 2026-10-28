@@ -1,13 +1,53 @@
 {
     "metas": [
         {
+            "id": "tt28197251",
+            "type": "series",
+            "name": "Chao Neng Lifang: Chaofan Pian (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28197251_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "7.75",
+            "imdb_id": "tt28197251"
+        },
+        {
+            "id": "tt28259824",
+            "type": "series",
+            "name": "Biao Ren Er",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28259824_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.64",
+            "imdb_id": "tt28259824"
+        },
+        {
+            "id": "tt41295113",
+            "type": "series",
+            "name": "Battle Spirits [Re] Zekkai No Ku",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41295113_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "5.69",
+            "imdb_id": "tt41295113"
+        },
+        {
+            "id": "tt39240299",
+            "type": "series",
+            "name": "Mahou Shoujo Ikusei Keikaku: Restart",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39240299_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.10",
+            "imdb_id": "tt39240299"
+        },
+        {
             "id": "tt39390769",
             "type": "series",
             "name": "Dark Machine: The Animation",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39390769_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "5.59",
+            "rating": "5.53",
             "imdb_id": "tt39390769"
         },
         {
@@ -27,7 +67,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt45831796_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.35",
+            "rating": "6.37",
             "imdb_id": "tt45831796"
         },
         {
@@ -37,7 +77,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650454_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.29",
+            "rating": "6.30",
             "imdb_id": "tt43650454"
         },
         {
@@ -47,7 +87,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt21030032_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.11",
+            "rating": "6.06",
             "imdb_id": "tt21030032"
         },
         {
@@ -77,7 +117,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt35769369_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.82",
+            "rating": "6.79",
             "imdb_id": "tt35769369"
         },
         {
@@ -97,7 +137,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691391_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.42",
+            "rating": "6.45",
             "imdb_id": "tt43691391"
         },
         {
@@ -121,13 +161,14 @@
             "imdb_id": "tt41296544"
         },
         {
-            "id": "kitsu:50279",
+            "id": "tt13695606",
             "type": "series",
             "name": "Yi Nian Yong Heng: Wanjie Ji",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50279_Ep_14.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13695606_Ep_14.jpg",
             "description": "Nuovo episodio: Ep 14",
             "posterShape": "poster",
-            "rating": "8.01"
+            "rating": "8.01",
+            "imdb_id": "tt13695606"
         },
         {
             "id": "tt43650323",
@@ -156,7 +197,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39181351_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.29",
+            "rating": "7.28",
             "imdb_id": "tt39181351"
         },
         {
@@ -206,7 +247,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41293157_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "7.67",
+            "rating": "7.68",
             "imdb_id": "tt41293157"
         },
         {
@@ -216,7 +257,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691315_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.03",
+            "rating": "6.04",
             "imdb_id": "tt43691315"
         },
         {
@@ -226,7 +267,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt19869172_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.24",
+            "rating": "7.33",
             "imdb_id": "tt19869172"
         },
         {
@@ -236,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691353_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.85",
+            "rating": "7.86",
             "imdb_id": "tt43691353"
         },
         {
@@ -288,36 +329,6 @@
             "posterShape": "poster",
             "rating": "7.11",
             "imdb_id": "tt43691418"
-        },
-        {
-            "id": "tt43650265",
-            "type": "series",
-            "name": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650265_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "6.87",
-            "imdb_id": "tt43650265"
-        },
-        {
-            "id": "tt41298100",
-            "type": "series",
-            "name": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41298100_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "7.67",
-            "imdb_id": "tt41298100"
-        },
-        {
-            "id": "tt43691343",
-            "type": "series",
-            "name": "Ojisan wa Kawaii Mono ga Osuki.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691343_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "6.33",
-            "imdb_id": "tt43691343"
         }
     ]
 }
