@@ -7,7 +7,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28313387_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.61",
+            "rating": "7.62",
             "imdb_id": "tt28313387"
         },
         {
@@ -37,7 +37,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32813343_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "6.68",
+            "rating": "6.70",
             "imdb_id": "tt32813343"
         },
         {
@@ -101,14 +101,14 @@
             "imdb_id": "tt28197251"
         },
         {
-            "id": "tt28259824",
+            "id": "tt32649961",
             "type": "series",
             "name": "Biao Ren Er",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28259824_Ep_4.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32649961_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "6.61",
-            "imdb_id": "tt28259824"
+            "imdb_id": "tt32649961"
         },
         {
             "id": "tt41295113",
@@ -121,14 +121,14 @@
             "imdb_id": "tt41295113"
         },
         {
-            "id": "tt39240299",
+            "id": "tt1286785",
             "type": "series",
             "name": "Mahou Shoujo Ikusei Keikaku: Restart",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39240299_Ep_4.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt1286785_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
             "rating": "5.98",
-            "imdb_id": "tt39240299"
+            "imdb_id": "tt1286785"
         },
         {
             "id": "tt39390769",
@@ -257,7 +257,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13695606_Ep_14.jpg",
             "description": "Nuovo episodio: Ep 14",
             "posterShape": "poster",
-            "rating": "8.04",
+            "rating": "8.06",
             "imdb_id": "tt13695606"
         },
         {
@@ -267,7 +267,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650323_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.86",
+            "rating": "6.87",
             "imdb_id": "tt43650323"
         },
         {
