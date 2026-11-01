@@ -1,13 +1,23 @@
 {
     "metas": [
         {
+            "id": "tt39395275",
+            "type": "series",
+            "name": "Dragon Ball Super: Beerus",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39395275_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "8.15",
+            "imdb_id": "tt39395275"
+        },
+        {
             "id": "tt43691315",
             "type": "series",
             "name": "Kanata kara",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691315_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.08",
+            "rating": "6.07",
             "imdb_id": "tt43691315"
         },
         {
@@ -17,7 +27,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691353_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.93",
+            "rating": "7.95",
             "imdb_id": "tt43691353"
         },
         {
@@ -37,7 +47,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0434665_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.28",
+            "rating": "8.16",
             "imdb_id": "tt0434665"
         },
         {
@@ -67,7 +77,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691394_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.71",
+            "rating": "6.62",
             "imdb_id": "tt43691394"
         },
         {
@@ -77,7 +87,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691418_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.16",
+            "rating": "7.13",
             "imdb_id": "tt43691418"
         },
         {
@@ -97,7 +107,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41298100_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.68",
+            "rating": "7.65",
             "imdb_id": "tt41298100"
         },
         {
@@ -117,7 +127,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15792808_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.28",
+            "rating": "8.30",
             "imdb_id": "tt15792808"
         },
         {
@@ -137,18 +147,18 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt31131310_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.10",
+            "rating": "8.11",
             "imdb_id": "tt31131310"
         },
         {
-            "id": "tt49410334",
+            "id": "tt22008216",
             "type": "series",
             "name": "Dreamland",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt49410334_Ep_3.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt22008216_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "6.04",
-            "imdb_id": "tt49410334"
+            "rating": "6.05",
+            "imdb_id": "tt22008216"
         },
         {
             "id": "tt43650242",
@@ -157,7 +167,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650242_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.64",
+            "rating": "7.65",
             "imdb_id": "tt43650242"
         },
         {
@@ -167,7 +177,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650419_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.37",
+            "rating": "7.38",
             "imdb_id": "tt43650419"
         },
         {
@@ -177,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32766897_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.08",
+            "rating": "7.94",
             "imdb_id": "tt32766897"
         },
         {
@@ -197,7 +207,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41296506_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.37",
+            "rating": "7.38",
             "imdb_id": "tt41296506"
         },
         {
@@ -227,7 +237,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15483602_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.17",
+            "rating": "8.18",
             "imdb_id": "tt15483602"
         },
         {
@@ -287,7 +297,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt38939893_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.82",
+            "rating": "7.84",
             "imdb_id": "tt38939893"
         },
         {
@@ -307,7 +317,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41153966_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "7.46",
+            "rating": "7.47",
             "imdb_id": "tt41153966"
         },
         {
@@ -339,16 +349,6 @@
             "posterShape": "poster",
             "rating": "7.20",
             "imdb_id": "tt39394153"
-        },
-        {
-            "id": "tt13196080",
-            "type": "series",
-            "name": "Tokyo Revengers: Santen Sensou-hen (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13196080_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "7.67",
-            "imdb_id": "tt13196080"
         }
     ]
 }
