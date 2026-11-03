@@ -1,6 +1,26 @@
 {
     "metas": [
         {
+            "id": "tt39390769",
+            "type": "series",
+            "name": "Dark Machine: The Animation",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39390769_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "5.59",
+            "imdb_id": "tt39390769"
+        },
+        {
+            "id": "tt41278592",
+            "type": "series",
+            "name": "Sora wa Akai Kawa no Hotori",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41278592_Ep_18.jpg",
+            "description": "Nuovo episodio: Ep 18",
+            "posterShape": "poster",
+            "rating": "5.61",
+            "imdb_id": "tt41278592"
+        },
+        {
             "id": "tt35769369",
             "type": "series",
             "name": "Chitose-kun wa Ramune Bin no Naka Part 2",
@@ -17,7 +37,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42938834_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.46",
+            "rating": "6.43",
             "imdb_id": "tt42938834"
         },
         {
@@ -27,7 +47,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41296544_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.75",
+            "rating": "7.72",
             "imdb_id": "tt41296544"
         },
         {
@@ -37,7 +57,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691412_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.34",
+            "rating": "7.29",
             "imdb_id": "tt43691412"
         },
         {
@@ -57,7 +77,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691365_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.96",
+            "rating": "6.91",
             "imdb_id": "tt43691365"
         },
         {
@@ -77,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13695606_Ep_15.jpg",
             "description": "Nuovo episodio: Ep 15",
             "posterShape": "poster",
-            "rating": "8.03",
+            "rating": "8.10",
             "imdb_id": "tt13695606"
         },
         {
@@ -87,7 +107,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650323_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.78",
+            "rating": "6.80",
             "imdb_id": "tt43650323"
         },
         {
@@ -107,7 +127,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650300_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.60",
+            "rating": "7.59",
             "imdb_id": "tt43650300"
         },
         {
@@ -127,7 +147,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt2403776_Ep_1.jpg",
             "description": "Nuovo episodio: Ep 1",
             "posterShape": "poster",
-            "rating": "7.17",
+            "rating": "7.07",
             "imdb_id": "tt2403776"
         },
         {
@@ -137,7 +157,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39395275_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.12",
+            "rating": "8.11",
             "imdb_id": "tt39395275"
         },
         {
@@ -197,7 +217,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt31975847_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.78",
+            "rating": "7.79",
             "imdb_id": "tt31975847"
         },
         {
@@ -237,7 +257,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41298100_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.61",
+            "rating": "7.60",
             "imdb_id": "tt41298100"
         },
         {
@@ -339,26 +359,6 @@
             "posterShape": "poster",
             "rating": "7.39",
             "imdb_id": "tt41296506"
-        },
-        {
-            "id": "tt42487863",
-            "type": "series",
-            "name": "Vertex Force",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42487863_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.23",
-            "imdb_id": "tt42487863"
-        },
-        {
-            "id": "tt44757191",
-            "type": "series",
-            "name": "Marronnier Oukoku no Shichinin no Kishi (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt44757191_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.74",
-            "imdb_id": "tt44757191"
         }
     ]
 }
