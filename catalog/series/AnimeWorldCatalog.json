@@ -1,13 +1,43 @@
 {
     "metas": [
         {
+            "id": "tt36836504",
+            "type": "series",
+            "name": "Kun Tun Tianxia Zhi Zhang Men Guilai (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt36836504_Ep_2.jpg",
+            "description": "Nuovo episodio: Ep 2",
+            "posterShape": "poster",
+            "rating": "6.75",
+            "imdb_id": "tt36836504"
+        },
+        {
+            "id": "tt28259824",
+            "type": "series",
+            "name": "Biao Ren Er",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28259824_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "6.60",
+            "imdb_id": "tt28259824"
+        },
+        {
+            "id": "tt12044608",
+            "type": "series",
+            "name": "Ochikobore Fruit Tart",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt12044608_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "6.39",
+            "imdb_id": "tt12044608"
+        },
+        {
             "id": "tt4219158",
             "type": "series",
             "name": "Juuou Mujin Dandivine",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt4219158_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "5.79",
+            "rating": "5.80",
             "imdb_id": "tt4219158"
         },
         {
@@ -17,7 +47,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28313387_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.55",
+            "rating": "7.53",
             "imdb_id": "tt28313387"
         },
         {
@@ -27,7 +57,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32813343_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.75",
+            "rating": "6.72",
             "imdb_id": "tt32813343"
         },
         {
@@ -47,7 +77,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15483602_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "8.16",
+            "rating": "8.14",
             "imdb_id": "tt15483602"
         },
         {
@@ -67,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13884052_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.40",
+            "rating": "7.39",
             "imdb_id": "tt13884052"
         },
         {
@@ -91,23 +121,13 @@
             "imdb_id": "tt27524116"
         },
         {
-            "id": "tt28259824",
-            "type": "series",
-            "name": "Biao Ren Er",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28259824_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "6.61",
-            "imdb_id": "tt28259824"
-        },
-        {
             "id": "tt28197251",
             "type": "series",
             "name": "Chao Neng Lifang: Chaofan Pian (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28197251_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.29",
+            "rating": "7.30",
             "imdb_id": "tt28197251"
         },
         {
@@ -117,7 +137,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt7441658_Ep_153.jpg",
             "description": "Nuovo episodio: Ep 153",
             "posterShape": "poster",
-            "rating": "7.73",
+            "rating": "7.67",
             "imdb_id": "tt7441658"
         },
         {
@@ -147,7 +167,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39390769_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "5.53",
+            "rating": "5.50",
             "imdb_id": "tt39390769"
         },
         {
@@ -167,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt35769369_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.63",
+            "rating": "6.65",
             "imdb_id": "tt35769369"
         },
         {
@@ -197,7 +217,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691412_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.28",
+            "rating": "7.26",
             "imdb_id": "tt43691412"
         },
         {
@@ -217,7 +237,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691365_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.93",
+            "rating": "6.94",
             "imdb_id": "tt43691365"
         },
         {
@@ -227,7 +247,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt29485149_Ep_14.jpg",
             "description": "Nuovo episodio: Ep 14",
             "posterShape": "poster",
-            "rating": "7.06",
+            "rating": "7.08",
             "imdb_id": "tt29485149"
         },
         {
@@ -257,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691383_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.25",
+            "rating": "7.24",
             "imdb_id": "tt43691383"
         },
         {
@@ -297,7 +317,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39395275_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "8.11",
+            "rating": "8.10",
             "imdb_id": "tt39395275"
         },
         {
@@ -317,7 +337,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691353_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.98",
+            "rating": "7.97",
             "imdb_id": "tt43691353"
         },
         {
@@ -349,26 +369,6 @@
             "posterShape": "poster",
             "rating": "3.73",
             "imdb_id": "tt38752562"
-        },
-        {
-            "id": "tt31975847",
-            "type": "series",
-            "name": "Tensei Kizoku, Kantei Skill de Nariagaru 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt31975847_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.79",
-            "imdb_id": "tt31975847"
-        },
-        {
-            "id": "tt43691394",
-            "type": "series",
-            "name": "Tank Chair (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691394_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.63",
-            "imdb_id": "tt43691394"
         }
     ]
 }
