@@ -1,6 +1,16 @@
 {
     "metas": [
         {
+            "id": "tt2359704",
+            "type": "series",
+            "name": "Steel Ball Run: JoJo no Kimyou na Bouken (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt2359704_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "8.34",
+            "imdb_id": "tt2359704"
+        },
+        {
             "id": "tt43650454",
             "type": "series",
             "name": "Kanojo no Tomodachi",
@@ -27,7 +37,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt25531288_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.24",
+            "rating": "7.25",
             "imdb_id": "tt25531288"
         },
         {
@@ -37,7 +47,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt33334216_Ep_19.jpg",
             "description": "Nuovo episodio: Ep 19",
             "posterShape": "poster",
-            "rating": "7.18",
+            "rating": "7.17",
             "imdb_id": "tt33334216"
         },
         {
@@ -47,7 +57,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39123061_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "8.54",
+            "rating": "8.53",
             "imdb_id": "tt39123061"
         },
         {
@@ -57,7 +67,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43119470_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.39",
+            "rating": "6.35",
             "imdb_id": "tt43119470"
         },
         {
@@ -67,7 +77,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt36836504_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.00",
+            "rating": "7.07",
             "imdb_id": "tt36836504"
         },
         {
@@ -87,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt12044608_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "6.42",
+            "rating": "6.35",
             "imdb_id": "tt12044608"
         },
         {
@@ -107,7 +117,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28313387_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.47",
+            "rating": "7.48",
             "imdb_id": "tt28313387"
         },
         {
@@ -137,7 +147,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15483602_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "8.10",
+            "rating": "8.08",
             "imdb_id": "tt15483602"
         },
         {
@@ -197,7 +207,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt7441658_Ep_153.jpg",
             "description": "Nuovo episodio: Ep 153",
             "posterShape": "poster",
-            "rating": "7.67",
+            "rating": "7.68",
             "imdb_id": "tt7441658"
         },
         {
@@ -247,7 +257,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt35769369_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.61",
+            "rating": "6.55",
             "imdb_id": "tt35769369"
         },
         {
@@ -339,26 +349,6 @@
             "posterShape": "poster",
             "rating": "7.23",
             "imdb_id": "tt43691383"
-        },
-        {
-            "id": "tt43650300",
-            "type": "series",
-            "name": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650300_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "7.64",
-            "imdb_id": "tt43650300"
-        },
-        {
-            "id": "tt40548570",
-            "type": "series",
-            "name": "Onegai AiPri",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt40548570_Ep_30.jpg",
-            "description": "Nuovo episodio: Ep 30",
-            "posterShape": "poster",
-            "rating": "5.00",
-            "imdb_id": "tt40548570"
         }
     ]
 }
