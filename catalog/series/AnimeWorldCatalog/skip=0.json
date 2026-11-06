@@ -1,13 +1,63 @@
 {
     "metas": [
         {
+            "id": "tt0388629",
+            "type": "series",
+            "name": "One Piece (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0388629_Ep_946.jpg",
+            "description": "Nuovo episodio: Ep 946",
+            "posterShape": "poster",
+            "rating": "7.96",
+            "imdb_id": "tt0388629"
+        },
+        {
+            "id": "tt32344704",
+            "type": "series",
+            "name": "Tougen Anki: Nikko Kegon no Taki-hen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32344704_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.43",
+            "imdb_id": "tt32344704"
+        },
+        {
+            "id": "tt41295083",
+            "type": "series",
+            "name": "Toaru Anbu no Item",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41295083_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "6.45",
+            "imdb_id": "tt41295083"
+        },
+        {
+            "id": "tt39394153",
+            "type": "series",
+            "name": "Hotaru no Yomeiri",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39394153_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.86",
+            "imdb_id": "tt39394153"
+        },
+        {
+            "id": "tt26743760",
+            "type": "series",
+            "name": "Kusuriya no Hitorigoto 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt26743760_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "8.66",
+            "imdb_id": "tt26743760"
+        },
+        {
             "id": "tt2359704",
             "type": "series",
             "name": "Steel Ball Run: JoJo no Kimyou na Bouken (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt2359704_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "8.34",
+            "rating": "8.31",
             "imdb_id": "tt2359704"
         },
         {
@@ -17,7 +67,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650454_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.26",
+            "rating": "6.23",
             "imdb_id": "tt43650454"
         },
         {
@@ -47,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt33334216_Ep_19.jpg",
             "description": "Nuovo episodio: Ep 19",
             "posterShape": "poster",
-            "rating": "7.17",
+            "rating": "7.16",
             "imdb_id": "tt33334216"
         },
         {
@@ -81,14 +131,14 @@
             "imdb_id": "tt36836504"
         },
         {
-            "id": "tt28259824",
+            "id": "tt32649961",
             "type": "series",
             "name": "Biao Ren Er",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28259824_Ep_7.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32649961_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.43",
-            "imdb_id": "tt28259824"
+            "imdb_id": "tt32649961"
         },
         {
             "id": "tt12044608",
@@ -117,7 +167,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28313387_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.48",
+            "rating": "7.49",
             "imdb_id": "tt28313387"
         },
         {
@@ -191,14 +241,24 @@
             "imdb_id": "tt27524116"
         },
         {
-            "id": "tt28197251",
+            "id": "tt28259824",
+            "type": "series",
+            "name": "Biao Ren Er",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28259824_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.43",
+            "imdb_id": "tt28259824"
+        },
+        {
+            "id": "tt0253474",
             "type": "series",
             "name": "Chao Neng Lifang: Chaofan Pian (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28197251_Ep_2.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0253474_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
             "rating": "7.24",
-            "imdb_id": "tt28197251"
+            "imdb_id": "tt0253474"
         },
         {
             "id": "tt7441658",
@@ -207,7 +267,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt7441658_Ep_153.jpg",
             "description": "Nuovo episodio: Ep 153",
             "posterShape": "poster",
-            "rating": "7.68",
+            "rating": "7.69",
             "imdb_id": "tt7441658"
         },
         {
@@ -267,7 +327,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42938834_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.42",
+            "rating": "6.41",
             "imdb_id": "tt42938834"
         },
         {
@@ -277,7 +337,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41296544_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.64",
+            "rating": "7.65",
             "imdb_id": "tt41296544"
         },
         {
@@ -299,56 +359,6 @@
             "posterShape": "poster",
             "rating": "6.45",
             "imdb_id": "tt43691391"
-        },
-        {
-            "id": "tt43691365",
-            "type": "series",
-            "name": "Shiotaiou no Satou-san ga Ore ni dake Amai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691365_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.95",
-            "imdb_id": "tt43691365"
-        },
-        {
-            "id": "tt29485149",
-            "type": "series",
-            "name": "Dragon Ball Daima (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt29485149_Ep_14.jpg",
-            "description": "Nuovo episodio: Ep 14",
-            "posterShape": "poster",
-            "rating": "7.08",
-            "imdb_id": "tt29485149"
-        },
-        {
-            "id": "tt13695606",
-            "type": "series",
-            "name": "Yi Nian Yong Heng: Wanjie Ji",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13695606_Ep_15.jpg",
-            "description": "Nuovo episodio: Ep 15",
-            "posterShape": "poster",
-            "rating": "8.07",
-            "imdb_id": "tt13695606"
-        },
-        {
-            "id": "tt43650323",
-            "type": "series",
-            "name": "Dark Summoner to Dekiteiru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650323_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.82",
-            "imdb_id": "tt43650323"
-        },
-        {
-            "id": "tt43691383",
-            "type": "series",
-            "name": "Tensei Goblin dakedo Shitsumon Aru?",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691383_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.23",
-            "imdb_id": "tt43691383"
         }
     ]
 }
