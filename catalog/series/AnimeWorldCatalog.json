@@ -1,13 +1,23 @@
 {
     "metas": [
         {
+            "id": "tt9348716",
+            "type": "series",
+            "name": "Rilakkuma",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt9348716_Ep_31.jpg",
+            "description": "Nuovo episodio: Ep 31",
+            "posterShape": "poster",
+            "rating": "6.08",
+            "imdb_id": "tt9348716"
+        },
+        {
             "id": "tt45373165",
             "type": "series",
             "name": "Keroro Gunsou☆",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt45373165_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.03",
+            "rating": "6.06",
             "imdb_id": "tt45373165"
         },
         {
@@ -17,18 +27,18 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt29485149_Ep_16.jpg",
             "description": "Nuovo episodio: Ep 16",
             "posterShape": "poster",
-            "rating": "7.14",
+            "rating": "7.13",
             "imdb_id": "tt29485149"
         },
         {
-            "id": "tt1232200",
+            "id": "tt13207736",
             "type": "series",
             "name": "mons' Crest (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt1232200_Ep_2.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13207736_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "5.88",
-            "imdb_id": "tt1232200"
+            "rating": "5.39",
+            "imdb_id": "tt13207736"
         },
         {
             "id": "tt41054228",
@@ -37,7 +47,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41054228_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.49",
+            "rating": "6.02",
             "imdb_id": "tt41054228"
         },
         {
@@ -57,7 +67,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt36986811_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.68",
+            "rating": "5.64",
             "imdb_id": "tt36986811"
         },
         {
@@ -77,7 +87,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13196080_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.56",
+            "rating": "7.57",
             "imdb_id": "tt13196080"
         },
         {
@@ -87,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt26743760_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.21",
+            "rating": "8.23",
             "imdb_id": "tt26743760"
         },
         {
@@ -137,7 +147,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt2359704_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "8.31",
+            "rating": "8.30",
             "imdb_id": "tt2359704"
         },
         {
@@ -147,7 +157,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650454_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.23",
+            "rating": "6.24",
             "imdb_id": "tt43650454"
         },
         {
@@ -211,14 +221,14 @@
             "imdb_id": "tt36836504"
         },
         {
-            "id": "tt32649961",
+            "id": "tt28259824",
             "type": "series",
             "name": "Biao Ren Er",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32649961_Ep_7.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28259824_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
             "rating": "6.43",
-            "imdb_id": "tt32649961"
+            "imdb_id": "tt28259824"
         },
         {
             "id": "tt12044608",
@@ -237,7 +247,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt4219158_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "5.82",
+            "rating": "5.77",
             "imdb_id": "tt4219158"
         },
         {
@@ -289,16 +299,6 @@
             "posterShape": "poster",
             "rating": "5.50",
             "imdb_id": "tt39104949"
-        },
-        {
-            "id": "tt13884052",
-            "type": "series",
-            "name": "Tantei wa Mou, Shindeiru. 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13884052_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "7.41",
-            "imdb_id": "tt13884052"
         }
     ]
 }
