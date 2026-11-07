@@ -1,6 +1,76 @@
 {
     "metas": [
         {
+            "id": "tt43650419",
+            "type": "series",
+            "name": "Kashita Maryoku wa \"Revo Barai\" de Kyousei Choushuu",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650419_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.36",
+            "imdb_id": "tt43650419"
+        },
+        {
+            "id": "tt43650242",
+            "type": "series",
+            "name": "Seitokai ni mo Ana wa Aru!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650242_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.66",
+            "imdb_id": "tt43650242"
+        },
+        {
+            "id": "tt32766897",
+            "type": "series",
+            "name": "Ranma ½ (2024) 3 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32766897_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.91",
+            "imdb_id": "tt32766897"
+        },
+        {
+            "id": "tt48391033",
+            "type": "series",
+            "name": "Kyoufu Collector",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt48391033_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "5.62",
+            "imdb_id": "tt48391033"
+        },
+        {
+            "id": "tt7441658",
+            "type": "series",
+            "name": "Black Clover 2 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt7441658_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "8.33",
+            "imdb_id": "tt7441658"
+        },
+        {
+            "id": "tt41296506",
+            "type": "series",
+            "name": "Magical★Explorer",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41296506_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.40",
+            "imdb_id": "tt41296506"
+        },
+        {
+            "id": "tt42487863",
+            "type": "series",
+            "name": "Vertex Force",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42487863_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.20",
+            "imdb_id": "tt42487863"
+        },
+        {
             "id": "tt44757191",
             "type": "series",
             "name": "Marronnier Oukoku no Shichinin no Kishi (ITA)",
@@ -9,16 +79,6 @@
             "posterShape": "poster",
             "rating": "6.85",
             "imdb_id": "tt44757191"
-        },
-        {
-            "id": "tt7441658",
-            "type": "series",
-            "name": "Black Clover 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt7441658_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "9.07",
-            "imdb_id": "tt7441658"
         },
         {
             "id": "tt16409202",
@@ -57,7 +117,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42727894_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.51",
+            "rating": "7.50",
             "imdb_id": "tt42727894"
         },
         {
@@ -67,7 +127,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt38939893_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.83",
+            "rating": "7.84",
             "imdb_id": "tt38939893"
         },
         {
@@ -87,7 +147,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41153966_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.49",
+            "rating": "7.51",
             "imdb_id": "tt41153966"
         },
         {
@@ -127,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13207736_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "5.26",
+            "rating": "5.56",
             "imdb_id": "tt13207736"
         },
         {
@@ -137,7 +197,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41054228_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "6.15",
+            "rating": "6.32",
             "imdb_id": "tt41054228"
         },
         {
@@ -157,7 +217,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt36986811_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.64",
+            "rating": "5.59",
             "imdb_id": "tt36986811"
         },
         {
@@ -167,7 +227,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39394153_Ep_2.jpg",
             "description": "Nuovo episodio: Ep 2",
             "posterShape": "poster",
-            "rating": "7.45",
+            "rating": "7.50",
             "imdb_id": "tt39394153"
         },
         {
@@ -227,7 +287,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41295083_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.50",
+            "rating": "6.49",
             "imdb_id": "tt41295083"
         },
         {
@@ -239,66 +299,6 @@
             "posterShape": "poster",
             "rating": "8.30",
             "imdb_id": "tt2359704"
-        },
-        {
-            "id": "tt43650454",
-            "type": "series",
-            "name": "Kanojo no Tomodachi",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650454_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "6.23",
-            "imdb_id": "tt43650454"
-        },
-        {
-            "id": "tt2398172",
-            "type": "series",
-            "name": "Ghost Meets Gal!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt2398172_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "5.76",
-            "imdb_id": "tt2398172"
-        },
-        {
-            "id": "tt25531288",
-            "type": "series",
-            "name": "Hyouken no Majutsushi ga Sekai wo Suberu 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt25531288_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "7.26",
-            "imdb_id": "tt25531288"
-        },
-        {
-            "id": "tt33334216",
-            "type": "series",
-            "name": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt33334216_Ep_19.jpg",
-            "description": "Nuovo episodio: Ep 19",
-            "posterShape": "poster",
-            "rating": "7.14",
-            "imdb_id": "tt33334216"
-        },
-        {
-            "id": "tt39123061",
-            "type": "series",
-            "name": "Koori no Jouheki 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39123061_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "8.54",
-            "imdb_id": "tt39123061"
-        },
-        {
-            "id": "tt43119470",
-            "type": "series",
-            "name": "FX Senshi Kurumi-chan",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43119470_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "6.34",
-            "imdb_id": "tt43119470"
         }
     ]
 }
