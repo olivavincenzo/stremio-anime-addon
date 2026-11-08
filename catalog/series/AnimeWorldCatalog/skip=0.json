@@ -1,13 +1,123 @@
 {
     "metas": [
         {
+            "id": "tt0434665",
+            "type": "series",
+            "name": "Bleach: Thousand-Year Blood War - The Calamity (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0434665_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "8.12",
+            "imdb_id": "tt0434665"
+        },
+        {
+            "id": "tt43691353",
+            "type": "series",
+            "name": "Tempal: Item no Chikara (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691353_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.92",
+            "imdb_id": "tt43691353"
+        },
+        {
+            "id": "tt43691315",
+            "type": "series",
+            "name": "Kanata kara",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691315_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.12",
+            "imdb_id": "tt43691315"
+        },
+        {
+            "id": "tt35995459",
+            "type": "series",
+            "name": "Hotel Inhumans 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt35995459_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "5.94",
+            "imdb_id": "tt35995459"
+        },
+        {
+            "id": "tt31975847",
+            "type": "series",
+            "name": "Tensei Kizoku, Kantei Skill de Nariagaru 3",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt31975847_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.74",
+            "imdb_id": "tt31975847"
+        },
+        {
+            "id": "tt38752562",
+            "type": "series",
+            "name": "Mahou no Shimai Lulutto Lilly Part 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt38752562_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "3.73",
+            "imdb_id": "tt38752562"
+        },
+        {
+            "id": "tt43691394",
+            "type": "series",
+            "name": "Tank Chair (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691394_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.63",
+            "imdb_id": "tt43691394"
+        },
+        {
+            "id": "tt43691418",
+            "type": "series",
+            "name": "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691418_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.05",
+            "imdb_id": "tt43691418"
+        },
+        {
+            "id": "tt43650265",
+            "type": "series",
+            "name": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650265_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "6.92",
+            "imdb_id": "tt43650265"
+        },
+        {
+            "id": "tt41298100",
+            "type": "series",
+            "name": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41298100_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.60",
+            "imdb_id": "tt41298100"
+        },
+        {
+            "id": "tt43691343",
+            "type": "series",
+            "name": "Ojisan wa Kawaii Mono ga Osuki.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691343_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "6.11",
+            "imdb_id": "tt43691343"
+        },
+        {
             "id": "tt15792808",
             "type": "series",
             "name": "Aoashi 2",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15792808_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "8.37",
+            "rating": "8.38",
             "imdb_id": "tt15792808"
         },
         {
@@ -17,7 +127,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt3105422_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.85",
+            "rating": "7.83",
             "imdb_id": "tt3105422"
         },
         {
@@ -27,7 +137,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt31131310_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.05",
+            "rating": "8.07",
             "imdb_id": "tt31131310"
         },
         {
@@ -37,7 +147,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32639706_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.93",
+            "rating": "7.86",
             "imdb_id": "tt32639706"
         },
         {
@@ -47,7 +157,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt49410334_Ep_4.jpg",
             "description": "Nuovo episodio: Ep 4",
             "posterShape": "poster",
-            "rating": "6.06",
+            "rating": "6.02",
             "imdb_id": "tt49410334"
         },
         {
@@ -57,7 +167,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650419_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.35",
+            "rating": "7.32",
             "imdb_id": "tt43650419"
         },
         {
@@ -87,7 +197,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt48391033_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "5.62",
+            "rating": "5.59",
             "imdb_id": "tt48391033"
         },
         {
@@ -107,7 +217,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41296506_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.42",
+            "rating": "7.41",
             "imdb_id": "tt41296506"
         },
         {
@@ -137,7 +247,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt16409202_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.47",
+            "rating": "7.50",
             "imdb_id": "tt16409202"
         },
         {
@@ -147,7 +257,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt33258199_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.59",
+            "rating": "7.58",
             "imdb_id": "tt33258199"
         },
         {
@@ -177,7 +287,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt38939893_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.86",
+            "rating": "7.83",
             "imdb_id": "tt38939893"
         },
         {
@@ -229,96 +339,6 @@
             "posterShape": "poster",
             "rating": "7.11",
             "imdb_id": "tt29485149"
-        },
-        {
-            "id": "tt13207736",
-            "type": "series",
-            "name": "mons' Crest (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13207736_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "5.58",
-            "imdb_id": "tt13207736"
-        },
-        {
-            "id": "tt41054228",
-            "type": "series",
-            "name": "Demons' Crest",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41054228_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "6.45",
-            "imdb_id": "tt41054228"
-        },
-        {
-            "id": "tt14924976",
-            "type": "series",
-            "name": "Waccha PriMagi!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt14924976_Ep_46.jpg",
-            "description": "Nuovo episodio: Ep 46",
-            "posterShape": "poster",
-            "rating": "4.34",
-            "imdb_id": "tt14924976"
-        },
-        {
-            "id": "tt36986811",
-            "type": "series",
-            "name": "Kizu darake Seijo yori Houfuku wo Komete 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt36986811_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "5.59",
-            "imdb_id": "tt36986811"
-        },
-        {
-            "id": "tt39394153",
-            "type": "series",
-            "name": "Hotaru no Yomeiri (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39394153_Ep_2.jpg",
-            "description": "Nuovo episodio: Ep 2",
-            "posterShape": "poster",
-            "rating": "7.50",
-            "imdb_id": "tt39394153"
-        },
-        {
-            "id": "tt13196080",
-            "type": "series",
-            "name": "Tokyo Revengers: Santen Sensou-hen (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13196080_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.61",
-            "imdb_id": "tt13196080"
-        },
-        {
-            "id": "tt26743760",
-            "type": "series",
-            "name": "Kusuriya no Hitorigoto 3 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt26743760_Ep_3.jpg",
-            "description": "Nuovo episodio: Ep 3",
-            "posterShape": "poster",
-            "rating": "8.34",
-            "imdb_id": "tt26743760"
-        },
-        {
-            "id": "tt41293320",
-            "type": "series",
-            "name": "Uchi no Otouto-domo ga Sumimasen",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41293320_Ep_18.jpg",
-            "description": "Nuovo episodio: Ep 18",
-            "posterShape": "poster",
-            "rating": "6.94",
-            "imdb_id": "tt41293320"
-        },
-        {
-            "id": "tt0388629",
-            "type": "series",
-            "name": "One Piece (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0388629_Ep_946.jpg",
-            "description": "Nuovo episodio: Ep 946",
-            "posterShape": "poster",
-            "rating": "7.96",
-            "imdb_id": "tt0388629"
         }
     ]
 }
