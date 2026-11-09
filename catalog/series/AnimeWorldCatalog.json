@@ -1,6 +1,16 @@
 {
     "metas": [
         {
+            "id": "tt39047437",
+            "type": "series",
+            "name": "Meitantei Precure!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39047437_Ep_40.jpg",
+            "description": "Nuovo episodio: Ep 40",
+            "posterShape": "poster",
+            "rating": "6.88",
+            "imdb_id": "tt39047437"
+        },
+        {
             "id": "tt39395275",
             "type": "series",
             "name": "Dragon Ball Super: Beerus",
@@ -27,7 +37,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691353_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.90",
+            "rating": "7.91",
             "imdb_id": "tt43691353"
         },
         {
@@ -97,7 +107,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650265_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.91",
+            "rating": "6.90",
             "imdb_id": "tt43650265"
         },
         {
@@ -127,7 +137,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15792808_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "8.40",
+            "rating": "8.41",
             "imdb_id": "tt15792808"
         },
         {
@@ -177,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650419_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.27",
+            "rating": "7.26",
             "imdb_id": "tt43650419"
         },
         {
@@ -187,7 +197,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650242_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.67",
+            "rating": "7.66",
             "imdb_id": "tt43650242"
         },
         {
@@ -287,7 +297,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42727894_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.49",
+            "rating": "7.47",
             "imdb_id": "tt42727894"
         },
         {
@@ -329,16 +339,6 @@
             "posterShape": "poster",
             "rating": "6.08",
             "imdb_id": "tt9348716"
-        },
-        {
-            "id": "tt45373165",
-            "type": "series",
-            "name": "Keroro Gunsou☆",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt45373165_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "6.11",
-            "imdb_id": "tt45373165"
         }
     ]
 }
