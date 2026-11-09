@@ -1,13 +1,43 @@
 {
     "metas": [
         {
+            "id": "tt39181351",
+            "type": "series",
+            "name": "Psyren",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39181351_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "7.27",
+            "imdb_id": "tt39181351"
+        },
+        {
+            "id": "tt3114376",
+            "type": "series",
+            "name": "Winter Cup Highlights Episode 2 – Winter Cup Highlights -Beyond the Tears- (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt3114376_Ep_1.jpg",
+            "description": "Nuovo episodio: Ep 1",
+            "posterShape": "poster",
+            "rating": "6.92",
+            "imdb_id": "tt3114376"
+        },
+        {
+            "id": "tt43650300",
+            "type": "series",
+            "name": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650300_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.70",
+            "imdb_id": "tt43650300"
+        },
+        {
             "id": "tt39047437",
             "type": "series",
             "name": "Meitantei Precure!",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39047437_Ep_40.jpg",
             "description": "Nuovo episodio: Ep 40",
             "posterShape": "poster",
-            "rating": "6.88",
+            "rating": "6.97",
             "imdb_id": "tt39047437"
         },
         {
@@ -27,7 +57,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0434665_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.97",
+            "rating": "8.00",
             "imdb_id": "tt0434665"
         },
         {
@@ -37,7 +67,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691353_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.91",
+            "rating": "7.93",
             "imdb_id": "tt43691353"
         },
         {
@@ -57,7 +87,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt35995459_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.06",
+            "rating": "5.92",
             "imdb_id": "tt35995459"
         },
         {
@@ -67,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt31975847_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.74",
+            "rating": "7.70",
             "imdb_id": "tt31975847"
         },
         {
@@ -77,7 +107,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt38752562_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "3.73",
+            "rating": "3.83",
             "imdb_id": "tt38752562"
         },
         {
@@ -97,7 +127,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691418_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.03",
+            "rating": "7.05",
             "imdb_id": "tt43691418"
         },
         {
@@ -107,7 +137,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650265_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.90",
+            "rating": "6.91",
             "imdb_id": "tt43650265"
         },
         {
@@ -157,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt31131310_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.00",
+            "rating": "8.02",
             "imdb_id": "tt31131310"
         },
         {
@@ -187,7 +217,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650419_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.26",
+            "rating": "7.24",
             "imdb_id": "tt43650419"
         },
         {
@@ -207,7 +237,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32766897_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.91",
+            "rating": "7.95",
             "imdb_id": "tt32766897"
         },
         {
@@ -227,7 +257,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt7441658_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "8.05",
+            "rating": "8.10",
             "imdb_id": "tt7441658"
         },
         {
@@ -247,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42487863_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.23",
+            "rating": "6.28",
             "imdb_id": "tt42487863"
         },
         {
@@ -277,7 +307,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt33258199_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.55",
+            "rating": "7.56",
             "imdb_id": "tt33258199"
         },
         {
@@ -287,7 +317,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt40548570_Ep_31.jpg",
             "description": "Nuovo episodio: Ep 31",
             "posterShape": "poster",
-            "rating": "5.16",
+            "rating": "5.00",
             "imdb_id": "tt40548570"
         },
         {
@@ -297,7 +327,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42727894_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.47",
+            "rating": "7.49",
             "imdb_id": "tt42727894"
         },
         {
@@ -307,38 +337,8 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt38939893_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.81",
+            "rating": "7.79",
             "imdb_id": "tt38939893"
-        },
-        {
-            "id": "tt0131479",
-            "type": "series",
-            "name": "Case Closed (AG)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0131479_Ep_1219.jpg",
-            "description": "Nuovo episodio: Ep 1219",
-            "posterShape": "poster",
-            "rating": "7.32",
-            "imdb_id": "tt0131479"
-        },
-        {
-            "id": "tt41153966",
-            "type": "series",
-            "name": "Shuiro no Kamen",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41153966_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "7.49",
-            "imdb_id": "tt41153966"
-        },
-        {
-            "id": "tt9348716",
-            "type": "series",
-            "name": "Rilakkuma",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt9348716_Ep_31.jpg",
-            "description": "Nuovo episodio: Ep 31",
-            "posterShape": "poster",
-            "rating": "6.08",
-            "imdb_id": "tt9348716"
         }
     ]
 }
