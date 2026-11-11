@@ -1,13 +1,103 @@
 {
     "metas": [
         {
+            "id": "tt28313387",
+            "type": "series",
+            "name": "Kikansha no Mahou wa Tokubetsu desu 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28313387_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.48",
+            "imdb_id": "tt28313387"
+        },
+        {
+            "id": "tt32813343",
+            "type": "series",
+            "name": "Magic Knight Rayearth (2026) (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32813343_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "6.76",
+            "imdb_id": "tt32813343"
+        },
+        {
+            "id": "tt4219158",
+            "type": "series",
+            "name": "Juuou Mujin Dandivine",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt4219158_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "5.85",
+            "imdb_id": "tt4219158"
+        },
+        {
+            "id": "tt15660128",
+            "type": "series",
+            "name": "Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15660128_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "4.85",
+            "imdb_id": "tt15660128"
+        },
+        {
+            "id": "tt15483602",
+            "type": "series",
+            "name": "Tensei shitara Ken deshita 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15483602_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "8.11",
+            "imdb_id": "tt15483602"
+        },
+        {
+            "id": "tt39104949",
+            "type": "series",
+            "name": "Zi Jin: Yu Miao Fang",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39104949_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "5.38",
+            "imdb_id": "tt39104949"
+        },
+        {
+            "id": "tt13884052",
+            "type": "series",
+            "name": "Tantei wa Mou, Shindeiru. 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13884052_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.37",
+            "imdb_id": "tt13884052"
+        },
+        {
+            "id": "tt43691408",
+            "type": "series",
+            "name": "Sekai Saikyou no Majo, Hajimemashita",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691408_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.26",
+            "imdb_id": "tt43691408"
+        },
+        {
+            "id": "tt27524116",
+            "type": "series",
+            "name": "Sasaki to Pii-chan 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt27524116_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.89",
+            "imdb_id": "tt27524116"
+        },
+        {
             "id": "tt28197251",
             "type": "series",
             "name": "Chao Neng Lifang: Chaofan Pian (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28197251_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "7.17",
+            "rating": "7.14",
             "imdb_id": "tt28197251"
         },
         {
@@ -17,7 +107,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28259824_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.54",
+            "rating": "6.58",
             "imdb_id": "tt28259824"
         },
         {
@@ -67,7 +157,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt35769369_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.38",
+            "rating": "6.42",
             "imdb_id": "tt35769369"
         },
         {
@@ -77,7 +167,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691412_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.20",
+            "rating": "7.17",
             "imdb_id": "tt43691412"
         },
         {
@@ -97,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42938834_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.35",
+            "rating": "6.34",
             "imdb_id": "tt42938834"
         },
         {
@@ -107,7 +197,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691365_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.92",
+            "rating": "6.90",
             "imdb_id": "tt43691365"
         },
         {
@@ -137,7 +227,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650323_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.76",
+            "rating": "6.77",
             "imdb_id": "tt43650323"
         },
         {
@@ -147,7 +237,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39181351_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.16",
+            "rating": "7.17",
             "imdb_id": "tt39181351"
         },
         {
@@ -167,7 +257,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650300_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.80",
+            "rating": "7.81",
             "imdb_id": "tt43650300"
         },
         {
@@ -187,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39395275_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.09",
+            "rating": "8.10",
             "imdb_id": "tt39395275"
         },
         {
@@ -207,7 +297,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691353_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.93",
+            "rating": "7.95",
             "imdb_id": "tt43691353"
         },
         {
@@ -279,96 +369,6 @@
             "posterShape": "poster",
             "rating": "6.92",
             "imdb_id": "tt43650265"
-        },
-        {
-            "id": "tt41298100",
-            "type": "series",
-            "name": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41298100_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.61",
-            "imdb_id": "tt41298100"
-        },
-        {
-            "id": "tt43691343",
-            "type": "series",
-            "name": "Ojisan wa Kawaii Mono ga Osuki.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691343_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "6.11",
-            "imdb_id": "tt43691343"
-        },
-        {
-            "id": "tt15792808",
-            "type": "series",
-            "name": "Aoashi 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15792808_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "8.41",
-            "imdb_id": "tt15792808"
-        },
-        {
-            "id": "tt3105422",
-            "type": "series",
-            "name": "Diamond no Ace: Act II 2 Part 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt3105422_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "7.83",
-            "imdb_id": "tt3105422"
-        },
-        {
-            "id": "tt31131310",
-            "type": "series",
-            "name": "Yozakura-san Chi no Daisakusen 2 Part 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt31131310_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "8.02",
-            "imdb_id": "tt31131310"
-        },
-        {
-            "id": "tt32639706",
-            "type": "series",
-            "name": "Ao no Hako 2 (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32639706_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "7.87",
-            "imdb_id": "tt32639706"
-        },
-        {
-            "id": "tt49410334",
-            "type": "series",
-            "name": "Dreamland",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt49410334_Ep_4.jpg",
-            "description": "Nuovo episodio: Ep 4",
-            "posterShape": "poster",
-            "rating": "6.00",
-            "imdb_id": "tt49410334"
-        },
-        {
-            "id": "tt43650419",
-            "type": "series",
-            "name": "Kashita Maryoku wa \"Revo Barai\" de Kyousei Choushuu",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650419_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.25",
-            "imdb_id": "tt43650419"
-        },
-        {
-            "id": "tt43650242",
-            "type": "series",
-            "name": "Seitokai ni mo Ana wa Aru!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650242_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.67",
-            "imdb_id": "tt43650242"
         }
     ]
 }
