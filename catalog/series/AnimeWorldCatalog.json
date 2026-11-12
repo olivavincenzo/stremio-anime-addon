@@ -1,6 +1,56 @@
 {
     "metas": [
         {
+            "id": "tt25531288",
+            "type": "series",
+            "name": "Hyouken no Majutsushi ga Sekai wo Suberu 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt25531288_Ep_6.jpg",
+            "description": "Nuovo episodio: Ep 6",
+            "posterShape": "poster",
+            "rating": "7.19",
+            "imdb_id": "tt25531288"
+        },
+        {
+            "id": "tt33334216",
+            "type": "series",
+            "name": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt33334216_Ep_20.jpg",
+            "description": "Nuovo episodio: Ep 20",
+            "posterShape": "poster",
+            "rating": "7.16",
+            "imdb_id": "tt33334216"
+        },
+        {
+            "id": "tt39123061",
+            "type": "series",
+            "name": "Koori no Jouheki 2 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39123061_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "8.45",
+            "imdb_id": "tt39123061"
+        },
+        {
+            "id": "tt43119470",
+            "type": "series",
+            "name": "FX Senshi Kurumi-chan",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43119470_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "6.35",
+            "imdb_id": "tt43119470"
+        },
+        {
+            "id": "tt0388629",
+            "type": "series",
+            "name": "One Piece (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0388629_Ep_948.jpg",
+            "description": "Nuovo episodio: Ep 948",
+            "posterShape": "poster",
+            "rating": "7.96",
+            "imdb_id": "tt0388629"
+        },
+        {
             "id": "tt36836504",
             "type": "series",
             "name": "Kun Tun Tianxia Zhi Zhang Men Guilai (ITA)",
@@ -47,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15660128_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "4.85",
+            "rating": "4.86",
             "imdb_id": "tt15660128"
         },
         {
@@ -57,7 +107,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15483602_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "8.15",
+            "rating": "8.16",
             "imdb_id": "tt15483602"
         },
         {
@@ -97,7 +147,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt27524116_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.91",
+            "rating": "7.84",
             "imdb_id": "tt27524116"
         },
         {
@@ -137,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41295113_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.56",
+            "rating": "5.51",
             "imdb_id": "tt41295113"
         },
         {
@@ -167,7 +217,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt35769369_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.39",
+            "rating": "6.37",
             "imdb_id": "tt35769369"
         },
         {
@@ -177,7 +227,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691412_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.18",
+            "rating": "7.17",
             "imdb_id": "tt43691412"
         },
         {
@@ -217,7 +267,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41296544_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.65",
+            "rating": "7.64",
             "imdb_id": "tt41296544"
         },
         {
@@ -247,7 +297,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39181351_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.17",
+            "rating": "7.16",
             "imdb_id": "tt39181351"
         },
         {
@@ -287,7 +337,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39395275_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "8.10",
+            "rating": "8.09",
             "imdb_id": "tt39395275"
         },
         {
@@ -319,56 +369,6 @@
             "posterShape": "poster",
             "rating": "6.14",
             "imdb_id": "tt43691315"
-        },
-        {
-            "id": "tt35995459",
-            "type": "series",
-            "name": "Hotel Inhumans 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt35995459_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "5.92",
-            "imdb_id": "tt35995459"
-        },
-        {
-            "id": "tt31975847",
-            "type": "series",
-            "name": "Tensei Kizoku, Kantei Skill de Nariagaru 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt31975847_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "7.71",
-            "imdb_id": "tt31975847"
-        },
-        {
-            "id": "tt13721828",
-            "type": "series",
-            "name": "Mahou no Shimai Lulutto Lilly Part 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13721828_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "4.31",
-            "imdb_id": "tt13721828"
-        },
-        {
-            "id": "tt43691394",
-            "type": "series",
-            "name": "Tank Chair (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691394_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "6.63",
-            "imdb_id": "tt43691394"
-        },
-        {
-            "id": "tt43691418",
-            "type": "series",
-            "name": "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691418_Ep_6.jpg",
-            "description": "Nuovo episodio: Ep 6",
-            "posterShape": "poster",
-            "rating": "7.10",
-            "imdb_id": "tt43691418"
         }
     ]
 }
