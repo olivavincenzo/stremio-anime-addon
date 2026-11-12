@@ -17,7 +17,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28313387_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.50",
+            "rating": "7.51",
             "imdb_id": "tt28313387"
         },
         {
@@ -341,14 +341,14 @@
             "imdb_id": "tt31975847"
         },
         {
-            "id": "tt38752562",
+            "id": "tt13721828",
             "type": "series",
             "name": "Mahou no Shimai Lulutto Lilly Part 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt38752562_Ep_6.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13721828_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
             "rating": "4.31",
-            "imdb_id": "tt38752562"
+            "imdb_id": "tt13721828"
         },
         {
             "id": "tt43691394",
