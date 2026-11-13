@@ -7,7 +7,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt31889371_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "8.50",
+            "rating": "8.59",
             "imdb_id": "tt31889371"
         },
         {
@@ -27,7 +27,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt25531288_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.10",
+            "rating": "7.11",
             "imdb_id": "tt25531288"
         },
         {
@@ -37,7 +37,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt33334216_Ep_20.jpg",
             "description": "Nuovo episodio: Ep 20",
             "posterShape": "poster",
-            "rating": "7.18",
+            "rating": "7.17",
             "imdb_id": "tt33334216"
         },
         {
@@ -57,7 +57,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43119470_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.33",
+            "rating": "6.35",
             "imdb_id": "tt43119470"
         },
         {
@@ -107,7 +107,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt4219158_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.83",
+            "rating": "5.82",
             "imdb_id": "tt4219158"
         },
         {
@@ -131,14 +131,14 @@
             "imdb_id": "tt15483602"
         },
         {
-            "id": "tt0122090",
+            "id": "tt39104949",
             "type": "series",
             "name": "Zi Jin: Yu Miao Fang",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0122090_Ep_9.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39104949_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
             "rating": "5.50",
-            "imdb_id": "tt0122090"
+            "imdb_id": "tt39104949"
         },
         {
             "id": "tt13884052",
@@ -171,24 +171,24 @@
             "imdb_id": "tt27524116"
         },
         {
-            "id": "tt1460743",
+            "id": "tt28197251",
             "type": "series",
             "name": "Chao Neng Lifang: Chaofan Pian (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt1460743_Ep_3.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28197251_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "7.14",
-            "imdb_id": "tt1460743"
+            "imdb_id": "tt28197251"
         },
         {
-            "id": "tt32649961",
+            "id": "tt28259824",
             "type": "series",
             "name": "Biao Ren Er",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32649961_Ep_8.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28259824_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.59",
-            "imdb_id": "tt32649961"
+            "rating": "6.51",
+            "imdb_id": "tt28259824"
         },
         {
             "id": "tt39240299",
@@ -237,7 +237,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt35769369_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.37",
+            "rating": "6.39",
             "imdb_id": "tt35769369"
         },
         {
@@ -277,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691365_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.90",
+            "rating": "6.89",
             "imdb_id": "tt43691365"
         },
         {
@@ -287,7 +287,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41296544_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.64",
+            "rating": "7.63",
             "imdb_id": "tt41296544"
         },
         {
