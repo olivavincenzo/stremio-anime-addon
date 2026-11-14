@@ -121,13 +121,23 @@
             "imdb_id": "tt41295083"
         },
         {
-            "id": "tt41054228",
+            "id": "tt0313042",
             "type": "series",
             "name": "mons' Crest (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41054228_Ep_3.jpg",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0313042_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
             "rating": "6.49",
+            "imdb_id": "tt0313042"
+        },
+        {
+            "id": "tt41054228",
+            "type": "series",
+            "name": "Demons' Crest",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41054228_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "6.70",
             "imdb_id": "tt41054228"
         },
         {
@@ -237,7 +247,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28313387_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.50",
+            "rating": "7.49",
             "imdb_id": "tt28313387"
         },
         {
