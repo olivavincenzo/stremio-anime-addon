@@ -1,6 +1,26 @@
 {
     "metas": [
         {
+            "id": "tt49410334",
+            "type": "series",
+            "name": "Dreamland",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt49410334_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "6.07",
+            "imdb_id": "tt49410334"
+        },
+        {
+            "id": "tt43650242",
+            "type": "series",
+            "name": "Seitokai ni mo Ana wa Aru!",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650242_Ep_7.jpg",
+            "description": "Nuovo episodio: Ep 7",
+            "posterShape": "poster",
+            "rating": "7.71",
+            "imdb_id": "tt43650242"
+        },
+        {
             "id": "tt43650419",
             "type": "series",
             "name": "Kashita Maryoku wa \"Revo Barai\" de Kyousei Choushuu",
@@ -17,7 +37,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32766897_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.95",
+            "rating": "7.98",
             "imdb_id": "tt32766897"
         },
         {
@@ -27,7 +47,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt48391033_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "5.59",
+            "rating": "5.63",
             "imdb_id": "tt48391033"
         },
         {
@@ -47,7 +67,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41296506_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.40",
+            "rating": "7.41",
             "imdb_id": "tt41296506"
         },
         {
@@ -77,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691424_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.95",
+            "rating": "6.92",
             "imdb_id": "tt43691424"
         },
         {
@@ -107,7 +127,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt42727894_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.44",
+            "rating": "7.46",
             "imdb_id": "tt42727894"
         },
         {
@@ -117,7 +137,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt38939893_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.75",
+            "rating": "7.78",
             "imdb_id": "tt38939893"
         },
         {
@@ -197,7 +217,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt45831796_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.33",
+            "rating": "6.35",
             "imdb_id": "tt45831796"
         },
         {
@@ -257,7 +277,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41293320_Ep_19.jpg",
             "description": "Nuovo episodio: Ep 19",
             "posterShape": "poster",
-            "rating": "6.99",
+            "rating": "6.98",
             "imdb_id": "tt41293320"
         },
         {
@@ -267,7 +287,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32344704_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "7.37",
+            "rating": "7.36",
             "imdb_id": "tt32344704"
         },
         {
@@ -309,16 +329,6 @@
             "posterShape": "poster",
             "rating": "4.34",
             "imdb_id": "tt14924976"
-        },
-        {
-            "id": "tt2359704",
-            "type": "series",
-            "name": "Steel Ball Run: JoJo no Kimyou na Bouken (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt2359704_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "8.28",
-            "imdb_id": "tt2359704"
         }
     ]
 }
