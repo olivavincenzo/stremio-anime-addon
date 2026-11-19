@@ -1,6 +1,16 @@
 {
     "metas": [
         {
+            "id": "tt36836504",
+            "type": "series",
+            "name": "Kun Tun Tianxia Zhi Zhang Men Guilai (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt36836504_Ep_4.jpg",
+            "description": "Nuovo episodio: Ep 4",
+            "posterShape": "poster",
+            "rating": "6.63",
+            "imdb_id": "tt36836504"
+        },
+        {
             "id": "tt0388629",
             "type": "series",
             "name": "One Piece (ITA)",
@@ -157,7 +167,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt35769369_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "6.37",
+            "rating": "6.36",
             "imdb_id": "tt35769369"
         },
         {
@@ -257,7 +267,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39181351_Ep_6.jpg",
             "description": "Nuovo episodio: Ep 6",
             "posterShape": "poster",
-            "rating": "7.23",
+            "rating": "7.22",
             "imdb_id": "tt39181351"
         },
         {
