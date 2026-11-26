@@ -1,6 +1,16 @@
 {
     "metas": [
         {
+            "id": "tt36836504",
+            "type": "series",
+            "name": "Kun Tun Tianxia Zhi Zhang Men Guilai (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt36836504_Ep_5.jpg",
+            "description": "Nuovo episodio: Ep 5",
+            "posterShape": "poster",
+            "rating": "6.77",
+            "imdb_id": "tt36836504"
+        },
+        {
             "id": "tt28313387",
             "type": "series",
             "name": "Kikansha no Mahou wa Tokubetsu desu 2",
@@ -67,7 +77,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt13884052_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.15",
+            "rating": "7.16",
             "imdb_id": "tt13884052"
         },
         {
@@ -87,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691408_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.28",
+            "rating": "7.27",
             "imdb_id": "tt43691408"
         },
         {
@@ -157,7 +167,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650323_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.75",
+            "rating": "6.77",
             "imdb_id": "tt43650323"
         },
         {
@@ -197,7 +207,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691412_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.17",
+            "rating": "7.16",
             "imdb_id": "tt43691412"
         },
         {
@@ -359,15 +369,6 @@
             "posterShape": "poster",
             "rating": "6.82",
             "imdb_id": "tt43650265"
-        },
-        {
-            "id": "kitsu:50996",
-            "type": "series",
-            "name": "Mahou no Shimai Lulutto Lilly Part 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/kitsu_50996_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "4.64"
         }
     ]
 }
