@@ -1,13 +1,53 @@
 {
     "metas": [
         {
+            "id": "tt25531288",
+            "type": "series",
+            "name": "Hyouken no Majutsushi ga Sekai wo Suberu 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt25531288_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "6.95",
+            "imdb_id": "tt25531288"
+        },
+        {
+            "id": "tt33334216",
+            "type": "series",
+            "name": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt33334216_Ep_22.jpg",
+            "description": "Nuovo episodio: Ep 22",
+            "posterShape": "poster",
+            "rating": "7.19",
+            "imdb_id": "tt33334216"
+        },
+        {
+            "id": "tt39123061",
+            "type": "series",
+            "name": "Koori no Jouheki 2 (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39123061_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "8.59",
+            "imdb_id": "tt39123061"
+        },
+        {
+            "id": "tt43119470",
+            "type": "series",
+            "name": "FX Senshi Kurumi-chan",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43119470_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "6.37",
+            "imdb_id": "tt43119470"
+        },
+        {
             "id": "tt36836504",
             "type": "series",
             "name": "Kun Tun Tianxia Zhi Zhang Men Guilai (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt36836504_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.77",
+            "rating": "6.74",
             "imdb_id": "tt36836504"
         },
         {
@@ -57,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15483602_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "8.05",
+            "rating": "8.04",
             "imdb_id": "tt15483602"
         },
         {
@@ -87,7 +127,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt27524116_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.58",
+            "rating": "7.56",
             "imdb_id": "tt27524116"
         },
         {
@@ -107,7 +147,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28197251_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "7.11",
+            "rating": "7.15",
             "imdb_id": "tt28197251"
         },
         {
@@ -117,7 +157,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt7441658_Ep_170.jpg",
             "description": "Nuovo episodio: Ep 170",
             "posterShape": "poster",
-            "rating": "7.75",
+            "rating": "7.76",
             "imdb_id": "tt7441658"
         },
         {
@@ -157,7 +197,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650454_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.21",
+            "rating": "6.20",
             "imdb_id": "tt43650454"
         },
         {
@@ -197,7 +237,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt35769369_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.45",
+            "rating": "6.46",
             "imdb_id": "tt35769369"
         },
         {
@@ -207,7 +247,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691412_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.16",
+            "rating": "7.15",
             "imdb_id": "tt43691412"
         },
         {
@@ -267,7 +307,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691383_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.05",
+            "rating": "7.04",
             "imdb_id": "tt43691383"
         },
         {
@@ -339,36 +379,6 @@
             "posterShape": "poster",
             "rating": "7.68",
             "imdb_id": "tt31975847"
-        },
-        {
-            "id": "tt43691394",
-            "type": "series",
-            "name": "Tank Chair (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691394_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "6.81",
-            "imdb_id": "tt43691394"
-        },
-        {
-            "id": "tt43691418",
-            "type": "series",
-            "name": "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691418_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "7.15",
-            "imdb_id": "tt43691418"
-        },
-        {
-            "id": "tt43650265",
-            "type": "series",
-            "name": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650265_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "6.82",
-            "imdb_id": "tt43650265"
         }
     ]
 }
