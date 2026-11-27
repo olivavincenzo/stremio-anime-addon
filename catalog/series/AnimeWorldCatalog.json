@@ -1,13 +1,23 @@
 {
     "metas": [
         {
+            "id": "tt2359704",
+            "type": "series",
+            "name": "Steel Ball Run: JoJo no Kimyou na Bouken (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt2359704_Ep_11.jpg",
+            "description": "Nuovo episodio: Ep 11",
+            "posterShape": "poster",
+            "rating": "8.27",
+            "imdb_id": "tt2359704"
+        },
+        {
             "id": "tt32344704",
             "type": "series",
             "name": "Tougen Anki: Nikko Kegon no Taki-hen (ITA)",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32344704_Ep_3.jpg",
             "description": "Nuovo episodio: Ep 3",
             "posterShape": "poster",
-            "rating": "0.00",
+            "rating": "5.57",
             "imdb_id": "tt32344704"
         },
         {
@@ -17,7 +27,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43613803_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.22",
+            "rating": "7.43",
             "imdb_id": "tt43613803"
         },
         {
@@ -27,7 +37,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt36986811_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "5.50",
+            "rating": "5.53",
             "imdb_id": "tt36986811"
         },
         {
@@ -37,7 +47,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt25531288_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.94",
+            "rating": "6.92",
             "imdb_id": "tt25531288"
         },
         {
@@ -57,7 +67,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39123061_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "8.51",
+            "rating": "8.53",
             "imdb_id": "tt39123061"
         },
         {
@@ -329,26 +339,6 @@
             "posterShape": "poster",
             "rating": "8.05",
             "imdb_id": "tt13695606"
-        },
-        {
-            "id": "tt43691383",
-            "type": "series",
-            "name": "Tensei Goblin dakedo Shitsumon Aru?",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691383_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "7.04",
-            "imdb_id": "tt43691383"
-        },
-        {
-            "id": "tt43650300",
-            "type": "series",
-            "name": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650300_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "7.87",
-            "imdb_id": "tt43650300"
         }
     ]
 }
