@@ -1,13 +1,43 @@
 {
     "metas": [
         {
+            "id": "tt32344704",
+            "type": "series",
+            "name": "Tougen Anki: Nikko Kegon no Taki-hen (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt32344704_Ep_3.jpg",
+            "description": "Nuovo episodio: Ep 3",
+            "posterShape": "poster",
+            "rating": "0.00",
+            "imdb_id": "tt32344704"
+        },
+        {
+            "id": "tt43613803",
+            "type": "series",
+            "name": "Fool Night (ITA)",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43613803_Ep_12.jpg",
+            "description": "Nuovo episodio: Ep 12",
+            "posterShape": "poster",
+            "rating": "7.22",
+            "imdb_id": "tt43613803"
+        },
+        {
+            "id": "tt36986811",
+            "type": "series",
+            "name": "Kizu darake Seijo yori Houfuku wo Komete 2",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt36986811_Ep_9.jpg",
+            "description": "Nuovo episodio: Ep 9",
+            "posterShape": "poster",
+            "rating": "5.50",
+            "imdb_id": "tt36986811"
+        },
+        {
             "id": "tt25531288",
             "type": "series",
             "name": "Hyouken no Majutsushi ga Sekai wo Suberu 2",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt25531288_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.95",
+            "rating": "6.94",
             "imdb_id": "tt25531288"
         },
         {
@@ -27,7 +57,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39123061_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "8.59",
+            "rating": "8.51",
             "imdb_id": "tt39123061"
         },
         {
@@ -47,7 +77,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt36836504_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.74",
+            "rating": "6.79",
             "imdb_id": "tt36836504"
         },
         {
@@ -97,7 +127,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt15483602_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "8.04",
+            "rating": "8.05",
             "imdb_id": "tt15483602"
         },
         {
@@ -127,7 +157,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt27524116_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.56",
+            "rating": "7.58",
             "imdb_id": "tt27524116"
         },
         {
@@ -137,7 +167,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691408_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.27",
+            "rating": "7.22",
             "imdb_id": "tt43691408"
         },
         {
@@ -157,7 +187,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt7441658_Ep_170.jpg",
             "description": "Nuovo episodio: Ep 170",
             "posterShape": "poster",
-            "rating": "7.76",
+            "rating": "7.77",
             "imdb_id": "tt7441658"
         },
         {
@@ -187,7 +217,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt45831796_Ep_7.jpg",
             "description": "Nuovo episodio: Ep 7",
             "posterShape": "poster",
-            "rating": "6.40",
+            "rating": "6.39",
             "imdb_id": "tt45831796"
         },
         {
@@ -207,7 +237,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650323_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "6.77",
+            "rating": "6.78",
             "imdb_id": "tt43650323"
         },
         {
@@ -287,7 +317,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41296544_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.60",
+            "rating": "7.58",
             "imdb_id": "tt41296544"
         },
         {
@@ -317,68 +347,8 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43650300_Ep_8.jpg",
             "description": "Nuovo episodio: Ep 8",
             "posterShape": "poster",
-            "rating": "7.86",
+            "rating": "7.87",
             "imdb_id": "tt43650300"
-        },
-        {
-            "id": "tt39047437",
-            "type": "series",
-            "name": "Meitantei Precure!",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39047437_Ep_42.jpg",
-            "description": "Nuovo episodio: Ep 42",
-            "posterShape": "poster",
-            "rating": "6.86",
-            "imdb_id": "tt39047437"
-        },
-        {
-            "id": "tt39395275",
-            "type": "series",
-            "name": "Dragon Ball Super: Beerus",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39395275_Ep_7.jpg",
-            "description": "Nuovo episodio: Ep 7",
-            "posterShape": "poster",
-            "rating": "8.04",
-            "imdb_id": "tt39395275"
-        },
-        {
-            "id": "tt43691353",
-            "type": "series",
-            "name": "Tempal: Item no Chikara (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691353_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "7.96",
-            "imdb_id": "tt43691353"
-        },
-        {
-            "id": "tt43691315",
-            "type": "series",
-            "name": "Kanata kara",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43691315_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "6.09",
-            "imdb_id": "tt43691315"
-        },
-        {
-            "id": "tt35995459",
-            "type": "series",
-            "name": "Hotel Inhumans 2",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt35995459_Ep_8.jpg",
-            "description": "Nuovo episodio: Ep 8",
-            "posterShape": "poster",
-            "rating": "6.03",
-            "imdb_id": "tt35995459"
-        },
-        {
-            "id": "tt31975847",
-            "type": "series",
-            "name": "Tensei Kizoku, Kantei Skill de Nariagaru 3",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt31975847_Ep_9.jpg",
-            "description": "Nuovo episodio: Ep 9",
-            "posterShape": "poster",
-            "rating": "7.68",
-            "imdb_id": "tt31975847"
         }
     ]
 }
