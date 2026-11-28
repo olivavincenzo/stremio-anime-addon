@@ -1,13 +1,23 @@
 {
     "metas": [
         {
+            "id": "tt41153966",
+            "type": "series",
+            "name": "Shuiro no Kamen",
+            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41153966_Ep_8.jpg",
+            "description": "Nuovo episodio: Ep 8",
+            "posterShape": "poster",
+            "rating": "7.38",
+            "imdb_id": "tt41153966"
+        },
+        {
             "id": "tt45373165",
             "type": "series",
             "name": "Keroro Gunsou☆",
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt45373165_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "6.26",
+            "rating": "6.35",
             "imdb_id": "tt45373165"
         },
         {
@@ -87,7 +97,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0313042_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.49",
+            "rating": "6.52",
             "imdb_id": "tt0313042"
         },
         {
@@ -97,7 +107,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt41054228_Ep_5.jpg",
             "description": "Nuovo episodio: Ep 5",
             "posterShape": "poster",
-            "rating": "6.45",
+            "rating": "6.40",
             "imdb_id": "tt41054228"
         },
         {
@@ -107,7 +117,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt0388629_Ep_952.jpg",
             "description": "Nuovo episodio: Ep 952",
             "posterShape": "poster",
-            "rating": "7.97",
+            "rating": "7.96",
             "imdb_id": "tt0388629"
         },
         {
@@ -117,7 +127,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt2359704_Ep_11.jpg",
             "description": "Nuovo episodio: Ep 11",
             "posterShape": "poster",
-            "rating": "8.28",
+            "rating": "8.29",
             "imdb_id": "tt2359704"
         },
         {
@@ -127,7 +137,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt43613803_Ep_12.jpg",
             "description": "Nuovo episodio: Ep 12",
             "posterShape": "poster",
-            "rating": "7.48",
+            "rating": "7.57",
             "imdb_id": "tt43613803"
         },
         {
@@ -137,7 +147,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt36986811_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "5.51",
+            "rating": "5.47",
             "imdb_id": "tt36986811"
         },
         {
@@ -157,7 +167,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt33334216_Ep_22.jpg",
             "description": "Nuovo episodio: Ep 22",
             "posterShape": "poster",
-            "rating": "7.19",
+            "rating": "7.18",
             "imdb_id": "tt33334216"
         },
         {
@@ -167,7 +177,7 @@
             "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt39123061_Ep_9.jpg",
             "description": "Nuovo episodio: Ep 9",
             "posterShape": "poster",
-            "rating": "8.52",
+            "rating": "8.49",
             "imdb_id": "tt39123061"
         },
         {
@@ -279,16 +289,6 @@
             "posterShape": "poster",
             "rating": "7.22",
             "imdb_id": "tt43691408"
-        },
-        {
-            "id": "tt28197251",
-            "type": "series",
-            "name": "Chao Neng Lifang: Chaofan Pian (ITA)",
-            "poster": "https://raw.githubusercontent.com/olivavincenzo/stremio-anime-addon/refs/heads/main/catalog/images/tt28197251_Ep_5.jpg",
-            "description": "Nuovo episodio: Ep 5",
-            "posterShape": "poster",
-            "rating": "7.15",
-            "imdb_id": "tt28197251"
         }
     ]
 }
